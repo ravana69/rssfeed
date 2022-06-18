@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T02:32:08.519Z</id>
+    <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-18T02:32:08.519Z</updated>
+    <updated>2022-06-18T02:34:05.178Z</updated>
     <generator>osmosfeed 1.14.4</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
+    <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[JavaScript Get Current Date – Today's Date in JS]]></title>
         <id>https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/</id>
@@ -23,17 +24,6 @@
         <summary type="html"><![CDATA[What are Unicodes? Unicodes are universal characters that represent different things. These could be symbols, characters, scripts, and many more forms of character combinations. Unicodes are adopted by many platforms (mobile and web) to make characters available everywhere. Why are Unicodes useful? Unicodes are useful because they provide a standard]]></summary>
         <author>
             <name>Dillion Megida</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single Element Loaders: The Dots]]></title>
-        <id>https://css-tricks.com/?p=366342</id>
-        <link href="https://css-tricks.com/single-element-loaders-the-dots/"/>
-        <updated>2022-06-17T14:47:55.000Z</updated>
-        <summary type="html"><![CDATA[We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …
-Single Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
@@ -127,18 +117,6 @@ Single Element Loaders: The Dots originally published on CSS-Tricks. You should 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conditionally Styling Selected Elements in a Grid Container]]></title>
-        <id>https://css-tricks.com/?p=366252</id>
-        <link href="https://css-tricks.com/conditionally-styling-selected-elements-in-a-grid-container/"/>
-        <updated>2022-06-15T14:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Calendars, shopping carts, galleries, file explorers, and online libraries are some situations where selectable items are shown in grids (i.e. square lattices). You know, even those security checks that ask you to select all images with crosswalks or whatever.
-🧐…
-Conditionally Styling Selected Elements in a Grid Container originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Text Classification with TensorFlow]]></title>
         <id>https://www.freecodecamp.org/news/text-classification-tensorflow/</id>
         <link href="https://www.freecodecamp.org/news/text-classification-tensorflow/"/>
@@ -159,18 +137,6 @@ Conditionally Styling Selected Elements in a Grid Container originally published
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[De-Mystifying IndieWeb on a WordPress Site]]></title>
-        <id>https://css-tricks.com/?p=366388</id>
-        <link href="https://css-tricks.com/de-mystifying-indieweb-on-a-wordpress-site/"/>
-        <updated>2022-06-14T16:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Well, sheesh. I opened a little can of worms when sharing Miriam’s “Am I on the IndieWeb yet?” with a short post bemoaning my own trouble getting on the IndieWeb train. But it’s a good can of worms.
-I think …
-De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding Search To Your Site In 15 Minutes]]></title>
         <id>https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/</id>
         <link href="https://smashingmagazine.com/2022/06/adding-search-website-sitesearch360/"/>
@@ -181,17 +147,6 @@ De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useful Tools for Visualizing Databases on a Budget]]></title>
-        <id>https://css-tricks.com/?p=366260</id>
-        <link href="https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/"/>
-        <updated>2022-06-13T19:15:26.000Z</updated>
-        <summary type="html"><![CDATA[A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …
-Useful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Aisha Bukar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Apply UX Principles To Embedded Systems: Learnings From The Field]]></title>
         <id>https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/</id>
         <link href="https://smashingmagazine.com/2022/06/user-experience-principles-embedded-systems/"/>
@@ -199,17 +154,6 @@ Useful Tools for Visualizing Databases on a Budget originally published on CSS-T
         <summary type="html"><![CDATA[In this article, Eva gives an overview of what embedded systems are and how they impact our lives. She presents three main learnings gained across her quest for creating better-embedded systems to enable the world as we know it.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eva Rio)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single Element Loaders: The Spinner]]></title>
-        <id>https://css-tricks.com/?p=366266</id>
-        <link href="https://css-tricks.com/single-element-loaders-the-spinner/"/>
-        <updated>2022-06-10T14:26:06.000Z</updated>
-        <summary type="html"><![CDATA[Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …
-Single Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
@@ -233,19 +177,6 @@ Single Element Loaders: The Spinner originally published on CSS-Tricks. You shou
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Am I on the IndieWeb yet?]]></title>
-        <id>https://css-tricks.com/?p=366286</id>
-        <link href="https://css-tricks.com/am-i-on-the-indieweb-yet/"/>
-        <updated>2022-06-09T15:32:50.000Z</updated>
-        <summary type="html"><![CDATA[Can’t smash the Like button hard enough for what Miriam Suzanne has to say on the challenging technical hurdles of implementing Webmentions:
-The first round required several online services along with HTML & JS changes to my static site, just to verify my 
-…
-Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Future Of Frontend Build Tools]]></title>
         <id>https://smashingmagazine.com/2022/06/future-frontend-build-tools/</id>
         <link href="https://smashingmagazine.com/2022/06/future-frontend-build-tools/"/>
@@ -256,17 +187,6 @@ Am I on the IndieWeb yet? originally published on CSS-Tricks. You should get the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Let’s Make a QR Code Generator With a Serverless Function!]]></title>
-        <id>https://css-tricks.com/?p=366147</id>
-        <link href="https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/"/>
-        <updated>2022-06-08T14:30:53.000Z</updated>
-        <summary type="html"><![CDATA[QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …
-Let’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Simplify Your Color Palette With CSS Color-Mix()]]></title>
         <id>https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/</id>
         <link href="https://smashingmagazine.com/2022/06/simplify-color-palette-css-color-mix/"/>
@@ -274,17 +194,6 @@ Let’s Make a QR Code Generator With a Serverless Function! originally publishe
         <summary type="html"><![CDATA[CSS color-mix is an experimental function that blends two colors and can be used to simplify color palettes. You can define a color palette and theme without too much effort using CSS color-mix().]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Yuschick)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Interoperable Web Components That Even Work With React]]></title>
-        <id>https://css-tricks.com/?p=366222</id>
-        <link href="https://css-tricks.com/building-interoperable-web-components-react/"/>
-        <updated>2022-06-07T13:57:57.000Z</updated>
-        <summary type="html"><![CDATA[Those of us who’ve been web developers more than a few years have probably written code using more than one JavaScript framework. With all the choices out there — React, Svelte, Vue, Angular, Solid — it’s all but inevitable. One …
-Building Interoperable Web Components That Even Work With React originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Adam Rackis</name>
         </author>
     </entry>
     <entry>
@@ -308,20 +217,6 @@ Building Interoperable Web Components That Even Work With React originally publi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Please Give Me Some Space]]></title>
-        <id>https://css-tricks.com/?p=366202</id>
-        <link href="https://css-tricks.com/please-give-me-some-space/"/>
-        <updated>2022-06-03T14:39:11.000Z</updated>
-        <summary type="html"><![CDATA[There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.
-We could do it directly in HTML:
-<pWe go from one line...<br<brdown a couple more.</p
-But that’s …
-Please Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Measuring The Performance Of Typefaces For Users (Part 1)]]></title>
         <id>https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/</id>
         <link href="https://smashingmagazine.com/2022/06/measuring-performance-typefaces-users-part1/"/>
@@ -339,30 +234,6 @@ Please Give Me Some Space originally published on CSS-Tricks. You should get the
         <summary type="html"><![CDATA[In this tutorial, you will learn how to create a group chat app. You will build a backend app using Node.js that will make group chats, authorize chat participants, and maintain sessions for them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Zara Cooper)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Block Theme Patterns in WordPress 6.0]]></title>
-        <id>https://css-tricks.com/?p=365841</id>
-        <link href="https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/"/>
-        <updated>2022-06-01T15:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …
-How to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPAs, Shared Element Transitions, and Re-Evaluating Technology]]></title>
-        <id>https://css-tricks.com/?p=366175</id>
-        <link href="https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/"/>
-        <updated>2022-06-01T14:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):
-Hip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” 
-…
-SPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -406,17 +277,6 @@ SPAs, Shared Element Transitions, and Re-Evaluating Technology originally publis
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Just How Long Should Alt Text Be?]]></title>
-        <id>https://css-tricks.com/?p=366068</id>
-        <link href="https://css-tricks.com/just-how-long-should-alt-text-be/"/>
-        <updated>2022-05-27T14:25:39.000Z</updated>
-        <summary type="html"><![CDATA[I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …
-Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open-Source 3dicons Library: Case Study And Free Downloads]]></title>
         <id>https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/</id>
         <link href="https://smashingmagazine.com/2022/05/3dicons-open-source-library-case-study-download/"/>
@@ -427,28 +287,6 @@ Just How Long Should Alt Text Be? originally published on CSS-Tricks. You should
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beautify GitHub Profile]]></title>
-        <id>https://css-tricks.com/?p=366107</id>
-        <link href="https://css-tricks.com/beautify-github-profile/"/>
-        <updated>2022-05-26T18:13:28.000Z</updated>
-        <summary type="html"><![CDATA[It wasn’t long ago that Nick Sypteras showed us how to make custom badges for a GitHub repo. Well, Reza Shakeri put Beautify GitHub Profile together and it’s a huuuuuuge repo of different badges that pulls lots of examples …
-Beautify GitHub Profile originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D]]></title>
-        <id>https://css-tricks.com/?p=365946</id>
-        <link href="https://css-tricks.com/css-hover-effects-background-masks-3d/"/>
-        <updated>2022-05-26T14:13:01.000Z</updated>
-        <summary type="html"><![CDATA[We’ve walked through a series of posts now about interesting approaches to CSS hover effects. We started with a bunch of examples that use CSS background properties, then moved on to the text-shadow property where we technically didn’t use …
-Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Manage Accessible Design System Themes With CSS Color-Contrast()]]></title>
         <id>https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/</id>
         <link href="https://smashingmagazine.com/2022/05/accessible-design-system-themes-css-color-contrast/"/>
@@ -456,17 +294,6 @@ Cool CSS Hover Effects That Use Background Clipping, Masks, and 3D originally pu
         <summary type="html"><![CDATA[From working with design handoffs to supporting custom themes in a design system, the CSS `color-contrast()` function can become a cornerstone for developers by enforcing accessible UIs.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Daniel Yuschick)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Customizing Color Fonts on the Web]]></title>
-        <id>https://css-tricks.com/?p=366077</id>
-        <link href="https://css-tricks.com/customizing-color-fonts-on-the-web/"/>
-        <updated>2022-05-26T00:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …
-Customizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
