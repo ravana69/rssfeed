@@ -7639,6 +7639,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
+          "author": "hello@smashingmagazine.com (Catherine Houle & Ilknur Eren)",
+          "description": "In this article, Catherine Houle and Ilknur Eren share how their organization “Understood” removes barriers for people who learn and think differently by combining accessibility and usability in their processes. They also cover basic steps on how to fix common accessibility issues.",
+          "link": "https://smashingmagazine.com/2022/08/organization-improved-web-accessibility-case-study/",
+          "publishedOn": "2022-08-08T11:00:00.000Z",
+          "wordCount": 4381,
+          "title": "How Our Organization Improved Web Accessibility (Case Study)",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c0fa2259-6850-4139-8e31-43832f2d1d9e/organization-improved-web-accessibility-case-study.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/08/authentication-ux-design-guidelines/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "How to improve authentication UX, with magic links, 2FA, better password recovery and relaxed rules for secure, accessible and usable passwords.",
@@ -7870,6 +7885,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
+          "author": "Zaira Hira",
+          "description": "Software development and maintenance can get complicated sometimes. And you might find yourself comparing code or configuration changes.  When you compare them manually, you might make a mistake, and it's easy to miss minute changes. Apart from that, finding changes in large files can be exhausting.  There are",
+          "link": "https://www.freecodecamp.org/news/compare-two-files-in-linux-using-vim/",
+          "publishedOn": "2022-08-08T20:08:39.000Z",
+          "wordCount": 1681,
+          "title": "Linux `Vimdiff` Command – How to Compare Two Files in the Command Line",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/Copy-of-Cast-a-Function-in-SQL---Convert-Char-to-Int-SQL-Server-Example--3-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/setup-git-on-mac/",
+          "author": "Joel Olawanle",
+          "description": "If you're setting up Git for the first time on a MacBook, you don't have to struggle to get it done. Maybe you just got a new laptop, or you're getting into tech for the first time with a MacBook. Either way, I've got you covered. This short article will",
+          "link": "https://www.freecodecamp.org/news/setup-git-on-mac/",
+          "publishedOn": "2022-08-08T20:07:30.000Z",
+          "wordCount": 1420,
+          "title": "How to Set Up Git for the First Time on macOS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cover-template-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
+          "author": "Ijelekhai Faith Olohijere",
+          "description": "Style guides are important to help you deliver a consistent brand experience.  As a UI/UX designer, creating style guides is indispensable if you hope to create great user experiences and interfaces.  In this article, you will learn what a style guide is, the importance of a style guide,",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-style-guide-in-figma/",
+          "publishedOn": "2022-08-08T14:35:53.000Z",
+          "wordCount": 2499,
+          "title": "How to Create a Style Guide in Figma",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/style-guide.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
+          "author": "Ihechikara Vincent Abba",
+          "description": "Every programming language has certain keywords with specific, prebuilt functionalities and meanings.  Naming your variables or functions after these keywords is most likely going to raise an error. We'll discuss one of these cases in this article — the  TypeError: 'str' object is not callable error in Python.",
+          "link": "https://www.freecodecamp.org/news/typeerror-str-object-is-not-callable-how-to-fix-in-python/",
+          "publishedOn": "2022-08-08T14:21:57.000Z",
+          "wordCount": 1205,
+          "title": "Typeerror: str object is not callable – How to Fix in Python",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/brett-jordan-XWar9MbNGUY-unsplash--1-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-node-js-and-express-in-spanish-course-for-beginners/",
+          "author": "Estefania Cassingena Navone",
+          "description": "Hi! If you speak Spanish and you want to learn Node.js, and Express, you are in the right place.  In this article, you will find a brief introduction to back-end web development, Node.js, and Express. You will learn why they are very powerful tools for developing web servers and",
+          "link": "https://www.freecodecamp.org/news/learn-node-js-and-express-in-spanish-course-for-beginners/",
+          "publishedOn": "2022-08-08T04:35:40.000Z",
+          "wordCount": 2472,
+          "title": "Learn Node.js and Express in Spanish – Course for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/07/thumbnail.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/git-best-practices-commits-and-code-reviews/",
           "author": "Grant Weatherston",
