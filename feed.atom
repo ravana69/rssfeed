@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-08-11T02:01:24.131Z</updated>
+    <updated>2022-08-12T02:09:59.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVM for Windows – How to Download and Install Node Version Manager in Windows 10]]></title>
+        <id>https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/</id>
+        <link href="https://www.freecodecamp.org/news/nvm-for-windows-how-to-download-and-install-node-version-manager-in-windows-10/"/>
+        <updated>2022-08-11T16:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Different software development tools might require specific versions of Node.js and NPM (Node Package Manager). NPM is a tool for managing packages installed from the NPM registry. In addition, if you are making an NPM package, you might need to test it with different versions of Node.js. This is why]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implement Event-Driven Architecture with React and FastAPI]]></title>
+        <id>https://www.freecodecamp.org/news/implement-event-driven-architecture-with-react-and-fastapi/</id>
+        <link href="https://www.freecodecamp.org/news/implement-event-driven-architecture-with-react-and-fastapi/"/>
+        <updated>2022-08-11T14:38:33.000Z</updated>
+        <summary type="html"><![CDATA[An event driven system is a common way to setup software. In event-driven architecture, event-handlers are registered for specific events. When an event occurs, the handlers are invoked. A great way to understand this concept is to build a project. We just published a course on the freeCodeCamp.org YouTube channel]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Databases For Front-End Developers: The Rise Of Serverless Databases (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/</id>
+        <link href="https://smashingmagazine.com/2022/08/databases-frontend-developers-rise-serverless-databases/"/>
+        <updated>2022-08-11T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, the first part of “Databases for Front-end Developers” series, Atila Fassina helps you understand the concepts behind database architecture in order to use them reliably and sheds some light on serverless databases.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[... in JavaScript – the Three Dots Operator in JS]]></title>
         <id>https://www.freecodecamp.org/news/three-dots-operator-in-javascript/</id>
@@ -20798,16 +20828,6 @@ Woo Aaa Aha Aha (265MB) - https://mdisk.me/convertor/40x17/d1QTpf
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why You Should Use Flutter for Your Projects]]></title>
-        <id>https://www.freecodecamp.org/news/why-you-should-use-flutter/</id>
-        <link href="https://www.freecodecamp.org/news/why-you-should-use-flutter/"/>
-        <updated>2022-07-12T20:12:35.000Z</updated>
-        <summary type="html"><![CDATA[Flutter is a UI toolkit and SDK which you can use to build applications. Flutter is open source and you can use it to build highly performant mobile and desktop apps.  In this article, I'll explain in detail the various benefits of using Flutter so you can decide whether]]></summary>
-        <author>
-            <name>Obumuneme Nwabude</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Indian (1996) API DVD9 + DVD9Rip.x265.10Bit.DTS5.1.ESub + 1080p HD AVC ×264 - 7GB + 4.3GB + 3GB - GDRIVE]]></title>
         <id>https://www.1tamilmv.click/index.php?/forums/topic/114368-indian-1996-api-dvd9-dvd9ripx26510bitdts51esub-1080p-hd-avc-%C3%97264-7gb-43gb-3gb-gdrive/&amp;do=findComment&amp;comment=330589</id>
         <link href="https://www.1tamilmv.click/index.php?/forums/topic/114368-indian-1996-api-dvd9-dvd9ripx26510bitdts51esub-1080p-hd-avc-%C3%97264-7gb-43gb-3gb-gdrive/&amp;do=findComment&amp;comment=330589"/>
@@ -20882,16 +20902,6 @@ Woo Aaa Aha Aha (265MB) - https://mdisk.me/convertor/40x17/d1QTpf
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Scraping with Python – How to Scrape Data from Twitter using Tweepy and Snscrape]]></title>
-        <id>https://www.freecodecamp.org/news/python-web-scraping-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/python-web-scraping-tutorial/"/>
-        <updated>2022-07-12T17:58:29.000Z</updated>
-        <summary type="html"><![CDATA[If you are a data enthusiast, you'll likely agree that one of the richest sources of real-world data is social media. Sites like Twitter are full of data. You can use the data you can get from social media in a number of ways, like sentiment analysis (analyzing people's thoughts)]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ranveer vs Wild with Bear Grylls (2022) [1080p & 720p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 2.7GB - 1.2GB & 400MB] - ESub]]></title>
         <id>https://www.1tamilmv.click/index.php?/forums/topic/165457-ranveer-vs-wild-with-bear-grylls-2022-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-27gb-12gb-400mb-esub/&amp;do=findComment&amp;comment=330586</id>
         <link href="https://www.1tamilmv.click/index.php?/forums/topic/165457-ranveer-vs-wild-with-bear-grylls-2022-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-27gb-12gb-400mb-esub/&amp;do=findComment&amp;comment=330586"/>
@@ -20899,16 +20909,6 @@ Woo Aaa Aha Aha (265MB) - https://mdisk.me/convertor/40x17/d1QTpf
         <summary type="html"><![CDATA[Ranveer vs Wild with Bear Grylls (2022) (2022) HQ HDRip - 1080p - x264 - [Tamil + Telugu + Hindi + Eng] - (DD5.1 - 640Kbps) - 2.7GB - ESub :www.1TamilMV.click - Ranveer vs Wild with Bear Grylls (2022) (2022) HQ HDRip - 1080p - x264 - [Tam + Tel + Hin + Eng].mkv.torrent Ranveer vs Wild with Bear G...]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List indexOf for Python? How to Get the Index of an Item in a List with .index()]]></title>
-        <id>https://www.freecodecamp.org/news/list-indexof-for-python-how-to-get-the-index-of-an-item-in-a-list-with-index/</id>
-        <link href="https://www.freecodecamp.org/news/list-indexof-for-python-how-to-get-the-index-of-an-item-in-a-list-with-index/"/>
-        <updated>2022-07-12T17:51:33.000Z</updated>
-        <summary type="html"><![CDATA[There are various techniques that we can use to get the index of a list item in Python, such as the enumerate() function, a for loop, and the index() method.  In this article, we'll focus on how to get the index of an item in a list using the]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
         </author>
     </entry>
     <entry>
@@ -21007,16 +21007,6 @@ Woo Aaa Aha Aha (265MB) - https://mdisk.me/convertor/40x17/d1QTpf
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[With Open in Python – With Statement Syntax Example]]></title>
-        <id>https://www.freecodecamp.org/news/with-open-in-python-with-statement-syntax-example/</id>
-        <link href="https://www.freecodecamp.org/news/with-open-in-python-with-statement-syntax-example/"/>
-        <updated>2022-07-12T17:20:54.000Z</updated>
-        <summary type="html"><![CDATA[The Python programming language has various functions and statements for working with a file. The with statement and open() function are two of those statements and functions. In this article, you will learn how to use both the with statement and open()  function to work with files in Python.]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rogue (2007) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Hindi + Eng) - 2.1GB & 1GB | x264 - (Tam + Hin) - 400MB] - ESub]]></title>
         <id>https://www.1tamilmv.click/index.php?/forums/topic/165434-rogue-2007-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-21gb-1gb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=330582</id>
         <link href="https://www.1tamilmv.click/index.php?/forums/topic/165434-rogue-2007-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-21gb-1gb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=330582"/>
@@ -21110,16 +21100,6 @@ Woo Aaa Aha Aha (265MB) - https://mdisk.me/convertor/40x17/d1QTpf
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Population vs Sample – Statistics Example]]></title>
-        <id>https://www.freecodecamp.org/news/population-vs-sample-statistics-example/</id>
-        <link href="https://www.freecodecamp.org/news/population-vs-sample-statistics-example/"/>
-        <updated>2022-07-12T17:07:34.000Z</updated>
-        <summary type="html"><![CDATA[When working with data sets and conducting a statistical analysis, you need to ensure that the data set you are using is relevant, valid, and correct. The appropriate data will help you make sure that you have a correct outcome and come to an effective conclusion and solution that solves]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Doctor Strange in the Multiverse of Madness (2022) (HD + DD5.1 Original Auds) - [1080p & 720p - x264 - [Tamil + Telugu + Hindi + Malayalam + Kannada + Eng] - 23GB - 8.1GB - 3.2GB - 1.8GB & 900MB] - [x264 - (MULTI) - 700MB - 450MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.click/index.php?/forums/topic/164300-doctor-strange-in-the-multiverse-of-madness-2022-hd-dd51-original-auds-1080p-720p-x264-tamil-telugu-hindi-malayalam-kannada-eng-23gb-81gb-32gb-18gb-900mb-x264-multi-700mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=330580</id>
         <link href="https://www.1tamilmv.click/index.php?/forums/topic/164300-doctor-strange-in-the-multiverse-of-madness-2022-hd-dd51-original-auds-1080p-720p-x264-tamil-telugu-hindi-malayalam-kannada-eng-23gb-81gb-32gb-18gb-900mb-x264-multi-700mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=330580"/>
@@ -21147,16 +21127,6 @@ Woo Aaa Aha Aha (265MB) - https://mdisk.me/convertor/40x17/d1QTpf
         <summary type="html"><![CDATA["Only Telugu audio" addd all dubbed movies]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Git and GitHub – Version Control Basics for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/git-and-github-the-basics/</id>
-        <link href="https://www.freecodecamp.org/news/git-and-github-the-basics/"/>
-        <updated>2022-07-12T16:55:20.000Z</updated>
-        <summary type="html"><![CDATA[A Version Control System is a tool you use to track, make, and manage changes to your software code. It's also called source control. A version control system helps developers store every change they make to a file at different stages so they and their teammates can retrieve those changes]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
         </author>
     </entry>
     <entry>
@@ -21432,16 +21402,6 @@ Woo Aaa Aha Aha (265MB) - https://mdisk.me/convertor/40x17/d1QTpf
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 49 With Paul Boag: How Do You Ship A Billion-Dollar Idea?]]></title>
-        <id>https://smashingmagazine.com/2022/07/smashing-podcast-episode-49/</id>
-        <link href="https://smashingmagazine.com/2022/07/smashing-podcast-episode-49/"/>
-        <updated>2022-07-12T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we ask what qualities are required to introduce change in large organizations, how to convince management to do the right thing, and how to ship a billion-dollar idea. Vitaly talks to expert Paul Boag to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shamantakamani (2017) - Telugu JC TRUE WEBDL - [1080p-7GB-3.5GB-2.5GB-2GB/720p-2GB-1GB/480p-750MB/360p-600MB/240p-400MB] - AVC - [DDP 5.1(192kbps) & AAC] - Esub - [GoogleDriveLinks & DirectLinks]]]></title>
         <id>https://www.1tamilmv.click/index.php?/forums/topic/155729-shamantakamani-2017-telugu-jc-true-webdl-1080p-7gb-35gb-25gb-2gb720p-2gb-1gb480p-750mb360p-600mb240p-400mb-avc-ddp-51192kbps-aac-esub-googledrivelinks-directlinks/&amp;do=findComment&amp;comment=330569</id>
         <link href="https://www.1tamilmv.click/index.php?/forums/topic/155729-shamantakamani-2017-telugu-jc-true-webdl-1080p-7gb-35gb-25gb-2gb720p-2gb-1gb480p-750mb360p-600mb240p-400mb-avc-ddp-51192kbps-aac-esub-googledrivelinks-directlinks/&amp;do=findComment&amp;comment=330569"/>
@@ -21507,16 +21467,6 @@ Woo Aaa Aha Aha (265MB) - https://mdisk.me/convertor/40x17/d1QTpf
 	 Shilajit Season 01 Episode 02 PrimeShots Web Series]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Schedule a Job in PostgreSQL]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-schedule-a-job-in-postgresql/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-schedule-a-job-in-postgresql/"/>
-        <updated>2022-07-12T14:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Scheduling allows you to automate things so you don't have to do them in real time. In this article we will see how to schedule a job in PostgreSQL. We'll use pgAgent, a job scheduling agent for PostgreSQL. How to Install PostgreSQL and Stack Builder You can install pgAgent with]]></summary>
-        <author>
-            <name>Jagruti Tiwari</name>
         </author>
     </entry>
     <entry>
