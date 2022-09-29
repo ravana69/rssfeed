@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-09-28T02:37:07.742Z</updated>
+    <updated>2022-09-29T02:43:23.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Parameters vs Arguments in JavaScript – What's the Difference?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/"/>
+        <updated>2022-09-28T21:18:15.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is one of the most popular programming languages out there for web development. The dynamic values passed in a JavaScript function can change when the function gets called in another location in the code. The keywords we use to name these data are parameters and arguments, but some developers]]></summary>
+        <author>
+            <name>Segun Ajibola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Code a 2D Game Using JavaScript, HTML, and CSS]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/"/>
+        <updated>2022-09-28T19:29:45.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript can be a surprisingly good programming language to use for creating 2D games. Especially games you want to be playable on almost any device.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a 2D game using JavaScript, HTML, CSS,]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phone Numbers For Web Designers]]></title>
+        <id>https://smashingmagazine.com/2022/09/phone-numbers-web-designers/</id>
+        <link href="https://smashingmagazine.com/2022/09/phone-numbers-web-designers/"/>
+        <updated>2022-09-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Onno Westra)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bujji Ila Raa (2022) Telugu TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 4.5GB - 2.5GB - 1.3GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.loan/index.php?/forums/topic/169518-bujji-ila-raa-2022-telugu-true-web-dl-1080p-720p-avc-dd51-640kbps-45gb-25gb-13gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=337086</id>
@@ -16464,26 +16494,6 @@ Romeo Juliet (187MB) - https://mdisk.me/convertor/40x17/FGBLFK
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn CSS in 11 Hours]]></title>
-        <id>https://www.freecodecamp.org/news/learn-css-in-11-hours/</id>
-        <link href="https://www.freecodecamp.org/news/learn-css-in-11-hours/"/>
-        <updated>2022-08-30T13:55:08.000Z</updated>
-        <summary type="html"><![CDATA[It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Improve And Measure Your Progress Learning Web Design]]></title>
-        <id>https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/</id>
-        <link href="https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/"/>
-        <updated>2022-08-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Shane Hudson)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[60FPS] House of the Dragon S01E02 1080p 10bit HMAX WEBRip DDP5.1 H.265 - 3.5 GB]]></title>
         <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168498-60fps-house-of-the-dragon-s01e02-1080p-10bit-hmax-webrip-ddp51-h265-35-gb/&amp;do=findComment&amp;comment=335102</id>
         <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168498-60fps-house-of-the-dragon-s01e02-1080p-10bit-hmax-webrip-ddp51-h265-35-gb/&amp;do=findComment&amp;comment=335102"/>
@@ -17024,16 +17034,6 @@ Romeo Juliet (187MB) - https://mdisk.me/convertor/40x17/FGBLFK
 	- | Download LINK | -]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Attacks on SSL/TLS – and How to Protect Your System]]></title>
-        <id>https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/</id>
-        <link href="https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/"/>
-        <updated>2022-08-29T21:17:07.000Z</updated>
-        <summary type="html"><![CDATA[The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:]]></summary>
-        <author>
-            <name>Megan Kaczanowski</name>
         </author>
     </entry>
     <entry>

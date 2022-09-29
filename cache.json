@@ -7594,6 +7594,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
+          "author": "hello@smashingmagazine.com (Onno Westra)",
+          "description": "The customer journey is not limited to a website alone. Simply by combining the world of website design and telephony, far better results can be obtained for your organization. And thanks to the similarities and mutual benefits, it is an easy step to take.",
+          "link": "https://smashingmagazine.com/2022/09/phone-numbers-web-designers/",
+          "publishedOn": "2022-09-28T11:00:00.000Z",
+          "wordCount": 4828,
+          "title": "Phone Numbers For Web Designers",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/20a14bbc-76a0-49f8-828b-0718c7c1f5a8/phone-numbers-web-designers.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2022/09/data-loading-patterns-improve-frontend-performance/",
           "author": "hello@smashingmagazine.com (Agustinus Theodorus)",
           "description": "You don’t need a framework for everything, but if you use one, this article will help you use it in the most performant way.",
@@ -7922,21 +7937,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6859d441-1ee0-47f9-a3c7-73a1dbc29472/sep-22-cultivating-community-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
-          "author": "hello@smashingmagazine.com (Shane Hudson)",
-          "description": "Ever felt overwhelmed by the number of things you need to learn? Today, we look at how [Uxcel](https://uxcel.com/) eases this transition and approaches actively learning new skills to take our careers to the next level.",
-          "link": "https://smashingmagazine.com/2022/08/improve-measure-progress-learning-web-design/",
-          "publishedOn": "2022-08-30T09:00:00.000Z",
-          "wordCount": 4517,
-          "title": "How To Improve And Measure Your Progress Learning Web Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8593a84-fd4c-4a38-bb35-9211dcde51d4/improve-measure-progress-learning-web-design.jpg"
         }
       ]
     },
@@ -7945,6 +7945,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/",
+          "author": "Segun Ajibola",
+          "description": "JavaScript is one of the most popular programming languages out there for web development. The dynamic values passed in a JavaScript function can change when the function gets called in another location in the code. The keywords we use to name these data are parameters and arguments, but some developers",
+          "link": "https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/",
+          "publishedOn": "2022-09-28T21:18:15.000Z",
+          "wordCount": 1315,
+          "title": "Parameters vs Arguments in JavaScript – What's the Difference?",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/Parameters-vs-Arguments.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/",
+          "author": "Beau Carnes",
+          "description": "JavaScript can be a surprisingly good programming language to use for creating 2D games. Especially games you want to be playable on almost any device.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to code a 2D game using JavaScript, HTML, CSS,",
+          "link": "https://www.freecodecamp.org/news/how-to-code-a-2d-game-using-javascript-html-and-css/",
+          "publishedOn": "2022-09-28T19:29:45.000Z",
+          "wordCount": 871,
+          "title": "How to Code a 2D Game Using JavaScript, HTML, and CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/09/2dgamejs.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-test-in-express-and-mongoose-apps/",
           "author": "Rakesh Potnuru",
@@ -9074,26 +9094,6 @@
           "wordCount": 2648,
           "title": "How to Use GitHub Super Linter in Your Projects",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/FCC-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
-          "author": "Beau Carnes",
-          "description": "It is essential for frontend web developers to understand how to use CSS. This is what is used to style a website. We just published a comprehensive CSS course on the freeCodeCamp.org YouTube channel. In this in-depth course, you will learn about all the key features of CSS. This is",
-          "link": "https://www.freecodecamp.org/news/learn-css-in-11-hours/",
-          "publishedOn": "2022-08-30T13:55:08.000Z",
-          "wordCount": 830,
-          "title": "Learn CSS in 11 Hours",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cssdave.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
-          "author": "Megan Kaczanowski",
-          "description": "The SSL and TLS protocols are frequently attacked. And understanding past attacks can inform your knowledge as a defender and help you secure current systems. It can also help you predict the direction of future attacks. So here's a summary of some of the most famous attacks targeting these protocols:",
-          "link": "https://www.freecodecamp.org/news/attacks-on-ssl-tls-and-how-to-protect-your-system/",
-          "publishedOn": "2022-08-29T21:17:07.000Z",
-          "wordCount": 2608,
-          "title": "Common Attacks on SSL/TLS – and How to Protect Your System",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/08/cybersecurity-by-Christiaan-Colen-creative-commons-free-to-use.jpeg"
         }
       ]
     }
