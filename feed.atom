@@ -2,10 +2,418 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-10-07T02:32:41.889Z</updated>
+    <updated>2022-10-08T02:11:06.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TypeScript Generics – Use Case and Examples]]></title>
+        <id>https://www.freecodecamp.org/news/typescript-generics-use-case-example/</id>
+        <link href="https://www.freecodecamp.org/news/typescript-generics-use-case-example/"/>
+        <updated>2022-10-07T20:49:10.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn the basics of generics in TypeScript. We'll discuss how to use them and when they're useful in your code. Use Case for Generics Let's start with a simple example, where you want to print the value of an argument passed: function printData(data: number) {]]></summary>
+        <author>
+            <name>Aman Kalra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacific Rim Uprising (2018) 2160p - 4K - HDR BluRay 10Bits - HEVC [Org Hindi (AC-3 - DD5.1) + Tamil (AC-3 - DD5.1) + Telugu (AC-3 - DD5.1) + English (AAC 7.1)] - 5.2GB - ESub - ToMy1o0.mkv]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169683-pacific-rim-uprising-2018-2160p-4k-hdr-bluray-10bits-hevc-org-hindi-ac-3-dd51-tamil-ac-3-dd51-telugu-ac-3-dd51-english-aac-71-52gb-esub-tomy1o0mkv/&amp;do=findComment&amp;comment=337554</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169683-pacific-rim-uprising-2018-2160p-4k-hdr-bluray-10bits-hevc-org-hindi-ac-3-dd51-tamil-ac-3-dd51-telugu-ac-3-dd51-english-aac-71-52gb-esub-tomy1o0mkv/&amp;do=findComment&amp;comment=337554"/>
+        <updated>2022-10-07T19:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Bro Tamil Audio only 2.0 not DD 5.1....????]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacific Rim (2013) BluRay - 1080p [Tamil + Telugu + Hindi] DD5.1 (448Kbps) + [English - DTS5.1 (1509Kbps)] - H.264 - 16.9GB - ESub.mkv]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/159030-pacific-rim-2013-bluray-1080p-tamil-telugu-hindi-dd51-448kbps-english-dts51-1509kbps-h264-169gb-esubmkv/&amp;do=findComment&amp;comment=337553</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/159030-pacific-rim-2013-bluray-1080p-tamil-telugu-hindi-dd51-448kbps-english-dts51-1509kbps-h264-169gb-esubmkv/&amp;do=findComment&amp;comment=337553"/>
+        <updated>2022-10-07T19:24:19.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lord of the Rings - The Rings of Power (2022) S01 EP07 TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Hindi + Kannada + Malayalam + English) - 1.5GB - 700MB - 350MB] - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169682-the-lord-of-the-rings-the-rings-of-power-2022-s01-ep07-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-kannada-malayalam-english-15gb-700mb-350mb-esub/&amp;do=findComment&amp;comment=337552</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169682-the-lord-of-the-rings-the-rings-of-power-2022-s01-ep07-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-kannada-malayalam-english-15gb-700mb-350mb-esub/&amp;do=findComment&amp;comment=337552"/>
+        <updated>2022-10-07T18:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download The Lord of the Rings - The Rings of Power S01 EP07 - 1080p - AVC - (DD+ 5.1 - 192Kbps) [Tam + Tel + Hin + Mal + Kan + Eng] - 1.5GB - ESub :www.1TamilMV.hair - The Rings of Power S01 EP07 The Eye TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps) [Tam + Tel + Hin + Mal...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WALKMAN PART 1 & PART 2 2022 + LADY FINGER PART 1 2022 | HINDI ULLU WEB SERIES 1080P | 720P | 480P HDRIP]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169151-walkman-part-1-part-2-2022-lady-finger-part-1-2022-hindi-ullu-web-series-1080p-720p-480p-hdrip/&amp;do=findComment&amp;comment=337551</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169151-walkman-part-1-part-2-2022-lady-finger-part-1-2022-hindi-ullu-web-series-1080p-720p-480p-hdrip/&amp;do=findComment&amp;comment=337551"/>
+        <updated>2022-10-07T18:47:49.000Z</updated>
+        <summary type="html"><![CDATA[😼. WALKMAN PART 2 2022 HINDI ULLU WEB SERIES 1080P HDRIP 1.2GB.MKV 😼. WALKMAN PART 2 2022 HINDI ULLU WEB SERIES 720P HDRIP 550MB.MKV 😼. WALKMAN PART 2 2022 HINDI ULLU WEB SERIES 480P HDRIP 250MB.MKV]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check if a String Contains a Substring in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-check-if-a-string-contains-a-substring-javascript/"/>
+        <updated>2022-10-07T18:00:38.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with a JavaScript program, you might need to check whether a string contains a substring. A substring is a string inside another string. Specifically, you might need to check whether a word contains a specific character or a specific set of characters. Thankfully, there are a few]]></summary>
+        <author>
+            <name>Dionysia Lemonaki</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini (2002) AHA - WEB-DL [1080p - Tamil - M4A (2.0)] - x264 - 3.5GB - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/155056-gemini-2002-aha-web-dl-1080p-tamil-m4a-20-x264-35gb-esub/&amp;do=findComment&amp;comment=337550</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/155056-gemini-2002-aha-web-dl-1080p-tamil-m4a-20-x264-35gb-esub/&amp;do=findComment&amp;comment=337550"/>
+        <updated>2022-10-07T17:55:24.000Z</updated>
+        <summary type="html"><![CDATA[File Not working time waste]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does Recursion Work? Simplified in JavaScript with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/recursion-in-javascript-simplified/</id>
+        <link href="https://www.freecodecamp.org/news/recursion-in-javascript-simplified/"/>
+        <updated>2022-10-07T17:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Recursion works similarly to how loops do in JavaScript. Loops allow you to execute a set of code multiple times as long as a condition is true. In this article, I will explain what Recursion is and how it works in JavaScript. In loops, when the condition becomes false, the]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rorschach (2022) Malayalam Proper HQ PreDVD - [1080p & 720p - x264 - 2.5GB & 1.3GB| x264 - 700MB & 400MB] - HQ Clean Audio]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169687-rorschach-2022-malayalam-proper-hq-predvd-1080p-720p-x264-25gb-13gb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=337549</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169687-rorschach-2022-malayalam-proper-hq-predvd-1080p-720p-x264-25gb-13gb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=337549"/>
+        <updated>2022-10-07T16:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Tnx Plz seed bro]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye (2022) Hindi Proper HQ PreDVD - [1080p & 720p - x264 - 3GB & 1.6GB | x264 - 700MB & 400MB] - HQ Clean Audio]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169688-goodbye-2022-hindi-proper-hq-predvd-1080p-720p-x264-3gb-16gb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=337547</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169688-goodbye-2022-hindi-proper-hq-predvd-1080p-720p-x264-3gb-16gb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=337547"/>
+        <updated>2022-10-07T14:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Goodbye (2022) Hindi HQ PreDVD - 1080p - x264 - HQ Clean Audio - 3GB : www.1TamilMV.hair - Goodbye (2022) Hindi PreDVD - 1080p - x264 - HQ Clean Aud - 3GB.mkv.torrent  Goodbye (2022) Hindi HQ PreDVD - 720p - x264 - HQ Clean Audio - 1.3GB : www.1TamilMV.hair - Goodbye (2022) Hindi PreDVD - 720p - x264 - HQ Clean Aud - 1.3GB.mkv.torrent  Goodbye (2022) Hindi HQ PreDVD - x264 - HQ Clean Audio - MP3 - 700MB : www.1TamilMV.hair - Goodbye (2022) Hindi PreDVD - 700MB - x264 - HQ Clean Aud.mkv.torrent  Goodbye (2022) Hindi HQ PreDVD - x264 - HQ Clean Audio - MP3 - 400MB  : www.1TamilMV.hair - Goodbye (2022) Hindi PreDVD - 400MB - x264 - HQ Clean Aud.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rorschach (2022) Malayalam Proper HQ PreDVD - [1080p & 720p - x264 - 2.5GB & 1.3GB| x264 - 700MB & 400MB] - HQ Clean Audio]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169687-rorschach-2022-malayalam-proper-hq-predvd-1080p-720p-x264-25gb-13gb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=337546</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169687-rorschach-2022-malayalam-proper-hq-predvd-1080p-720p-x264-25gb-13gb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=337546"/>
+        <updated>2022-10-07T14:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Rorschach (2022) Malayalam Proper HQ PreDVD - 1080p - x264 - HQ Clean Audio - MP3 - 2.5GB : www.1TamilMV.hair - Rorschach (2022) Malayalam Proper HQ PreDVD - 1080p - x264 - HQ Clean Aud - 2.6GB.mkv.torrent   Rorschach (2022) Malayalam Proper HQ PreDVD - 720p - x264 - HQ Clean Audio - MP3 - 1.3GB : www.1TamilMV.hair - Rorschach (2022) Malayalam Proper HQ PreDVD - 720p - x264 - HQ Clean Aud - 1.3GB.mkv.torrent   Rorschach (2022) Malayalam Proper HQ PreDVD - 700MB - x264 - HQ Clean Audio - MP3 : www.1TamilMV.hair - Rorschach (2022) Malayalam Proper HQ PreDVD - 700MB - x264 - HQ Clean Aud.mkv.torrent   Rorschach (2022) Malayalam Proper HQ PreDVD - 400MB - x264 - HQ Clean Audio - MP3 : www.1TamilMV.hair - Rorschach (2022) Malayalam Proper HQ PreDVD - 400MB - x264 - HQ Clean Aud.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alluri (2022) Telugu TRUE WEB-DL - [4K, 1080p & 720p - AVC - 3.6GB - 2.1GB - 1.2GB] - [x264 - 700MB - 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169686-alluri-2022-telugu-true-web-dl-4k-1080p-720p-avc-36gb-21gb-12gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337545</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169686-alluri-2022-telugu-true-web-dl-4k-1080p-720p-avc-36gb-21gb-12gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337545"/>
+        <updated>2022-10-07T14:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Alluri (2022) Telugu TRUE WEB-DL - 4K HQ SDR - HEVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 3.6GB - ESub : www.1TamilMV.hair - Alluri (2022) Telugu - 4K HQ SDR - HEVC - (DD+ 5.1 - 384Kbps & AAC) - 5.7GB - ESub.mkv.torrent   Alluri (2022) Telugu TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DD+ 5.1 - 384Kbps & AAC 2.0) - 3.2GB - ESub : www.1TamilMV.hair - Alluri (2022) Telugu - 1080p HQ - AVC - (DD+ 5.1 - 384Kbps & AAC) - 3.2GB - ESub.mkv.torrent   Alluri (2022) Telugu TRUE WEB-DL - 1080p HQ - HEVC - x265 - (DD+ 5.1 - 192Kbps & AAC 2.0) - 1.5GB - ESub : www.1TamilMV.hair - Alluri (2022) Telugu - 1080p - HEVC - (DD+ 5.1 - 192Kbps & AAC) - 1.6GB - ESub.mkv.torrent   Alluri (2022) Telugu TRUE WEB-DL - 720p HQ - AVC - UNTOUCHED - (DD+ 5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub : www.1TamilMV.hair - Alluri (2022) Telugu - 720p - AVC - (DD+ 5.1 - 192Kbps & AAC) - 1.4GB - ESub.mkv.torrent   Alluri (2022) Telugu TRUE WEB-DL - 720p HQ - HEVC - x265 - (DD+ 5.1 - 192Kbps & AAC 2.0) - 1.1GB - ESub : www.1TamilMV.hair - Alluri (2022) Telugu - 720p - HEVC - (DD+ 5.1 - 192Kbps & AAC) - 1.1GB - ESub.mkv.torrent   Alluri (2022) Telugu HQ HDRip - 700MB - x264 - AAC - ESub : www.1TamilMV.hair - Alluri (2022) Telugu HQ HDRip - 700MB - x264 - AAC - ESub .mkv.torrent   Alluri (2022) Telugu HQ HDRip - 400MB - x264 - AAC - ESub : www.1TamilMV.hair - Alluri (2022) Telugu HQ HDRip - 400MB - x264 - AAC - ESub .mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Captain (2022) Hindi (Fan Dub) - 1080p & 720p HQ HDRip - 1.2GB & 400MB]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169685-captain-2022-hindi-fan-dub-1080p-720p-hq-hdrip-12gb-400mb/&amp;do=findComment&amp;comment=337544</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169685-captain-2022-hindi-fan-dub-1080p-720p-hq-hdrip-12gb-400mb/&amp;do=findComment&amp;comment=337544"/>
+        <updated>2022-10-07T11:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Captain (2022) 720p - Hindi [Fan Dub] HDRip - x264 - AAC - 1GB : www.1TamilMV.hair - Captain (2022) 720p Hindi [Fan Dub] HDRip x264 - AAC - 1GB.mkv.torrent   Captain (2022) Hindi [Fan Dub] HDRip - x264 - AAC - 700MB : www.1TamilMV.hair - Captain (2022) Hindi [Fan Dub] HDRip x264 - AAC - 700MB.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIA : Comrade in America (2022) Hindi (Fan Dub) - 1080p & 720p HQ HDRip - 1.2GB & 400MB]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169684-cia-comrade-in-america-2022-hindi-fan-dub-1080p-720p-hq-hdrip-12gb-400mb/&amp;do=findComment&amp;comment=337543</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169684-cia-comrade-in-america-2022-hindi-fan-dub-1080p-720p-hq-hdrip-12gb-400mb/&amp;do=findComment&amp;comment=337543"/>
+        <updated>2022-10-07T11:46:55.000Z</updated>
+        <summary type="html"><![CDATA[CIA : Comrade in America (2022) 720p - Hindi [Fan Dub] HDRip - x264 - AAC - 1GB : www.1TamilMV.hair - CIA Comrade in America (2022) 720p Hindi [Fan Dub] HDRip - x264 - AAC - 1.2GB.mkv.torrent   CIA : Comrade in America (2022) Hindi [Fan Dub] HDRip - x264 - AAC - 700MB : www.1TamilMV.hair - CIA Comrade in America (2022) Hindi [Fan Dub] HDRip - x264 - AAC - 700MB.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacific Rim Uprising (2018) 2160p - 4K - HDR BluRay 10Bits - HEVC [Org Hindi (AC-3 - DD5.1) + Tamil (AC-3 - DD5.1) + Telugu (AC-3 - DD5.1) + English (AAC 7.1)] - 5.2GB - ESub - ToMy1o0.mkv]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169683-pacific-rim-uprising-2018-2160p-4k-hdr-bluray-10bits-hevc-org-hindi-ac-3-dd51-tamil-ac-3-dd51-telugu-ac-3-dd51-english-aac-71-52gb-esub-tomy1o0mkv/&amp;do=findComment&amp;comment=337542</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169683-pacific-rim-uprising-2018-2160p-4k-hdr-bluray-10bits-hevc-org-hindi-ac-3-dd51-tamil-ac-3-dd51-telugu-ac-3-dd51-english-aac-71-52gb-esub-tomy1o0mkv/&amp;do=findComment&amp;comment=337542"/>
+        <updated>2022-10-07T08:16:01.000Z</updated>
+        <summary type="html"><![CDATA[WE ARE NOW AVAILABLE ON TELEGRAM - JOIN OUR GROUP
+ 
+
+
+	 
+ 
+
+
+	MedIaiNfo :
+ 
+
+
+	General
+ 
+
+
+	Complete name : ToMy1o0 - Pacific Rim Uprising (2018) 2160p - 4K - HDR BluRay 10Bits - HEVC [Org Hindi (AC-3 - DD5.1) + Tamil (AC-3 - DD5.1) + Telugu (AC-3 - DD5.1) + English (AAC 7.1)] - 5.1GB - ESub.mkv
+ 
+
+
+	Format : Matroska
+ 
+
+
+	Format version : Version 4
+ 
+
+
+	File size : 5.15 GiB
+ 
+
+
+	Duration : 1 h 50 min
+ 
+
+
+	Overall bit rate : 6 660 kb/s
+ 
+
+
+	Movie name : ToMy1o0 - PACIFIC RIM 2 UPRISING (2018)
+ 
+
+
+	Writing application : mkvedit android v1.6
+ 
+
+
+	Writing library : libmkv arm64-v8a v1.6
+ 
+
+
+	Attachments : ToMy1o0.jpg
+ 
+
+
+	 
+ 
+
+
+	Video
+ 
+
+
+	ID : 1
+ 
+
+
+	Format : HEVC
+ 
+
+
+	Format/Info : High Efficiency Video Coding
+ 
+
+
+	Format profile : Main 10
+ 
+
+
+	Format level : 5
+ 
+
+
+	Format tier : Main
+ 
+
+
+	…]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Roadmap For Building A Business Chatbot]]></title>
+        <id>https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/</id>
+        <link href="https://smashingmagazine.com/2022/10/roadmap-building-business-chatbot/"/>
+        <updated>2022-10-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Owing to tremendous advancements in Machine Learning and other technologies, chatbots have increased in popularity in the past few years. This article will show you, step by step, how to build a chatbot that meets your business goals.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Devansh Bansal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Journeys: The Series S23 - WEB-DL [1080p - Tamil - Opus2.0] - H.264 - 7GB]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/154919-pok%C3%A9mon-journeys-the-series-s23-web-dl-1080p-tamil-opus20-h264-7gb/&amp;do=findComment&amp;comment=337541</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/154919-pok%C3%A9mon-journeys-the-series-s23-web-dl-1080p-tamil-opus20-h264-7gb/&amp;do=findComment&amp;comment=337541"/>
+        <updated>2022-10-07T06:55:05.000Z</updated>
+        <summary type="html"><![CDATA[https://exe.io/GOipyuQ]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon the Series XY S17E01 - WEB-DL - 1080p [Tamil + Telugu] Opus2.0 - H.264 - 180MB]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/154884-pok%C3%A9mon-the-series-xy-s17e01-web-dl-1080p-tamil-telugu-opus20-h264-180mb/&amp;do=findComment&amp;comment=337540</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/154884-pok%C3%A9mon-the-series-xy-s17e01-web-dl-1080p-tamil-telugu-opus20-h264-180mb/&amp;do=findComment&amp;comment=337540"/>
+        <updated>2022-10-07T06:51:34.000Z</updated>
+        <summary type="html"><![CDATA[https://exe.io/Oa6C7o]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[She-Hulk Attorney at Law (2022) S01EP08 - DSNP - WEB-DL - 1080p [Tamil + Telugu + Malayalam + Hindi] DDP5.1 (192Kbps) + [English - DDP5.1 Atmos] - H.264 - 1.9GB - MSub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/154992-she-hulk-attorney-at-law-2022-s01ep08-dsnp-web-dl-1080p-tamil-telugu-malayalam-hindi-ddp51-192kbps-english-ddp51-atmos-h264-19gb-msub/&amp;do=findComment&amp;comment=337539</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/154992-she-hulk-attorney-at-law-2022-s01ep08-dsnp-web-dl-1080p-tamil-telugu-malayalam-hindi-ddp51-192kbps-english-ddp51-atmos-h264-19gb-msub/&amp;do=findComment&amp;comment=337539"/>
+        <updated>2022-10-07T06:49:03.000Z</updated>
+        <summary type="html"><![CDATA[https://exe.io/cyt4]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gemini (2002) AHA - WEB-DL [1080p - Tamil - M4A (2.0)] - x264 - 3.5GB - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/155056-gemini-2002-aha-web-dl-1080p-tamil-m4a-20-x264-35gb-esub/&amp;do=findComment&amp;comment=337538</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/155056-gemini-2002-aha-web-dl-1080p-tamil-m4a-20-x264-35gb-esub/&amp;do=findComment&amp;comment=337538"/>
+        <updated>2022-10-07T06:44:47.000Z</updated>
+        <summary type="html"><![CDATA[Download now]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhool (2003) AHA - WEB-DL [1080p - Tamil - AAC2.0] - H.264 - 4GB - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/155443-dhool-2003-aha-web-dl-1080p-tamil-aac20-h264-4gb-esub/&amp;do=findComment&amp;comment=337537</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/155443-dhool-2003-aha-web-dl-1080p-tamil-aac20-h264-4gb-esub/&amp;do=findComment&amp;comment=337537"/>
+        <updated>2022-10-07T06:37:13.000Z</updated>
+        <summary type="html"><![CDATA[Download now]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js Authentication With Twilio Verify]]></title>
+        <id>https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/</id>
+        <link href="https://smashingmagazine.com/2022/10/nodejs-authentication-twilio-verify/"/>
+        <updated>2022-10-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Integrate two-factor authentication into your Express.js app by building an application that authenticates users using password-based authentication and OTPs powered by the Twilio Verify service.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alexander Godwin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanaa Kaanum Kaalangal (2022) S01 EP (95-98) Tamil - 720p HQ HDRip - x264 - AAC - 450MB - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169680-kanaa-kaanum-kaalangal-2022-s01-ep-95-98-tamil-720p-hq-hdrip-x264-aac-450mb-esub/&amp;do=findComment&amp;comment=337536</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169680-kanaa-kaanum-kaalangal-2022-s01-ep-95-98-tamil-720p-hq-hdrip-x264-aac-450mb-esub/&amp;do=findComment&amp;comment=337536"/>
+        <updated>2022-10-07T05:32:39.000Z</updated>
+        <summary type="html"><![CDATA[www.1TamilMV.hair - Kanaa Kaanum Kaalangal (2022) S01 EP (95-98) Tamil - 720p HQ HDRip - x264 - AAC - 450MB - ESub.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11th Hour (2022) S01 EP (01-08) Tamil WEB-DL - [4K - 1080p & 720p - x264 - 3.5GB - 1.6B & 650MB] - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169679-11th-hour-2022-s01-ep-01-08-tamil-web-dl-4k-1080p-720p-x264-35gb-16b-650mb-esub/&amp;do=findComment&amp;comment=337535</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169679-11th-hour-2022-s01-ep-01-08-tamil-web-dl-4k-1080p-720p-x264-35gb-16b-650mb-esub/&amp;do=findComment&amp;comment=337535"/>
+        <updated>2022-10-07T05:11:46.000Z</updated>
+        <summary type="html"><![CDATA[🤩]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dongalunnaru Jagratha (2022) TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) (Tamil + Telugu + Malayalam) - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169676-dongalunnaru-jagratha-2022-true-web-dl-1080p-720p-avc-dd51-640kbps-tamil-telugu-malayalam-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337534</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169676-dongalunnaru-jagratha-2022-true-web-dl-1080p-720p-avc-dd51-640kbps-tamil-telugu-malayalam-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337534"/>
+        <updated>2022-10-07T05:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download Dongalunnaru Jagratha (2022) TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DD+5.1 - 640Kbps) [Tamil + Telugu + Malayalam] - 2.8GB - ESub :www.1TamilMV.hair - Dongalunnaru Jagratha (2022) TRUE WEB-DL - 1080p HQ - AVC - (DD+5.1 - 640Kbps) [Tam + Tel + Mal] - 2.8GB - MS...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lord of the Rings - The Rings of Power (2022) S01 EP07 TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Hindi + Kannada + Malayalam + English) - 1.5GB - 700MB - 350MB] - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169682-the-lord-of-the-rings-the-rings-of-power-2022-s01-ep07-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-kannada-malayalam-english-15gb-700mb-350mb-esub/&amp;do=findComment&amp;comment=337533</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169682-the-lord-of-the-rings-the-rings-of-power-2022-s01-ep07-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-kannada-malayalam-english-15gb-700mb-350mb-esub/&amp;do=findComment&amp;comment=337533"/>
+        <updated>2022-10-07T05:01:47.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download   The Lord of the Rings - The Rings of Power S01 EP07 - 1080p - AVC - (DD+ 5.1 - 192Kbps) [Tam + Tel + Hin + Mal + Kan + Eng] - 1.5GB - ESub : www.1TamilMV.hair - The Rings of Power S01 EP07 The Eye TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps) [Tam + Tel + Hin + Mal + Kan + Eng].mkv.torrent   The Lord of the Rings - The Rings of Power S01 EP07 - 720p - AVC - (AAC 2.0) [Tam + Tel + Hin + Mal + Kan + Eng] - 700MB - ESub : www.1TamilMV.hair - The Rings of Power S01 EP07 The Eye TRUE WEB-DL - 720p - AVC - (AAC 2.0) [Tam + Tel + Hin + Mal + Kan + Eng].mkv.torrent   The Lord of the Rings - The Rings of Power S01 EP07 - 480p - AVC - (AAC 2.0) [Tam + Tel + Hin + Mal + Kan + Eng] - 350MB - ESub : www.1TamilMV.hair - The Rings of Power S01 EP07 The Eye TRUE WEB-DL - 480p - AVC - (AAC 2.0) [Tam + Tel + Hin + Mal + Kan + Eng].mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Lord of the Rings: The Rings of Power S01E07 AMZN WEB-DL Multi DDP5.1 Atmos Esubs - 2160p [HDR] | 1080p | 720p - 11.3 GB | 5.6 GB | 2.6 GB]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169681-the-lord-of-the-rings-the-rings-of-power-s01e07-amzn-web-dl-multi-ddp51-atmos-esubs-2160p-hdr-1080p-720p-113-gb-56-gb-26-gb/&amp;do=findComment&amp;comment=337532</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169681-the-lord-of-the-rings-the-rings-of-power-s01e07-amzn-web-dl-multi-ddp51-atmos-esubs-2160p-hdr-1080p-720p-113-gb-56-gb-26-gb/&amp;do=findComment&amp;comment=337532"/>
+        <updated>2022-10-07T04:51:24.000Z</updated>
+        <summary type="html"><![CDATA[The.Lord.of.the.Rings.the.Rings.of.Power.S01E07.The.Eye.720p.AMZN.WEB-DL.Multi.DDP5.1.Atmos.Esubs.x264.mkv [2.64 GB]  https://shrinke.me/SKeIoU
+ 
+
+
+	 
+ 
+
+
+	The.Lord.of.the.Rings.the.Rings.of.Power.S01E07.The.Eye.1080p.AMZN.WEB-DL.Multi.DDP5.1.Atmos.Esubs.x264.mkv [5.55 GB]  
+	 https://shrinke.me/zcrLXzF
+ 
+
+
+	 
+ 
+
+
+	The.Lord.of.the.Rings.the.Rings.of.Power.S01E07.The.Eye.2160p.HDR.AMZN.WEB-DL.Multi.DDP5.1.Atmos.Esubs.x265.HEVC.mkv [11.33 GB]
+ 
+
+
+	https://shrinke.me/7rZHe9]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPYDER [2017] (TAM+TEL) [Complete Music Video Album] - 1080p - NETFLIX - UNTOUCHED - AVC - DUAL DD+ 5.1 - Esubs 〰️ [avatar]]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169666-spyder-2017-tamtel-complete-music-video-album-1080p-netflix-untouched-avc-dual-dd-51-esubs-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=337531</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169666-spyder-2017-tamtel-complete-music-video-album-1080p-netflix-untouched-avc-dual-dd-51-esubs-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=337531"/>
+        <updated>2022-10-07T04:26:38.000Z</updated>
+        <summary type="html"><![CDATA[👇👇👇 📸 SCREENSHOTS✨ ENJOY THE ORIGINAL |)(|+ 5.1CH SURROUND. SPYDER [2017] (TAM+TEL) [Complete Music Video Album] - 1080p - NETFLIX - UNTOUCHED - AVC - DUAL DD+ 5.1 - Esubs 〰️ [avatar] avatar〰️🥇 01 - BOOM BOOM - 1080P - [TE+TA~DDP5.1] - 210mb 02 - ACHCHAM - 1080P - [TE+TA~DDP5.1] - 124mb 03 - CICI...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11th Hour (2022) S01 EP (01-08) Tamil WEB-DL - [4K - 1080p & 720p - x264 - 3.5GB - 1.6B & 650MB] - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169679-11th-hour-2022-s01-ep-01-08-tamil-web-dl-4k-1080p-720p-x264-35gb-16b-650mb-esub/&amp;do=findComment&amp;comment=337530</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169679-11th-hour-2022-s01-ep-01-08-tamil-web-dl-4k-1080p-720p-x264-35gb-16b-650mb-esub/&amp;do=findComment&amp;comment=337530"/>
+        <updated>2022-10-07T03:11:58.000Z</updated>
+        <summary type="html"><![CDATA[Upload "Thiruttu Raja" movie. its telecast yesterday eve in Zeethirai bro]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11th Hour (2022) S01 EP (01-08) Tamil WEB-DL - [4K - 1080p & 720p - x264 - 3.5GB - 1.6B & 650MB] - ESub]]></title>
+        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169679-11th-hour-2022-s01-ep-01-08-tamil-web-dl-4k-1080p-720p-x264-35gb-16b-650mb-esub/&amp;do=findComment&amp;comment=337529</id>
+        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169679-11th-hour-2022-s01-ep-01-08-tamil-web-dl-4k-1080p-720p-x264-35gb-16b-650mb-esub/&amp;do=findComment&amp;comment=337529"/>
+        <updated>2022-10-07T03:10:48.000Z</updated>
+        <summary type="html"><![CDATA[upload "Criminal Justice Aadhyra Sach" tamil dubbed series bro. source Hotstar bro]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dongalunnaru Jagratha (2022) TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) (Tamil + Telugu + Malayalam) - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
         <id>https://www.1tamilmv.hair/index.php?/forums/topic/169676-dongalunnaru-jagratha-2022-true-web-dl-1080p-720p-avc-dd51-640kbps-tamil-telugu-malayalam-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337528</id>
@@ -12874,1064 +13282,6 @@
         <summary type="html"><![CDATA[Spreadsheets aren't merely for arranging data into rows and columns. Most of the time, you use them for data analysis as well.  Microsoft Excel is one of the most widely used spreadsheet applications, especially in finance and accounting. This is partly because of its easy UI and unmatched depth]]></summary>
         <author>
             <name>Benny Ifeanyi Iheagwara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UX Checklists For Interface Designers]]></title>
-        <id>https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/</id>
-        <link href="https://smashingmagazine.com/2022/09/ux-checklists-for-interface-designers/"/>
-        <updated>2022-09-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[UX checklists with best design practices, accessibility guidelines, design system checklist, tables UX checklist, UX research methods, form design UX and flowcharts.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indian Predator: The Diary of a Serial Killer (2022) S02 EP(01-03) (HD + Original Audios) - [ 720p - x264 - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam + Kannada + Eng] -550MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168939-indian-predator-the-diary-of-a-serial-killer-2022-s02-ep01-03-hd-original-audios-720p-x264-dd51-192kbps-tamil-telugu-hindi-malayalam-kannada-eng-550mb-esub/&amp;do=findComment&amp;comment=335811</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168939-indian-predator-the-diary-of-a-serial-killer-2022-s02-ep01-03-hd-original-audios-720p-x264-dd51-192kbps-tamil-telugu-hindi-malayalam-kannada-eng-550mb-esub/&amp;do=findComment&amp;comment=335811"/>
-        <updated>2022-09-08T02:32:01.000Z</updated>
-        <summary type="html"><![CDATA[Indian Predator: The Diary of a Serial Killer (2022) S02 EP(01-03) (HD + Original Audios) - [ 720p - x264 - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam + Kannada + Eng] -550MB] - ESub
- 
-
-
-	 
- 
-
-
-	Download Link 👇
- 
-
-
-	https://rocklinks.net/fhgqo]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indian Predator: The Butcher of Delhi (2022) S01 EP(01-03) (HD + Original Audios) - [720p - x264 - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam + Kannada + Eng] - 600MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168938-indian-predator-the-butcher-of-delhi-2022-s01-ep01-03-hd-original-audios-720p-x264-dd51-192kbps-tamil-telugu-hindi-malayalam-kannada-eng-600mb-esub/&amp;do=findComment&amp;comment=335810</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168938-indian-predator-the-butcher-of-delhi-2022-s01-ep01-03-hd-original-audios-720p-x264-dd51-192kbps-tamil-telugu-hindi-malayalam-kannada-eng-600mb-esub/&amp;do=findComment&amp;comment=335810"/>
-        <updated>2022-09-08T02:31:31.000Z</updated>
-        <summary type="html"><![CDATA[Indian Predator: The Butcher of Delhi (2022) S01 EP(01-03) (HD + Original Audios) - [720p - x264 - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam + Kannada + Eng] - 600MB] - ESub
- 
-
-
-	 
- 
-
-
-	Download Link 👇
- 
-
-
-	https://rocklinks.net/fhgqo]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24 (2016) Tamil 720p & 1080p Bluray 10bit HEVC x265 DDP5.1_HxA]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168937-24-2016-tamil-720p-1080p-bluray-10bit-hevc-x265-ddp51_hxa/&amp;do=findComment&amp;comment=335809</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168937-24-2016-tamil-720p-1080p-bluray-10bit-hevc-x265-ddp51_hxa/&amp;do=findComment&amp;comment=335809"/>
-        <updated>2022-09-08T02:18:55.000Z</updated>
-        <summary type="html"><![CDATA[24 (2016) Tamil 720p & 1080p Bluray 10bit HEVC x265 DDP5.1_HxA
- 
-
-
-	 
- 
-
-
-	Download Link 👇
- 
-
-
-	https://rocklinks.net/KtCGmpD]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nna Than Case Kodu (2022) 720p DSNP WEB-DL x265 (DD+ 5.1 - 192Kbps & AAC 2.0) [Telugu + Tamil + Malayalam] ESubs]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168936-nna-than-case-kodu-2022-720p-dsnp-web-dl-x265-dd-51-192kbps-aac-20-telugu-tamil-malayalam-esubs/&amp;do=findComment&amp;comment=335808</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168936-nna-than-case-kodu-2022-720p-dsnp-web-dl-x265-dd-51-192kbps-aac-20-telugu-tamil-malayalam-esubs/&amp;do=findComment&amp;comment=335808"/>
-        <updated>2022-09-08T02:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Nna Than Case Kodu (2022) 720p DSNP WEB-DL x265 (DD+ 5.1 - 192Kbps & AAC 2.0) [Telugu + Tamil + Malayalam] ESubs.mkv
- 
-
-
-	 
- 
-
-
-	Download Link 👇
- 
-
-
-	https://rocklinks.net/WijUQ]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nna Thaan Case Kodu (2022) TRUE WEB-DL - [4K, 1080p & 720p - AVC - (Tamil + Telugu + Malayalam) - 20GB - 3.6GB - 2.2GB - 1.6GB & 1GB] - [x264 - 750MB & 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168928-nna-thaan-case-kodu-2022-true-web-dl-4k-1080p-720p-avc-tamil-telugu-malayalam-20gb-36gb-22gb-16gb-1gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=335807</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168928-nna-thaan-case-kodu-2022-true-web-dl-4k-1080p-720p-avc-tamil-telugu-malayalam-20gb-36gb-22gb-16gb-1gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=335807"/>
-        <updated>2022-09-08T01:53:42.000Z</updated>
-        <summary type="html"><![CDATA[pls uplod Puthu Arambam movie. source vijay super bro]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prepare for React Interviews – Front-End Technical Interview Guide]]></title>
-        <id>https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-react-technical-interviews/"/>
-        <updated>2022-09-08T00:29:16.000Z</updated>
-        <summary type="html"><![CDATA[A front-end technical interview is an opportunity for a potential employer to assess your skills and knowledge in web development. The interviewer will ask you questions about your experience and skills in HTML, CSS, and JavaScript. They'll also likely ask you some framework specific questions about React, Angular, Vue, or]]></summary>
-        <author>
-            <name>Manu Arora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anniyan (2005) - Tamil - HIT Musics - HM-CD-059 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Harris Jeyaraj Musical]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168935-anniyan-2005-tamil-hit-musics-hm-cd-059-true-mp3-441khz-16bit-320kbps-harris-jeyaraj-musical/&amp;do=findComment&amp;comment=335806</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168935-anniyan-2005-tamil-hit-musics-hm-cd-059-true-mp3-441khz-16bit-320kbps-harris-jeyaraj-musical/&amp;do=findComment&amp;comment=335806"/>
-        <updated>2022-09-07T19:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Anniyan (2005) - Tamil - HIT Musics - HM-CD-059 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Harris Jeyaraj Musical
- 
-
-
-	
- 
-
-
-	- | Album INFO | -
- 
-
-
-	Album - Anniyan 
-	Cast - Vikram, Sadha 
-	Music - Harris Jeyaraj 
-	Year - 2005 
-	Copyright - © 2005 HIT Musics 
-	Language - Tamil 
-	Source - Audio CD 
-	Encoder Used - MP3 - 320Kbps - 44.1kHz - 16BIT 
-	Ripper - Music Trickster @ TamilMV 
-	Tracks - 6 
-	Ripper Notes : Untouched Crystal Clear Quality Audio's // Premium Rips // Enjoy!
- 
-
-
-	- | Track LIST | -
- 
-
-
-	01 - Kumari - Shankar Mahadevan & Harini 
-	02 - Kaadhal Yaanai - Nakul, Melwyn & G. V. Prakash Kumar 
-	03 - Kannum Kannum Nokia - Lesle Lewis, Andrea Jeremiah & Vasundra Das 
-	04 - Stranger In Black (Theme) - Sunitha Sarathy & Chennai Chorale 
-	05 - Iyengaaru Veetu Azhage - Hariharan & Harini 
-	06 - Andangkaka - Jassie Gift, K. K., Shreya Ghoshal & Saindhavi
- 
-
-
-	- | SPEK | -
- 
-
-
-	
- 
-
-
-	- | Download LINK | -]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eiyarkai (2003) - Tamil - HIT Musics - HMCD-036 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Vidyasagar Musical]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168934-eiyarkai-2003-tamil-hit-musics-hmcd-036-true-mp3-441khz-16bit-320kbps-vidyasagar-musical/&amp;do=findComment&amp;comment=335805</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168934-eiyarkai-2003-tamil-hit-musics-hmcd-036-true-mp3-441khz-16bit-320kbps-vidyasagar-musical/&amp;do=findComment&amp;comment=335805"/>
-        <updated>2022-09-07T19:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Eiyarkai (2003) - Tamil - HIT Musics - HMCD-036 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Vidyasagar Musical
- 
-
-
-	
- 
-
-
-	- | Album INFO | -
- 
-
-
-	Album - Eiyarkai 
-	Cast - Shaam, Radhika 
-	Music - Vidyasagar 
-	Year - 2003 
-	Copyright - © 2003 HIT Musics 
-	Language - Tamil 
-	Source - Audio CD 
-	Encoder Used - MP3 - 320Kbps - 44.1kHz - 16BIT 
-	Ripper - Music Trickster @ TamilMV 
-	Tracks - 5 
-	Ripper Notes : Untouched Crystal Clear Quality Audio's // Premium Rips // Enjoy!
- 
-
-
-	- | Track LIST | -
- 
-
-
-	01 - Eiyarkkai Thaaye - Karthik & Srivarthini 
-	02 - Kaadhal Vandhal - Tippu & Manikka Vinayagam 
-	03 - Pazhaya Kural - Sujatha 
-	04 - Alaiye Alaiye - Shankar Mahadevan 
-	05 - Seetukkattu - Karthik & Manikka Vinayagam
- 
-
-
-	- | SPEK | -
- 
-
-
-	
- 
-
-
-	- | Download LINK | -]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baba (2002) - Tamil - Alai Osai - ALCD 1806 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - A.R. Rahman Musical]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168933-baba-2002-tamil-alai-osai-alcd-1806-true-mp3-441khz-16bit-320kbps-ar-rahman-musical/&amp;do=findComment&amp;comment=335804</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168933-baba-2002-tamil-alai-osai-alcd-1806-true-mp3-441khz-16bit-320kbps-ar-rahman-musical/&amp;do=findComment&amp;comment=335804"/>
-        <updated>2022-09-07T18:59:31.000Z</updated>
-        <summary type="html"><![CDATA[Baba (2002) - Tamil - Alai Osai - ALCD 1806 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - A.R. Rahman Musical
- 
-
-
-	
- 
-
-
-	- | Album INFO | -
- 
-
-
-	Album - Baba 
-	Cast - Rajinikanth, Manisha Koirala, Goundamani 
-	Music - A.R. Rahman 
-	Year - 2002 
-	Copyright - © 2002 Peru Trading Co. 
-	Language - Tamil 
-	Source - Audio CD 
-	Encoder Used - MP3 - 320Kbps - 44.1kHz - 16BIT 
-	Ripper - Music Trickster @ TamilMV 
-	Tracks - 7 
-	Ripper Notes : Untouched Crystal Clear Quality Audio's // Premium Rips // Enjoy!
- 
-
-
-	- | Track LIST | -
- 
-
-
-	01 - Dippu Kumari - Shankar Mahadevan 
-	02 - Baba Kichchu Thaa - S.P. Balasubrahmanyam & Reena Bharathwaj 
-	03 - Maya Maya - Karthik & Sujatha 
-	04 - Rajiyama Illai Imaiyama - Jayachandran 
-	05 - Sakthi Kodu - Karthik 
-	06 - Rajiyama Illai Imaiyama - Jayachandran 
-	07 - Theme Music - A.R. Rahman
- 
-
-
-	- | SPEK | -
- 
-
-
-	
- 
-
-
-	- | Download LINK | -]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[April Maadhathil (2002) - Tamil - The Best Audio - TBA 1051 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Yuvan Shankar Raja Musical]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168932-april-maadhathil-2002-tamil-the-best-audio-tba-1051-true-mp3-441khz-16bit-320kbps-yuvan-shankar-raja-musical/&amp;do=findComment&amp;comment=335803</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168932-april-maadhathil-2002-tamil-the-best-audio-tba-1051-true-mp3-441khz-16bit-320kbps-yuvan-shankar-raja-musical/&amp;do=findComment&amp;comment=335803"/>
-        <updated>2022-09-07T18:58:42.000Z</updated>
-        <summary type="html"><![CDATA[April Maadhathil (2002) - Tamil - The Best Audio - TBA 1051 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Yuvan Shankar Raja Musical
- 
-
-
-	
- 
-
-
-	- | Album INFO | -
- 
-
-
-	Album - April Maadhathil 
-	Cast - Srikanth, Sneha, Gayatri Jayaraman, Venkat Prabhu, Karunas 
-	Music - Yuvan Shankar Raja 
-	Year - 2002 
-	Copyright - © 2002 The Best Audio 
-	Language - Tamil 
-	Source - Audio CD 
-	Encoder Used - MP3 - 320Kbps - 44.1kHz - 16BIT 
-	Ripper - Music Trickster @ TamilMV 
-	Tracks - 6 
-	Ripper Notes : Untouched Crystal Clear Quality Audio's // Premium Rips // Enjoy!
- 
-
-
-	- | Track LIST | -
- 
-
-
-	01 - Poi Solla - Yuvan Shankar Raja 
-	02 - Yea Nenje - Harish Raghavendra & Sadhana Sargam 
-	03 - Manasae Manasae - Karthik 
-	04 - Kanavukal Pookkum - S.P. Balasubrahmanyam & Shalini 
-	05 - Azhagana Aangal - Prasanna 
-	06 - Sight Adippom - T.R. Silambarasan & Karthik
- 
-
-
-	- | SPEK | -
- 
-
-
-	
- 
-
-
-	- | Download LINK | -]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arangetra Velai (1990) - Tamil - Oriental Records - ORI AAMS CD 273 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Ilaiyaraaja Musical]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168931-arangetra-velai-1990-tamil-oriental-records-ori-aams-cd-273-true-mp3-441khz-16bit-320kbps-ilaiyaraaja-musical/&amp;do=findComment&amp;comment=335802</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168931-arangetra-velai-1990-tamil-oriental-records-ori-aams-cd-273-true-mp3-441khz-16bit-320kbps-ilaiyaraaja-musical/&amp;do=findComment&amp;comment=335802"/>
-        <updated>2022-09-07T18:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Arangetra Velai (1990) - Tamil - Oriental Records - ORI AAMS CD 273 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Ilaiyaraaja Musical
- 
-
-
-	
- 
-
-
-	- | Album INFO | -
- 
-
-
-	Album - Arangetra Velai 
-	Cast - Prabhu, Revathi 
-	Music - Ilaiyaraaja 
-	Year - 1990 
-	Copyright - © 1990 Oriental Records, Inc. 
-	Language - Tamil 
-	Source - Audio CD 
-	Encoder Used - MP3 - 320Kbps - 44.1kHz - 16BIT 
-	Ripper - Music Trickster @ TamilMV 
-	Tracks - 4 
-	Ripper Notes : Untouched Crystal Clear Quality Audio's // Premium Rips // Enjoy!
- 
-
-
-	- | Track LIST | -
- 
-
-
-	01 - Aagaya Vennilave - K.J. Yesudass & Uma Ramanan 
-	02 - Mamanukkum - Mano & Chitra 
-	03 - Gundu Onnu - Mano 
-	04 - Thayariyatha - Mano, S.P. Sailaja & Chorus
- 
-
-
-	- | SPEK | -
- 
-
-
-	
- 
-
-
-	- | Download LINK | -]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Achamillai Achamillai (1984) - Tamil - Oriental Records - ORI CD 308 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Ilaiyaraaja Musical]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168930-achamillai-achamillai-1984-tamil-oriental-records-ori-cd-308-true-mp3-441khz-16bit-320kbps-ilaiyaraaja-musical/&amp;do=findComment&amp;comment=335801</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168930-achamillai-achamillai-1984-tamil-oriental-records-ori-cd-308-true-mp3-441khz-16bit-320kbps-ilaiyaraaja-musical/&amp;do=findComment&amp;comment=335801"/>
-        <updated>2022-09-07T18:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Achamillai Achamillai (1984) - Tamil - Oriental Records - ORI CD 308 - TRUE MP3 - 44.1kHz - 16Bit - 320Kbps - Ilaiyaraaja Musical
- 
-
-
-	
- 
-
-
-	- | Album INFO | -
- 
-
-
-	Album - Achamillai Achamillai 
-	Cast - Rajesh, Saritha 
-	Music - Ilaiyaraaja 
-	Year - 1984 
-	Copyright - © 1984 Oriental Records, Inc. 
-	Language - Tamil 
-	Source - Audio CD 
-	Encoder Used - MP3 - 320Kbps - 44.1kHz - 16BIT 
-	Ripper - Music Trickster @ TamilMV 
-	Tracks - 5 
-	Ripper Notes : Untouched Crystal Clear Quality Audio's // Premium Rips // Enjoy!
- 
-
-
-	- | Track LIST | -
- 
-
-
-	01 - Aavaram Poovu - S.P.Balasubrahmanyam & P.Susheela 
-	02 - Odugira - Malaysia Vasudevan & P.Susheela 
-	03 - Pudhiru Poda - Malaysia Vasudevan & S.Janaki 
-	04 - Kaiyila Kaasu - S.P.Balasubrahmanyam & Chorus 
-	05 - Karisal Tharisu - Vani Jayaram
- 
-
-
-	- | SPEK | -
- 
-
-
-	
- 
-
-
-	- | Download LINK | -]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nna Thaan Case Kodu (2022) Malayalam TRUE WEB-DL - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 9.8GB & 3.4GB - 1.4GB & 850MB] - [x264 - 700MB & 400MB] - Soft ESub]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168929-nna-thaan-case-kodu-2022-malayalam-true-web-dl-4k-1080p-720p-avc-dd51-192kbps-98gb-34gb-14gb-850mb-x264-700mb-400mb-soft-esub/&amp;do=findComment&amp;comment=335800</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168929-nna-thaan-case-kodu-2022-malayalam-true-web-dl-4k-1080p-720p-avc-dd51-192kbps-98gb-34gb-14gb-850mb-x264-700mb-400mb-soft-esub/&amp;do=findComment&amp;comment=335800"/>
-        <updated>2022-09-07T18:48:07.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download    Nna Thaan Case Kodu (2022) Malayalam TRUE WEB-DL - 4K - 2160p - SDR - HEVC - UNTOUCHED - (DD+ 5.1 - 192Kbps & AAC 2.0) - 9.8GB - ESub : www.1TamilMV.cyou - Nna Thaan Case Kodu (2022) Malayalam TRUE WEB-DL - 4K - 2160p - SDR - HEVC - (DD+ 5.1 - 192Kbps & AAC 2.0) - 9.8GB - ESub.mkv.torrent   Nna Thaan Case Kodu (2022) Malayalam TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps & AAC 2.0) - 3.4GB - ESub :www.1TamilMV.cyou - Nna Thaan Case Kodu (2022) Malayalam TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps & AAC 2.0) - 3.4GB - ESub.mkv.torrent Nna Thaan Case Kodu (2022) Malayalam HQ HDRip - 1080p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 2GB - ESub : www.1TamilMV.cyou - Nna Thaan Case Kodu (2022) Malayalam HQ HDRip - 1080p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 2GB - ESub.mkv.torrent  Nna Thaan Case Kodu (2022) Malayalam HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub :www.1TamilMV.cyou - Nna Thaan Case Kodu (2022) Malayalam HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub.mkv.torrentNna Thaan Case Kodu (2022) Malayalam HQ HDRip - 700MB - x264 - AAC - ESub :www.1TamilMV.cyou - Nna Thaan Case Kodu (2022) Malayalam HQ HDRip - 700MB - x264 - AAC - ESub.mkv.torrentNna Thaan Case Kodu (2022) Malayalam HQ HDRip - 400MB - x264 - AAC - ESub : www.1TamilMV.cyou - Nna Thaan Case Kodu (2022) Malayalam HQ HDRip - 400MB - x264 - AAC - ESub.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samne Wali Khidki (2022) Hindi ULLU WEB Series 18+]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168892-samne-wali-khidki-2022-hindi-ullu-web-series-18/&amp;do=findComment&amp;comment=335799</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168892-samne-wali-khidki-2022-hindi-ullu-web-series-18/&amp;do=findComment&amp;comment=335799"/>
-        <updated>2022-09-07T18:37:56.000Z</updated>
-        <summary type="html"><![CDATA[😁]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nna Thaan Case Kodu (2022) TRUE WEB-DL - [4K, 1080p & 720p - AVC - (Tamil + Telugu + Malayalam) - 20GB - 3.6GB - 2.2GB - 1.6GB & 1GB] - [x264 - 750MB & 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168928-nna-thaan-case-kodu-2022-true-web-dl-4k-1080p-720p-avc-tamil-telugu-malayalam-20gb-36gb-22gb-16gb-1gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=335798</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168928-nna-thaan-case-kodu-2022-true-web-dl-4k-1080p-720p-avc-tamil-telugu-malayalam-20gb-36gb-22gb-16gb-1gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=335798"/>
-        <updated>2022-09-07T18:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download   Nna Thaan Case Kodu (2022) TRUE WEB-DL - 4K - 2160p - HDR10 - HEVC - UNTOUCHED - [Tamil + Telugu + Malayalam (DD+ 5.1 - 192Kbps)] - 20GB - ESub : www.1TamilMV.cyou - Nna Than Case Kodu (2022) TRUE WEB-DL - 4K HQ SDR - HEVC - [Tam + Tel + Mal (DD+5.1 - 192Kbps)] - 20GB - ESub.mkv.torrent  Nna Thaan Case Kodu (2022) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - [Tamil + Telugu + Malayalam (DD+ 5.1 - 192Kbps)] - 3.6GB - ESub : www.1TamilMV.cyou - Nna Than Case Kodu (2022) TRUE WEB-DL - 1080p HQ - AVC - [Tam + Tel + Mal (DD+5.1 - 192Kbps)] - 3.6GB - ESub.mkv.torrent  Nna Thaan Case Kodu (2022) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - [Tamil + Telugu + Malayalam (DD+ 5.1 - 192Kbps)] - 2.2GB - ESub : www.1TamilMV.cyou - Nna Than Case Kodu (2022) TRUE WEB-DL - 1080p - AVC - [Tam + Tel + Mal (DD+5.1 - 192Kbps)] - 2.2GB - ESub.mkv.torrent  Nna Thaan Case Kodu (2022) HQ HDRip - 720p - x264 - [Tamil + Telugu + Malayalam (DD+ 5.1 - 192Kbps)] - 1.6GB - ESub : www.1TamilMV.cyou - Nna Than Case Kodu (2022) HQ HDRip - 720p - x264 - [Tam + Tel + Mal (DD+5.1 - 192Kbps)] - 1.6GB - ESub.mkv.torrent Nna Thaan Case Kodu (2022) HQ HDRip - 720p - HEVC - x265 - [Tamil + Telugu + Malayalam (DD+ 5.1 - 192Kbps)] - 1GB - ESub :www.1TamilMV.cyou - Nna Than Case Kodu (2022) HQ HDRip - 720p - HEVC - [Tam + Tel + Mal (DD+5.1 - 192Kbps)] - 1GB - ESub.mkv.torrent Nna Thaan Case Kodu (2022) HQ HDRip - x264 - (AAC 2.0) [Tamil + Malayalam + Telugu] - 750MB - ESub : www.1TamilMV.cyou - Nna Than Case Kodu (2022) HQ HDRip - x264 - (AAC 2.0) [Tam + Tel + Mal] - 750MB - ESub.mkv.torrent Nna Thaan Case Kodu (2022) HQ HDRip - x264 - (AAC 2.0) [Tamil + Malayalam + Telugu] - 450MB - ESub : www.1TamilMV.cyou - Nna Than Case Kodu (2022) HQ HDRip - x264 - (AAC 2.0) [Tam + Tel + Mal] - 450MB - ESub.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Geolocation API Tutorial – How to Get a User's Location in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-user-location-with-javascript-geolocation-api/"/>
-        <updated>2022-09-07T18:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Some applications require you to know your user's location, like food delivery or eCommerce apps. So you'll need an efficient way to get this info. The Geolocation API, which we will look at today, is a simple solution. You can use it to determine your users' location, local currency, language,]]></summary>
-        <author>
-            <name>Israel Mitolu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is deb-get? How to Install the Debian Package with the deb-get Command]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-deb-get-debian-package-manager/"/>
-        <updated>2022-09-07T18:27:17.000Z</updated>
-        <summary type="html"><![CDATA[deb-get is a new command line utility built by Martin Wimpress [https://twitter.com/m_wimpress], an active contributor to the Linux community.  You can use this utility to install third-party packages on your Debian machine. It only works with Debian or Debian-based distros like Ubuntu, Linux mint, Kali Linux, and so on.]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Renaming a Git Branch – How to Rename the Current Branch in Git]]></title>
-        <id>https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/</id>
-        <link href="https://www.freecodecamp.org/news/renaming-a-git-branch-how-to-rename-the-current-branch-in-git/"/>
-        <updated>2022-09-07T18:22:39.000Z</updated>
-        <summary type="html"><![CDATA[If you are using Git for version control, it’s likely you’ve created branches for various reasons. Since you have those branches in place, you might want to rename any of them if you find a typo, for example, or change the code's purpose. In this article, I will show you]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove a Directory in Linux – How to Remove folders from the Command Line]]></title>
-        <id>https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/</id>
-        <link href="https://www.freecodecamp.org/news/remove-directory-in-linux-from-the-command-line/"/>
-        <updated>2022-09-07T18:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Linux is a powerful OS with various command line utilities to help you achieve your day-to-day tasks. Removing folders is a very common operation that allows you to either remove a single folder or remove them recursively (folders within folders).  In this tutorial, we will see how we can]]></summary>
-        <author>
-            <name>Zaira Hira</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Java Handbook – Learn Java Programming for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/the-java-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-java-handbook/"/>
-        <updated>2022-09-07T18:05:02.000Z</updated>
-        <summary type="html"><![CDATA[Java has been around since the 90s. And despite its massive success in many areas, this cross-platform, object-oriented programming language is often maligned. Regardless of how people feel about Java, I can tell you from experience is that it is an excellent programming language. After its first appearance back in]]></summary>
-        <author>
-            <name>Farhan Hasin Chowdhury</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thor: Love and Thunder (2022) English TRUE WEB-DL - [1080p & 720p - x264 - (DD+5.1 - 384Kbps) - 2.4GB & 1.1GB] - [x264 - English - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168916-thor-love-and-thunder-2022-english-true-web-dl-1080p-720p-x264-dd51-384kbps-24gb-11gb-x264-english-400mb-esub/&amp;do=findComment&amp;comment=335796</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168916-thor-love-and-thunder-2022-english-true-web-dl-1080p-720p-x264-dd51-384kbps-24gb-11gb-x264-english-400mb-esub/&amp;do=findComment&amp;comment=335796"/>
-        <updated>2022-09-07T17:55:58.000Z</updated>
-        <summary type="html"><![CDATA[waiting for telugu🤩]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAZHAI 2005 TAMIL MOVIE VIDEO SONGS DVD5 RIP WITH 5.1 DTS.]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168926-mazhai-2005-tamil-movie-video-songs-dvd5-rip-with-51-dts/&amp;do=findComment&amp;comment=335795</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168926-mazhai-2005-tamil-movie-video-songs-dvd5-rip-with-51-dts/&amp;do=findComment&amp;comment=335795"/>
-        <updated>2022-09-07T17:26:10.000Z</updated>
-        <summary type="html"><![CDATA[MAZHAI 2005 TAMIL MOVIE VIDEO SONGS DVD5 RIP WITH 5.1 DTS.
- 
-
-
-	
- 
-
-
-	 
- 
-
-
-	SCREEN SHOTS
- 
-
-
-	     
- 
-
-
-	 
- 
-
-
-	INFO
- 
-
-
-	VIDEO :   DVD5 RIP VOB
- 
-
-
-	 AUDIO :  ORIGINAL 5.1 DTS 
- 
-
-
-	 
- 
-
-
-	 Download Link 
- 
-
-
-	 
- 
-
-
-	MAZHAI- KUCHI KARUVADU DVDRIP DD5.1 TAMILMUSIXDVD.VOB
- 
-
-
-	 
- 
-
-
-	MAZHAI- MANNILE MANNILE DVDRIP DD5.1 TAMILMUSIXDVD.VOB
- 
-
-
-	 
- 
-
-
-	MUTHU MALAYE DVDRIP DD5.1 TAMILMUSIXDVD.VOB
- 
-
-
-	 
- 
-
-
-	MAZHAI- NE VARUM PODHU DVD RIP DD5.1 TAMILMUSIXDVD.VOB
- 
-
-
-	 
- 
-
-
-	MAZHAI- THAPE ELLA DVDRIP DD5.1 TAMILMUSIXDVD.VOB
- 
-
-
-	 
- 
-
-
-	MAZHAI- ISTHANBUL RAJAKUMARI DVDRIP DD5.1 TAMILMUSIXDVD.VOB
- 
-
-
-	 
- 
-
-
-	 
- 
-
-
-	 
- 
-
-
-	
- 
-
-
-	 
- 
-
-
-	TO REQUEST SONGS.WWW.TAMILMUSIXHD.BLOGSPOT.COM
- 
-
-
-	FOR MORE UPDATES : https://t.me/TAMILMUSIXHD]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harry Potter and the Order of the Phoenix 2007 BluRay [ Tamil + Telugu + Hindi + English ] HDR & SDR | 4k, 2160p, 1080p, 720p | AVC×264 & HEVCx265 | DD Org Aud | 18GB, 13GB, 7.3GB, 5GB, 3.6GB, 3GB, 1.4GB | ESub ~ Jacksparrow063]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168925-harry-potter-and-the-order-of-the-phoenix-2007-bluray-tamil-telugu-hindi-english-hdr-sdr-4k-2160p-1080p-720p-avc%C3%97264-hevcx265-dd-org-aud-18gb-13gb-73gb-5gb-36gb-3gb-14gb-esub-~-jacksparrow063/&amp;do=findComment&amp;comment=335794</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168925-harry-potter-and-the-order-of-the-phoenix-2007-bluray-tamil-telugu-hindi-english-hdr-sdr-4k-2160p-1080p-720p-avc%C3%97264-hevcx265-dd-org-aud-18gb-13gb-73gb-5gb-36gb-3gb-14gb-esub-~-jacksparrow063/&amp;do=findComment&amp;comment=335794"/>
-        <updated>2022-09-07T17:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Harry Potter and the Order of the Phoenix 2007 BluRay [ Tamil + Telugu + Hindi + English ] HDR & SDR | 4k, 2160p, 1080p, 720p | AVC×264 & HEVCx265 | DD Org Aud | 18GB, 13GB, 7.3GB, 5GB, 3.6GB, 3GB, 1.4GB | ESub ~ Jacksparrow063
- 
-
-
-	 
-
-
-	⇉ S C R E E N S H O T S ⇇
- 
-
-
-	 
-
-
-	WE ARE NOW AVAILABLE ON TELEGRAM - JOIN OUR GROUP
- 
-
-
-	EncodeR ~ Jacksparrow063
- 
-
-
-	
- 
-
-
-	
- 
-
-
-	Harry Potter and the Order of the Phoenix 2007 4K BluRay - 2160p - HDR HEVCx265 - [Tamil + Telugu DDP2.0] - [Hindi DDP5.1 + English DTS] ~ Jacksparrow063 - 18GB - ESub
- 
-
-
-	Harry Potter and the Order of the Phoenix 2007 4K BluRay - 2160p - SDR HEVCx265 - [Tamil + Telugu DDP2.0 - 224Kbps] - [Hindi + English DDP5.1 - 640Kbps] ~ Jacksparrow063 - 7.4GB - ESub
- 
-
-
-	Harry Potter and the Order of the Phoenix 2007 BluRay - 1080p - AVCx264 - [Tamil + Telugu DDP2.0] - [Hindi DDP5.1 + English DTS] ~ Jacksparrow063 - 13GB - ESub
- 
-
-
-	Harry Potter and the Order of the Phoenix 2007 BluRay - 1080p - AVCx264 - [Tamil + Telugu DDP2.0 - 224Kbps] - [Hindi + English DDP5.1 - 640Kbps] ~ Jacksparrow063 - 5GB - ESub
- 
-
-
-	Harry Potter and the Order of the Phoenix 2007 BluRay - 1080p - HEVCx265 - [Tamil + Telugu DDP2.0 - 224Kbps] - [Hindi + English DDP5.1 - 640Kbps] ~ Jacksparrow063 - 3.6GB - ESub
- 
-
-
-	Harry Potter and the Order of the Phoenix 2007 BluRay - 720p - AVCx264 - [Tamil + Telugu DDP2.0 - 224Kbps] - [Hindi + English DDP5.1 - 640Kbps] ~ Jacksparrow063 - 3GB - ESub
- 
-
-
-	Harry Potter and the Order of the Phoenix 2007 BluRay - 720p - AVCx264 - AAC 2.0 - [Tamil + Telugu + Hindi + English] ~ Jacksparrow063 - 1.4GB - ESub
- 
-
-
-	
- 
-
-
-	WE ARE NOW AVAILABLE ON TELEGRAM - JOIN OUR GROUP
- 
-
-
-	 For Updates , Please Follow 
- 
-
-
-	Support Me By Likes and Comments]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angular for Beginners Course + TypeScript [Full Front-End Tutorial]]]></title>
-        <id>https://www.freecodecamp.org/news/angular-for-beginners-course/</id>
-        <link href="https://www.freecodecamp.org/news/angular-for-beginners-course/"/>
-        <updated>2022-09-07T16:45:24.000Z</updated>
-        <summary type="html"><![CDATA[Angular is a popular TypeScript-based open-source web application framework created by Google. We just published a comprehensive 18-hour Angular course for beginners on the freeCodeCamp.org YouTube channel. In this course you will first you will learn the basics of TypeScript. Then you will learn about important Angular concepts such as]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POOMAGAL URVALA MOVIE- ANDHA VANUKKU RENDU VIDEO SONG SUN NEXT HD1080P WITH REMASTERD 5.1 DTS.]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168924-poomagal-urvala-movie-andha-vanukku-rendu-video-song-sun-next-hd1080p-with-remasterd-51-dts/&amp;do=findComment&amp;comment=335793</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168924-poomagal-urvala-movie-andha-vanukku-rendu-video-song-sun-next-hd1080p-with-remasterd-51-dts/&amp;do=findComment&amp;comment=335793"/>
-        <updated>2022-09-07T16:44:31.000Z</updated>
-        <summary type="html"><![CDATA[POOMAGAL URVALA MOVIE- ANDHA VANUKKU RENDU VIDEO SONG SUN NEXT HD1080P WITH REMASTERD 5.1 DTS.
- 
-
-
-	
- 
-
-
-	 
- 
-
-
-	SCREEN SHOTS
- 
-
-
-	     
- 
-
-
-	 
- 
-
-
-	INFO
- 
-
-
-	VIDEO :   SUN NEXT HD1080P
- 
-
-
-	 AUDIO :  REMASTERD 5.1 DTS 
- 
-
-
-	 
- 
-
-
-	 Download Link 
- 
-
-
-	 
- 
-
-
-	P.URVALAM- ANTHA VANUKKU RENDU SUN NEXT HD1080P DD5.1 TAMILMUSIXHD
- 
-
-
-	 
- 
-
-
-	 
- 
-
-
-	 
- 
-
-
-	
- 
-
-
-	 
- 
-
-
-	TO REQUEST SONGS.WWW.TAMILMUSIXHD.BLOGSPOT.COM
- 
-
-
-	FOR MORE UPDATES : https://t.me/TAMILMUSIXHD]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Survivor (2014) 1080p Blu-Ray AAC2.0 Telugu +DTS 5.1 English Msubs [G-Drive]]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168923-survivor-2014-1080p-blu-ray-aac20-telugu-dts-51-english-msubs-g-drive/&amp;do=findComment&amp;comment=335792</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168923-survivor-2014-1080p-blu-ray-aac20-telugu-dts-51-english-msubs-g-drive/&amp;do=findComment&amp;comment=335792"/>
-        <updated>2022-09-07T16:39:45.000Z</updated>
-        <summary type="html"><![CDATA[Movies info:
- 
-
-
-	Survivor (2014) 
- 
-
-
-	Quality : 1080p Blu-Ray 
- 
-
-
-	Size:7GB
- 
-
-
-	
- 
-
-
-	 
- 
-
-
-	Links
- 
-
-
-	1080p Blu-Ray 
- 
-
-
-	https://ouo.io/ks0YDb
- 
-
-
-	We Are Now on Telegram Follow us for Our latest Updates]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bigg Boss Season-6 Telugu - 2022 - Ep-4 - Sept-7-2022 - Wednesday - Day-03 - Download And Streaming Links - [MX Player & GDrive Links]]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168922-bigg-boss-season-6-telugu-2022-ep-4-sept-7-2022-wednesday-day-03-download-and-streaming-links-mx-player-gdrive-links/&amp;do=findComment&amp;comment=335791</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168922-bigg-boss-season-6-telugu-2022-ep-4-sept-7-2022-wednesday-day-03-download-and-streaming-links-mx-player-gdrive-links/&amp;do=findComment&amp;comment=335791"/>
-        <updated>2022-09-07T16:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Bigg Boss S6 - Telugu - Episode-3 - Day - 02 - Tuesday
- 
-
-
-	----- Drive Links [Available Now] ----- 
- 
-
-
-	 
- 
-
-
-	150MB : DriveLink
- 
-
-
-	500MB : DriveLink
- 
-
-
-	1.0GB : DriveLink
- 
-
-
-	 
- 
-
-
-	----- MX Player Links [Available Now] ----- 
- 
-
-
-	 
- 
-
-
-	150MB : MX-Player
- 
-
-
-	500MB : MX-Player
- 
-
-
-	1.0GB : MX-Player
- 
-
-
-	 
- 
-
-
-	 
- 
-
-
-	----- MX - VLC & Playit With Direct Download Links [Available Now] ----- 
- 
-
-
-	 
- 
-
-
-	150MB : Multi-Player
- 
-
-
-	500MB : Multi-Player
- 
-
-
-	1.0GB : Multi-Player
- 
-
-
-	 
- 
-
-
-	More Regular Episodes - Plz Follow Us Here..
- 
-
-
-	 
- 
-
-
-	Stream-Download-Share-Enjoy...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shankar Dada M.B.B.S (2004) Telugu All Video Songs 1080p TRUE HD AVC UNTOUCHED]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168917-shankar-dada-mbbs-2004-telugu-all-video-songs-1080p-true-hd-avc-untouched/&amp;do=findComment&amp;comment=335790</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168917-shankar-dada-mbbs-2004-telugu-all-video-songs-1080p-true-hd-avc-untouched/&amp;do=findComment&amp;comment=335790"/>
-        <updated>2022-09-07T16:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Excellent 👍. Please send u r telegram link if u have]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bigg Boss Season-6 Telugu - 2022 - Ep-3 - Sept-6-2022 - Tuesday - Day-02 - Download And Streaming Links - [MX Player & GDrive Links]]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168875-bigg-boss-season-6-telugu-2022-ep-3-sept-6-2022-tuesday-day-02-download-and-streaming-links-mx-player-gdrive-links/&amp;do=findComment&amp;comment=335789</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168875-bigg-boss-season-6-telugu-2022-ep-3-sept-6-2022-tuesday-day-02-download-and-streaming-links-mx-player-gdrive-links/&amp;do=findComment&amp;comment=335789"/>
-        <updated>2022-09-07T16:11:39.000Z</updated>
-        <summary type="html"><![CDATA[In This Site Only... I'll Make One telegram channel soon...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@Benzmovies - Thor Love and Thunder (2022) 2160p WEB-DL DDP5.1 Atmos HDR HEVC Benz.mkv 20.5GB]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168921-benzmovies-thor-love-and-thunder-2022-2160p-web-dl-ddp51-atmos-hdr-hevc-benzmkv-205gb/&amp;do=findComment&amp;comment=335788</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168921-benzmovies-thor-love-and-thunder-2022-2160p-web-dl-ddp51-atmos-hdr-hevc-benzmkv-205gb/&amp;do=findComment&amp;comment=335788"/>
-        <updated>2022-09-07T15:19:31.000Z</updated>
-        <summary type="html"><![CDATA[@Benzmovies - Thor Love and Thunder (2022) 2160p WEB-DL DDP5.1 Atmos HDR HEVC Benz.mkv 20.5GB
- 
-
-
-	 
-
-
-	20.5GB -@Benzmovies - Thor Love and Thunder (2022) 2160p WEB-DL DDP5.1 Atmos HDR HEVC Benz.mkv 20.5GB 
- 
-
-
-	TELEGRAM]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamtara : Sabka Number Ayega (2020) S01 EP (01-10) TRUE WEB-DL - [1080p & 720p - AVC - [Tamil + Telugu + Hindi + Eng] - 3.5GB & 1.3GB] - [x264 - 550MB] - MSub]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168889-jamtara-sabka-number-ayega-2020-s01-ep-01-10-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-eng-35gb-13gb-x264-550mb-msub/&amp;do=findComment&amp;comment=335787</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168889-jamtara-sabka-number-ayega-2020-s01-ep-01-10-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-eng-35gb-13gb-x264-550mb-msub/&amp;do=findComment&amp;comment=335787"/>
-        <updated>2022-09-07T15:02:09.000Z</updated>
-        <summary type="html"><![CDATA[nice bro...
- 
-
-
-	Reseed... Avrodh: The Siege Within (2020)]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you please upload Amrutham Dhvitheeyam. None of the previous links are working.]]></title>
-        <id>https://www.1tamilmv.cyou/index.php?/forums/topic/168920-can-you-please-upload-amrutham-dhvitheeyam-none-of-the-previous-links-are-working/&amp;do=findComment&amp;comment=335786</id>
-        <link href="https://www.1tamilmv.cyou/index.php?/forums/topic/168920-can-you-please-upload-amrutham-dhvitheeyam-none-of-the-previous-links-are-working/&amp;do=findComment&amp;comment=335786"/>
-        <updated>2022-09-07T14:55:03.000Z</updated>
-        <summary type="html"><![CDATA[I checked the site for previous uploads. None of the links are working. Amrutham Dhvitheeyam is available in Zee5. Also Please upload a torrent version if possible.]]></summary>
-        <author>
-            <name>All Activity</name>
         </author>
     </entry>
 </feed>
