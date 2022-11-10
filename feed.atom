@@ -2,10 +2,355 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-11-09T02:19:36.455Z</updated>
+    <updated>2022-11-10T02:09:32.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Black Panther (2018) (BluRay + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 192Kbps) (Tamil + Telugu + Hindi + Eng) - 2.7GB & 1.5GB | x264 - (Tam + Tel + Hin) - 500MB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170207-black-panther-2018-bluray-original-audios-1080p-720p-x264-dd51-192kbps-tamil-telugu-hindi-eng-27gb-15gb-x264-tam-tel-hin-500mb-esub/&amp;do=findComment&amp;comment=338848</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170207-black-panther-2018-bluray-original-audios-1080p-720p-x264-dd51-192kbps-tamil-telugu-hindi-eng-27gb-15gb-x264-tam-tel-hin-500mb-esub/&amp;do=findComment&amp;comment=338848"/>
+        <updated>2022-11-10T01:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Black Panther (2018) BluRay - 1080p - x264 - Original Audios (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Eng] - 2.7GB - ESub : www.1TamilMV.media - Black Panther (2018) BluRay - 1080p - x264 - [Tam + Tel + Hin+ Eng] - 2.7GB - ESub.mkv.torrent   Black Panther (2018) BluRay - 720p - x264 - Original Audios (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Eng] - 1.5GB - ESub : www.1TamilMV.media - Black Panther (2018) BluRay - 720p - x264 - [Tam + Tel + Hin+ Eng] - 1.5GB - ESub.mkv.torrent   Black Panther (2018) BR-Rip - x264 - Original Audios [Tamil + Telugu + Hindi] - AAC - 500MB - ESub : www.1TamilMV.media - Black Panther (2018) BR-Rip - x264 - [Tam + Tel + Hin] - AAC - 500MB - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sardar (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - AAC - 4.1GB - 2.6GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - HC-ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170206-sardar-2022-tamil-true-web-dl-1080p-720p-avc-hevc-aac-41gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-hc-esub/&amp;do=findComment&amp;comment=338847</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170206-sardar-2022-tamil-true-web-dl-1080p-720p-avc-hevc-aac-41gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-hc-esub/&amp;do=findComment&amp;comment=338847"/>
+        <updated>2022-11-10T01:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download   Sardar (2022) Tamil WEB-DL - 1080p HQ - AVC - UNTOUCHED - (AAC 2.0 - 320Kbps) - 4.1GB - HC-ESub : www.1TamilMV.media - Sardar (2022) Tamil WEB-DL - 1080p HQ - AVC - (AAC 2.0 - 320Kbps) - 4GB - HC-ESub.mkv.torrent   Sardar (2022) Tamil WEB-DL - 1080p - AVC - (AAC 2.0 - 320Kbps) - 2.6GB - HC-ESub :    Sardar (2022) Tamil HQ HDRip - 1080p - HEVC - x265 - (AAC 2.0 - 128Kbps) - 1.6GB - HC-ESub :    Sardar (2022) Tamil HQ HDRip - 720p - x264 - (AAC 2.0 - 128Kbps) - 1.4GB - HC-ESub :    Sardar (2022) Tamil HQ HDRip - 720p - HEVC - x265 - (AAC 2.0) - 850MB - HC-ESub :    Sardar (2022) Tamil HQ HDRip - 700MB - x264 - AAC - HC-ESub :   Sardar (2022) Tamil HQ HDRip - 400MB - x264 - AAC - HC-ESub :    Sardar (2022) Tamil HQ HDRip - 250MB - x264 - AAC - HC-ESub :]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect to AWS RDS from AWS Lambda]]></title>
+        <id>https://www.freecodecamp.org/news/aws-lambda-rds/</id>
+        <link href="https://www.freecodecamp.org/news/aws-lambda-rds/"/>
+        <updated>2022-11-09T23:22:38.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we're going to learn about how to communicate with AWS RDS from AWS Lambda.  In this tutorial, we'll be using AWS CDK. It's an open source software development framework that lets you define cloud infrastructure.  AWS CDK supports many languages including TypeScript, Python, C#, Java]]></summary>
+        <author>
+            <name>Mugilan Ragupathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOLID Principles for Programming and Software Design]]></title>
+        <id>https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/</id>
+        <link href="https://www.freecodecamp.org/news/solid-principles-for-programming-and-software-design/"/>
+        <updated>2022-11-09T22:43:45.000Z</updated>
+        <summary type="html"><![CDATA[Robert C. Martin [https://en.wikipedia.org/wiki/Robert_C._Martin] – also known as Uncle Bob – is a well-known American software engineer. He's the author of the bestselling books Clean Code and Clean Architecture. In 2000, he wrote a paper titled Design Principles and Design Patterns [https://web.archive.org/web/20150906155800/http:/www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf]  where he introduced some principles to help]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sinam (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.2GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170205-sinam-2022-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=338846</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170205-sinam-2022-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=338846"/>
+        <updated>2022-11-09T19:11:40.000Z</updated>
+        <summary type="html"><![CDATA[super update wow 🤩🤩]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Download Applications Fast Using Mirrors On Manjaro Linux]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-download-application-fast-on-manjaro-linux/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-download-application-fast-on-manjaro-linux/"/>
+        <updated>2022-11-09T18:57:33.000Z</updated>
+        <summary type="html"><![CDATA[If you are running Linux OS, you've likely already heard about mirror repositories. According to Quora, > In Linux, a mirror is a copy of programs available for download. If you are close (in networking terms, maybe or maybe not geographically) to one of the mirror sites listed, you might]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sinam (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.2GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170205-sinam-2022-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=338845</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170205-sinam-2022-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=338845"/>
+        <updated>2022-11-09T18:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download   Sinam (2022) Tamil TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 6.2GB - ESub : www.1TamilMV.media - Sinam (2022) Tamil TRUE WEB-DL - 1080p HQ - AVC - (DD+5.1 - 640Kbps & AAC) - 6.2GB - ESub.mkv.torrent   Sinam (2022) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 2.8GB - ESub : www.1TamilMV.media - Sinam (2022) Tamil TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 640Kbps & AAC) - 2.7GB - ESub.mkv.torrent   Sinam (2022) Tamil HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.6GB - ESub : www.1TamilMV.media - Sinam (2022) Tamil HQ HDRip - 1080p - HEVC - (DD+5.1 - 192Kbps & AAC) - 1.6GB - ESub.mkv.torrent   Sinam (2022) Tamil HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub : www.1TamilMV.media - Sinam (2022) Tamil HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC) - 1.4GB - ESub.mkv.torrent Sinam (2022) Tamil HQ HDRip - 720p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC 2.0) - 850MB - ESub :www.1TamilMV.media - Sinam (2022) Tamil HQ HDRip - 720p - HEVC - (DD+5.1 - 192Kbps & AAC) - 850MB - ESub.mkv.torrent   Sinam (2022) Tamil HQ HDRip - 700MB - x264 - AAC - ESub : www.1TamilMV.media - Sinam (2022) Tamil HQ HDRip - 700MB - x264 - AAC - ESub.mkv.torrent  Sinam (2022) Tamil HQ HDRip - 400MB - x264 - AAC - ESub : www.1TamilMV.media - Sinam (2022) Tamil HQ HDRip - 400MB - x264 - AAC - ESub.mkv.torrent   Sinam (2022) Tamil HQ HDRip - 250MB - x264 - AAC - ESub : www.1TamilMV.media - Sinam (2022) Tamil HQ HDRip - 250MB - x264 - AAC - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MARVEL STUDIOS 23 MOVIES - BLURAY-  - x264 - MEGA COLLECTION - 1080P - DSNP - WEB-DL - ENGLISH - HINDI - ATMOS - ESUB | 1TAMILMV.BAR |]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/152058-marvel-studios-23-movies-bluray-x264-mega-collection-1080p-dsnp-web-dl-english-hindi-atmos-esub-1tamilmvbar/&amp;do=findComment&amp;comment=338844</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/152058-marvel-studios-23-movies-bluray-x264-mega-collection-1080p-dsnp-web-dl-english-hindi-atmos-esub-1tamilmvbar/&amp;do=findComment&amp;comment=338844"/>
+        <updated>2022-11-09T18:04:20.000Z</updated>
+        <summary type="html"><![CDATA[post check !]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MARVEL MOVIES  (2008 - 2021) - (25 Movies) - [ 4K & 1080P - 720P - 480P ][ MULTI = TAMIL + TELUGU + HINDI + ENGLISH (DDP+5.1 )] | 𝐈𝐌𝐒𝐑𝐈 | 🌈™ [ 𝐆 - 𝐃𝐑𝐈𝐕𝐄 ]]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/152345-marvel-movies-2008-2021-25-movies-4k-1080p-720p-480p-multi-tamil-telugu-hindi-english-ddp51-%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%92%F0%9D%90%91%F0%9D%90%88-%F0%9F%8C%88%E2%84%A2-%F0%9D%90%86-%F0%9D%90%83%F0%9D%90%91%F0%9D%90%88%F0%9D%90%95%F0%9D%90%84/&amp;do=findComment&amp;comment=338843</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/152345-marvel-movies-2008-2021-25-movies-4k-1080p-720p-480p-multi-tamil-telugu-hindi-english-ddp51-%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%92%F0%9D%90%91%F0%9D%90%88-%F0%9F%8C%88%E2%84%A2-%F0%9D%90%86-%F0%9D%90%83%F0%9D%90%91%F0%9D%90%88%F0%9D%90%95%F0%9D%90%84/&amp;do=findComment&amp;comment=338843"/>
+        <updated>2022-11-09T18:04:11.000Z</updated>
+        <summary type="html"><![CDATA[post check !]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAHAAN (2022) Tamil (Original Version) TRUE WEB-DL - [ 4k - 1080p & 720p - AVC / HEVC ] - [x264 / XviD - 700MB ] - IMSRI - [ 🤩⚡ G'DRIVE⚡🤩 ]]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/155153-mahaan-2022-tamil-original-version-true-web-dl-4k-1080p-720p-avc-hevc-x264-xvid-700mb-imsri-%F0%9F%A4%A9%E2%9A%A1-gdrive%E2%9A%A1%F0%9F%A4%A9/&amp;do=findComment&amp;comment=338842</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/155153-mahaan-2022-tamil-original-version-true-web-dl-4k-1080p-720p-avc-hevc-x264-xvid-700mb-imsri-%F0%9F%A4%A9%E2%9A%A1-gdrive%E2%9A%A1%F0%9F%A4%A9/&amp;do=findComment&amp;comment=338842"/>
+        <updated>2022-11-09T18:03:51.000Z</updated>
+        <summary type="html"><![CDATA[post check !]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[𝐇𝐚𝐰𝐤𝐞𝐲𝐞 (𝟐𝟎𝟐𝟏) 𝐒𝐞𝐚𝐬𝐨𝐧 𝟏  𝟕𝟐𝟎𝐩 -𝟏𝟎𝟖𝟎𝐩 - 𝟐𝟏𝟔𝟎𝐩 𝟒𝐊 𝐖𝐄𝐁-𝐃𝐋 𝐱𝟐𝟔𝟓 𝟏𝟎𝐛𝐢𝐭 𝐇𝐄𝐕𝐂 𝐌𝐮𝐥𝐭𝐢 𝐀𝐮𝐝𝐢𝐨 [𝐇𝐢𝐧𝐝𝐢 + 𝐄𝐧𝐠𝐥𝐢𝐬𝐡 + 𝐓𝐚𝐦𝐢𝐥 + 𝐓𝐞𝐥𝐮𝐠𝐮 + 𝐌𝐚𝐥𝐚𝐲𝐚𝐥𝐚𝐦] |DIRECT LINK| 𝐈𝐌𝐒𝐑𝐈 |🌈™]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/152076-%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%B0%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%B2%F0%9D%90%9E-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%8F-%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%9F%8F-%C2%A0%F0%9D%9F%95%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%90%A9-%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%9F%96%F0%9D%9F%8E%F0%9D%90%A9-%F0%9D%9F%90%F0%9D%9F%8F%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%A9-%F0%9D%9F%92%F0%9D%90%8A-%F0%9D%90%96%F0%9D%90%84%F0%9D%90%81-%F0%9D%90%83%F0%9D%90%8B-%F0%9D%90%B1%F0%9D%9F%90%F0%9D%9F%94%F0%9D%9F%93-%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%87%F0%9D%90%84%F0%9D%90%95%F0%9D%90%82-%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%A2-%F0%9D%90%80%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%A8-%F0%9D%90%87%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2-%F0%9D%90%84%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1-%F0%9D%90%93%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A5-%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%AE-%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A6-direct-link-%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%92%F0%9D%90%91%F0%9D%90%88-%F0%9F%8C%88%E2%84%A2/&amp;do=findComment&amp;comment=338841</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/152076-%F0%9D%90%87%F0%9D%90%9A%F0%9D%90%B0%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%B2%F0%9D%90%9E-%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%9F%90%F0%9D%9F%8F-%F0%9D%90%92%F0%9D%90%9E%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%A8%F0%9D%90%A7-%F0%9D%9F%8F-%C2%A0%F0%9D%9F%95%F0%9D%9F%90%F0%9D%9F%8E%F0%9D%90%A9-%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%9F%96%F0%9D%9F%8E%F0%9D%90%A9-%F0%9D%9F%90%F0%9D%9F%8F%F0%9D%9F%94%F0%9D%9F%8E%F0%9D%90%A9-%F0%9D%9F%92%F0%9D%90%8A-%F0%9D%90%96%F0%9D%90%84%F0%9D%90%81-%F0%9D%90%83%F0%9D%90%8B-%F0%9D%90%B1%F0%9D%9F%90%F0%9D%9F%94%F0%9D%9F%93-%F0%9D%9F%8F%F0%9D%9F%8E%F0%9D%90%9B%F0%9D%90%A2%F0%9D%90%AD-%F0%9D%90%87%F0%9D%90%84%F0%9D%90%95%F0%9D%90%82-%F0%9D%90%8C%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%AD%F0%9D%90%A2-%F0%9D%90%80%F0%9D%90%AE%F0%9D%90%9D%F0%9D%90%A2%F0%9D%90%A8-%F0%9D%90%87%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9D%F0%9D%90%A2-%F0%9D%90%84%F0%9D%90%A7%F0%9D%90%A0%F0%9D%90%A5%F0%9D%90%A2%F0%9D%90%AC%F0%9D%90%A1-%F0%9D%90%93%F0%9D%90%9A%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A5-%F0%9D%90%93%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%A0%F0%9D%90%AE-%F0%9D%90%8C%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%B2%F0%9D%90%9A%F0%9D%90%A5%F0%9D%90%9A%F0%9D%90%A6-direct-link-%F0%9D%90%88%F0%9D%90%8C%F0%9D%90%92%F0%9D%90%91%F0%9D%90%88-%F0%9F%8C%88%E2%84%A2/&amp;do=findComment&amp;comment=338841"/>
+        <updated>2022-11-09T18:03:46.000Z</updated>
+        <summary type="html"><![CDATA[post check !]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE MARVEL CINEMATIC UNIVERSE ​ REMUX COLLECTION​  | UHD BLURAY 2160🇵​ 4🇰​ | ENGLISH |​ HINDI | HEVC​ |]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/153097-the-marvel-cinematic-universe-%E2%80%8B-remux-collection%E2%80%8B-uhd-bluray-2160%F0%9F%87%B5%E2%80%8B-4%F0%9F%87%B0%E2%80%8B-english-%E2%80%8B-hindi-hevc%E2%80%8B/&amp;do=findComment&amp;comment=338840</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/153097-the-marvel-cinematic-universe-%E2%80%8B-remux-collection%E2%80%8B-uhd-bluray-2160%F0%9F%87%B5%E2%80%8B-4%F0%9F%87%B0%E2%80%8B-english-%E2%80%8B-hindi-hevc%E2%80%8B/&amp;do=findComment&amp;comment=338840"/>
+        <updated>2022-11-09T18:03:41.000Z</updated>
+        <summary type="html"><![CDATA[post check !]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vijaya Raghavan [Kodiyil Oruvan] (2021) Telugu TRUE WEB-DL - [1080p & 720p - AVC - (Telugu + Tamil) - 2.8GB & 1.5GB] - [x264 - 750MB & 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170202-vijaya-raghavan-kodiyil-oruvan-2021-telugu-true-web-dl-1080p-720p-avc-telugu-tamil-28gb-15gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=338839</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170202-vijaya-raghavan-kodiyil-oruvan-2021-telugu-true-web-dl-1080p-720p-avc-telugu-tamil-28gb-15gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=338839"/>
+        <updated>2022-11-09T17:53:57.000Z</updated>
+        <summary type="html"><![CDATA[😄]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panthrand (2022) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Malayalam) - 2.7GB & 1.4GB & 250MB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170184-panthrand-2022-true-web-dl-1080p-720p-avc-tamil-telugu-malayalam-27gb-14gb-250mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=338838</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170184-panthrand-2022-true-web-dl-1080p-720p-avc-tamil-telugu-malayalam-27gb-14gb-250mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=338838"/>
+        <updated>2022-11-09T17:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Hi please update x men collection links because existing links are not working]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breathe : Into the Shadows (2022) S02 EP (01-08) Hindi WEB-DL - [1080p, 720p - (DD+5.1 - 192Kbps) - 2.8GB - 2GB| x264 - 1GB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170195-breathe-into-the-shadows-2022-s02-ep-01-08-hindi-web-dl-1080p-720p-dd51-192kbps-28gb-2gb-x264-1gb-esub/&amp;do=findComment&amp;comment=338837</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170195-breathe-into-the-shadows-2022-s02-ep-01-08-hindi-web-dl-1080p-720p-dd51-192kbps-28gb-2gb-x264-1gb-esub/&amp;do=findComment&amp;comment=338837"/>
+        <updated>2022-11-09T17:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Hi please update x men collection links because existing links are not working]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP32 - DAY 31 TRUE WEB-DL - [1080p, 720p, 480p - AVC - UNTOUCHED - 1.4GB - 650MB & 250MB] [09-11-2022]]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170203-bigg-boss-tamil-2022-s06-ep32-day-31-true-web-dl-1080p-720p-480p-avc-untouched-14gb-650mb-250mb-09-11-2022/&amp;do=findComment&amp;comment=338833</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170203-bigg-boss-tamil-2022-s06-ep32-day-31-true-web-dl-1080p-720p-480p-avc-untouched-14gb-650mb-250mb-09-11-2022/&amp;do=findComment&amp;comment=338833"/>
+        <updated>2022-11-09T16:59:43.000Z</updated>
+        <summary type="html"><![CDATA[Hi please update x men collection links because existing links are not working]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improve Your Cybersecurity Command Line Skills – Bandit OverTheWire Game Walkthrough]]></title>
+        <id>https://www.freecodecamp.org/news/improve-you-cybersecurity-command-line-skills-bandit-overthewire-game-walkthrough/</id>
+        <link href="https://www.freecodecamp.org/news/improve-you-cybersecurity-command-line-skills-bandit-overthewire-game-walkthrough/"/>
+        <updated>2022-11-09T16:17:46.000Z</updated>
+        <summary type="html"><![CDATA[CTFs and Wargames can help people their improve command line and hacking skills.  The Bandit wargame from OverTheWire is aimed at absolute beginners. It is a game you connect to through SSH that will help you will improve your command line skills, your linux skills, and you hacker skills.]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP32 Tamil Full Show]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170204-bigg-boss-tamil-2022-s06-ep32-tamil-full-show/&amp;do=findComment&amp;comment=338832</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170204-bigg-boss-tamil-2022-s06-ep32-tamil-full-show/&amp;do=findComment&amp;comment=338832"/>
+        <updated>2022-11-09T16:15:07.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP32 - DAY 31 TRUE WEB-DL - [1080p, 720p, 480p - AVC - UNTOUCHED - 1.4GB - 650MB & 250MB] [09-11-2022]]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170203-bigg-boss-tamil-2022-s06-ep32-day-31-true-web-dl-1080p-720p-480p-avc-untouched-14gb-650mb-250mb-09-11-2022/&amp;do=findComment&amp;comment=338831</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170203-bigg-boss-tamil-2022-s06-ep32-day-31-true-web-dl-1080p-720p-480p-avc-untouched-14gb-650mb-250mb-09-11-2022/&amp;do=findComment&amp;comment=338831"/>
+        <updated>2022-11-09T15:59:59.000Z</updated>
+        <summary type="html"><![CDATA[BIGG BOSS (Tamil) S06 EP32 - DAY 31 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB [09-11-2022] : www.1TamilMV.cfd - BIGG BOSS (Tamil) S06 EP32 - DAY 31 TRUE WEB-DL - 1080p - AVC - AAC - 1.3GB.mkv.torrent   BIGG BOSS (Tamil) S06 EP32 - DAY 31 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 700MB [09-11-2022] : www.1TamilMV.cfd - BIGG BOSS (Tamil) S06 EP32 - DAY 31 TRUE WEB-DL - 720p - AVC - AAC - 700MB.mkv.torrent   BIGG BOSS (Tamil) S06 EP32 - DAY 31 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 200MB [09-11-2022] : www.1TamilMV.cfd - BIGG BOSS (Tamil) S06 EP32 - DAY 31 TRUE WEB-DL - 480p - AVC - AAC - 200MB.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microservices and Software System Design Course]]></title>
+        <id>https://www.freecodecamp.org/news/microservices-and-software-system-design-course/</id>
+        <link href="https://www.freecodecamp.org/news/microservices-and-software-system-design-course/"/>
+        <updated>2022-11-09T15:59:58.000Z</updated>
+        <summary type="html"><![CDATA[A microservices architecture is a type of application architecture where the application is developed as a collection of services. We just published a course on the freeCodeCamp.org YouTube channel that will teach you about microservice architecture and distributed systems using a hands-on approach.  Georgio from Kantan Coding teaches this]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Error: cannot find module [Node npm Error Solved]]]></title>
+        <id>https://www.freecodecamp.org/news/error-cannot-find-module-node-npm-error-solved/</id>
+        <link href="https://www.freecodecamp.org/news/error-cannot-find-module-node-npm-error-solved/"/>
+        <updated>2022-11-09T15:37:57.000Z</updated>
+        <summary type="html"><![CDATA[If you’re a developer that works with Node JS and JavaScript libraries and frameworks like React, Vue, and Angular, then you might have encountered the "Error: cannot find module" error. In this article, I’m going to show you how to fix the error. Why the "Error: cannot find module" Occurs]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Unit Tests in React – Basic Redux Toolkit Testing Included]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react-redux/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react-redux/"/>
+        <updated>2022-11-09T15:32:10.000Z</updated>
+        <summary type="html"><![CDATA[In this step-by-step tutorial, you'll learn how to easily start with Unit Tests in React. You'll learn how to write tests for Redux states as well as fundamental Redux slice tests using the React Testing Library and Jest. 🔐 Here's What We'll Cover  * You'll see how easy it]]></summary>
+        <author>
+            <name>Matthes Bär</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vijaya Raghavan [Kodiyil Oruvan] (2021) Telugu TRUE WEB-DL - [1080p & 720p - AVC - (Telugu + Tamil) - 2.8GB & 1.5GB] - [x264 - 750MB & 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170202-vijaya-raghavan-kodiyil-oruvan-2021-telugu-true-web-dl-1080p-720p-avc-telugu-tamil-28gb-15gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=338830</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170202-vijaya-raghavan-kodiyil-oruvan-2021-telugu-true-web-dl-1080p-720p-avc-telugu-tamil-28gb-15gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=338830"/>
+        <updated>2022-11-09T13:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Excellent share]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dil Se 1998 Tamil 1080p.NF.WeB.DL.AVC.DDP.5.1 [G-Drive]]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170163-dil-se-1998-tamil-1080pnfwebdlavcddp51-g-drive/&amp;do=findComment&amp;comment=338829</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170163-dil-se-1998-tamil-1080pnfwebdlavcddp51-g-drive/&amp;do=findComment&amp;comment=338829"/>
+        <updated>2022-11-09T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Anyone Checked This link???]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[130 Tamil Movies - 1080p / 4K - SUN NXT / AMZN / SS / TK / AHA / JC / ZEE5 WEB DL - H.264 - DD5.1 / DDP2.0 / AAC - Esub - 700GB [Gdrive]]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/164087-130-tamil-movies-1080p-4k-sun-nxt-amzn-ss-tk-aha-jc-zee5-web-dl-h264-dd51-ddp20-aac-esub-700gb-gdrive/&amp;do=findComment&amp;comment=338828</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/164087-130-tamil-movies-1080p-4k-sun-nxt-amzn-ss-tk-aha-jc-zee5-web-dl-h264-dd51-ddp20-aac-esub-700gb-gdrive/&amp;do=findComment&amp;comment=338828"/>
+        <updated>2022-11-09T13:34:22.000Z</updated>
+        <summary type="html"><![CDATA[What Nice Bro.. Have you checked the links..???]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vijaya Raghavan [Kodiyil Oruvan] (2021) Telugu TRUE WEB-DL - [1080p & 720p - AVC - (Telugu + Tamil) - 2.8GB & 1.5GB] - [x264 - 750MB & 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170202-vijaya-raghavan-kodiyil-oruvan-2021-telugu-true-web-dl-1080p-720p-avc-telugu-tamil-28gb-15gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=338827</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170202-vijaya-raghavan-kodiyil-oruvan-2021-telugu-true-web-dl-1080p-720p-avc-telugu-tamil-28gb-15gb-x264-750mb-450mb-esub/&amp;do=findComment&amp;comment=338827"/>
+        <updated>2022-11-09T13:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download   Vijaya Raghavan [Kodiyil Oruvan] (2021) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - [Telugu (Org) + Tamil (DD+5.1 - 192Kbps)] - 2.8GB - ESub : www.1TamilMV.media - Vijaya Raghavan (2021) TRUE WEB-DL - 1080p - AVC - [Telugu (Org) + Tamil] - 2.8GB - ESub.mkv.torrent Vijaya Raghavan [Kodiyil Oruvan] (2021) HQ HDRip - 720p - x264 - [Telugu (Org) + Tamil (DD+5.1 - 192Kbps)] - 1.5GB - ESub : www.1TamilMV.media - Vijaya Raghavan (2021) HQ HDRip - 720p - x264 - [Telugu (Org) + Tamil] - 1.5GB - ESub.mkv.torrent   Vijaya Raghavan [Kodiyil Oruvan] (2021) HQ HDRip - x264 - (AAC 2.0) [Telugu (Org) + Tamil] - 750MB - ESub : www.1TamilMV.media - Vijaya Raghavan (2021) HQ HDRip - x264 - [Telugu (Org) + Tamil] - 750MB - ESub.mkv.torrent  Vijaya Raghavan [Kodiyil Oruvan] (2021) HQ HDRip - x264 - (AAC 2.0) [Telugu (Org) + Tamil] - 750MB - ESub : www.1TamilMV.media - Vijaya Raghavan (2021) HQ HDRip - x264 - [Telugu (Org) + Tamil] - 450MB - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[King Liar (2016) Malayalm GPLAY WEB-DL - [1080p & 720p - AVC - 6.6GB - 4.5GB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/168819-king-liar-2016-malayalm-gplay-web-dl-1080p-720p-avc-66gb-45gb-esub/&amp;do=findComment&amp;comment=338826</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/168819-king-liar-2016-malayalm-gplay-web-dl-1080p-720p-avc-66gb-45gb-esub/&amp;do=findComment&amp;comment=338826"/>
+        <updated>2022-11-09T13:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Upload anekudu telugu Dolby 5.1 from gplay]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaaranam Aayiram (2008) - HJ - DD5.1 + DTSHDMA5.1 (Lossless FLAC Upmix) - 1.4GB - Ultimate Audio Quality]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170201-vaaranam-aayiram-2008-hj-dd51-dtshdma51-lossless-flac-upmix-14gb-ultimate-audio-quality/&amp;do=findComment&amp;comment=338825</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170201-vaaranam-aayiram-2008-hj-dd51-dtshdma51-lossless-flac-upmix-14gb-ultimate-audio-quality/&amp;do=findComment&amp;comment=338825"/>
+        <updated>2022-11-09T12:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Vaaranam Aayiram (2008) - HJ - DD5.1 + DTSHDMA5.1 (Lossless FLAC Upmix) - 1.4GB - Ultimate Audio Quality
+ 
+
+
+	LINK
+ 
+
+
+	****************************************************************************************]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponniyin Selvan: I (2022) MULTI (Complete Music Video Album) - HQ 1080p - AMZN - H264 - DDP 5.1 @ 640Kbps - ESubs - 3.5GB 〰 [avatar]]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170167-ponniyin-selvan-i-2022-multi-complete-music-video-album-hq-1080p-amzn-h264-ddp-51-640kbps-esubs-35gb-%E3%80%B0-avatar/&amp;do=findComment&amp;comment=338824</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170167-ponniyin-selvan-i-2022-multi-complete-music-video-album-hq-1080p-amzn-h264-ddp-51-640kbps-esubs-35gb-%E3%80%B0-avatar/&amp;do=findComment&amp;comment=338824"/>
+        <updated>2022-11-09T10:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Unable to download]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Remember You (2017) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Ice) - 2.3GB & 1.2GB| x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170198-i-remember-you-2017-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-ice-23gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=338823</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170198-i-remember-you-2017-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-ice-23gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=338823"/>
+        <updated>2022-11-09T07:25:40.000Z</updated>
+        <summary type="html"><![CDATA[🤗]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Systems: Useful Examples and Resources]]></title>
+        <id>https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/</id>
+        <link href="https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/"/>
+        <updated>2022-11-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Everything design systems on accessibility, enterprise design systems, Figma kits, data visualization, motion design, multi-lingual design, naming, ROI calculator and UX writing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ponmana Selvan (1989).Tamil.480p.HDTV.x264.AAC2.0 - 1.8GB]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170199-ponmana-selvan-1989tamil480phdtvx264aac20-18gb/&amp;do=findComment&amp;comment=338821</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170199-ponmana-selvan-1989tamil480phdtvx264aac20-18gb/&amp;do=findComment&amp;comment=338821"/>
+        <updated>2022-11-09T04:28:16.000Z</updated>
+        <summary type="html"><![CDATA[Ponmana Selvan (1989).Tamil.480p.HDTV.x264.AAC2.0 - 1.8GB
+ 
+
+
+	LINK
+ 
+
+
+	*********************************************************************************************]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Remember You (2017) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Ice) - 2.3GB & 1.2GB| x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.media/index.php?/forums/topic/170198-i-remember-you-2017-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-ice-23gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=338820</id>
+        <link href="https://www.1tamilmv.media/index.php?/forums/topic/170198-i-remember-you-2017-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-ice-23gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=338820"/>
+        <updated>2022-11-09T04:20:50.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download   I Remember You (2017) BluRay - 1080p - x264 - Original Audios [Tamil + Telugu + Hindi + Ice] - 2.3GB - ESub : www.1TamilMV.media - I Remember You (2017) BluRay - 1080p - Org Auds [Tam + Tel + Hin + Ice].mkv.torrent   I Remember You (2017) BluRay - 720p - x264 - Original Audios [Tamil + Telugu + Hindi + Ice] - 1.2GB - ESub : www.1TamilMV.media - I Remember You (2017) BluRay - 720p - Org Auds [Tam + Tel + Hin + Ice].mkv.torrent I Remember You (2017) BR-Rip - x264 - Original Audios [Tamil + Telugu + Hindi] - 450MB - ESub : www.1TamilMV.media - I Remember You (2017) BR-Rip - x264 - Org Auds [Tam + Tel + Hin] - 450MB - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teen Titans: Trouble in Tokyo (2007) TATAPLAY - WEB-DL - 480p [Tamil + Telugu] AAC2.0 - H.264 - 450MB]]></title>
         <id>https://www.1tamilmv.media/index.php?/forums/topic/156411-teen-titans-trouble-in-tokyo-2007-tataplay-web-dl-480p-tamil-telugu-aac20-h264-450mb/&amp;do=findComment&amp;comment=338816</id>
@@ -10984,245 +11329,6 @@
         <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169736-all-the-best-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=337686"/>
         <updated>2022-10-11T14:17:03.000Z</updated>
         <summary type="html"><![CDATA[upload "Thiruttu Raja" movie jiii. last week zee thirai la telecast pannanga bro]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12 Tamil Movies - AMZN / NF WEB DL - H264 / H265 - DDP5.1 - [2160p & 1080p & 720p - 150GB] [GDRIVE]]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/168905-12-tamil-movies-amzn-nf-web-dl-h264-h265-ddp51-2160p-1080p-720p-150gb-gdrive/&amp;do=findComment&amp;comment=337685</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/168905-12-tamil-movies-amzn-nf-web-dl-h264-h265-ddp51-2160p-1080p-720p-150gb-gdrive/&amp;do=findComment&amp;comment=337685"/>
-        <updated>2022-10-11T13:50:46.000Z</updated>
-        <summary type="html"><![CDATA[11 Movies added now...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avvai Shanmughi (1996) Tamil TRUE WEB-DL - [1080p & 720p - AVC - 3.7GB - 2.4GB - 1.3GB] - [x264 - 700MB - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169731-avvai-shanmughi-1996-tamil-true-web-dl-1080p-720p-avc-37gb-24gb-13gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337684</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169731-avvai-shanmughi-1996-tamil-true-web-dl-1080p-720p-avc-37gb-24gb-13gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337684"/>
-        <updated>2022-10-11T12:28:18.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eesho (2022) TRUE WEB-DL - [1080p & 720p - AVC - (AAC 2.0) (Tamil + Telugu + Hindi + Malayalam + Kannada) - 2.3GB - 1.4GB - 800MB - 500MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169633-eesho-2022-true-web-dl-1080p-720p-avc-aac-20-tamil-telugu-hindi-malayalam-kannada-23gb-14gb-800mb-500mb-250mb-esub/&amp;do=findComment&amp;comment=337683</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169633-eesho-2022-true-web-dl-1080p-720p-avc-aac-20-tamil-telugu-hindi-malayalam-kannada-23gb-14gb-800mb-500mb-250mb-esub/&amp;do=findComment&amp;comment=337683"/>
-        <updated>2022-10-11T12:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Eesho (2022) TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (AAC 2.0 - 96Kbps) [Tamil + Telugu + Hindi + Malayalam + Kannada] - 2.3GB - ESub :www.1TamilMV.hair - Eesho (2022) TRUE WEB-DL - 1080p HQ - AVC - [Tam + Tel + Hin + Mal + Kan] - 2.3GB - ESub.mkv.torrentEesho (...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raksha Bandhan (2022) Hindi TRUE WEB-DL - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 448Kbps) - 5.7GB - 2.5GB - 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169643-raksha-bandhan-2022-hindi-true-web-dl-4k-1080p-720p-avc-hevc-dd51-atmos-448kbps-57gb-25gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337682</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169643-raksha-bandhan-2022-hindi-true-web-dl-4k-1080p-720p-avc-hevc-dd51-atmos-448kbps-57gb-25gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337682"/>
-        <updated>2022-10-11T12:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Raksha Bandhan (2022) Hindi TRUE WEB-DL - 2160p 4K - HEVC - UNTOUCHED - (DD+5.1 ATMOS - 448Kbps & AAC) - 5.7GB - ESub :www.1TamilMV.hair - Raksha Bandhan (2022) Hindi TRUE WEB-DL - 2160p 4K - HEVC - (DD+5.1 ATMOS - 448Kbps & AAC) - 5.7GB - ESub.mkv.torrentR...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peace (2022) Malayalam TRUE WEB-DL - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 6.8GB - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169646-peace-2022-malayalam-true-web-dl-4k-1080p-720p-avc-dd51-192kbps-68gb-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337681</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169646-peace-2022-malayalam-true-web-dl-4k-1080p-720p-avc-dd51-192kbps-68gb-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337681"/>
-        <updated>2022-10-11T12:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Peace (2022) Malayalam TRUE WEB-DL - 4K - 2160p UHD - HEVC - UNTOUCHED - (DD+5.1 - 192Kbps & AAC 2.0) - 6.8GB - ESub :www.1TamilMV.hair - Peace (2022) Malayalam TRUE WEB-DL - 4K UHD - HEVC - (DD+5.1 - 192Kbps & AAC) - 6.8GB - ESub.mkv.torrentPeace (2022) Ma...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Free Fall (2021) (HD + Original Audios) - [1080p & 720p - x264 - (Tamil + Hindi + Eng) - 2GB & 1GB | x264 - (Tam + Hin) - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169737-the-free-fall-2021-hd-original-audios-1080p-720p-x264-tamil-hindi-eng-2gb-1gb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=337680</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169737-the-free-fall-2021-hd-original-audios-1080p-720p-x264-tamil-hindi-eng-2gb-1gb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=337680"/>
-        <updated>2022-10-11T12:10:38.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download   The Free Fall (2021) HQ HDRip - 1080p - x264 - Original Audios [Tamil + Hindi + Eng] - 2GB - ESub :    The Free Fall (2021) HQ HDRip - 720p - x264 - Original Audios [Tamil + Hindi + Eng] - 1GB - ESub :  The Free Fall (2021) HQ HDRip - x264 - Original Audios [Tamil + Hindi] - 400MB - ESub :]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the Best (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.6GB & 1.4GB] - [x264 - 700MB & 400MB]]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169736-all-the-best-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=337679</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169736-all-the-best-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=337679"/>
-        <updated>2022-10-11T12:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download All the Best (2022) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - Original Audio [Tamil + Telugu] - 2.7GB :www.1TamilMV.hair - All the Best (2022) TRUE WEB-DL - 1080p - AVC - [Tamil + Telugu] - 2.7GB.mkv.torrentAll the Best (2022) HQ HDRip - 720p - x264 - Original Audio ...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the Best (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.6GB & 1.4GB] - [x264 - 700MB & 400MB]]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169736-all-the-best-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=337678</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169736-all-the-best-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=337678"/>
-        <updated>2022-10-11T11:41:04.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download   All the Best (2022) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - Original Audio [Tamil + Telugu] - 2.7GB : www.1TamilMV.hair - All the Best (2022) TRUE WEB-DL - 1080p - AVC - [Tamil + Telugu] - 2.7GB.mkv.torrent   All the Best (2022) HQ HDRip - 720p - x264 - Original Audio [Tamil + Telugu] - 1.4GB : www.1TamilMV.hair - All the Best (2022) HQ HDRip - 720p - x264 - [Tamil + Telugu] - 1.4GB.mkv.torrent   All the Best (2022) Tamil HQ HDRip - 700MB - x264 - Original Audio - AAC : www.1TamilMV.hair - All the Best (2022) Tamil HQ HDRip - 700MB - x264 - Original Aud.mkv.torrent   All the Best (2022) Tamil HQ HDRip - 400MB - x264 - Original Audio - AAC : www.1TamilMV.hair - All the Best (2022) Tamil HQ HDRip - 400MB - x264 - Original Aud.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desamuduru (2007) AAC2.0 Hindi+Telugu 1080p GP WEB-DL H264 EAC3 DDP 5.1 ESubs [G-Drive]]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169720-desamuduru-2007-aac20-hinditelugu-1080p-gp-web-dl-h264-eac3-ddp-51-esubs-g-drive/&amp;do=findComment&amp;comment=337677</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169720-desamuduru-2007-aac20-hinditelugu-1080p-gp-web-dl-h264-eac3-ddp-51-esubs-g-drive/&amp;do=findComment&amp;comment=337677"/>
-        <updated>2022-10-11T10:21:39.000Z</updated>
-        <summary type="html"><![CDATA[Also do you take requests for SUNNXT and AMAZON PRIME stuff?]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desamuduru (2007) AAC2.0 Hindi+Telugu 1080p GP WEB-DL H264 EAC3 DDP 5.1 ESubs [G-Drive]]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169720-desamuduru-2007-aac20-hinditelugu-1080p-gp-web-dl-h264-eac3-ddp-51-esubs-g-drive/&amp;do=findComment&amp;comment=337676</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169720-desamuduru-2007-aac20-hinditelugu-1080p-gp-web-dl-h264-eac3-ddp-51-esubs-g-drive/&amp;do=findComment&amp;comment=337676"/>
-        <updated>2022-10-11T10:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Not working. It says "incorrect password or corrupt data."]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sita Ramam (2022) Kannada TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 3GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169735-sita-ramam-2022-kannada-true-web-dl-1080p-720p-avc-dd51-640kbps-3gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337675</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169735-sita-ramam-2022-kannada-true-web-dl-1080p-720p-avc-dd51-640kbps-3gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337675"/>
-        <updated>2022-10-11T09:39:32.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download   Sita Ramam (2022) Kannada TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 3GB - ESub : www.1TamilMV.hair - Sita Ramam (2022) Kannada TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 640Kbps & AAC) - 3GB - ESub.mkv.torrent   Sita Ramam (2022) Kannada HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub : www.1TamilMV.hair - Sita Ramam (2022) Kannada HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC) - 1.4GB - ESub.mkv.torrent   Sita Ramam (2022) Kannada HQ HDRip - 700MB - x264 - AAC - ESub : www.1TamilMV.hair - Sita Ramam (2022) Kannada HQ HDRip - 700MB - x264 - AAC - ESub.mkv.torrent   Sita Ramam (2022) Kannada HQ HDRip - 400MB - x264 - AAC - ESub : www.1TamilMV.hair - Sita Ramam (2022) Kannada HQ HDRip - 400MB - x264 - AAC - ESub.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avvai Shanmughi (1996) Tamil TRUE WEB-DL - [1080p & 720p - AVC - 3.7GB - 2.4GB - 1.3GB] - [x264 - 700MB - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169731-avvai-shanmughi-1996-tamil-true-web-dl-1080p-720p-avc-37gb-24gb-13gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337674</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169731-avvai-shanmughi-1996-tamil-true-web-dl-1080p-720p-avc-37gb-24gb-13gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=337674"/>
-        <updated>2022-10-11T08:55:04.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP02 - DAY 01 TRUE WEB-DL - [1080p, 720p, 480p - AVC - UNTOUCHED - 1GB - 550MB & 200MB] [10-10-2022]]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169723-bigg-boss-tamil-2022-s06-ep02-day-01-true-web-dl-1080p-720p-480p-avc-untouched-1gb-550mb-200mb-10-10-2022/&amp;do=findComment&amp;comment=337656</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169723-bigg-boss-tamil-2022-s06-ep02-day-01-true-web-dl-1080p-720p-480p-avc-untouched-1gb-550mb-200mb-10-10-2022/&amp;do=findComment&amp;comment=337656"/>
-        <updated>2022-10-10T21:20:56.000Z</updated>
-        <summary type="html"><![CDATA[why are you uploading Tamil bigg boss only and not uploading Telugu bigg boss, please also upload Telugu bigg boss.]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spirit Rangers (2022) S01 EP(01-10) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Hindi + English) - 6GB - 2GB & 700MB] - ESub]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169728-spirit-rangers-2022-s01-ep01-10-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-english-6gb-2gb-700mb-esub/&amp;do=findComment&amp;comment=337655</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169728-spirit-rangers-2022-s01-ep01-10-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-english-6gb-2gb-700mb-esub/&amp;do=findComment&amp;comment=337655"/>
-        <updated>2022-10-10T18:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download   Spirit Rangers (2022) S01 EP(01-10) TRUE WEB-DL - 1080p - AVC - (DD+ 5.1 - 192Kbps) [Tamil + Telugu + Hindi + Eng] - 3.6GB - ESub : www.1TamilMV.hair - Spirit Rangers (2022) S01 EP(01-10) - 1080p - AVC - (DD+ 5.1 - 192Kbps) [Tam + Tel + Hin + Eng] - 6GB - MSub .torrent   Spirit Rangers (2022) S01 EP(01-10) TRUE WEB-DL - 720p - AVC - (AAC 2.0) [Tamil + Telugu + Hindi + Eng] - 2GB - ESub : www.1TamilMV.hair - Spirit Rangers (2022) S01 EP(01-10) - 720p - AVC - [Tam + Tel + Hin + Eng] - AAC - 2GB - MSub .torrent   Spirit Rangers (2022) S01 EP(01-10) TRUE WEB-DL - 480p - AVC - (AAC 2.0) [Tamil + Telugu] - 700MB - ESub : www.1TamilMV.hair - Spirit Rangers (2022) S01 EP(01-10) - 480p - AVC - [Tamil + Telugu] - AAC - 700MB - MSub .torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP02 - DAY 01 TRUE WEB-DL - [1080p, 720p, 480p - AVC - UNTOUCHED - 1GB - 550MB & 200MB] [10-10-2022]]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169723-bigg-boss-tamil-2022-s06-ep02-day-01-true-web-dl-1080p-720p-480p-avc-untouched-1gb-550mb-200mb-10-10-2022/&amp;do=findComment&amp;comment=337654</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169723-bigg-boss-tamil-2022-s06-ep02-day-01-true-web-dl-1080p-720p-480p-avc-untouched-1gb-550mb-200mb-10-10-2022/&amp;do=findComment&amp;comment=337654"/>
-        <updated>2022-10-10T17:44:19.000Z</updated>
-        <summary type="html"><![CDATA[BIGG BOSS (Tamil) S06 - EP 02 - DAY 01 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB [10-10-2022] :www.1TamilMV.hair - BIGG BOSS (Tamil) S06 - EP02 - DAY 01 - 1080p - AVC - AAC - 1GB.mkv.torrentBIGG BOSS (Tamil) S06 - EP 02 - DAY 01 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 550MB [10-10-20...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thooral Ninnu Pochchu (1982).576p.AMZN.Web-dl.x264.DDP.2.0 - 1.5GB]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169727-thooral-ninnu-pochchu-1982576pamznweb-dlx264ddp20-15gb/&amp;do=findComment&amp;comment=337653</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169727-thooral-ninnu-pochchu-1982576pamznweb-dlx264ddp20-15gb/&amp;do=findComment&amp;comment=337653"/>
-        <updated>2022-10-10T17:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Credits - DusIcTv
- 
-
-
-	 
-
-
-	     
-
-
-	Thooral Ninnu Pochchu (1982).576p.AMZN.Web-dl.x264.DDP.2.0 - 1.5GB
- 
-
-
-	LINK
- 
-
-
-	********************************************************************************************]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Murattu Kaalai (1980) Tamil Full Movie Watch Now HQ For Free]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169726-murattu-kaalai-1980-tamil-full-movie-watch-now-hq-for-free/&amp;do=findComment&amp;comment=337652</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169726-murattu-kaalai-1980-tamil-full-movie-watch-now-hq-for-free/&amp;do=findComment&amp;comment=337652"/>
-        <updated>2022-10-10T17:32:14.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gajakesari (2022) Tamil Full Movie Watch Now HQ For Free]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169725-gajakesari-2022-tamil-full-movie-watch-now-hq-for-free/&amp;do=findComment&amp;comment=337651</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169725-gajakesari-2022-tamil-full-movie-watch-now-hq-for-free/&amp;do=findComment&amp;comment=337651"/>
-        <updated>2022-10-10T17:31:38.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP2 Tamil Full Show]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169724-bigg-boss-tamil-2022-s06-ep2-tamil-full-show/&amp;do=findComment&amp;comment=337650</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169724-bigg-boss-tamil-2022-s06-ep2-tamil-full-show/&amp;do=findComment&amp;comment=337650"/>
-        <updated>2022-10-10T17:30:41.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP02 - DAY 01 TRUE WEB-DL - [1080p, 720p, 480p - AVC - UNTOUCHED - 1GB - 550MB & 200MB] [10-10-2022]]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169723-bigg-boss-tamil-2022-s06-ep02-day-01-true-web-dl-1080p-720p-480p-avc-untouched-1gb-550mb-200mb-10-10-2022/&amp;do=findComment&amp;comment=337649</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169723-bigg-boss-tamil-2022-s06-ep02-day-01-true-web-dl-1080p-720p-480p-avc-untouched-1gb-550mb-200mb-10-10-2022/&amp;do=findComment&amp;comment=337649"/>
-        <updated>2022-10-10T16:59:08.000Z</updated>
-        <summary type="html"><![CDATA[BIGG BOSS (Tamil) S06 - EP 02 - DAY 01 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB [10-10-2022] : www.1TamilMV.hair - BIGG BOSS (Tamil) S06 - EP02 - DAY 01 - 1080p - AVC - AAC - 1GB.mkv.torrent   BIGG BOSS (Tamil) S06 - EP 02 - DAY 01 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 550MB [10-10-2022] : www.1TamilMV.hair - BIGG BOSS (Tamil) S06 - EP 02 - DAY 01 - 720p - AVC - AAC - 550MB.mkv.torrent   BIGG BOSS (Tamil) S06 - EP 02 - DAY 01 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 200MB [10-10-2022] : www.1TamilMV.hair - BIGG BOSS (Tamil) S06 - EP 02 - DAY 01 - 480p - AVC - AAC - 200MB.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malleswari [2004] Dual (Complete Music Video Album) - 1080p - WEBHD - AVC - TEL DD®5.1 @ 448Kbps - Esubs - 750MB 〰 [avatar]]]></title>
-        <id>https://www.1tamilmv.hair/index.php?/forums/topic/169722-malleswari-2004-dual-complete-music-video-album-1080p-webhd-avc-tel-dd%C2%AE51-448kbps-esubs-750mb-%E3%80%B0-avatar/&amp;do=findComment&amp;comment=337648</id>
-        <link href="https://www.1tamilmv.hair/index.php?/forums/topic/169722-malleswari-2004-dual-complete-music-video-album-1080p-webhd-avc-tel-dd%C2%AE51-448kbps-esubs-750mb-%E3%80%B0-avatar/&amp;do=findComment&amp;comment=337648"/>
-        <updated>2022-10-10T16:32:51.000Z</updated>
-        <summary type="html"><![CDATA[CLICK & VIEW SCREENSHOTS
- 
-
-
-	📸 SCREENSHOTS✨
- 
-
-
-	 Malleswari [2004] Dual (Complete Music Video Album) - 1080p - WEBHD - AVC - TEL DD®5.1 @ 448Kbps - Esubs - 750MB 〰 [avatar] 
- 
-
-
-	avatar〰️🥇
- 
-
-
-	ENJOY THE ORIGINAL DOLBY DIGITAL ® 5.1 SURROUND.]]></summary>
         <author>
             <name>All Activity</name>
         </author>
