@@ -2,10 +2,403 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T01:40:01.033Z</updated>
+    <updated>2022-12-07T01:45:19.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Separation of Concerns in React –How to Use Container and Presentational Components]]></title>
+        <id>https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/</id>
+        <link href="https://www.freecodecamp.org/news/separation-of-concerns-react-container-and-presentational-components/"/>
+        <updated>2022-12-06T21:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Many new React developers combine logic and presentation inside the same React component. And they may not know why it's important to separate these two – they just want to make it work. But later, they'll find that they need to make changes to the file and doing so becomes]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to View Your Linux Processes]]></title>
+        <id>https://www.freecodecamp.org/news/linux-top/</id>
+        <link href="https://www.freecodecamp.org/news/linux-top/"/>
+        <updated>2022-12-06T21:09:33.000Z</updated>
+        <summary type="html"><![CDATA[You may be used to using the Activity Monitor in MacOS or the Task Manager for Windows to see the current processes running on your system.  But for those running Linux, if that includes a dual boot, virtual box, or even WSL2, you could use a useful Linux command]]></summary>
+        <author>
+            <name>Anthony Behery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Your Business Strategy with Python and APIs]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-e-commerce-operations-with-python/"/>
+        <updated>2022-12-06T18:11:07.000Z</updated>
+        <summary type="html"><![CDATA[When you work in e-commerce operations, you'll have to perform many tasks daily to implement your company's business strategies.  But these often repetitive tasks can be time-consuming and leave room for errors. Some of these errors can cost your company money, reputation, and time.  Luckily, Python and APIs]]></summary>
+        <author>
+            <name>Marco Venturi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🔰Master (2021) Tamil 4K UHD HEVC x265 - DDP5.1(640kbps) - 32.5GB - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/156350-%F0%9F%94%B0master-2021-tamil-4k-uhd-hevc-x265-ddp51640kbps-325gb-esub/&amp;do=findComment&amp;comment=340085</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/156350-%F0%9F%94%B0master-2021-tamil-4k-uhd-hevc-x265-ddp51640kbps-325gb-esub/&amp;do=findComment&amp;comment=340085"/>
+        <updated>2022-12-06T18:09:06.000Z</updated>
+        <summary type="html"><![CDATA[File not working 💔]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kantara (2022) V2 TRUE WEB-DL - [4K, 1080p & 720p - HEVC / AVC - 17GB - 7GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - Soft ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340084</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340084"/>
+        <updated>2022-12-06T17:54:51.000Z</updated>
+        <summary type="html"><![CDATA[😄]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Node Modules and How Do You Use Them?]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-node-modules/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-node-modules/"/>
+        <updated>2022-12-06T17:54:33.000Z</updated>
+        <summary type="html"><![CDATA[Every Node.js application has modules. These modules form part of the building blocks of the application. They help developers work faster and write more structured code. In this tutorial, you will learn what node modules are. You will also learn about the three types of node modules. And we'll go]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170677-30-naatkalil-kaadhalippadhu-eppadi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340083</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170677-30-naatkalil-kaadhalippadhu-eppadi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340083"/>
+        <updated>2022-12-06T17:52:10.000Z</updated>
+        <summary type="html"><![CDATA[🥰]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aarathu Sinam (2015) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.7GB - 2.5GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170673-aarathu-sinam-2015-tamil-true-web-dl-1080p-720p-avc-dd51-192kbps-37gb-25gb-14gb-850mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340082</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170673-aarathu-sinam-2015-tamil-true-web-dl-1080p-720p-avc-dd51-192kbps-37gb-25gb-14gb-850mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340082"/>
+        <updated>2022-12-06T17:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Please upload Mouna Guru Movie]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pirates.of.the.Caribbean  (Gdrive)]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170679-piratesofthecaribbean-gdrive/&amp;do=findComment&amp;comment=340081</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170679-piratesofthecaribbean-gdrive/&amp;do=findComment&amp;comment=340081"/>
+        <updated>2022-12-06T17:07:14.000Z</updated>
+        <summary type="html"><![CDATA[Pirates.of.the.Caribbean-The.Curse.of.the.Black.Pearl.2003.BluRay.REMUX.2160p.4K.UHD.HDR.HIN-TAM-TEL.DDP5.1.ENG-TrueHD.Atmos.7.1.DTS.HDMA.7.1.MSubs.x265 (Gdrive) 
+ 
+
+
+	Gdrive https://shareus.in/?i=M8xZpU
+ 
+
+
+	 
+ 
+
+
+	Pirates of the Caribbean - Dead Man's Chest (2006) - 4K HDR - Multi Audio - x265 [Tam + Tel + Hin (DD+ 5.1 640Kbps)] + [Eng (DD 5.1 448Kbps)] ESubs .mkv - 19.98 GB 
+	 https://shareus.in/?i=r9lsI8
+ 
+
+
+	Pirates of the Caribbean - On Stranger Tides (2011) 1080p - Bluray - Multi Audio - x264 [Tam + Tel (DD+ 5.1 640Kbps)] + [Hin + Eng (BD 5.1 640Kbps)] ESubs.mkv - 6.28 GB 
+	 https://shareus.in/?i=y5yCpL]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Generate a Random Number within Certain a Range in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/generate-random-number-within-a-range-in-javascript/"/>
+        <updated>2022-12-06T16:21:25.000Z</updated>
+        <summary type="html"><![CDATA[Let's say you want to generate a random number between 10 and 15 – how do you do that in JavaScript? I'll show you how with examples in this article. In JavaScript, there's the random method of the Math object which returns random numbers. But this has a range limitation.]]></summary>
+        <author>
+            <name>Dillion Megida</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP59 - DAY 58 TRUE WEB-DL - [1080p, 720p, 480p - AVC - UNTOUCHED - 1GB - 500MB & 200MB] [06-12-2022]]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170678-bigg-boss-tamil-2022-s06-ep59-day-58-true-web-dl-1080p-720p-480p-avc-untouched-1gb-500mb-200mb-06-12-2022/&amp;do=findComment&amp;comment=340080</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170678-bigg-boss-tamil-2022-s06-ep59-day-58-true-web-dl-1080p-720p-480p-avc-untouched-1gb-500mb-200mb-06-12-2022/&amp;do=findComment&amp;comment=340080"/>
+        <updated>2022-12-06T15:56:12.000Z</updated>
+        <summary type="html"><![CDATA[BIGG BOSS (Tamil) S06 EP59 - DAY 58 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1.2GB [06-12-2022] : www.11TamilMV.men - BIGG BOSS (Tamil) S06 EP59 - DAY 58 TRUE WEB-DL - 1080p - AVC - AAC - 1.2GB.mkv.torrent   BIGG BOSS (Tamil) S06 EP59 - DAY 58 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 600MB [06-12-2022] : www.11TamilMV.men - BIGG BOSS (Tamil) S06 EP59 - DAY 58 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 700MB.mkv.torrent   BIGG BOSS (Tamil) S06 EP59 - DAY 58 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 200MB [06-12-2022] : www.11TamilMV.men - BIGG BOSS (Tamil) S06 EP59 - DAY 58 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 200MB.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transformers Hexalogy (2007 - 2018) Complete Collection [Tamil + Telugu + Hindi + Eng] - ESubs - GDrive]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170671-transformers-hexalogy-2007-2018-complete-collection-tamil-telugu-hindi-eng-esubs-gdrive/&amp;do=findComment&amp;comment=340079</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170671-transformers-hexalogy-2007-2018-complete-collection-tamil-telugu-hindi-eng-esubs-gdrive/&amp;do=findComment&amp;comment=340079"/>
+        <updated>2022-12-06T15:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Transformers Dark of the Moon (2011) BDRip 1080p x264 {Multi Audio} {Hindi~Tam~Tel~Eng Org DD 5.1}.mkv - 6.54 GBhttps://shareus.in/?i=bH4vBA Transformers Revenge of the Fallen (2009) BDRip 1080p x264 {Multi Audio} {Hindi~Tam~Tel~Eng Org DD 5.1}.mkv - 6.35 GBhttps://shareus.in/?i=kJv9b7 Transforme...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kantara (2022) V2 TRUE WEB-DL - [4K, 1080p & 720p - HEVC / AVC - 17GB - 7GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - Soft ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340078</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340078"/>
+        <updated>2022-12-06T15:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Note : Theatrical Version with Varaha Roopam Song Added.Kantara (2022) TRUE WEB-DL - 4K - 2160p UHD - HEVC - UNTOUCHED - (DD+5.1 - 640Kbps) [Tamil + Telugu + Kannada + Malayalam] - 16GB - ESub :www.1TamilMV.men - Kantara (2022) TRUE WEB-DL - 4K - UHD - HEVC - (DD+5.1 - 640Kbps) [Tam + Tel + Kan +...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170677-30-naatkalil-kaadhalippadhu-eppadi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340077</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170677-30-naatkalil-kaadhalippadhu-eppadi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340077"/>
+        <updated>2022-12-06T15:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download 30 Naatkalil Kaadhalippadhu Eppadi (2022) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - Original Audio (AAC 2.0) [Tamil + Telugu] - 2.8GB - ESub :www.1TamilMV.men - 30 Naatkalil Kaadhalippadhu Eppadi (2022) TRUE WEB-DL - 1080p - [Tamil + Telugu] - 2.8GB - ESub.mkv.torren...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kantara (2022) V2 TRUE WEB-DL - [4K, 1080p & 720p - HEVC / AVC - 17GB - 7GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - Soft ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340076</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340076"/>
+        <updated>2022-12-06T15:30:05.000Z</updated>
+        <summary type="html"><![CDATA[They removed the VARAHA ROOPAM ORIGINAL VERSION and replaced a similar song in OTT version coz of the court order.Now the court lifted the ban and they added the song back again.]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170677-30-naatkalil-kaadhalippadhu-eppadi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340075</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170677-30-naatkalil-kaadhalippadhu-eppadi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340075"/>
+        <updated>2022-12-06T15:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download 30 Naatkalil Kaadhalippadhu Eppadi (2022) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - Original Audio (AAC 2.0) [Tamil + Telugu] - 2.8GB - ESub :www.1TamilMV.men - 30 Naatkalil Kaadhalippadhu Eppadi (2022) TRUE WEB-DL - 1080p - [Tamil + Telugu] - 2.8GB - ESub.mkv.torren...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35 Tamil Movies - SS/AMZN/SUN NXT/JC/ZEE5 - WEB DL - H264/H265 - DDP5.1/DD2.0 - Esub - [2160p, 1080p & 720p - 300GB] [GDRIVE]]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/139536-35-tamil-movies-ssamznsun-nxtjczee5-web-dl-h264h265-ddp51dd20-esub-2160p-1080p-720p-300gb-gdrive/&amp;do=findComment&amp;comment=340074</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/139536-35-tamil-movies-ssamznsun-nxtjczee5-web-dl-h264h265-ddp51dd20-esub-2160p-1080p-720p-300gb-gdrive/&amp;do=findComment&amp;comment=340074"/>
+        <updated>2022-12-06T14:44:20.000Z</updated>
+        <summary type="html"><![CDATA[All links updated...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170677-30-naatkalil-kaadhalippadhu-eppadi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340073</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170677-30-naatkalil-kaadhalippadhu-eppadi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340073"/>
+        <updated>2022-12-06T14:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download   30 Naatkalil Kaadhalippadhu Eppadi (2022) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - Original Audio (AAC 2.0) [Tamil + Telugu] - 2.8GB - ESub : www.1TamilMV.men - 30 Naatkalil Kaadhalippadhu Eppadi (2022) TRUE WEB-DL - 1080p - [Tamil + Telugu] - 2.8GB - ESub.mkv.torrent   30 Naatkalil Kaadhalippadhu Eppadi (2022) HQ HDRip - 720p - x264 - Original Audio (AAC 2.0) [Tamil + Telugu] - 1.4GB - ESub : www.1TamilMV.men - 30 Naatkalil Kaadhalippadhu Eppadi (2022) HQ HDRip - 720p - [Tamil + Telugu] - 1.4GB - ESub.mkv.torrent   30 Naatkalil Kaadhalippadhu Eppadi (2022) HQ HDRip - 720p - HEVC - x265 - Original Audio (AAC 2.0) [Tamil + Telugu] - 850MB - ESub : www.1TamilMV.men - 30 Naatkalil Kaadhalippadhu Eppadi (2022) HQ HDRip - 720p - HEVC - [Tamil + Telugu] - 850MB - ESub.mkv.torrent   30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil HQ HDRip - 700MB - x264 - Original Audio - AAC - ESub : www.1TamilMV.men - 30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil HQ HDRip - 700MB - x264 - Original Aud - ESub.mkv.torrent   30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil HQ HDRip - 400MB - x264 - Original Audio - AAC - ESub : www.1TamilMV.men - 30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil HQ HDRip - 400MB - x264 - Original Aud - ESub.mkv.torrent   30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil HQ HDRip - 250MB - x264 - Original Audio - AAC - ESub : www.1TamilMV.men - 30 Naatkalil Kaadhalippadhu Eppadi (2022) Tamil HQ HDRip - 250MB - x264 - Original Aud - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thee Thalapathy (From "Varisu") (2022) Tamil [ALAC & FLAC] [24Bit/16Bit] iTunes HQ MP3 [320Kbps & 128Kbps] - Thaman S Musical]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170676-thee-thalapathy-from-varisu-2022-tamil-alac-flac-24bit16bit-itunes-hq-mp3-320kbps-128kbps-thaman-s-musical/&amp;do=findComment&amp;comment=340072</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170676-thee-thalapathy-from-varisu-2022-tamil-alac-flac-24bit16bit-itunes-hq-mp3-320kbps-128kbps-thaman-s-musical/&amp;do=findComment&amp;comment=340072"/>
+        <updated>2022-12-06T13:52:00.000Z</updated>
+        <summary type="html"><![CDATA[==================================================================================
+ 
+
+
+	Info About The Album:-
+ 
+
+
+	1 - Thee Thalapathy (From "Varisu") : Silambarasan TR
+ 
+
+
+	==================================================================================
+ 
+
+
+	Album / Movie : Varisu
+ 
+
+
+	Music / Composer : Thaman S 
+ 
+
+
+	Year Released: 2022
+ 
+
+
+	Language: Tamil 
+ 
+
+
+	Samplerate / Bits: [16-Bit 44.1kHz]
+ 
+
+
+	Label: © 2022 T-Series/Super Cassettes Industries Private Limited.
+ 
+
+
+	==================================================================================
+ 
+
+
+	Tamil iTunes Xtreme Quality's : 
+	 [Apple Lossless - 16Bit ALAC - 46MB] - [CD Quality - 16Bit FLAC - 35MB]
+ 
+
+
+	[iTunes HQ MP3 - 320Kbps - 12MB] - [iTunes HQ MP3 - 128Kbps - 6MB]
+ 
+
+
+	
+ 
+
+
+	New Release Updates - Follow - Instantly Notification
+ 
+
+
+	
+		
+	
+
+
+
+	Ranjithame (From "Varisu") (2022) Tamil [ALAC & FLAC] [24Bit/16Bit] iTunes HQ MP3 [320Kbps & 128Kbps] - Thaman S Musical]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSP (2022) Tamil Proper HQ PreDVD - [1080p & 720p - x264 - 2.8GB - 1.6GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170582-dsp-2022-tamil-proper-hq-predvd-1080p-720p-x264-28gb-16gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=340071</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170582-dsp-2022-tamil-proper-hq-predvd-1080p-720p-x264-28gb-16gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=340071"/>
+        <updated>2022-12-06T12:24:26.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kantara (2022) V2 TRUE WEB-DL - [4K, 1080p & 720p - HEVC / AVC - 17GB - 7GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - Soft ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340070</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340070"/>
+        <updated>2022-12-06T12:22:43.000Z</updated>
+        <summary type="html"><![CDATA[WHAT IS THE DIFFERENCE FROM OTT VERSION???]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accessible Front-End Patterns For Responsive Tables (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/</id>
+        <link href="https://smashingmagazine.com/2022/12/accessible-front-end-patterns-responsive-tables-part1/"/>
+        <updated>2022-12-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There is no universal solution for making every kind of table responsive and usable on smaller screens, so we have to rely on various patterns, which Adrian explains in this two-part series.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aranmanai 2 (2016) Tamil 1080p WEB DL Untouched x264 AVC DDP5.1 - 7GB [Gdrive]]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/128916-aranmanai-2-2016-tamil-1080p-web-dl-untouched-x264-avc-ddp51-7gb-gdrive/&amp;do=findComment&amp;comment=340069</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/128916-aranmanai-2-2016-tamil-1080p-web-dl-untouched-x264-avc-ddp51-7gb-gdrive/&amp;do=findComment&amp;comment=340069"/>
+        <updated>2022-12-06T11:58:44.000Z</updated>
+        <summary type="html"><![CDATA[Page Not Found - Bro. Please be Reupload This Movie?]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35 Tamil Movies - SUN NXT / AMZN / TK / JC / ASTRO WEB DL - H264 / H265 - DDP5.1 / DD2.0 - Esub - 400GB [Gdrive]]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/121274-35-tamil-movies-sun-nxt-amzn-tk-jc-astro-web-dl-h264-h265-ddp51-dd20-esub-400gb-gdrive/&amp;do=findComment&amp;comment=340068</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/121274-35-tamil-movies-sun-nxt-amzn-tk-jc-astro-web-dl-h264-h265-ddp51-dd20-esub-400gb-gdrive/&amp;do=findComment&amp;comment=340068"/>
+        <updated>2022-12-06T11:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Bro "Aranmanai (2014) Movie Link Works Fine]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brahmāstra: Part One – Shiva (2022) MULTI (Complete Music Video Album) - HQ 2160p - DSNP - H265 - DDP 5.1 ATMOS® 768Kbps - 8.5GB 〰️ [avatar]]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170168-brahm%C4%81stra-part-one-%E2%80%93-shiva-2022-multi-complete-music-video-album-hq-2160p-dsnp-h265-ddp-51-atmos%C2%AE-768kbps-85gb-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=340067</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170168-brahm%C4%81stra-part-one-%E2%80%93-shiva-2022-multi-complete-music-video-album-hq-2160p-dsnp-h265-ddp-51-atmos%C2%AE-768kbps-85gb-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=340067"/>
+        <updated>2022-12-06T11:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Ok Bro. Thanks For the Reply.]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kantara (2022) V2 TRUE WEB-DL - [4K, 1080p & 720p - HEVC / AVC - 17GB - 7GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - Soft ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340066</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340066"/>
+        <updated>2022-12-06T11:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Master piece]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kantara (2022) V2 TRUE WEB-DL - [4K, 1080p & 720p - HEVC / AVC - 17GB - 7GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - Soft ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340065</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170675-kantara-2022-v2-true-web-dl-4k-1080p-720p-hevc-avc-17gb-7gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-soft-esub/&amp;do=findComment&amp;comment=340065"/>
+        <updated>2022-12-06T09:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Note : Theatrical Version with Varaha Roopam Song Added.  Kantara (2022) TRUE WEB-DL - 4K - 2160p UHD - HEVC - UNTOUCHED - (DD+5.1 - 640Kbps) [Tamil + Telugu + Kannada + Malayalam] - 16GB - ESub : www.1TamilMV.men - Kantara (2022) TRUE WEB-DL - 4K - UHD - HEVC - (DD+5.1 - 640Kbps) [Tam + Tel + Kan + Mal] - 16GB - ESub.mkv.torrent   Kantara (2022) TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DD+5.1 - 640Kbps) [Tamil + Telugu + Kannada + Malayalam] - 12GB - ESub : www.1TamilMV.men - Kantara (2022) TRUE WEB-DL - 1080p HQ - AVC - (DD+5.1 - 640Kbps) [Tam + Tel + Kan + Mal] - 12GB - ESub.mkv.torrent   Kantara (2022) HQ HDRip - 1080p - x264 - (DD+5.1 - 640Kbps) - [Tamil + Telugu + Kannada + Malayalam] - 5GB - ESub : www.1TamilMV.men - Kantara (2022) HQ HDRip - 1080p - x264 - (DD+5.1 - 640Kbps) - [Tam + Tel + Kan + Mal] - 5GB - ESub.mkv.torrent   Kantara (2022) HQ HDRip - 1080p - x264 - (DD+5.1 - 192Kbps) - [Tamil + Telugu + Kannada + Malayalam] - 3.2GB - ESub : www.1TamilMV.men - Kantara (2022) Tamil HQ HDRip - 1080p - x264 - (DD+5.1 - 192Kbps) - [Tam + Tel + Kan + Mal] - 3.2GB - ESub.mkv.torrent   Kantara (2022) HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps) - [Tamil + Telugu + Kannada + Malayalam] - 2GB - ESub : www.1TamilMV.men - Kantara (2022) HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps) - [Tam + Tel + Kan + Mal] - 2GB - ESub.mkv.torrent   Kantara (2022) HQ HDRip - 720p - HEVC - x265 - (AAC 2.0) - [Tamil + Telugu + Kannada + Malayalam] - 900MB - ESub : www.1TamilMV.men - Kantara (2022) HQ HDRip - 720p - HEVC - x265 - [Tam + Tel + Kan + Mal] - AAC - 900MB - ESub.mkv.torrent   Kantara (2022) HQ HDRip - x264 - [Tamil + Telugu + Kannada + Malayalam] - 600MB - ESub : www.1TamilMV.men - Kantara (2022) HQ HDRip - x264 - [Tam + Tel + Kan + Mal] - 600MB - ESub.mkv.torrent   Kantara (2022) HQ HDRip - x264 - [Tamil + Kannada] - 400MB - ESub : www.1TamilMV.men - Kantara (2022) HQ HDRip - x264 - [Tamil + Kannada] - 400MB - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untouched Tamil BluRay collection BD50 (Gdrive)]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170655-untouched-tamil-bluray-collection-bd50-gdrive/&amp;do=findComment&amp;comment=340064</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170655-untouched-tamil-bluray-collection-bd50-gdrive/&amp;do=findComment&amp;comment=340064"/>
+        <updated>2022-12-06T09:00:26.000Z</updated>
+        <summary type="html"><![CDATA[.sorry bro if i distrub..its stuck for 94.2% ..of pokkiri movie ..can you help me.]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aarathu Sinam (2015) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.7GB - 2.5GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170673-aarathu-sinam-2015-tamil-true-web-dl-1080p-720p-avc-dd51-192kbps-37gb-25gb-14gb-850mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340063</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170673-aarathu-sinam-2015-tamil-true-web-dl-1080p-720p-avc-dd51-192kbps-37gb-25gb-14gb-850mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340063"/>
+        <updated>2022-12-06T08:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Aarathu Sinam (2015) Tamil TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DD+5.1 - 192Kbps & AAC 2.0) - 3.7GB - ESub :www.1TamilMV.men - Araathu Sinam (2015) Tamil TRUE WEB-DL - 1080p HQ - AVC - (DD+5.1 - 192Kbps & AAC) - 3.7GB - ESub.mkv.torrentAarathu Sinam (2015) Tamil HQ HDRip - 1080p - ...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vaaranam Aayiram (2008) Tamil Remastered WEB-DL - [4K, 1080p & 720p - AVC / HEVC - (DD5.1 - 320Kbps) - 7.8GB - 2.7GB - 1.4GB & 950MB] - [x264 - 700MB - 400MB]]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170663-vaaranam-aayiram-2008-tamil-remastered-web-dl-4k-1080p-720p-avc-hevc-dd51-320kbps-78gb-27gb-14gb-950mb-x264-700mb-400mb/&amp;do=findComment&amp;comment=340062</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170663-vaaranam-aayiram-2008-tamil-remastered-web-dl-4k-1080p-720p-avc-hevc-dd51-320kbps-78gb-27gb-14gb-950mb-x264-700mb-400mb/&amp;do=findComment&amp;comment=340062"/>
+        <updated>2022-12-06T07:55:03.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aarathu Sinam (2015) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.7GB - 2.5GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170673-aarathu-sinam-2015-tamil-true-web-dl-1080p-720p-avc-dd51-192kbps-37gb-25gb-14gb-850mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340061</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170673-aarathu-sinam-2015-tamil-true-web-dl-1080p-720p-avc-dd51-192kbps-37gb-25gb-14gb-850mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340061"/>
+        <updated>2022-12-06T07:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Nice Share Bro]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gobuster Tutorial – How to Find Hidden Directories, Sub-Domains, and S3 Buckets]]></title>
         <id>https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/</id>
@@ -9279,95 +9672,6 @@
         <summary type="html"><![CDATA[Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Atila Fassina)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathonpatham Noottandu (2022) Malayalam TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.7GB & 1.4GB & 250MB] - [x264 - 700MB & 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cfd/index.php?/forums/topic/170175-pathonpatham-noottandu-2022-malayalam-true-web-dl-1080p-720p-avc-dd51-640kbps-27gb-14gb-250mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=338739</id>
-        <link href="https://www.1tamilmv.cfd/index.php?/forums/topic/170175-pathonpatham-noottandu-2022-malayalam-true-web-dl-1080p-720p-avc-dd51-640kbps-27gb-14gb-250mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=338739"/>
-        <updated>2022-11-07T01:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Nice]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banaras (2022) Telugu Proper HQ PreDVD - [720p - x264 - 1.4GB & 900MB | x264 - 700MB & 400MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.cfd/index.php?/forums/topic/170173-banaras-2022-telugu-proper-hq-predvd-720p-x264-14gb-900mb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=338738</id>
-        <link href="https://www.1tamilmv.cfd/index.php?/forums/topic/170173-banaras-2022-telugu-proper-hq-predvd-720p-x264-14gb-900mb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=338738"/>
-        <updated>2022-11-07T01:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Banaras (2022) Telugu Proper HQ PreDVD - 720p - x264 - HQ Clean Audio - 1.6GB :www.1TamilMV.cfd - Banaras (2022) Telugu Proper HQ PreDVD - 720p - x264 - HQ Clean Aud - 1.6GB.mkv.torrentBanaras (2022) Telugu Proper HQ PreDVD - 720p - x264 - HQ Clean Audio - 950MB :www.1TamilMV.cfd - Banaras (2022)...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathonpatham Noottandu (2022) Malayalam TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.7GB & 1.4GB & 250MB] - [x264 - 700MB & 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cfd/index.php?/forums/topic/170175-pathonpatham-noottandu-2022-malayalam-true-web-dl-1080p-720p-avc-dd51-640kbps-27gb-14gb-250mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=338737</id>
-        <link href="https://www.1tamilmv.cfd/index.php?/forums/topic/170175-pathonpatham-noottandu-2022-malayalam-true-web-dl-1080p-720p-avc-dd51-640kbps-27gb-14gb-250mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=338737"/>
-        <updated>2022-11-06T21:43:17.000Z</updated>
-        <summary type="html"><![CDATA[Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 1080p - x264 - (DD+ 5.1 - 640Kbps & AAC 2.0) - 3GB - ESub :www.1TamilMV.cfd - Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 1080p - x264 - (DD+ 5.1 - 640Kbps & AAC) - 3GB - ESub.mkv.torrentPathonpatham Noottandu (2022) Malayalam HQ H...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pathonpatham Noottandu (2022) Malayalam TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.7GB & 1.4GB & 250MB] - [x264 - 700MB & 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cfd/index.php?/forums/topic/170175-pathonpatham-noottandu-2022-malayalam-true-web-dl-1080p-720p-avc-dd51-640kbps-27gb-14gb-250mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=338736</id>
-        <link href="https://www.1tamilmv.cfd/index.php?/forums/topic/170175-pathonpatham-noottandu-2022-malayalam-true-web-dl-1080p-720p-avc-dd51-640kbps-27gb-14gb-250mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=338736"/>
-        <updated>2022-11-06T19:16:13.000Z</updated>
-        <summary type="html"><![CDATA[Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 1080p - x264 - (DD+ 5.1 - 640Kbps & AAC 2.0) - 3GB - ESub : www.1TamilMV.cfd - Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 1080p - x264 - (DD+ 5.1 - 640Kbps & AAC) - 3GB - ESub.mkv.torrent   Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 1080p - x264 - (DD+ 5.1 - 192Kbps & AAC 2.0) - 2.3GB - ESub : www.1TamilMV.cfd - Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 1080p - x264 - (DD+ 5.1 - 192Kbps & AAC) - 2.4GB - ESub.mkv.torrent   Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 720p - x264 - (DD+ 5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub : www.1TamilMV.cfd - Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 720p - x264 - (DD+ 5.1 - 192Kbps & AAC) - 1.4GB - ESub.mkv.torrent   Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 700MB - x264 - AAC - ESub : www.1TamilMV.cfd - Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 700MB - x264 - AAC - ESub.mkv.torrent   Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 400MB - x264 - AAC - ESub : www.1TamilMV.cfd - Pathonpatham Noottandu (2022) Malayalam HQ HDRip - 400MB - x264 - AAC - ESub.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP29 Tamil Full Show]]></title>
-        <id>https://www.1tamilmv.cfd/index.php?/forums/topic/170174-bigg-boss-tamil-2022-s06-ep29-tamil-full-show/&amp;do=findComment&amp;comment=338735</id>
-        <link href="https://www.1tamilmv.cfd/index.php?/forums/topic/170174-bigg-boss-tamil-2022-s06-ep29-tamil-full-show/&amp;do=findComment&amp;comment=338735"/>
-        <updated>2022-11-06T19:05:14.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banaras (2022) Telugu Proper HQ PreDVD - [720p - x264 - 1.4GB & 900MB | x264 - 700MB & 400MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.cfd/index.php?/forums/topic/170173-banaras-2022-telugu-proper-hq-predvd-720p-x264-14gb-900mb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=338734</id>
-        <link href="https://www.1tamilmv.cfd/index.php?/forums/topic/170173-banaras-2022-telugu-proper-hq-predvd-720p-x264-14gb-900mb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=338734"/>
-        <updated>2022-11-06T18:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Banaras (2022) Telugu Proper HQ PreDVD - 720p - x264 - HQ Clean Audio - 1.6GB : www.1TamilMV.cfd - Banaras (2022) Telugu Proper HQ PreDVD - 720p - x264 - HQ Clean Aud - 1.6GB.mkv.torrent Banaras (2022) Telugu Proper HQ PreDVD - 720p - x264 - HQ Clean Audio - 950MB : www.1TamilMV.cfd - Banaras (2022) Telugu Proper HQ PreDVD - 720p - x264 - HQ Clean Aud - 950MB.mkv.torrent Banaras (2022) Telugu Proper HQ PreDVD - 700MB - x264 - HQ Clean Audio : www.1TamilMV.cfd - Banaras (2022) Telugu Proper HQ PreDVD - 700MB - x264 - HQ Clean Aud.mkv.torrent Banaras (2022) Telugu Proper HQ PreDVD - 400MB - x264 - HQ Clean Audio : www.1TamilMV.cfd - Banaras (2022) Telugu Proper HQ PreDVD - 400MB - x264 - HQ Clean Aud.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ponniyin Selvan 1 (2022) Tamil Full Movie Download AMZN TRUE WEB-DL – [4K , 1080p & 720p – AVC / HEVC – (DD+5.1 ATMOS – 448Kbps & AAC 2.0) – 14GB – 3.5GB & 2.2GB] – ESub - [GDriveLinks]]]></title>
-        <id>https://www.1tamilmv.cfd/index.php?/forums/topic/170108-ponniyin-selvan-1-2022-tamil-full-movie-download-amzn-true-web-dl-%E2%80%93-4k-1080p-720p-%E2%80%93-avc-hevc-%E2%80%93-dd51-atmos-%E2%80%93-448kbps-aac-20-%E2%80%93-14gb-%E2%80%93-35gb-22gb-%E2%80%93-esub-gdrivelinks/&amp;do=findComment&amp;comment=338733</id>
-        <link href="https://www.1tamilmv.cfd/index.php?/forums/topic/170108-ponniyin-selvan-1-2022-tamil-full-movie-download-amzn-true-web-dl-%E2%80%93-4k-1080p-720p-%E2%80%93-avc-hevc-%E2%80%93-dd51-atmos-%E2%80%93-448kbps-aac-20-%E2%80%93-14gb-%E2%80%93-35gb-22gb-%E2%80%93-esub-gdrivelinks/&amp;do=findComment&amp;comment=338733"/>
-        <updated>2022-11-06T16:21:21.000Z</updated>
-        <summary type="html"><![CDATA[links are not working!!!!!]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teen Titans: Trouble in Tokyo (2006) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 1.6GB & 850MB| x264 - (Tam + Tel + Hin) - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cfd/index.php?/forums/topic/170170-teen-titans-trouble-in-tokyo-2006-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-16gb-850mb-x264-tam-tel-hin-400mb-esub/&amp;do=findComment&amp;comment=338732</id>
-        <link href="https://www.1tamilmv.cfd/index.php?/forums/topic/170170-teen-titans-trouble-in-tokyo-2006-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-16gb-850mb-x264-tam-tel-hin-400mb-esub/&amp;do=findComment&amp;comment=338732"/>
-        <updated>2022-11-06T16:17:55.000Z</updated>
-        <summary type="html"><![CDATA[Good 😀]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP29 - DAY 28 TRUE WEB-DL - [1080p, 720p, 480p - AVC - UNTOUCHED - 1.4GB - 650MB & 250MB] [06-11-2022]]]></title>
-        <id>https://www.1tamilmv.cfd/index.php?/forums/topic/170172-bigg-boss-tamil-2022-s06-ep29-day-28-true-web-dl-1080p-720p-480p-avc-untouched-14gb-650mb-250mb-06-11-2022/&amp;do=findComment&amp;comment=338731</id>
-        <link href="https://www.1tamilmv.cfd/index.php?/forums/topic/170172-bigg-boss-tamil-2022-s06-ep29-day-28-true-web-dl-1080p-720p-480p-avc-untouched-14gb-650mb-250mb-06-11-2022/&amp;do=findComment&amp;comment=338731"/>
-        <updated>2022-11-06T14:40:49.000Z</updated>
-        <summary type="html"><![CDATA[BIGG BOSS (Tamil) S06 EP29 - DAY 28 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1.4GB [06-11-2022] : www.1TamilMV.cfd - BIGG BOSS (Tamil) S06 EP29 - DAY 28 TRUE WEB-DL - 1080p - AVC - AAC - 1.4GB.mkv.torrent   BIGG BOSS (Tamil) S06 EP29 - DAY 28 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 600MB [06-11-2022] : www.1TamilMV.cfd - BIGG BOSS (Tamil) S06 EP29 - DAY 28 TRUE WEB-DL - 720p - AVC - AAC - 650MB.mkv.torrent   BIGG BOSS (Tamil) S06 EP29 - DAY 28 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 250MB [06-11-2022] : www.1TamilMV.cfd - BIGG BOSS (Tamil) S06 EP29 - DAY 28 TRUE WEB-DL - 480p - AVC - AAC - 250MB.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
         </author>
     </entry>
 </feed>
