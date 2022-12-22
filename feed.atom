@@ -2,10 +2,423 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T01:34:09.966Z</updated>
+    <updated>2022-12-22T01:36:28.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam] - 10GB - 4GB - 1.8GB & 1.2GB] - [x264 - 850MB - 450MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170896-jaya-jaya-jaya-jaya-hey-2022-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-tamil-telugu-hindi-malayalam-10gb-4gb-18gb-12gb-x264-850mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=340669</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170896-jaya-jaya-jaya-jaya-hey-2022-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-tamil-telugu-hindi-malayalam-10gb-4gb-18gb-12gb-x264-850mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=340669"/>
+        <updated>2022-12-21T22:14:44.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - 4K UHD - 2160p SDR - HEVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam] - 10GB - ESub :www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - 4K - HEVC - (DD+5.1 - 192Kbps) [Tam + Tel + H...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filtering in C# – How to Filter a List with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/</id>
+        <link href="https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/"/>
+        <updated>2022-12-21T21:45:12.000Z</updated>
+        <summary type="html"><![CDATA[Filtering through a data set is one of the most basic operations a developer should know how to perform.  Filtering [https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/filtering-data]  refers to the process of restricting the result set to contain only those elements that satisfy a specified condition. It is also known as selection.  To]]></summary>
+        <author>
+            <name>Edeh Israel Chidera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeError: can't multiply sequence by non-int of type float [Solved Python Error]]]></title>
+        <id>https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error-3/</id>
+        <link href="https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error-3/"/>
+        <updated>2022-12-21T21:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Most times when you encounter errors while coding, you can discover the reason why the error is occurring and how you can fix it in the error message. The Python error, "TypeError: can't multiply sequence by non-int of type float" is no exception to that. I have prepared this article]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Scapy – Python Networking Tool Explained]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-scapy-python-networking/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-scapy-python-networking/"/>
+        <updated>2022-12-21T21:02:17.000Z</updated>
+        <summary type="html"><![CDATA[In this post you will learn about an amazing tool named Scapy. Scapy is a Python library that enables us to send, sniff, and dissect network frames.  It is useful in a variety of use cases, one of which is to actually get some hands-on experience when you learn]]></summary>
+        <author>
+            <name>Omer Rosenbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concurrent Programming in Go – Goroutines, Channels, and More Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/concurrent-programming-in-go/</id>
+        <link href="https://www.freecodecamp.org/news/concurrent-programming-in-go/"/>
+        <updated>2022-12-21T19:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Concurrency refers to a programming language's ability to deal with lots of things at once. A good way to understand concurrency is by imagining multiple cars traveling on two lanes. Sometimes the cars overtake each other, and sometimes they stop and let others pass by. Another good example is when]]></summary>
+        <author>
+            <name>Rwitesh Bera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Download and Trim MP3s from YouTube with Python]]></title>
+        <id>https://www.freecodecamp.org/news/download-trim-mp3-from-youtube-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/download-trim-mp3-from-youtube-with-python/"/>
+        <updated>2022-12-21T18:57:27.000Z</updated>
+        <summary type="html"><![CDATA[Everybody's different, but I believe that nearly all of us enjoy listening to music. If you want to keep a local version of audio streams you often listen to, you'll need to download these files. Sometimes you'll also want to clip a portion of this audio file instead of having]]></summary>
+        <author>
+            <name>Otavio Ehrenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaya Jaya Jaya Jaya Hey (2022) Malayalam TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170898-jaya-jaya-jaya-jaya-hey-2022-malayalam-true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340668</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170898-jaya-jaya-jaya-jaya-hey-2022-malayalam-true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340668"/>
+        <updated>2022-12-21T18:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - 4K UHD - 2160p SDR - HEVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam] - 10GB - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - 4K - HEVC - (DD+5.1 - 192Kbps) [Tam + Tel + Hin + Mal] - 10GB - ESub.mkv.torrent   Jaya Jaya Jaya Jaya Hey (2022) Malayalam TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps & AAC 2.0) - 3.5GB - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) Malayalam TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps & AAC) - 3.5GB - ESub.mkv.torrent   Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 1080p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 2.5GB - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 1080p - x264 - (DD5.1 - 192Kbps & AAC) - 2.5GB - ESub.mkv.torrent   Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 720p - x264 - (DD5.1 - 192Kbps & AAC) - 1.4GB - ESub.mkv.torrent   Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 720p - HEVC - x265 - (DD5.1 - 192Kbps & AAC 2.0) - 1GB - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 720p - HEVC - x265 - (DD5.1 - 192Kbps & AAC) - 1GB - ESub.mkv.torrent   Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 700MB - x264 - AAC - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 700MB - x264 - AAC - ESub.mkv.torrent   Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 400MB - x264 - AAC - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 400MB - x264 - AAC - ESub.mkv.torrent   Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 250MB - x264 - AAC - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) Malayalam HQ HDRip - 250MB - x264 - AAC - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGGEST_UNTOUCHED_BLU_RAY_COLLECTION_OF_INDIAN_CINEMA_INDUSTRY_ALL_Time (Gdrive)]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170897-biggest_untouched_blu_ray_collection_of_indian_cinema_industry_all_time-gdrive/&amp;do=findComment&amp;comment=340667</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170897-biggest_untouched_blu_ray_collection_of_indian_cinema_industry_all_time-gdrive/&amp;do=findComment&amp;comment=340667"/>
+        <updated>2022-12-21T18:11:36.000Z</updated>
+        <summary type="html"><![CDATA[BIGGEST_UNTOUCHED_BLU_RAY_COLLECTION_OF_INDIAN_CINEMA_INDUSTRY_ALL
+ 
+
+
+	Download In pdf format(https://shareus.in/?i=yj6A2q)
+ 
+
+
+	 
+ 
+
+
+	 
+
+
+	 
+ 
+
+
+	Note: To get free shared drive with unlimited storge to download large file more than 15gb  use the link (https://shareus.in/?i=duoITh)
+ 
+
+
+	Note: How to Bypass 403 GDToT Rate Limit while Login (https://shareus.in/?i=RHxwtR)
+ 
+
+
+	Note: How to create Gdrive index so that the download won't stuck and we can pause and resume the download (https://shareus.in/?i=CJvoze)
+ 
+
+
+	Note: use Jdownloader for smooth download
+ 
+
+
+	 
+ 
+
+
+	 
+ 
+
+
+	3 Idiots 2009 1080p Blu-ray AVC DTS-HDMA5.1-8818.ISO – 40.35 GB
+ 
+
+
+	https://shareus.in/?i=dMpC2j
+ 
+
+
+	 
+ 
+
+
+	A Flying Jatt.2016.BD50.Untouched JPN BluRay.DRs.zip – 38.95 GB
+ 
+
+
+	https://shareus.in/?i=nABjVy
+ 
+
+
+	 
+ 
+…]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Abstraction in Programming? Explained for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-abstraction-in-programming-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-abstraction-in-programming-for-beginners/"/>
+        <updated>2022-12-21T18:08:21.000Z</updated>
+        <summary type="html"><![CDATA[This article will not be a dry and boring explanation of abstract classes, interfaces, protocols, or similar software entities. I will explain what they are in simple terms, but my main goal is to change how you think about abstractions in general. All of this is in service of helping]]></summary>
+        <author>
+            <name>Ryan Michael Kay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masooda (2022) Telugu TRUE WEB-DL - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 3.4GB - 2.3GB - 1.3GB & 800MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170886-masooda-2022-telugu-true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-34gb-23gb-13gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340666</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170886-masooda-2022-telugu-true-web-dl-4k-1080p-720p-avc-hevc-dd51-384kbps-34gb-23gb-13gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=340666"/>
+        <updated>2022-12-21T17:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download Masooda (2022) Telugu TRUE WEB-DL - 4K - 2160p SDR - HEVC - UNTOUCHED - (DD+5.1 - 384Kbps & AAC 2.0) - 4GB - ESub :www.1TamilMV.men - Masooda (2022) Telugu TRUE WEB-DL - 4K - 2160p - HEVC - (DD+5.1 - 384Kbps & AAC) - 4GB - ESub.mkv.torrentMasooda (2022) Tel...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam] - 10GB - 4GB - 1.8GB & 1.2GB] - [x264 - 850MB - 450MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170896-jaya-jaya-jaya-jaya-hey-2022-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-tamil-telugu-hindi-malayalam-10gb-4gb-18gb-12gb-x264-850mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=340665</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170896-jaya-jaya-jaya-jaya-hey-2022-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-tamil-telugu-hindi-malayalam-10gb-4gb-18gb-12gb-x264-850mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=340665"/>
+        <updated>2022-12-21T17:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download   Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - 4K UHD - 2160p SDR - HEVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam] - 10GB - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - 4K - HEVC - (DD+5.1 - 192Kbps) [Tam + Tel + Hin + Mal] - 10GB - ESub.mkv.torrent   Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam] - 4GB - ESub : www.1TamilMV.men - Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps) [Tam + Tel + Hin + Mal] - 4GB - ESub.mkv.torrent   Jaya Jaya Jaya Jaya Hey (2022) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Malayalam] - 2.6GB - ESub : www.1TamilMV.men - Jaya J…]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jayamma Panchayathi (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Kannada) - 2.4GB & 1.3GB] - [x264 - 750MB & 400MB] - ESub - Leyon]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/168301-jayamma-panchayathi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-kannada-24gb-13gb-x264-750mb-400mb-esub-leyon/&amp;do=findComment&amp;comment=340664</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/168301-jayamma-panchayathi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-kannada-24gb-13gb-x264-750mb-400mb-esub-leyon/&amp;do=findComment&amp;comment=340664"/>
+        <updated>2022-12-21T17:29:11.000Z</updated>
+        <summary type="html"><![CDATA[😶]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Santa Tracker App with Next.js and React Leaflet]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-santa-tracker-app-with-next-js-react-leaflet/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-santa-tracker-app-with-next-js-react-leaflet/"/>
+        <updated>2022-12-21T16:42:06.000Z</updated>
+        <summary type="html"><![CDATA[It's the holiday season and Santa's coming! But just like he watches all of us, we can build a map-based tracking app to keep an eye on him and find out when he'll come on Christmas night with Next.js and React Leaflet.  *  How can we track Santa?]]></summary>
+        <author>
+            <name>Colby Fayock</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Normalization – Normal Forms 1nf 2nf 3nf Table Examples]]></title>
+        <id>https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/</id>
+        <link href="https://www.freecodecamp.org/news/database-normalization-1nf-2nf-3nf-table-examples/"/>
+        <updated>2022-12-21T16:40:26.000Z</updated>
+        <summary type="html"><![CDATA[In relational databases, especially large ones, you need to arrange entries so that other maintainers and administrators can read them and work on them. This is why database normalization is important. In simple words, database normalization entails organizing a database into several tables in order to reduce redundancy. You can]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[45 Tamil Movies - TK / JC / SS / SUN NXT WEB DL H264 - DDP5.1/AAC2.0 - [1080p & 720p - 450GB] [Gdrive]]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/142918-45-tamil-movies-tk-jc-ss-sun-nxt-web-dl-h264-ddp51aac20-1080p-720p-450gb-gdrive/&amp;do=findComment&amp;comment=340663</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/142918-45-tamil-movies-tk-jc-ss-sun-nxt-web-dl-h264-ddp51aac20-1080p-720p-450gb-gdrive/&amp;do=findComment&amp;comment=340663"/>
+        <updated>2022-12-21T15:57:49.000Z</updated>
+        <summary type="html"><![CDATA[All links updated...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Stunning QR Codes with Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-stunning-qr-codes-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-stunning-qr-codes-with-python/"/>
+        <updated>2022-12-21T15:40:05.000Z</updated>
+        <summary type="html"><![CDATA[A quick response (QR) code is a barcode that a digital device can easily scan. It encodes data as a series of pixels in a square grid.  Tracking information about supply chains using QR codes is very useful in marketing and advertising campaigns. The International Organization for Standardization certified]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGG BOSS Tamil (2022) S06 EP74 - DAY 73 TRUE WEB-DL - [1080p, 720p, 480p - AVC - UNTOUCHED - 1GB - 650MB & 250MB] [21-12-2022]]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170895-bigg-boss-tamil-2022-s06-ep74-day-73-true-web-dl-1080p-720p-480p-avc-untouched-1gb-650mb-250mb-21-12-2022/&amp;do=findComment&amp;comment=340662</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170895-bigg-boss-tamil-2022-s06-ep74-day-73-true-web-dl-1080p-720p-480p-avc-untouched-1gb-650mb-250mb-21-12-2022/&amp;do=findComment&amp;comment=340662"/>
+        <updated>2022-12-21T15:04:12.000Z</updated>
+        <summary type="html"><![CDATA[BIGG BOSS (Tamil) S06 EP74 - DAY 73 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB [21-12-2022] : www.1TamilMV.men - BIGG BOSS (Tamil) S06 EP74 - DAY 73 TRUE WEB-DL - 1080p - AVC - AAC - 950MB.mkv.torrent   BIGG BOSS (Tamil) S06 EP74 - DAY 73 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 500MB [21-12-2022] : www.1TamilMV.men - BIGG BOSS (Tamil) S06 EP74 - DAY 73 TRUE WEB-DL - 720p - AVC - AAC - 600MB.mkv.torrent   BIGG BOSS (Tamil) S06 EP74 - DAY 73 TRUE WEB-DL - 360p - AVC - UNTOUCHED - AAC - 200MB [21-12-2022] : www.1TamilMV.men - BIGG BOSS (Tamil) S06 EP74 - DAY 73 TRUE WEB-DL - 360p - AVC - AAC - 200MB.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avatar - The Way of Water - Nothing Is Lost (You Give Me Strength) Official Lyric Video - DD5.1 + DTSHDMA5.1 (Lossless FLAC Upmix) - 227MB]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170894-avatar-the-way-of-water-nothing-is-lost-you-give-me-strength-official-lyric-video-dd51-dtshdma51-lossless-flac-upmix-227mb/&amp;do=findComment&amp;comment=340661</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170894-avatar-the-way-of-water-nothing-is-lost-you-give-me-strength-official-lyric-video-dd51-dtshdma51-lossless-flac-upmix-227mb/&amp;do=findComment&amp;comment=340661"/>
+        <updated>2022-12-21T14:54:48.000Z</updated>
+        <summary type="html"><![CDATA[Avatar - The Way of Water - Nothing Is Lost (You Give Me Strength) Official Lyric Video - DD5.1 + DTSHDMA5.1 (Lossless FLAC Upmix) - 227MB
+ 
+
+
+	LINK
+ 
+
+
+	*****************************************************************************************************]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gangster (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Malayalam) - 2.6GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub - Leyon]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/168402-gangster-2022-tamil-true-web-dl-1080p-720p-avc-tamil-malayalam-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub-leyon/&amp;do=findComment&amp;comment=340660</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/168402-gangster-2022-tamil-true-web-dl-1080p-720p-avc-tamil-malayalam-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub-leyon/&amp;do=findComment&amp;comment=340660"/>
+        <updated>2022-12-21T13:47:14.000Z</updated>
+        <summary type="html"><![CDATA[😀]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Annabelle Creation (2017) 1080p AMZN WEB-DL [Hindi + Tamil + Telugu + Eng] DDP 5.1 (640kbps) Esubs - [5.2GB G-DRIVE] -Ninja 360]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/110898-annabelle-creation-2017-1080p-amzn-web-dl-hindi-tamil-telugu-eng-ddp-51-640kbps-esubs-52gb-g-drive-ninja-360/&amp;do=findComment&amp;comment=340659</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/110898-annabelle-creation-2017-1080p-amzn-web-dl-hindi-tamil-telugu-eng-ddp-51-640kbps-esubs-52gb-g-drive-ninja-360/&amp;do=findComment&amp;comment=340659"/>
+        <updated>2022-12-21T13:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Link expired kindly upload again bro]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prince (2022) SS - WEB-DL [2160p - Tamil - DDP5.1 Atmos] - H.264 - 7GB & 3GB| Ilanjodigal(1982) JIO WEB DL [1080p - Tamil - AAC2.0] -H.264 5GB | Windows 11 Pro Edition 21H2 RTM Final Build 22000.434 Untouched (x64).ISO - 4.01 GB + Activator]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/154850-prince-2022-ss-web-dl-2160p-tamil-ddp51-atmos-h264-7gb-3gb-ilanjodigal1982-jio-web-dl-1080p-tamil-aac20-h264-5gb-windows-11-pro-edition-21h2-rtm-final-build-22000434-untouched-x64iso-401-gb-activator/&amp;do=findComment&amp;comment=340658</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/154850-prince-2022-ss-web-dl-2160p-tamil-ddp51-atmos-h264-7gb-3gb-ilanjodigal1982-jio-web-dl-1080p-tamil-aac20-h264-5gb-windows-11-pro-edition-21h2-rtm-final-build-22000434-untouched-x64iso-401-gb-activator/&amp;do=findComment&amp;comment=340658"/>
+        <updated>2022-12-21T13:09:48.000Z</updated>
+        <summary type="html"><![CDATA[😉]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tom Clancy's Jack Ryan (2022) S03 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 6GB - 2.4GB & 800MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340657</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340657"/>
+        <updated>2022-12-21T13:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Excellent share]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yugi (2022) TK - WEB-DL [2160p - Tamil - DDP5.1 Atmos] - H.265 - 11.1GB| Yugi - TK 1080p - 8GB | Yugi (2022) SS - WEB-DL [2160p - Tamil - DDP5.1 | Windows 10 X64 21H2 10in1 OEM ESD en-US JAN 2022 Version 21H2 Build 19044.1466.ISO - 4.43 GB Preactivated]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/155054-yugi-2022-tk-web-dl-2160p-tamil-ddp51-atmos-h265-111gb-yugi-tk-1080p-8gb-yugi-2022-ss-web-dl-2160p-tamil-ddp51-windows-10-x64-21h2-10in1-oem-esd-en-us-jan-2022-version-21h2-build-190441466iso-443-gb-preactivated/&amp;do=findComment&amp;comment=340656</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/155054-yugi-2022-tk-web-dl-2160p-tamil-ddp51-atmos-h265-111gb-yugi-tk-1080p-8gb-yugi-2022-ss-web-dl-2160p-tamil-ddp51-windows-10-x64-21h2-10in1-oem-esd-en-us-jan-2022-version-21h2-build-190441466iso-443-gb-preactivated/&amp;do=findComment&amp;comment=340656"/>
+        <updated>2022-12-21T13:03:09.000Z</updated>
+        <summary type="html"><![CDATA[😉]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emily in Paris (2020) S01 - NF - WEB-DL [1080p - Tamil - DDP5.1 (640Kbps)] - H.264 - 11.1GB - MSub | Emily in Paris (2020) S02 - NF - WEB-DL [1080p - Tamil - DDP5.1 (640Kbps)] - H.264 - 9.1GB - MSub | The Villainess (2017)]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/154875-emily-in-paris-2020-s01-nf-web-dl-1080p-tamil-ddp51-640kbps-h264-111gb-msub-emily-in-paris-2020-s02-nf-web-dl-1080p-tamil-ddp51-640kbps-h264-91gb-msub-the-villainess-2017/&amp;do=findComment&amp;comment=340655</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/154875-emily-in-paris-2020-s01-nf-web-dl-1080p-tamil-ddp51-640kbps-h264-111gb-msub-emily-in-paris-2020-s02-nf-web-dl-1080p-tamil-ddp51-640kbps-h264-91gb-msub-the-villainess-2017/&amp;do=findComment&amp;comment=340655"/>
+        <updated>2022-12-21T12:56:32.000Z</updated>
+        <summary type="html"><![CDATA[😉]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tom Clancy's Jack Ryan (2022) S03 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 6GB - 2.4GB & 800MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340654</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340654"/>
+        <updated>2022-12-21T12:41:58.000Z</updated>
+        <summary type="html"><![CDATA[post Season 01 & 02]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tom Clancy's Jack Ryan (2022) S03 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 6GB - 2.4GB & 800MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340653</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340653"/>
+        <updated>2022-12-21T12:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Upload Previous Season Link]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phone Bhoot (2022) Hindi TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170887-phone-bhoot-2022-hindi-true-web-dl-1080p-720p-avc-dd51-640kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340652</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170887-phone-bhoot-2022-hindi-true-web-dl-1080p-720p-avc-dd51-640kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340652"/>
+        <updated>2022-12-21T12:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download Phone Bhoot (2022) Hindi TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 2.8GB - ESub :www.1TamilMV.men - Phone Bhoot (2022) Hindi TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 640Kbps & AAC) - 2.8GB - ESub.mkv.torrentPhone Bhoot (2022) Hindi...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tom Clancy's Jack Ryan (2022) S03 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 6GB - 2.4GB & 800MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340651</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340651"/>
+        <updated>2022-12-21T12:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Share @ S.P.I.D.E.R]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emily in Paris (2020) S01 EP (01-10) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Hindi + Eng) - 4.2GB - 1.8GB & 1GB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170876-emily-in-paris-2020-s01-ep-01-10-true-web-dl-1080p-720p-avc-tamil-hindi-eng-42gb-18gb-1gb-esub/&amp;do=findComment&amp;comment=340650</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170876-emily-in-paris-2020-s01-ep-01-10-true-web-dl-1080p-720p-avc-tamil-hindi-eng-42gb-18gb-1gb-esub/&amp;do=findComment&amp;comment=340650"/>
+        <updated>2022-12-21T09:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Emily in Paris (2020) S01 EP (01-10) - 1080p - HQ HDRip - [Tamil + Hindi + Eng] - (DD+ 5.1 - 192Kbps) - 4.2GB - ESub :www.1TamilMV.men - Emily in Paris (2020) S01 EP (01-10) - 1080p - HQ HDRip - [Tam + Hin + Eng] - (DD+5.1 - 192Kbps) - 4.2GB - ESub.torrentEmily in Paris (2020) S01 EP (01-10) - 72...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jayamma Panchayathi (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Kannada) - 2.4GB & 1.3GB] - [x264 - 750MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170875-jayamma-panchayathi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-kannada-24gb-13gb-x264-750mb-400mb-esub/&amp;do=findComment&amp;comment=340649</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170875-jayamma-panchayathi-2022-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-kannada-24gb-13gb-x264-750mb-400mb-esub/&amp;do=findComment&amp;comment=340649"/>
+        <updated>2022-12-21T09:31:15.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download Jayamma Panchayathi (2022) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (AAC 2.0) [Tamil + Telugu + Kannada] - 2.4GB - ESub :www.1TamilMV.men - Jayamma Panchayathi (2022) TRUE WEB-DL - 1080p - AVC - [Tam + Tel + Kan] - 2.4GB - ESub.mkv.torrentJayamma Panchayathi (2022) ...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emily in Paris (2021) S02 EP (01-10) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Hindi + Eng) - 4GB - 1.7GB & 1GB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170880-emily-in-paris-2021-s02-ep-01-10-true-web-dl-1080p-720p-avc-tamil-hindi-eng-4gb-17gb-1gb-esub/&amp;do=findComment&amp;comment=340648</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170880-emily-in-paris-2021-s02-ep-01-10-true-web-dl-1080p-720p-avc-tamil-hindi-eng-4gb-17gb-1gb-esub/&amp;do=findComment&amp;comment=340648"/>
+        <updated>2022-12-21T09:28:40.000Z</updated>
+        <summary type="html"><![CDATA[Emily in Paris (2021) S02 EP (01-10) - 1080p - HQ HDRip - [Tamil + Hindi + Eng] - (DD+ 5.1 - 192Kbps) - 3.8GB - ESub :www.1TamilMV.men - Emily in Paris (2021) S02 EP (01-10) - 1080p - HQ HDRip - [Tam + Hin + Eng] - (DD+5.1 - 192Kbps) - 3.8GB - ESub.torrentEmily in Paris (2021) S02 EP (01-10) - 72...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phone Bhoot (2022) Hindi TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170887-phone-bhoot-2022-hindi-true-web-dl-1080p-720p-avc-dd51-640kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340647</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170887-phone-bhoot-2022-hindi-true-web-dl-1080p-720p-avc-dd51-640kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340647"/>
+        <updated>2022-12-21T09:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download Phone Bhoot (2022) Hindi TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 2.8GB - ESub :www.1TamilMV.men - Phone Bhoot (2022) Hindi TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 640Kbps & AAC) - 2.8GB - ESub.mkv.torrentPhone Bhoot (2022) Hindi...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tom Clancy's Jack Ryan (2022) S03 EP (01-08) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 6GB - 2.4GB & 800MB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340646</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170889-tom-clancys-jack-ryan-2022-s03-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannada-eng-6gb-24gb-800mb-esub/&amp;do=findComment&amp;comment=340646"/>
+        <updated>2022-12-21T09:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Tom Clancy's Jack Ryan (2022) S03 EP (01-08) - 1080p - HQ HDRip - [Tamil + Telugu + Hindi + Malayalam + Kannada + Eng] - (DD+ 5.1 - 192Kbps) - 6GB - ESub :www.1TamilMV.men - Jack Ryan (2022) S03 EP (01-08) - 1080p - HQ HDRip - [Tam + Tel + Hin + Mal + Kan + Eng] - (DD+5.1 - 192Kbps) - 6GB - ESub....]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emily in Paris (2022) S03 EP (01-10) TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Hindi + Eng) - 4GB - 1.7GB & 1GB] - ESub]]></title>
+        <id>https://www.1tamilmv.men/index.php?/forums/topic/170893-emily-in-paris-2022-s03-ep-01-10-true-web-dl-1080p-720p-avc-tamil-hindi-eng-4gb-17gb-1gb-esub/&amp;do=findComment&amp;comment=340645</id>
+        <link href="https://www.1tamilmv.men/index.php?/forums/topic/170893-emily-in-paris-2022-s03-ep-01-10-true-web-dl-1080p-720p-avc-tamil-hindi-eng-4gb-17gb-1gb-esub/&amp;do=findComment&amp;comment=340645"/>
+        <updated>2022-12-21T09:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Emily in Paris (2022) S03 EP (01-10) - 1080p - HQ HDRip - [Tamil + Hindi + Eng] - (DD+ 5.1 - 192Kbps) - 4GB - ESub : www.1TamilMV.men - Emily in Paris (2022) S03 EP (01-10) - 1080p - HQ HDRip - [Tam + Hin + Eng] - (DD+5.1 - 192Kbps) - 4GB - ESub.torrent   Emily in Paris (2022) S03 EP (01-10) - 720p - HQ HDRip - [Tamil + Hindi + Eng] - (AAC 2.0) - 1.7GB - ESub : www.1TamilMV.men - Emily in Paris (2022) S03 EP (01-10) - 720p - HQ HDRip - [Tam + Hin + Eng] - AAC - 1.7GB - ESub.torrent   Emily in Paris (2022) S03 EP (01-10) - HQ HDRip - [Tamil + Hindi] - (AAC 2.0) - 1GB - ESub : www.1TamilMV.men - Emily in Paris (2022) S03 EP (01-10) - HQ HDRip - [Tamil + Hindi] - AAC - 1GB - ESub.torrent   Previous Season - [Season 01] - [Season 02]]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phone Bhoot (2022) Hindi TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
         <id>https://www.1tamilmv.men/index.php?/forums/topic/170887-phone-bhoot-2022-hindi-true-web-dl-1080p-720p-avc-dd51-640kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=340636</id>
@@ -10296,26 +10709,6 @@
         <summary type="html"><![CDATA[Creating an arcade-style shooting game is a fun project to help you improve your Python and PyGame programming skills. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to create a fun game using Python and PyGame. Pete LeMaster created this course. Pete is]]></summary>
         <author>
             <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Validate URLs in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-validate-urls-in-javascript/"/>
-        <updated>2022-11-22T04:12:10.000Z</updated>
-        <summary type="html"><![CDATA[A Uniform Resource Locator (URL) is what leads you to a page or file on the internet. URLs serve as the addresses of things on the internet. All valid URLs follow certain patterns. So if you know those patterns, you can determine whether a URL is valid or not in]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The freeCodeCamp Mobile App – Learn to Code Right On Your Phone]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-mobile-app-curriculum-update/"/>
-        <updated>2022-11-21T16:23:56.000Z</updated>
-        <summary type="html"><![CDATA[I am happy to announce that the freeCodeCamp mobile app is finally ready to accept beta testers. 🧑‍💻 The mobile development team just pushed a big update with many helpful improvements. A big part of this is update is the implementation of the freeCodeCamp curriculum, AKA /learn. We are still]]></summary>
-        <author>
-            <name>Sem Bauke</name>
         </author>
     </entry>
 </feed>
