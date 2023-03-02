@@ -2,10 +2,409 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-01T01:56:37.564Z</updated>
+    <updated>2023-03-02T01:52:00.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Request your movies as a comment to this topic.!]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/79-request-your-movies-as-a-comment-to-this-topic/&amp;do=findComment&amp;comment=343340</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/79-request-your-movies-as-a-comment-to-this-topic/&amp;do=findComment&amp;comment=343340"/>
+        <updated>2023-03-02T01:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Movie name :- Game of Thrones
+ 
+
+
+	Year :- All Seasons
+ 
+
+
+	Language :- English ,Hindi, Telugu]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML for Beginners – How to Get Started with Web Development Basics]]></title>
+        <id>https://www.freecodecamp.org/news/html-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/html-for-beginners/"/>
+        <updated>2023-03-01T23:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Have you always been interested in learning HTML but didn't know where or how to start? Well, this guide is for you. In it, we will look at:  * An introduction to HTML  * A Brief History of HTML  * Why Learn HTML?  * Prerequisites for]]></summary>
+        <author>
+            <name>Patrick Cyubahiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Categories to a Ruby on Rails Application]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-categories-to-ruby-on-rails-apps/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-categories-to-ruby-on-rails-apps/"/>
+        <updated>2023-03-01T23:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Creating a category page is essential for most web applications these days. Different kinds of applications like blogs, ecommerce sites, movie streaming platforms, and many others have category features. This article will show how to add categories to Ruby on Rails applications. This is a beginner-friendly tutorial, so you can]]></summary>
+        <author>
+            <name>Sampurna Chapagain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Python is Good for Beginners – and How to Start Learning It]]></title>
+        <id>https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/</id>
+        <link href="https://www.freecodecamp.org/news/why-learn-python-and-how-to-get-started/"/>
+        <updated>2023-03-01T23:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Python is a programming language that has relatively simple syntax. This makes it an ideal choice for beginners who are just starting out in the field of programming.  Python is also a very versatile language, which means that you can use i for a wide variety of tasks and]]></summary>
+        <author>
+            <name>Hillary Nyakundi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Orchestrate an ETL Data Pipeline with Apache Airflow]]></title>
+        <id>https://www.freecodecamp.org/news/orchestrate-an-etl-data-pipeline-with-apache-airflow/</id>
+        <link href="https://www.freecodecamp.org/news/orchestrate-an-etl-data-pipeline-with-apache-airflow/"/>
+        <updated>2023-03-01T22:42:42.000Z</updated>
+        <summary type="html"><![CDATA[Data Orchestration involves using different tools and technologies together to extract, transform, and load (ETL) data from multiple sources into a central repository.  Data orchestration typically involves a combination of technologies such as data integration tools and data warehouses. Apache Airflow is a tool for data orchestration. With Airflow,]]></summary>
+        <author>
+            <name>Aviator Ifeanyichukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python VS C++ Time Complexity Analysis]]></title>
+        <id>https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/</id>
+        <link href="https://www.freecodecamp.org/news/python-vs-c-plus-plus-time-complexity-analysis/"/>
+        <updated>2023-03-01T19:07:56.000Z</updated>
+        <summary type="html"><![CDATA[Speed is important in programming languages, and some execute much faster than others. For example, you might know that C++ is faster than Python. So why is this the case? Well, C++ is a language that uses a compiler, not to mention it is a much lower-level programming language than]]></summary>
+        <author>
+            <name>Anthony Behery</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Excel Tasks with Python]]></title>
+        <id>https://www.freecodecamp.org/news/automate-excel-tasks-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/automate-excel-tasks-with-python/"/>
+        <updated>2023-03-01T19:04:17.000Z</updated>
+        <author>
+            <name>Oluseye Jeremiah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security and Privacy – What You Should Know to Protect Your Data]]></title>
+        <id>https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/</id>
+        <link href="https://www.freecodecamp.org/news/understanding-security-and-privacy-8-10/"/>
+        <updated>2023-03-01T18:36:46.000Z</updated>
+        <summary type="html"><![CDATA[I've talked a lot about security and privacy in my "A Beginners Guide to Digital Security [/news/understanding-digital-security/]" and "What Is Digital Privacy [/news/beginners-guide-to-digital-privacy/]" articles. So why are we flogging this certifiably dead horse now? Because it's not dead. Security and privacy are as or more important than anything else in]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ezhumalai (2002) Tamil TRUE WEB-DL - [1080p & 720p - x264 - 2.6GB - 1.4GB | x264 - 700MB - 400MB]]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171974-ezhumalai-2002-tamil-true-web-dl-1080p-720p-x264-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343339</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171974-ezhumalai-2002-tamil-true-web-dl-1080p-720p-x264-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343339"/>
+        <updated>2023-03-01T17:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Ezhumalai (2002) Tamil HQ HDRip - 1080p - x264 - AAC - 2.5GB :www.1TamilMV.wtf - Ezhumalai (2002) Tamil HQ HDRip - 1080p - x264 - AAC - 2.5GB.mkv.torrentEzhumalai (2002) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB :www.1TamilMV.wtf - Ezhumalai (2002) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB.mkv....]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Made in Bengaluru (2022) Kannada TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171975-made-in-bengaluru-2022-kannada-true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=343338</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171975-made-in-bengaluru-2022-kannada-true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=343338"/>
+        <updated>2023-03-01T17:57:11.000Z</updated>
+        <summary type="html"><![CDATA[🥰]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python RegEx – How to Import a Regular Expression in Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-import-a-regular-expression-in-python/"/>
+        <updated>2023-03-01T17:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Virtually all the programming languages out there support regular expressions. Regex is built into languages like JavaScript and Pearl, while others like Java and Python have standard libraries for working with it. In this article, we’ll look at how you can import regular expressions in Python and use it. We’ll]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ezhumalai (2002) Tamil TRUE WEB-DL - 720p HQ HDRip HEVC x265 AAC - 1GB - Direct Download]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171977-ezhumalai-2002-tamil-true-web-dl-720p-hq-hdrip-hevc-x265-aac-1gb-direct-download/&amp;do=findComment&amp;comment=343337</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171977-ezhumalai-2002-tamil-true-web-dl-720p-hq-hdrip-hevc-x265-aac-1gb-direct-download/&amp;do=findComment&amp;comment=343337"/>
+        <updated>2023-03-01T16:59:11.000Z</updated>
+        <summary type="html"><![CDATA[Ezhumalai (2002) Tamil TRUE WEB-DL - 720p HQ HDRip HEVC x265 AAC - 1GB - Direct Download]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unnai Kodu Ennai Tharuven (2000) Tamil TRUE WEB-DL - 720p - HQ HDRip - HEVC x265 - AAC - 1GB - Direct Download]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171976-unnai-kodu-ennai-tharuven-2000-tamil-true-web-dl-720p-hq-hdrip-hevc-x265-aac-1gb-direct-download/&amp;do=findComment&amp;comment=343336</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171976-unnai-kodu-ennai-tharuven-2000-tamil-true-web-dl-720p-hq-hdrip-hevc-x265-aac-1gb-direct-download/&amp;do=findComment&amp;comment=343336"/>
+        <updated>2023-03-01T16:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Unnai Kodu Ennai Tharuven (2000) Tamil TRUE WEB-DL - 720p - HQ HDRip - HEVC x265 - AAC - 1GB - Direct Download]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethir Neechal (2013) [1080p BluRay [Tamil] LPCM 5.1 + AVC REMUX]]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/142682-ethir-neechal-2013-1080p-bluray-tamil-lpcm-51-avc-remux/&amp;do=findComment&amp;comment=343335</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/142682-ethir-neechal-2013-1080p-bluray-tamil-lpcm-51-avc-remux/&amp;do=findComment&amp;comment=343335"/>
+        <updated>2023-03-01T15:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Link update pannunga bro not working😔]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Dictionary – How to Create a Dict in Python (Hashmap)]]></title>
+        <id>https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-dictionary-how-to-create-a-dict-in-python/"/>
+        <updated>2023-03-01T15:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to this Python article on creating a dictionary (also called a hashmap).  A dictionary or hashmap is an unordered grouping of key-value pairs in Python. Since each value can be accessed by its corresponding key, it offers a practical means of storing and retrieving data. We'll cover the]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Made in Bengaluru (2022) Kannada TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171975-made-in-bengaluru-2022-kannada-true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=343334</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171975-made-in-bengaluru-2022-kannada-true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=343334"/>
+        <updated>2023-03-01T14:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download Made in Bengaluru (2022) Kannada TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps & AAC 2.0) - 2.8GB - ESub :www.1TamilMV.wtf - Made in Bengaluru (2022) Kannada TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps & AAC) - 2.8GB - ESub.mkv.torrentMade in ...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[32 Malasana Street (2020) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Spa) - 2.5GB & 1.2GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171968-32-malasana-street-2020-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-spa-25gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=343333</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171968-32-malasana-street-2020-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-spa-25gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=343333"/>
+        <updated>2023-03-01T14:52:41.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download 32 Malasana Street (2020) BluRay - 1080p - x264 - Original Audios [Tamil + Telugu + Hindi + Spa] - 2.5GB - ESub :www.1TamilMV.wtf - 32 Malasana Street (2020) BluRay - 1080p - Org Auds [Tam + Tel + Hin + Spa].mkv.torrent32 Malasana Street (2020) BluRay - 720p - x264...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ezhumalai (2002) Tamil TRUE WEB-DL - [1080p & 720p - x264 - 2.6GB - 1.4GB | x264 - 700MB - 400MB]]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171974-ezhumalai-2002-tamil-true-web-dl-1080p-720p-x264-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343332</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171974-ezhumalai-2002-tamil-true-web-dl-1080p-720p-x264-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343332"/>
+        <updated>2023-03-01T14:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Ezhumalai (2002) Tamil HQ HDRip - 1080p - x264 - AAC - 2.5GB :www.1TamilMV.wtf - Ezhumalai (2002) Tamil HQ HDRip - 1080p - x264 - AAC - 2.5GB.mkv.torrentEzhumalai (2002) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB :www.1TamilMV.wtf - Ezhumalai (2002) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB.mkv....]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unnai Kodu Ennai Tharuven (2000) Tamil TRUE WEB-DL - [1080p & 720p - x264 - 7GB - 2.6GB - 1.4GB | x264 - 700MB - 400MB]]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171972-unnai-kodu-ennai-tharuven-2000-tamil-true-web-dl-1080p-720p-x264-7gb-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343331</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171972-unnai-kodu-ennai-tharuven-2000-tamil-true-web-dl-1080p-720p-x264-7gb-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343331"/>
+        <updated>2023-03-01T14:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 1080p - x264 - AAC - 2.7GB :www.1TamilMV.wtf - Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 1080p - x264 - AAC - 2.7GB.mkv.torrentUnnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB :www.1TamilMV.wtf - Unnai Kodu Ennai...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📌 SIMHADRI (2003) (Music Video Album) - 1080P - WEBDL - H264 - DD® 5.1 @ 448Kbps / DTS® 5.1 @ 768Kbps - #DVD SYNC - ESUBS - 2.8GB - FirstOnNET 〰️ [Avatar]]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171967-%F0%9F%93%8C-simhadri-2003-music-video-album-1080p-webdl-h264-dd%C2%AE-51-448kbps-dts%C2%AE-51-768kbps-dvd-sync-esubs-28gb-firstonnet-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=343330</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171967-%F0%9F%93%8C-simhadri-2003-music-video-album-1080p-webdl-h264-dd%C2%AE-51-448kbps-dts%C2%AE-51-768kbps-dvd-sync-esubs-28gb-firstonnet-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=343330"/>
+        <updated>2023-03-01T14:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Waltair Veeraiah ship fight in this list. Why?]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattanathil Bhootham (1967).Tamil.480p.HDTV.x264.AAC2.0 - 2.2GB]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343328</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343328"/>
+        <updated>2023-03-01T13:59:42.000Z</updated>
+        <summary type="html"><![CDATA[tks]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattanathil Bhootham (1967).Tamil.480p.HDTV.x264.AAC2.0 - 2.2GB]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343327</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343327"/>
+        <updated>2023-03-01T12:51:23.000Z</updated>
+        <summary type="html"><![CDATA[NEW LINK ADDED]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ezhumalai (2002) Tamil TRUE WEB-DL - [1080p & 720p - x264 - 2.6GB - 1.4GB | x264 - 700MB - 400MB]]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171974-ezhumalai-2002-tamil-true-web-dl-1080p-720p-x264-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343326</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171974-ezhumalai-2002-tamil-true-web-dl-1080p-720p-x264-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343326"/>
+        <updated>2023-03-01T12:14:50.000Z</updated>
+        <summary type="html"><![CDATA[Excellent share]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Made in Bengaluru (2022) Kannada TRUE WEB-DL - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.8GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171975-made-in-bengaluru-2022-kannada-true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=343325</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171975-made-in-bengaluru-2022-kannada-true-web-dl-1080p-720p-avc-dd51-192kbps-28gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=343325"/>
+        <updated>2023-03-01T12:14:14.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download   Made in Bengaluru (2022) Kannada TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps & AAC 2.0) - 2.8GB - ESub : www.1TamilMV.wtf - Made in Bengaluru (2022) Kannada TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps & AAC) - 2.8GB - ESub.mkv.torrent   Made in Bengaluru (2022) Kannada HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub : www.1TamilMV.wtf - Made in Bengaluru (2022) Kannada HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC) - 1.4GB - ESub.mkv.torrent   Made in Bengaluru (2022) Kannada HQ HDRip - 700MB - x264 - AAC - ESub : www.1TamilMV.wtf - Made in Bengaluru (2022) Kannada HQ HDRip - 700MB - x264 - AAC - ESub.mkv.torrent   Made in Bengaluru (2022) Kannada HQ HDRip - 400MB - x264 - AAC - ESub : www.1TamilMV.wtf - Made in Bengaluru (2022) Kannada HQ HDRip - 400MB - x264 - AAC - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ezhumalai (2002) Tamil TRUE WEB-DL - [1080p & 720p - x264 - 2.6GB - 1.4GB | x264 - 700MB - 400MB]]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171974-ezhumalai-2002-tamil-true-web-dl-1080p-720p-x264-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343324</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171974-ezhumalai-2002-tamil-true-web-dl-1080p-720p-x264-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343324"/>
+        <updated>2023-03-01T09:08:42.000Z</updated>
+        <summary type="html"><![CDATA[Ezhumalai (2002) Tamil HQ HDRip - 1080p - x264 - AAC - 2.5GB : www.1TamilMV.wtf - Ezhumalai (2002) Tamil HQ HDRip - 1080p - x264 - AAC - 2.5GB.mkv.torrent   Ezhumalai (2002) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB : www.1TamilMV.wtf - Ezhumalai (2002) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB.mkv.torrent   Ezhumalai (2002) Tamil HQ HDRip - x264 - AAC - 700MB : www.1TamilMV.wtf - Ezhumalai (2002) Tamil HQ HDRip - x264 - AAC - 700MB.mkv.torrent   Ezhumalai (2002) Tamil HQ HDRip - x264 - AAC - 400MB : www.1TamilMV.wtf - Ezhumalai (2002) Tamil HQ HDRip - x264 - AAC - 400MB.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mandalorian S03E01 Chapter 17 DSNP WEB-DL DDP5.1 Atmos Esubs - 2160p [HDR] | 1080p | 720p - 3.4 GB | 1.7 GB | 993 MB]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171973-the-mandalorian-s03e01-chapter-17-dsnp-web-dl-ddp51-atmos-esubs-2160p-hdr-1080p-720p-34-gb-17-gb-993-mb/&amp;do=findComment&amp;comment=343323</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171973-the-mandalorian-s03e01-chapter-17-dsnp-web-dl-ddp51-atmos-esubs-2160p-hdr-1080p-720p-34-gb-17-gb-993-mb/&amp;do=findComment&amp;comment=343323"/>
+        <updated>2023-03-01T08:34:24.000Z</updated>
+        <summary type="html"><![CDATA[The.Mandalorian.S03E01.Chapter.17.720p.DSNP.WEB-DL.DDP5.1.Atmos.Esubs.x264.mkv [993.22 MB] https://shrinke.me/i97vloC
+ 
+
+
+	 The.Mandalorian.S03E01.Chapter.17.1080p.DSNP.WEB-DL.DDP5.1.Atmos.Esubs.x264.mkv [1.67 GB] https://shrinke.me/4JL9G
+ 
+
+
+	 The.Mandalorian.S03E01.Chapter.17.2160p.HDR.DSNP.WEB-DL.DDP5.1.Atmos.Esubs.x265.HEVC.mkv [3.35 GB] https://shrinke.me/Gspo]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unnai Kodu Ennai Tharuven (2000) Tamil TRUE WEB-DL - [1080p & 720p - x264 - 7GB - 2.6GB - 1.4GB | x264 - 700MB - 400MB]]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171972-unnai-kodu-ennai-tharuven-2000-tamil-true-web-dl-1080p-720p-x264-7gb-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343322</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171972-unnai-kodu-ennai-tharuven-2000-tamil-true-web-dl-1080p-720p-x264-7gb-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343322"/>
+        <updated>2023-03-01T08:22:29.000Z</updated>
+        <summary type="html"><![CDATA[Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 1080p - x264 - AAC - 2.7GB :www.1TamilMV.wtf - Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 1080p - x264 - AAC - 2.7GB.mkv.torrentUnnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB :www.1TamilMV.wtf - Unnai Kodu Ennai...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattanathil Bhootham (1967).Tamil.480p.HDTV.x264.AAC2.0 - 2.2GB]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343321</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343321"/>
+        <updated>2023-03-01T05:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Plzzz upload.. All.. MGR shivaji and old movies... torrent or gdrive ... Thank u..]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattanathil Bhootham (1967).Tamil.480p.HDTV.x264.AAC2.0 - 2.2GB]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343320</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343320"/>
+        <updated>2023-03-01T05:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Link Not working..]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guru (2007) Tamil Proper TRUE HD - 1080p AVC Untouched - AAC 2.0 - 7.8GB - Direct Download]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171965-guru-2007-tamil-proper-true-hd-1080p-avc-untouched-aac-20-78gb-direct-download/&amp;do=findComment&amp;comment=343319</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171965-guru-2007-tamil-proper-true-hd-1080p-avc-untouched-aac-20-78gb-direct-download/&amp;do=findComment&amp;comment=343319"/>
+        <updated>2023-03-01T04:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Uttorent file ah kuduthuruntha Useful ah irunthurukum bro Direct download slow ah iruku😔]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unnai Kodu Ennai Tharuven (2000) Tamil TRUE WEB-DL - [1080p & 720p - x264 - 7GB - 2.6GB - 1.4GB | x264 - 700MB - 400MB]]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171972-unnai-kodu-ennai-tharuven-2000-tamil-true-web-dl-1080p-720p-x264-7gb-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343318</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171972-unnai-kodu-ennai-tharuven-2000-tamil-true-web-dl-1080p-720p-x264-7gb-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=343318"/>
+        <updated>2023-03-01T04:40:07.000Z</updated>
+        <summary type="html"><![CDATA[Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 1080p - x264 - AAC - 2.7GB : www.1TamilMV.wtf - Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 1080p - x264 - AAC - 2.7GB.mkv.torrent   Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB : www.1TamilMV.wtf - Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB.mkv.torrent   Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - x264 - AAC - 700MB : www.1TamilMV.wtf - Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - x264 - AAC - 700MB.mkv.torrent   Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - x264 - AAC - 400MB : www.1TamilMV.wtf - Unnai Kodu Ennai Tharuven (2000) Tamil HQ HDRip - x264 - AAC - 400MB.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Man Called Otto (2022) AMZN WEB-DL DDP5.1 Atmos Esubs - 2160p [HDR10+] | 1080p | 720p - 13.9 GB | 9 GB | 4 GB]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171971-a-man-called-otto-2022-amzn-web-dl-ddp51-atmos-esubs-2160p-hdr10-1080p-720p-139-gb-9-gb-4-gb/&amp;do=findComment&amp;comment=343317</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171971-a-man-called-otto-2022-amzn-web-dl-ddp51-atmos-esubs-2160p-hdr10-1080p-720p-139-gb-9-gb-4-gb/&amp;do=findComment&amp;comment=343317"/>
+        <updated>2023-03-01T03:16:36.000Z</updated>
+        <summary type="html"><![CDATA[A.Man.Called.Otto.2022.720p.AMZN.WEB-DL.DDP5.1.Atmos.Esubs.x264.mkv [4.03 GB] https://shrinke.me/Lev1c2tX
+ 
+
+
+	 A.Man.Called.Otto.2022.1080p.AMZN.WEB-DL.DDP5.1.Atmos.Esubs.x264.mkv [8.97 GB] https://shrinke.me/lOt8jTsy
+ 
+
+
+	 A.Man.Called.Otto.2022.2160p.HDR10+.AMZN.WEB-DL.DDP5.1.Atmos.Esubs.x265.HEVC.mkv [13.86 GB] https://shrinke.me/fwZ32]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pattanathil Bhootham (1967).Tamil.480p.HDTV.x264.AAC2.0 - 2.2GB]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343316</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171970-pattanathil-bhootham-1967tamil480phdtvx264aac20-22gb/&amp;do=findComment&amp;comment=343316"/>
+        <updated>2023-03-01T03:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Pattanathil Bhootham (1967).Tamil.480p.HDTV.x264.AAC2.0 - 2.2GB
+ 
+
+
+	LINK
+ 
+
+
+	********************************************************************************************]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[144FPS|60FPS] The Last of Us S01E07 WEBRip DDP5.1 Atmos H.265 - 2160p [4K60FPS] | 1080p [144FPS | 60FPS] - 13.8 GB | 6.4 GB | 3.7 GB]]></title>
+        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171969-144fps60fps-the-last-of-us-s01e07-webrip-ddp51-atmos-h265-2160p-4k60fps-1080p-144fps-60fps-138-gb-64-gb-37-gb/&amp;do=findComment&amp;comment=343315</id>
+        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171969-144fps60fps-the-last-of-us-s01e07-webrip-ddp51-atmos-h265-2160p-4k60fps-1080p-144fps-60fps-138-gb-64-gb-37-gb/&amp;do=findComment&amp;comment=343315"/>
+        <updated>2023-03-01T03:11:24.000Z</updated>
+        <summary type="html"><![CDATA[[60FPS].The.Last.of.Us.S01E07.1080p.10bit.HMAX.WEBRip.DDP5.1.Atmos.H.265.Homelander.mkv - 3.69 GB
+ 
+
+
+	https://shrinke.me/x0XVRIJ
+ 
+
+
+	 
+ 
+
+
+	[144FPS].The.Last.of.Us.S01E07.1080p.10bit.HMAX.WEBRip.DDP5.1.Atmos.H.265.Homelander.mkv - 6.4 GB
+ 
+
+
+	https://shrinke.me/kMeUilp
+ 
+
+
+	 
+ 
+
+
+	[4K60FPS].The.Last.of.Us.S01E07.2160p.10bit.CRAV.WEBRip.DDP5.1.Atmos.H.265.Homelander.mkv - 13.78 GB
+ 
+
+
+	https://shrinke.me/yKrY]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[32 Malasana Street (2020) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Spa) - 2.5GB & 1.2GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
         <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171968-32-malasana-street-2020-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-spa-25gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=343314</id>
@@ -24,6 +423,16 @@
         <summary type="html"><![CDATA[Google Drive Links : https://t.me/telugumoviesgdriveu/4]]></summary>
         <author>
             <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a CSV File Using Python]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-csv-file-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-csv-file-in-python/"/>
+        <updated>2023-03-01T00:43:48.000Z</updated>
+        <summary type="html"><![CDATA[CSV is an acronym for comma-separated values. It's a file format that you can use to store tabular data, such as in a spreadsheet. You can also use it to store data from a tabular database.  You can refer to each row in a CSV file as a data]]></summary>
+        <author>
+            <name>Damilola Oladele</name>
         </author>
     </entry>
     <entry>
@@ -12274,423 +12683,6 @@ Make 1000% and more within 1 day, join channel @pump_upp !]]></summary>
 		NOT SCRAP STEREO FLAC,mp3 CUSTOM UPMIIX SURROUND]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 Tamil Movies - 1080p - AMZN / ZEE5 / SS / JC / TK WEB DL - DD5.1 / AAC5.1 / AAC2.0 - ESub - 70GB [GDrive]]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/164653-50-tamil-movies-1080p-amzn-zee5-ss-jc-tk-web-dl-dd51-aac51-aac20-esub-70gb-gdrive/&amp;do=findComment&amp;comment=342169</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/164653-50-tamil-movies-1080p-amzn-zee5-ss-jc-tk-web-dl-dd51-aac51-aac20-esub-70gb-gdrive/&amp;do=findComment&amp;comment=342169"/>
-        <updated>2023-01-31T13:38:04.000Z</updated>
-        <summary type="html"><![CDATA[Super share bro please upload more movies in 1080p HEVC format]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babylon (2022) English HQ HDRip - 720p - x264 - (DD5.1 - 192Kbps & AAC) - 1.4GB - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171526-babylon-2022-english-hq-hdrip-720p-x264-dd51-192kbps-aac-14gb-esub/&amp;do=findComment&amp;comment=342168</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171526-babylon-2022-english-hq-hdrip-720p-x264-dd51-192kbps-aac-14gb-esub/&amp;do=findComment&amp;comment=342168"/>
-        <updated>2023-01-31T13:25:23.000Z</updated>
-        <summary type="html"><![CDATA[www.1TamilMV.bond - Babylon (2022) English HQ HDRip - 720p - x264 - (DD5.1 - 192Kbps & AAC) - 1.5GB - ESub.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pamela: A Love Story (2023) (HD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 3.5GB & 1.3GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342167</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342167"/>
-        <updated>2023-01-31T13:24:56.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Panther: Wakanda Forever (2022) English BluRay - [1080p & 720p - x264 - (DD+5.1 - 192Kbps) - 3GB & 1.5GB - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171519-black-panther-wakanda-forever-2022-english-bluray-1080p-720p-x264-dd51-192kbps-3gb-15gb-400mb-esub/&amp;do=findComment&amp;comment=342166</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171519-black-panther-wakanda-forever-2022-english-bluray-1080p-720p-x264-dd51-192kbps-3gb-15gb-400mb-esub/&amp;do=findComment&amp;comment=342166"/>
-        <updated>2023-01-31T13:24:16.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bommai Nayagi (2023) Tamil [ALAC & FLAC] [24Bit/16Bit] iTunes HQ MP3 [320Kbps & 128Kbps] - S.K.S Musical]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171527-bommai-nayagi-2023-tamil-alac-flac-24bit16bit-itunes-hq-mp3-320kbps-128kbps-sks-musical/&amp;do=findComment&amp;comment=342165</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171527-bommai-nayagi-2023-tamil-alac-flac-24bit16bit-itunes-hq-mp3-320kbps-128kbps-sks-musical/&amp;do=findComment&amp;comment=342165"/>
-        <updated>2023-01-31T13:00:26.000Z</updated>
-        <summary type="html"><![CDATA[WE ARE NOW AVAILABLE ON TELEGRAM CHANNEL JOIN FOR LATEST UPDATES
- 
-
-
-	 
-
-
-	==================================================================================
- 
-
-
-	Info About The Album:-
- 
-
-
-	1 - Adiye Raasaathi : Sundaramurthy K.s./Sathyaprakash
- 
-
-
-	2 - Kadar Kara Kaathu : Sundaramurthy K.s./Rockstar Ramani Ammal
- 
-
-
-	3 - Vaanam Thaiyaga : Sundaramurthy K.s./Haricharan
- 
-
-
-	4 - Bommai Nayagi : Sundaramurthy K.s./Jayamoorty
- 
-
-
-	5 - Saga Uyire : Sundaramurthy K.s./Srimathi/Srisakthi/Shaan
- 
-
-
-	==================================================================================
- 
-
-
-	Album / Movie :  Bommai Nayagi
- 
-
-
-	Music / Composer : Sundaramurthy K.s
- 
-
-
-	Year Released: 2023
- 
-
-
-	Language: Tamil
- 
-
-
-	Samplerate / Bits: [24-Bit 48.0 kHz]
- 
-
-
-	Label: © Think Music.
- 
-
-
-	==================================================================================
- 
-
-
-	Tamil iTunes Xtreme Quality's :
- 
-
-
-	 
- 
-
-
-	[iTunes HQ MP3 - 320Kbps - 50MB] - [iTunes HQ MP3 - 128Kbps - 20MB]
- 
-
-
-	&
- 
-
-
-	[iTunes HQ MP3 - 320Kbps - 50MB] - [iTunes HQ MP3 - 128Kbps - 20MB]
- 
-
-
-	
- 
-
-
-	New Release Updates - Follow - Instantly Notification]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pamela: A Love Story (2023) (HD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 3.5GB & 1.3GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342164</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342164"/>
-        <updated>2023-01-31T11:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Pamela: A Love Story (2023) HQ HDRip - 1080p - x264 - Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - ESub :www.1TamilMV.bond - Pamela A Love Story (2023) HQ HDRip - 1080p - (DD+5.1 - 640Kbps) [Tam + Tel + Hin + Eng].mkv.torrentPamela: A...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Panther: Wakanda Forever (2022) English BluRay - [1080p & 720p - x264 - (DD+5.1 - 192Kbps) - 3GB & 1.5GB - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171519-black-panther-wakanda-forever-2022-english-bluray-1080p-720p-x264-dd51-192kbps-3gb-15gb-400mb-esub/&amp;do=findComment&amp;comment=342163</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171519-black-panther-wakanda-forever-2022-english-bluray-1080p-720p-x264-dd51-192kbps-3gb-15gb-400mb-esub/&amp;do=findComment&amp;comment=342163"/>
-        <updated>2023-01-31T11:57:41.000Z</updated>
-        <summary type="html"><![CDATA[Black Panther: Wakanda Forever (2022) English BluRay - 1080p - x264 - (DD+5.1 - 192Kbps) - 3GB - ESub :www.1TamilMV.bond - Black Panther Wakanda Forever (2022) English BluRay - 1080p - x264 - (DD+5.1 - 192Kbps) - 3GB - ESub.mkv.torrentBlack Panther: Wakanda Forever (2022) English BluRay - 720p - ...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babylon (2022) English HQ HDRip - 720p - x264 - (DD5.1 - 192Kbps & AAC) - 1.4GB - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171526-babylon-2022-english-hq-hdrip-720p-x264-dd51-192kbps-aac-14gb-esub/&amp;do=findComment&amp;comment=342162</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171526-babylon-2022-english-hq-hdrip-720p-x264-dd51-192kbps-aac-14gb-esub/&amp;do=findComment&amp;comment=342162"/>
-        <updated>2023-01-31T11:55:32.000Z</updated>
-        <summary type="html"><![CDATA[www.1TamilMV.bond - Babylon (2022) English HQ HDRip - 720p - x264 - (DD5.1 - 192Kbps & AAC) - 1.5GB - ESub.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pamela: A Love Story (2023) (HD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 3.5GB & 1.3GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342161</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342161"/>
-        <updated>2023-01-31T11:01:07.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Pamela: A Love Story (2023) HQ HDRip - 1080p - x264 - Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - ESub :www.1TamilMV.bond - Pamela A Love Story (2023) HQ HDRip - 1080p - (DD+5.1 - 640Kbps) [Tam + Tel + Hin + Eng].mkv.torrentPamela: A...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pamela: A Love Story (2023) (HD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 3.5GB & 1.3GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342160</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342160"/>
-        <updated>2023-01-31T10:44:07.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Pamela: A Love Story (2023) HQ HDRip - 1080p - x264 - Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - ESub :www.1TamilMV.bond - Pamela A Love Story (2023) HQ HDRip - 1080p - (DD+5.1 - 640Kbps) [Tam + Tel + Hin + Eng].mkv.torrentPamela: A...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pamela: A Love Story (2023) (HD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 3.5GB & 1.3GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342159</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342159"/>
-        <updated>2023-01-31T10:00:35.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Pamela: A Love Story (2023) HQ HDRip - 1080p - x264 - Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - ESub :www.1TamilMV.bond - Pamela A Love Story (2023) HQ HDRip - 1080p - (DD+5.1 - 640Kbps) [Tam + Tel + Hin + Eng].mkv.torrentPamela: A...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babylon (2022) English HQ HDRip - 720p - x264 - (DD5.1 - 192Kbps & AAC) - 1.4GB - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171526-babylon-2022-english-hq-hdrip-720p-x264-dd51-192kbps-aac-14gb-esub/&amp;do=findComment&amp;comment=342158</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171526-babylon-2022-english-hq-hdrip-720p-x264-dd51-192kbps-aac-14gb-esub/&amp;do=findComment&amp;comment=342158"/>
-        <updated>2023-01-31T09:35:59.000Z</updated>
-        <summary type="html"><![CDATA[www.1TamilMV.bond - Babylon (2022) English HQ HDRip - 720p - x264 - (DD5.1 - 192Kbps & AAC) - 1.5GB - ESub.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60 Hollywood Movies - Bluray / AMZN WEB DL 1080p H.264 [Tamil + Telugu + Hindi+ English] ESub 225GB [GDrive]]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/161579-60-hollywood-movies-bluray-amzn-web-dl-1080p-h264-tamil-telugu-hindi-english-esub-225gb-gdrive/&amp;do=findComment&amp;comment=342157</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/161579-60-hollywood-movies-bluray-amzn-web-dl-1080p-h264-tamil-telugu-hindi-english-esub-225gb-gdrive/&amp;do=findComment&amp;comment=342157"/>
-        <updated>2023-01-31T09:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Update link bro]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pamela: A Love Story (2023) (HD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 3.5GB & 1.3GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342156</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171525-pamela-a-love-story-2023-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342156"/>
-        <updated>2023-01-31T08:59:22.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download   Pamela: A Love Story (2023) HQ HDRip - 1080p - x264 - Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - ESub : www.1TamilMV.bond - Pamela A Love Story (2023) HQ HDRip - 1080p - (DD+5.1 - 640Kbps) [Tam + Tel + Hin + Eng].mkv.torrent   Pamela: A Love Story (2023) HQ HDRip - 720p - x264 - Original Audios (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Eng] - 1.3GB - ESub : www.1TamilMV.bond - Pamela A Love Story (2023) HQ HDRip - 720p - (DD+5.1 - 192Kbps) [Tam + Tel + Hin + Eng].mkv.torrent Pamela: A Love Story (2023) HQ HDRip - x264 - Original Audios [Tamil + Telugu + Hindi] - 450MB - ESub  : www.1TamilMV.bond - Pamela A Love Story (2023) HQ HDRip - x264 - [Tam + Tel + Hin] - 450MB - ESub.mkv.torrent]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KUSELAN (2009) HYBRID (MUSIC VIDEO ALBUM) - HQ 1080P - AMZN - WEBDL - H264 - #TAM DDP 5.1 @ 640Kbps / #TEL DD 5.1 @ 448Kbps - #DVD9 SYNC - ESUBS - 2.8GB 〰️ [avatar]]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171524-kuselan-2009-hybrid-music-video-album-hq-1080p-amzn-webdl-h264-tam-ddp-51-640kbps-tel-dd-51-448kbps-dvd9-sync-esubs-28gb-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=342155</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171524-kuselan-2009-hybrid-music-video-album-hq-1080p-amzn-webdl-h264-tam-ddp-51-640kbps-tel-dd-51-448kbps-dvd9-sync-esubs-28gb-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=342155"/>
-        <updated>2023-01-31T08:55:49.000Z</updated>
-        <summary type="html"><![CDATA[ENJOY THE ORIGINAL DD 5.1CH SURROUND.
-						 
-
-						
-							(only UNTOUCHED Songs) JOIN - https://t.me/+TGJRo6goozY1MzM9
-						 
-
-						
-							
-						 
-
-						
-							KUSELAN (2009) #HYBRID (MUSIC VIDEO ALBUM) - 1080P - AMZN - WEBDL - H264 - #TAM DDP 5.1 @ 640Kbps / #TEL DD 5.1 @ 448Kbps - #DVD9 SYNC - 2.8GB 〰️ [avatar] 
-						 
-
-						
-							A/V SYNC CREDIT - |DLS)]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How B2B Sales Help Us Understand Our Role As UX Designers Better]]></title>
-        <id>https://smashingmagazine.com/2023/01/b2b-sales-understand-role-ux-designers-better/</id>
-        <link href="https://smashingmagazine.com/2023/01/b2b-sales-understand-role-ux-designers-better/"/>
-        <updated>2023-01-31T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Throughout a customer journey (particularly in B2B), there will be interactions that are primarily between two people rather than a human and an interface. In this article, Paul Boag explains why you cannot improve the user experience without considering the entirety of the UX journey.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Write Unit Tests for Instance Methods in Python]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-write-unit-tests-for-instance-methods-in-python/"/>
-        <updated>2023-01-31T00:13:54.000Z</updated>
-        <summary type="html"><![CDATA[This tutorial will teach you how to write unit tests for instance methods in Python. In a previous tutorial [/news/how-to-write-unit-tests-for-python-functions/], we covered how to write unit tests for Python functions. While unit testing for instance methods works similarly, you may have some challenges creating and managing objects (instances of a]]></summary>
-        <author>
-            <name>Bala Priya C</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Require – How to Use the require() Function in JS]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-javascript-require-function/"/>
-        <updated>2023-01-31T00:07:43.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, modules refer to a file that holds JavaScript code which performs a specific purpose. Modules are self-contained, making it easy to add, remove, and update functionalities without affecting your entire code because they are decoupled from other pieces of code. When you have these modules in separate JavaScript]]></summary>
-        <author>
-            <name>Joel Olawanle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Dockerize an AdonisJS Application]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-dockerize-an-adonisjs-application/"/>
-        <updated>2023-01-31T00:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Creating software is hard. So you want to build it once and run it everywhere without adjusting configurations for different operating systems and machines every time. Well, this is one problem that dockerizing your application can help solve. Here's what we'll cover in this tutorial:  * What is Docker?]]></summary>
-        <author>
-            <name>Solomon Eseme</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Panther - Wakanda Forever (2022).1080p.10bit.BrRip.6CH.x265.HEVC-PSA - 2GB]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/171518-black-panther-wakanda-forever-20221080p10bitbrrip6chx265hevc-psa-2gb/&amp;do=findComment&amp;comment=342143</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/171518-black-panther-wakanda-forever-20221080p10bitbrrip6chx265hevc-psa-2gb/&amp;do=findComment&amp;comment=342143"/>
-        <updated>2023-01-30T23:59:52.000Z</updated>
-        <summary type="html"><![CDATA[Black Panther - Wakanda Forever (2022).1080p.10bit.BrRip.6CH.x265.HEVC-PSA - 2GB
- 
-
-
-	GDRIVE
- 
-
-
-	TORRENT
- 
-
-
-	*********************************************************************************************]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Hooks Tutorial – How to Use the useReducer Hook]]></title>
-        <id>https://www.freecodecamp.org/news/usereducer-hook-react/</id>
-        <link href="https://www.freecodecamp.org/news/usereducer-hook-react/"/>
-        <updated>2023-01-30T23:15:08.000Z</updated>
-        <summary type="html"><![CDATA[State is an important part of a React application. Most functionalities involve making state updates in your component.  But as your application grows, state updates become more and more complex. These complex state updates might get overwhelming when you revisit your code. There is a different way of handling]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Find a Remote Developer Job in 2023]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-remote-developer-job/"/>
-        <updated>2023-01-30T22:09:18.000Z</updated>
-        <summary type="html"><![CDATA[As the world continues to adapt to the new normal of remote work, the demand for remote developers has never been higher.  Companies are now realizing the benefits of hiring remote workers, including cost savings and access to a wider pool of talent.  If you're looking for a]]></summary>
-        <author>
-            <name>George Field</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java List – Example Lists in Java]]></title>
-        <id>https://www.freecodecamp.org/news/how-lists-work-in-java/</id>
-        <link href="https://www.freecodecamp.org/news/how-lists-work-in-java/"/>
-        <updated>2023-01-30T18:09:11.000Z</updated>
-        <summary type="html"><![CDATA[You can use the Java List interface to store objects/elements in a an ordered collection. It extends the Collection interface.  TheList interface provides us with various methods for inserting, accessing, and deleting elements in a collection. In this article, you'll learn how to extend and implement the List interface]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Sheets Tutorial – How to Enable Multiple Selection Data Validation Using Apps Script]]></title>
-        <id>https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/</id>
-        <link href="https://www.freecodecamp.org/news/google-sheets-multiple-data-validation-selections/"/>
-        <updated>2023-01-30T17:30:58.000Z</updated>
-        <summary type="html"><![CDATA[In this article I will show you how to allow for multiple items to be selected using the drop-down data validation feature in Google Sheets. Here's the Google Sheet [https://docs.google.com/spreadsheets/d/1yxc4k1x5idcS_moQ1Bq8LnHGZF2nm9dpARglY7Rv0UI/edit#gid=390071620]  we'll use for the example. You can make a copy of this to edit yourself by clicking File ->]]></summary>
-        <author>
-            <name>Eamonn Cottrell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where Hot Trends Go to Die – What We Can Learn from Failed Tech Products]]></title>
-        <id>https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/</id>
-        <link href="https://www.freecodecamp.org/news/where-hot-tech-trends-go-to-die/"/>
-        <updated>2023-01-30T17:17:50.000Z</updated>
-        <summary type="html"><![CDATA[If you're interested in technology, you may also have an active interest in learning about hot technology trends.  But you don't want to take every last one of these gadgets and business fads too seriously: some are bound to disappoint.  (Although don't think you can hold me personally]]></summary>
-        <author>
-            <name>David Clinton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use TypeScript in React Apps]]></title>
-        <id>https://www.freecodecamp.org/news/using-typescript-in-react-apps/</id>
-        <link href="https://www.freecodecamp.org/news/using-typescript-in-react-apps/"/>
-        <updated>2023-01-30T16:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Hi everyone! A while ago I wrote an article about TypeScript [/news/an-introduction-to-typescript/], explaining its main features and why it's a good idea to use it in large projects.  Today we're going to take a quick look at how we can use TypeScript in a React app, so you can]]></summary>
-        <author>
-            <name>Germán Cocca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master the HTTP Networking Protocol]]></title>
-        <id>https://www.freecodecamp.org/news/http-networking-protocol-course/</id>
-        <link href="https://www.freecodecamp.org/news/http-networking-protocol-course/"/>
-        <updated>2023-01-30T16:54:31.000Z</updated>
-        <summary type="html"><![CDATA[HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the World Wide Web. It is used to transfer data from the client (web browser) to the server (web host) and vice versa. Understanding the basics of HTTP networking is crucial for anyone who wants to pursue a career]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Vim – Tutorial for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/vim-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/vim-beginners-guide/"/>
-        <updated>2023-01-30T16:08:32.000Z</updated>
-        <summary type="html"><![CDATA[Vim is one of the most popular text editors among Linux users. Linux System Administrators especially often prefer it to other editors.  In this article, you'll learn a lot about Vim and see how you can quickly start using Vim as a developer. What is Vim?  Vim is]]></summary>
-        <author>
-            <name>Arunachalam B</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thankam (2023) Malayalam Proper HQ PreDVD - 700MB - x264 - HQ Clean Audio - MP3]]></title>
-        <id>https://www.1tamilmv.bond/index.php?/forums/topic/168892-thankam-2023-malayalam-proper-hq-predvd-700mb-x264-hq-clean-audio-mp3/&amp;do=findComment&amp;comment=342142</id>
-        <link href="https://www.1tamilmv.bond/index.php?/forums/topic/168892-thankam-2023-malayalam-proper-hq-predvd-700mb-x264-hq-clean-audio-mp3/&amp;do=findComment&amp;comment=342142"/>
-        <updated>2023-01-30T14:18:09.000Z</updated>
-        <summary type="html"><![CDATA[😂😂😂😂]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy SVG Customization And Animation: A Practical Guide]]></title>
-        <id>https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/</id>
-        <link href="https://smashingmagazine.com/2023/01/svg-customization-animation-practical-guide/"/>
-        <updated>2023-01-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Developers often feel discouraged from editing SVG markup and experimenting with SVG animations, thinking it’s a significant time investment or they need to use a complex animation library to do so. In this article, Adrian showcases his favorite tricks, which make the process streamlined and fun.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adrian Bece)</name>
         </author>
     </entry>
 </feed>
