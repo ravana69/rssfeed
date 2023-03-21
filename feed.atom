@@ -2,10 +2,499 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-20T01:41:49.694Z</updated>
+    <updated>2023-03-21T01:26:34.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Developers Can Prevent Fraud and Stop Scammers]]></title>
+        <id>https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/</id>
+        <link href="https://www.freecodecamp.org/news/how-developers-can-prevent-fraud-and-stop-scammers/"/>
+        <updated>2023-03-20T22:32:41.000Z</updated>
+        <summary type="html"><![CDATA[Online frauds and scams have shot past projections in the last decade, and no one seems to be immune to them—including developers.  The shift to serverless cloud management has opened doors for hackers to try new attack surfaces and the impact is right in front of us. 90% of]]></summary>
+        <author>
+            <name>Dmitry Dragilev</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js SEO for Developers – How to Build Highly Performant Apps with Next]]></title>
+        <id>https://www.freecodecamp.org/news/nextjs-seo/</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-seo/"/>
+        <updated>2023-03-20T21:17:55.000Z</updated>
+        <summary type="html"><![CDATA[Next.js is a popular React-based web framework that has gained popularity and a growing community in recent years. It's a powerful tool for building fast and SEO-friendly web applications with dynamic pages that work great on mobile devices.  Due to the complex nature of isomorphic system design, Next.js SEO]]></summary>
+        <author>
+            <name>Scott Gary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Operators and Operator Precedence – Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-operators-and-operator-precedence/"/>
+        <updated>2023-03-20T21:15:49.000Z</updated>
+        <summary type="html"><![CDATA[A few months ago, I attempted to solve a math problem in my head before writing it in JavaScript. It was then that I received the most stunning revelation of my career, which was both shocking and eye-opening.  So what did I attempt to do? I made the following]]></summary>
+        <author>
+            <name>Franklin Okolie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Basics – How to Work with Strings, Arrays, and Objects in JS]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-basics-strings-arrays-objects/"/>
+        <updated>2023-03-20T20:12:35.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript is a popular programming language that 78% of developers use. You can build almost anything with JavaScript. The problem is that many developers learn JavaScript in a very short period of time, without understanding some of the most essential features of the language. In this article, we will cover]]></summary>
+        <author>
+            <name>Houssein Badra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chalachithram (2023) Malayalam TRUE WEB-DL - [1080p & 720p - AVC - AAC - 1.8GB & 1.2GB] - [x264 - 700MB & 400MB]]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172387-chalachithram-2023-malayalam-true-web-dl-1080p-720p-avc-aac-18gb-12gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=344167</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172387-chalachithram-2023-malayalam-true-web-dl-1080p-720p-avc-aac-18gb-12gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=344167"/>
+        <updated>2023-03-20T20:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Chalachithram (2023) Malayalam TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (AAC 2.0) - 1.8GB : www.1TamilMV.tips - Chalachithram (2023) Malayalam TRUE WEB-DL - 1080p - AVC - AAC - 1.8GB.mkv.torrent   Chalachithram (2023) Malayalam TRUE WEB-DL - 720p - AVC - UNTOUCHED - (AAC 2.0) - 1.2GB : www.1TamilMV.tips - Chalachithram (2023) Malayalam TRUE WEB-DL - 720p - AVC - AAC - 1.2GB.mkv.torrent   Chalachithram (2023) Malayalam HQ HDRip - 700MB - x264 - AAC : www.1TamilMV.tips - Chalachithram (2023) Malayalam HQ HDRip - 700MB - x264 - AAC.mkv.torrent   Chalachithram (2023) Malayalam HQ HDRip - 400MB - x264 - AAC : www.1TamilMV.tips - Chalachithram (2023) Malayalam HQ HDRip - 400MB - x264 - AAC.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a platformer game with Python]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-platformer-game-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-platformer-game-with-python/"/>
+        <updated>2023-03-20T19:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to build a classic platformer game in Python from start to finish? If so, you're in the right place! We just published a video course on the freeCodeCamp.org YouTube channel that will teach you how to create a platformer game in Python using the Pygame library. We'll]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathimoonu (2023) Malayalam TRUE WEB-DL - [1080p & 720p - AVC - AAC - 1.7GB & 950MB] - [x264 - 700MB & 400MB]]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172386-pathimoonu-2023-malayalam-true-web-dl-1080p-720p-avc-aac-17gb-950mb-x264-700mb-400mb/&amp;do=findComment&amp;comment=344166</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172386-pathimoonu-2023-malayalam-true-web-dl-1080p-720p-avc-aac-17gb-950mb-x264-700mb-400mb/&amp;do=findComment&amp;comment=344166"/>
+        <updated>2023-03-20T19:46:44.000Z</updated>
+        <summary type="html"><![CDATA[Pathimoonu (2023) Malayalam TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (AAC 2.0) - 1.7GB : www.1TamilMV.tips - Pathimoonu (2023) Malayalam TRUE WEB-DL - 1080p - AVC - AAC - 1.7GB.mkv.torrent   Pathimoonu (2023) Malayalam HQ HDRip - 720p - x264 - (AAC 2.0) - 950MB - AAC : www.1TamilMV.tips - Pathimoonu (2023) Malayalam HQ HDRip - 720p - x264 - 950MB - AAC.mkv.torrent   Pathimoonu (2023) Malayalam HQ HDRip - 400MB - x264 - AAC : www.1TamilMv.tips - Pathimoonu (2023) Malayalam HQ HDRip - 400MB - x264 - AAC.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work From Home (2023) Malayalam TRUE WEB-DL - [1080p & 720p - AVC - AAC - 2.6GB & 1.5GB] - [x264 - 700MB & 400MB]]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172385-work-from-home-2023-malayalam-true-web-dl-1080p-720p-avc-aac-26gb-15gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=344165</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172385-work-from-home-2023-malayalam-true-web-dl-1080p-720p-avc-aac-26gb-15gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=344165"/>
+        <updated>2023-03-20T19:46:39.000Z</updated>
+        <summary type="html"><![CDATA[Work From Home (2023) Malayalam TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (AAC 2.0) - 2.6GB : www.1TamilMV.tips - Work From Home (2023) Malayalam TRUE WEB-DL - 1080p - AVC - AAC - 2.5GB.mkv.torrent   Work From Home (2023) Malayalam TRUE WEB-DL - 720p - AVC - UNTOUCHED - (AAC 2.0) - 1.5GB : www.1TamilMV.tips - Work From Home (2023) Malayalam TRUE WEB-DL - 720p - AVC - AAC - 1.5GB.mkv.torrent   Work From Home  (2023) Malayalam HQ HDRip - 700MB - x264 - AAC : www.1TamilMV.tips - Work From Home (2023) Malayalam HQ HDRip - 700MB - x264 - AAC.mkv.torrent   Work From Home (2023) Malayalam HQ HDRip - 400MB - x264 - AAC : www.1TamilMV.tips - Work From Home (2023) Malayalam HQ HDRip - 400MB - x264 - AAC.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stalin (2023) Tamil Full Movie Watch Now in HD For Free]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172384-stalin-2023-tamil-full-movie-watch-now-in-hd-for-free/&amp;do=findComment&amp;comment=344164</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172384-stalin-2023-tamil-full-movie-watch-now-in-hd-for-free/&amp;do=findComment&amp;comment=344164"/>
+        <updated>2023-03-20T19:29:08.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stalin (2023) Tamil WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.7GB - 1.4GB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172373-stalin-2023-tamil-web-dl-1080p-720p-avc-tamil-telugu-27gb-14gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=344163</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172373-stalin-2023-tamil-web-dl-1080p-720p-avc-tamil-telugu-27gb-14gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=344163"/>
+        <updated>2023-03-20T17:37:33.000Z</updated>
+        <summary type="html"><![CDATA[Stalin (2023) HQ HDRip - 1080p - x264 - Original Audio - [Tamil + Telugu] - 2.8GB - AAC - ESub :www.1TamilMV.tips - Stalin (2023) HQ HDRip - 1080p - x264 - [Tamil + Telugu] - 2.8GB - AAC - ESub.mkv.torrentStalin (2023) HQ HDRip - 720p - x264 - Original Audio - [Tamil + Telugu] - 1.4GB - AAC - ESu...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bash Scripting Tutorial – Linux Shell Script and Command Line for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/"/>
+        <updated>2023-03-20T17:35:58.000Z</updated>
+        <summary type="html"><![CDATA[In Linux, process automation relies heavily on shell scripting. This involves creating a file containing a series of commands that can be executed together. In this article, we'll start with the basics of bash scripting which includes variables, commands, inputs/ outputs, and debugging. We'll also see examples of each along]]></summary>
+        <author>
+            <name>Zaira Hira</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List Flatten in Python – Flattening Nested Lists]]></title>
+        <id>https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/</id>
+        <link href="https://www.freecodecamp.org/news/list-flatten-in-python-flattening-nested-lists/"/>
+        <updated>2023-03-20T17:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Lists are one of the core data structures of Python. Due to their flexibility, there are a lot of things you can do with lists. And one of those things is turning a list of lists into a single list. It is also possible to turn a list of dictionaries,]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build React Forms with Formik]]></title>
+        <id>https://www.freecodecamp.org/news/build-react-forms-with-formik-library/</id>
+        <link href="https://www.freecodecamp.org/news/build-react-forms-with-formik-library/"/>
+        <updated>2023-03-20T16:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Form building in React [https://reactjs.org/] can be complex and time-consuming, requiring state management, validation, and error handling.  To simplify this process, the Formik [https://formik.org/] library provides an intuitive solution for building forms in React. Formik has a straightforward API and built-in validation, making collecting and manipulating input data in]]></summary>
+        <author>
+            <name>Popoola Temitope</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Serverless ChatGPT App in 10 Minutes]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-serverless-chatgpt-app/"/>
+        <updated>2023-03-20T16:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Since OpenAI released an official API for ChatGPT [https://openai.com/blog/introducing-chatgpt-and-whisper-apis] in March 2023, many developers and entrepreneurs are interested in integrating it into their own business operations.  But some significant barriers remain that make it difficult for them to do this:  * OpenAI provides a simple stateless API]]></summary>
+        <author>
+            <name>Michael Yuan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stalin (2023) Tamil WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.7GB - 1.4GB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172373-stalin-2023-tamil-web-dl-1080p-720p-avc-tamil-telugu-27gb-14gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=344162</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172373-stalin-2023-tamil-web-dl-1080p-720p-avc-tamil-telugu-27gb-14gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=344162"/>
+        <updated>2023-03-20T16:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Thanks bro]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shivam (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (Tamil + Telugu) - 2.9GB - 1.4GB & 800MB] - [x264 - 700MB - 400MB & 250MB]]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172383-shivam-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-telugu-29gb-14gb-800mb-x264-700mb-400mb-250mb/&amp;do=findComment&amp;comment=344161</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172383-shivam-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-telugu-29gb-14gb-800mb-x264-700mb-400mb-250mb/&amp;do=findComment&amp;comment=344161"/>
+        <updated>2023-03-20T16:14:09.000Z</updated>
+        <summary type="html"><![CDATA[Shivam (2023) HQ HDRip - 1080p - x264 - Original Audio - [Tamil + Telugu] - 2.9GB - AAC : www.1TamilMV.tips - Shivam (2023) HQ HDRip - 1080p - x264 - [Tamil + Telugu] - 2.9GB - AAC.mkv.torrent   Shivam (2023) HQ HDRip - 720p - x264 - Original Audio - [Tamil + Telugu] - 1.4GB - AAC : www.1TamilMV.tips - Shivam (2023) HQ HDRip - 720p - x264 - [Tamil + Telugu] - 1.4GB - AAC.mkv.torrent   Shivam (2023) HQ HDRip - 720p - x265 - HEVC - Original Audio - [Tamil + Telugu] - 800MB - AAC : www.1TamilMV.tips - Shivam (2023) HQ HDRip - 720p - x265 - HEVC - [Tamil + Telugu] - 800MB - AAC.mkv.torrent   Shivam (2023) Tamil HQ HDRip - 700MB - x264 - Original Audio - AAC : www.1TamilMV.tips - Shivam (2023) Tamil HQ HDRip - 700MB - x264 - AAC.mkv.torrent   Shivam (2023) Tamil HQ HDRip - 400MB - x264 - Original Audio - AAC : www.1TamilMV.tips - Shivam (2023) Tamil HQ HDRip - 400MB - x264 - AAC.mkv.torrent   Shivam (2023) Tamil HQ HDRip - 250MB - x264 - Original Audio - AAC : www.1TamilMV.tips - Shivam (2023) Tamil HQ HDRip - 250MB - x264 - AAC.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Define Relationships Between Django Models]]></title>
+        <id>https://www.freecodecamp.org/news/django-model-relationships/</id>
+        <link href="https://www.freecodecamp.org/news/django-model-relationships/"/>
+        <updated>2023-03-20T16:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Django [https://www.djangoproject.com/] is a free and open-source web framework written in Python. It helps with rapid web development and provides out-of-the-box web security. Websites must be able to store and retrieve data from databases. Django makes provisions for this. By default, Django operates a Relational Database Management System.  >]]></summary>
+        <author>
+            <name>Damilola Oladele</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tirupathi (2006) Tamil TRUE WEB-DL 1080p UNTOUCHED HEVC DDP.5.1 - 7.6GB - Esub - Direct Download]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172382-tirupathi-2006-tamil-true-web-dl-1080p-untouched-hevc-ddp51-76gb-esub-direct-download/&amp;do=findComment&amp;comment=344160</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172382-tirupathi-2006-tamil-true-web-dl-1080p-untouched-hevc-ddp51-76gb-esub-direct-download/&amp;do=findComment&amp;comment=344160"/>
+        <updated>2023-03-20T15:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Tirupathi (2006) Tamil TRUE WEB-DL 1080p UNTOUCHED HEVC DDP.5.1 - 7.6GB - Esub - Direct Download]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untouched Tamil BluRay collection BD50 (Gdrive)]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/170655-untouched-tamil-bluray-collection-bd50-gdrive/&amp;do=findComment&amp;comment=344159</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/170655-untouched-tamil-bluray-collection-bd50-gdrive/&amp;do=findComment&amp;comment=344159"/>
+        <updated>2023-03-20T15:40:40.000Z</updated>
+        <summary type="html"><![CDATA[Bro Aegan Ajith movie BD50 la upload pannunga bro
+ 
+
+
+	Suriya movie vel quality ya 10gb la upload pannunga bro🙏]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS2 - Aga Naga - Lyrical - 1080P & 4K - DD5.1 + DTS5.1 (ITunes M4A Upmixed) - Cinema Surround 5.1]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172380-ps2-aga-naga-lyrical-1080p-4k-dd51-dts51-itunes-m4a-upmixed-cinema-surround-51/&amp;do=findComment&amp;comment=344158</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172380-ps2-aga-naga-lyrical-1080p-4k-dd51-dts51-itunes-m4a-upmixed-cinema-surround-51/&amp;do=findComment&amp;comment=344158"/>
+        <updated>2023-03-20T15:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Cityhunter bro ungaluku telegram page iruka bro🙂]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The.Last.of.Us.S01E00.Making.of.The.Last.of.Us.1080p.WEB.H264.ESub - 1.8GB]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172381-thelastofuss01e00makingofthelastofus1080pwebh264esub-18gb/&amp;do=findComment&amp;comment=344157</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172381-thelastofuss01e00makingofthelastofus1080pwebh264esub-18gb/&amp;do=findComment&amp;comment=344157"/>
+        <updated>2023-03-20T15:26:21.000Z</updated>
+        <summary type="html"><![CDATA[The.Last.of.Us.S01E00.Making.of.The.Last.of.Us.1080p.WEB.H264.ESub - 1.8GB
+ 
+
+
+	LINK
+ 
+
+
+	********************************************************************************************]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS2 - Aga Naga - Lyrical - 1080P & 4K - DD5.1 + DTS5.1 (ITunes M4A Upmixed) - Cinema Surround 5.1]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172380-ps2-aga-naga-lyrical-1080p-4k-dd51-dts51-itunes-m4a-upmixed-cinema-surround-51/&amp;do=findComment&amp;comment=344156</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172380-ps2-aga-naga-lyrical-1080p-4k-dd51-dts51-itunes-m4a-upmixed-cinema-surround-51/&amp;do=findComment&amp;comment=344156"/>
+        <updated>2023-03-20T15:10:54.000Z</updated>
+        <summary type="html"><![CDATA[PS2 - Aga Naga - Lyrical - 1080P & 4K - DD5.1 + DTS5.1 (ITunes M4A Upmixed)
+ 
+
+
+	1080P
+ 
+
+
+	4K
+ 
+
+
+	********************************************************************************************]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never Back Down (2008) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 1.8GB & 1GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/171757-never-back-down-2008-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-18gb-1gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=344155</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/171757-never-back-down-2008-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-18gb-1gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=344155"/>
+        <updated>2023-03-20T14:04:01.000Z</updated>
+        <summary type="html"><![CDATA[Never Back Down (2008) BluRay - 1080p - x264 - Original Audios [Tamil + Telugu + Hindi + Eng] - 1.8GB - ESub :www.1TamilMV.tips - Never Back Down (2008) BluRay - 1080p - x264 - [Tam + Tel + Hin + Eng] - 1.8GB - ESub.mkv.torrentNever Back Down (2008) BluRay - 720p - x264 - Original Audios [Tamil +...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Racha (2012) Telugu Bluray – [1080p, 720p, 576p, 480p] – AVC/HEVC – [DD5.1 – 448kbps & DTS & DTS.HDMA] – Esubs]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172369-racha-2012-telugu-bluray-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avchevc-%E2%80%93-dd51-%E2%80%93-448kbps-dts-dtshdma-%E2%80%93-esubs/&amp;do=findComment&amp;comment=344154</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172369-racha-2012-telugu-bluray-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avchevc-%E2%80%93-dd51-%E2%80%93-448kbps-dts-dtshdma-%E2%80%93-esubs/&amp;do=findComment&amp;comment=344154"/>
+        <updated>2023-03-20T13:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Please upload muthu telugu dubbed bro.please]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kavalai Vendam (2016) Tamil TRUE WEB-DL 1080p UNTOUCHED AVC DDP.5.1 - 8GB - Esub - Direct Download]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172379-kavalai-vendam-2016-tamil-true-web-dl-1080p-untouched-avc-ddp51-8gb-esub-direct-download/&amp;do=findComment&amp;comment=344153</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172379-kavalai-vendam-2016-tamil-true-web-dl-1080p-untouched-avc-ddp51-8gb-esub-direct-download/&amp;do=findComment&amp;comment=344153"/>
+        <updated>2023-03-20T13:43:23.000Z</updated>
+        <summary type="html"><![CDATA[Kavalai Vendam (2016) Tamil TRUE WEB-DL 1080p UNTOUCHED AVC DDP.5.1 - 8GB - Esub - Direct Download]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📌 YAMADONGA (2007) (Music Video Album) - 1080P - AMZN - WEBDL - H264 - TEL DD® 5.1 @ 448K / DTS® 5.1 @ 768K - DVD Sync - Esubs - 2GB]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172378-%F0%9F%93%8C-yamadonga-2007-music-video-album-1080p-amzn-webdl-h264-tel-dd%C2%AE-51-448k-dts%C2%AE-51-768k-dvd-sync-esubs-2gb/&amp;do=findComment&amp;comment=344152</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172378-%F0%9F%93%8C-yamadonga-2007-music-video-album-1080p-amzn-webdl-h264-tel-dd%C2%AE-51-448k-dts%C2%AE-51-768k-dvd-sync-esubs-2gb/&amp;do=findComment&amp;comment=344152"/>
+        <updated>2023-03-20T13:27:17.000Z</updated>
+        <summary type="html"><![CDATA[Telegram :-  https://t.me/+VnEJQevGOyEzODQ1
+						 
+
+						
+							**(Only Untouched Video Songs)**
+						 
+
+						
+							
+						 
+
+						
+							
+								01 - Nuv Muttukunte.mkv [294.19 MB]
+							
+
+							
+								02 - Naachore.mkv [413.98 MB]
+							
+
+							
+								03 - Noonugu Meesalodu.mkv [197.15 MB]
+							
+
+							
+								05 - Rabbaru Gajulu.mkv [379.69 MB]
+							
+
+							
+								06 - Olammi.mkv [307.94 MB]
+							
+							
+						
+
+						
+							Sync Credit - DLS
+						 
+
+						
+							🎧 ENJOY THE ®Original DTS 5.1 SURROUND 🎧]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aga Naga From ("PS-2") (2023) Multi [ALAC & FLAC] [24Bit/16Bit] iTunes HQ MP3 [320Kbps & 128Kbps] - A R Rahman Musical]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172350-aga-naga-from-ps-2-2023-multi-alac-flac-24bit16bit-itunes-hq-mp3-320kbps-128kbps-a-r-rahman-musical/&amp;do=findComment&amp;comment=344151</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172350-aga-naga-from-ps-2-2023-multi-alac-flac-24bit16bit-itunes-hq-mp3-320kbps-128kbps-a-r-rahman-musical/&amp;do=findComment&amp;comment=344151"/>
+        <updated>2023-03-20T13:15:25.000Z</updated>
+        <summary type="html"><![CDATA[??? Upload it fast bro Tamil atleast]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‎Golmaal (1998).Tamil.480p.HDTV.x264.AAC2.0 - 2.2GB - GDRIVE]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172377-%E2%80%8Egolmaal-1998tamil480phdtvx264aac20-22gb-gdrive/&amp;do=findComment&amp;comment=344150</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172377-%E2%80%8Egolmaal-1998tamil480phdtvx264aac20-22gb-gdrive/&amp;do=findComment&amp;comment=344150"/>
+        <updated>2023-03-20T12:49:05.000Z</updated>
+        <summary type="html"><![CDATA[‎Golmaal (1998).Tamil.480p.HDTV.x264.AAC2.0 - 2.2GB
+ 
+
+
+	LINK
+ 
+
+
+	LINK 2
+ 
+
+
+	********************************************************************************************]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sigappu Rojakkal(1978) TRUE Upscaled - [1080p & 720p - AVC / HEVC - [Tamil - 10GB - 7GB - 4GB - 2.5GB - 1.4GB - 1.7GB & 900MB] - [x264 - 700MB - 400MB & 250MB]]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172376-sigappu-rojakkal1978-true-upscaled-1080p-720p-avc-hevc-tamil-10gb-7gb-4gb-25gb-14gb-17gb-900mb-x264-700mb-400mb-250mb/&amp;do=findComment&amp;comment=344149</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172376-sigappu-rojakkal1978-true-upscaled-1080p-720p-avc-hevc-tamil-10gb-7gb-4gb-25gb-14gb-17gb-900mb-x264-700mb-400mb-250mb/&amp;do=findComment&amp;comment=344149"/>
+        <updated>2023-03-20T11:45:12.000Z</updated>
+        <summary type="html"><![CDATA[Please Send Feedback After Download  
+ 
+
+
+	
+ 
+
+
+	Sigappu Rojakkal (1978) [Tamil - DVDRip - 1080p Upscaled - HD AVC UNTOUCHED - x264 - AAC2.0(128kbps) - 10GB].mkv:
+ 
+
+
+	www.1tamilmv.tips - Sigappu Rojakkal (1978) [Tamil - DVDRip - 1080p Upscaled - HD AVC UNTOUCHED - x264 - AAC2.0(128kbps) - 10GB].mkv
+ 
+
+
+	
+ 
+
+
+	Sigappu Rojakkal (1978) [Tamil - DVDRip - 1080p Upscaled - HD AVC UNTOUCHED - x264 - AAC2.0(128kbps) - 7GB].mkv:
+ 
+
+
+	www.1tamilmv.tips - Sigappu Rojakkal (1978) [Tamil - DVDRip - 1080p Upscaled - HD AVC UNTOUCHED - x264 - AAC2.0(128kbps) - 7GB].mkv
+ 
+
+
+	
+ 
+
+
+	Sigappu Rojakkal (1978) [Tamil - DVDRip - 1080p Upscaled - HD AVC UNTOUCHED - x264 - AAC2.0(128kbps) - 4GB].mp4:
+ 
+
+
+	www.1tamilmv.tips - Sigappu Rojakkal (1978) [Tamil - DVDRip - 1080p Upscaled - HD AVC UNTOUCHED - x264 - AAC2…]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abhimanyudu (2018) Telugu SUNNXT WEB-DL – [1080p, 720p, 576p, 480p] – AVC/HEVC – [DD+5.1 – 192kbps & AAC2.0] – Esubs]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172375-abhimanyudu-2018-telugu-sunnxt-web-dl-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avchevc-%E2%80%93-dd51-%E2%80%93-192kbps-aac20-%E2%80%93-esubs/&amp;do=findComment&amp;comment=344148</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172375-abhimanyudu-2018-telugu-sunnxt-web-dl-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avchevc-%E2%80%93-dd51-%E2%80%93-192kbps-aac20-%E2%80%93-esubs/&amp;do=findComment&amp;comment=344148"/>
+        <updated>2023-03-20T11:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Abhimanyudu (2018) Telugu SUNNXT WEB-DL - 1080p - AVC - [DD+5.1 - 192kbps & AAC2.0] - Esubs - 6GB.mkv https://tinyfy.in/4xB5dL
+ 
+
+
+	Abhimanyudu (2018) Telugu SUNNXT WEBRip - 1080p - AVC - [DD+5.1 - 192kbps & AAC2.0] - Esubs - 2.6GB.mkv https://tinyfy.in/4yTqNVm
+ 
+
+
+	Abhimanyudu (2018) Telugu SUNNXT WEBRip - 1080p - HEVC - [DD+5.1 - 192kbps & AAC2.0] - Esubs - 2.3GB.mkv https://tinyfy.in/UDE3k2r
+ 
+
+
+	Abhimanyudu (2018) Telugu SUNNXT WEBRip - 480p - AVC - AAC2.0 - Esubs - 400MB.mkv https://tinyfy.in/LLAPElEl
+ 
+
+
+	Abhimanyudu (2018) Telugu SUNNXT WEBRip - 576p - AVC - AAC2.0 - Esubs - 700MB.mkv https://tinyfy.in/tS0AsF
+ 
+
+
+	Abhimanyudu (2018) Telugu SUNNXT WEBRip - 720p - AVC - [DD+5.1 - 192kbps & AAC2.0] - Esubs - 1.5GB.mkv https://tinyfy.in/Tfc4nzri]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bhai (2023) Tamil Full Movie Watch Now in HD For Free]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172374-bhai-2023-tamil-full-movie-watch-now-in-hd-for-free/&amp;do=findComment&amp;comment=344147</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172374-bhai-2023-tamil-full-movie-watch-now-in-hd-for-free/&amp;do=findComment&amp;comment=344147"/>
+        <updated>2023-03-20T11:06:08.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📌 DESAMUDURU (2006) Telugu (Music Video Album) - 1080P - WEBDL - AVC - DD® 5.1 @ 448K / DTS® 5.1 @ 1536K - DVD9 OrgAuds - ESubs - 2GB 〰️ [Avatar]]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172241-%F0%9F%93%8C-desamuduru-2006-telugu-music-video-album-1080p-webdl-avc-dd%C2%AE-51-448k-dts%C2%AE-51-1536k-dvd9-orgauds-esubs-2gb-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=344146</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172241-%F0%9F%93%8C-desamuduru-2006-telugu-music-video-album-1080p-webdl-avc-dd%C2%AE-51-448k-dts%C2%AE-51-1536k-dvd9-orgauds-esubs-2gb-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=344146"/>
+        <updated>2023-03-20T10:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Desamuduru movie Telugu 3GB please...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stalin (2023) Tamil WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.7GB - 1.4GB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172373-stalin-2023-tamil-web-dl-1080p-720p-avc-tamil-telugu-27gb-14gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=344145</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172373-stalin-2023-tamil-web-dl-1080p-720p-avc-tamil-telugu-27gb-14gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=344145"/>
+        <updated>2023-03-20T10:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Thank you soo much Boss...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aga Naga From ("PS-2") (2023) Multi [ALAC & FLAC] [24Bit/16Bit] iTunes HQ MP3 [320Kbps & 128Kbps] - A R Rahman Musical]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172350-aga-naga-from-ps-2-2023-multi-alac-flac-24bit16bit-itunes-hq-mp3-320kbps-128kbps-a-r-rahman-musical/&amp;do=findComment&amp;comment=344144</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172350-aga-naga-from-ps-2-2023-multi-alac-flac-24bit16bit-itunes-hq-mp3-320kbps-128kbps-a-r-rahman-musical/&amp;do=findComment&amp;comment=344144"/>
+        <updated>2023-03-20T10:01:27.000Z</updated>
+        <summary type="html"><![CDATA[please upload Raavana Kottam 128 kbps song soon]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Once Upon A Time In Jamaaligudda (2023) Kannada SNXT WEB-DL DDP5.1 Esubs - 2160p [HDR10+] | 1080p | 720p - 8.7 GB | 2.8 GB | 1.1 GB]]></title>
+        <id>https://www.1tamilmv.tips/index.php?/forums/topic/172368-once-upon-a-time-in-jamaaligudda-2023-kannada-snxt-web-dl-ddp51-esubs-2160p-hdr10-1080p-720p-87-gb-28-gb-11-gb/&amp;do=findComment&amp;comment=344143</id>
+        <link href="https://www.1tamilmv.tips/index.php?/forums/topic/172368-once-upon-a-time-in-jamaaligudda-2023-kannada-snxt-web-dl-ddp51-esubs-2160p-hdr10-1080p-720p-87-gb-28-gb-11-gb/&amp;do=findComment&amp;comment=344143"/>
+        <updated>2023-03-20T09:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Bro Please upload Junglee Kannada movie available in Sunnxt Hero Duniya Vijay]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free Fonts For Interface Designers]]></title>
+        <id>https://smashingmagazine.com/2023/03/free-fonts-interface-designers/</id>
+        <link href="https://smashingmagazine.com/2023/03/free-fonts-interface-designers/"/>
+        <updated>2023-03-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just a few beautiful, well-crafted fonts for headings and body text that you probably haven’t spotted before. Free for personal and commercial use. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[55 Tamil Movies - 1080p - WEB DL - HEVC x265 - DD5.1 / AAC5.1 / AAC2.0 - Esub - 75GB [GDrive]]]></title>
         <id>https://www.1tamilmv.tips/index.php?/forums/topic/164468-55-tamil-movies-1080p-web-dl-hevc-x265-dd51-aac51-aac20-esub-75gb-gdrive/&amp;do=findComment&amp;comment=344120</id>
@@ -12774,345 +13263,6 @@ Lakshmi Bava.mkv [254.82 MB]]]></summary>
         <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171792-heroic-losers-2019-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-spa-26gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342953"/>
         <updated>2023-02-19T14:14:07.000Z</updated>
         <summary type="html"><![CDATA[Please Seed Back After Download Heroic Losers (2019) BluRay - 1080p - x264 - Original Audios [Tamil + Telugu + Hindi + Spa] - 2.6GB - ESub :www.1TamilMV.wtf - Heroic Losers (2019) BluRay - 1080p - Org Auds [Tam + Tel + Hin + Spa].mkv.torrentHeroic Losers (2019) BluRay - 720p - x264 - Original Aud...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black.Panther.Wakanda.Forever.2022.BluRay.REMUX 1080p &2160p.4K.HDR DDP5.1 Tamil-Telugu-Hindi-English.TrueHD.Atmos.7.1.MSubs.x265 4GB & 23GB & 38GB 56GB [G-Drive]]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171545-blackpantherwakandaforever2022blurayremux-1080p-2160p4khdr-ddp51-tamil-telugu-hindi-englishtruehdatmos71msubsx265-4gb-23gb-38gb-56gb-g-drive/&amp;do=findComment&amp;comment=342952</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171545-blackpantherwakandaforever2022blurayremux-1080p-2160p4khdr-ddp51-tamil-telugu-hindi-englishtruehdatmos71msubsx265-4gb-23gb-38gb-56gb-g-drive/&amp;do=findComment&amp;comment=342952"/>
-        <updated>2023-02-19T12:49:55.000Z</updated>
-        <summary type="html"><![CDATA[check link working fine]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sachein 2005 Tamil SS WEB-DL H.264 DD5.1 - [1080p & 720p - 4.2GB - 2.3GB] [GDRIVE]]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/166953-sachein-2005-tamil-ss-web-dl-h264-dd51-1080p-720p-42gb-23gb-gdrive/&amp;do=findComment&amp;comment=342951</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/166953-sachein-2005-tamil-ss-web-dl-h264-dd51-1080p-720p-42gb-23gb-gdrive/&amp;do=findComment&amp;comment=342951"/>
-        <updated>2023-02-19T12:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Link updated.]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sachein 2005 Tamil SS WEB-DL H.264 DD5.1 - [1080p & 720p - 4.2GB - 2.3GB] [GDRIVE]]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/166953-sachein-2005-tamil-ss-web-dl-h264-dd51-1080p-720p-42gb-23gb-gdrive/&amp;do=findComment&amp;comment=342950</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/166953-sachein-2005-tamil-ss-web-dl-h264-dd51-1080p-720p-42gb-23gb-gdrive/&amp;do=findComment&amp;comment=342950"/>
-        <updated>2023-02-19T09:46:49.000Z</updated>
-        <summary type="html"><![CDATA[Can't access file....]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[♓ Sachein (2005) Tamil - REMASTERED - 4k - 1080p - 720 - UHD AVC x264 - UNTOUCHED - AAC 2.0 - DD5.1 (448kbps) - DTS 5.1 (768kbps) + Video Songs @ [G-Drive]]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/159508-%E2%99%93-sachein-2005-tamil-remastered-4k-1080p-720-uhd-avc-x264-untouched-aac-20-dd51-448kbps-dts-51-768kbps-video-songs-g-drive/&amp;do=findComment&amp;comment=342949</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/159508-%E2%99%93-sachein-2005-tamil-remastered-4k-1080p-720-uhd-avc-x264-untouched-aac-20-dd51-448kbps-dts-51-768kbps-video-songs-g-drive/&amp;do=findComment&amp;comment=342949"/>
-        <updated>2023-02-19T09:38:01.000Z</updated>
-        <summary type="html"><![CDATA[No file found in Gdtot]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mishan Impossible (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (Tamil + Telugu) - 2.7GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB]]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171791-mishan-impossible-2023-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-27gb-14gb-850mb-x264-700mb-400mb-250mb/&amp;do=findComment&amp;comment=342948</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171791-mishan-impossible-2023-tamil-true-web-dl-1080p-720p-avc-tamil-telugu-27gb-14gb-850mb-x264-700mb-400mb-250mb/&amp;do=findComment&amp;comment=342948"/>
-        <updated>2023-02-19T08:37:44.000Z</updated>
-        <summary type="html"><![CDATA[😂]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAREBI YAAR PART 1+2+3 2023 HINDI ULLU ORIGINALS WEB SERIES 1080P | 720P | 480P HDRIP]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/158453-farebi-yaar-part-123-2023-hindi-ullu-originals-web-series-1080p-720p-480p-hdrip/&amp;do=findComment&amp;comment=342947</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/158453-farebi-yaar-part-123-2023-hindi-ullu-originals-web-series-1080p-720p-480p-hdrip/&amp;do=findComment&amp;comment=342947"/>
-        <updated>2023-02-19T07:08:48.000Z</updated>
-        <summary type="html"><![CDATA[. DEADLOCK (2021) BLURAY - 1080P - ORG AUDS [TAM + TEL + HIN + ENG].MKV
-	
-	
-		. DEADLOCK (2021) BLURAY - 720P - ORG AUDS [TAM + TEL + HIN + ENG].MKV
-	
-	
-		. DEADLOCK (2021) BR-RIP - X264 - ORG AUDS [TAM + TEL + HIN] - 450MB - ESUB.MKV
-	
-
-	
- 
-
-
-		https://bit.ly/3JrjfNm
-	
-	
-		https://bit.ly/3iArJpX
-	
-	
-		https://bit.ly/3tk0eHg]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minnale (2001) Tamil 1080p WEB DL H.264 DD5.1 - 12.8GB [GDRIVE]]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/168008-minnale-2001-tamil-1080p-web-dl-h264-dd51-128gb-gdrive/&amp;do=findComment&amp;comment=342928</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/168008-minnale-2001-tamil-1080p-web-dl-h264-dd51-128gb-gdrive/&amp;do=findComment&amp;comment=342928"/>
-        <updated>2023-02-19T01:36:22.000Z</updated>
-        <summary type="html"><![CDATA[How to upload movie in post & share section in  that i dont have post option please help]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bakasuran (2023) Tamil Proper HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171782-bakasuran-2023-tamil-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342927</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171782-bakasuran-2023-tamil-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342927"/>
-        <updated>2023-02-19T00:54:28.000Z</updated>
-        <summary type="html"><![CDATA[nandri]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaathi (2023) Tamil Proper HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171780-vaathi-2023-tamil-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342926</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171780-vaathi-2023-tamil-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342926"/>
-        <updated>2023-02-19T00:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Many thanks]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scam 1992 The Harshad Mehta Story (2020) SeaSon 1  Episodes  (01-10) - 2160p 4K - SONYLIV WEB-DL [DDP5.1 Atmos] - DV HDR10+ HEVC - [Hindi + Tamil + Telugu + Kannada + Malayalam + Mar + Ban ] - ESub - 38.645 GB]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171790-scam-1992-the-harshad-mehta-story-2020-season-1-episodes-01-10-2160p-4k-sonyliv-web-dl-ddp51-atmos-dv-hdr10-hevc-hindi-tamil-telugu-kannada-malayalam-mar-ban-esub-38645-gb/&amp;do=findComment&amp;comment=342925</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171790-scam-1992-the-harshad-mehta-story-2020-season-1-episodes-01-10-2160p-4k-sonyliv-web-dl-ddp51-atmos-dv-hdr10-hevc-hindi-tamil-telugu-kannada-malayalam-mar-ban-esub-38645-gb/&amp;do=findComment&amp;comment=342925"/>
-        <updated>2023-02-18T21:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Please post Scam web series in 1080p DD5.1]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wedding Unplanner (2020) (BluRay + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Spa) - 3.2GB & 1.3GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub (Direct Download)]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171816-the-wedding-unplanner-2020-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-spa-32gb-13gb-x264-tam-tel-hin-450mb-esub-direct-download/&amp;do=findComment&amp;comment=342924</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171816-the-wedding-unplanner-2020-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-spa-32gb-13gb-x264-tam-tel-hin-450mb-esub-direct-download/&amp;do=findComment&amp;comment=342924"/>
-        <updated>2023-02-18T16:20:10.000Z</updated>
-        <summary type="html"><![CDATA[The Wedding Unplanner (2020) BluRay – 1080p – x264 – Original Audios (DD+5.1 – 640Kbps) [Tamil + Telugu + Hindi + Spa] – 3.2GB – ESub
- 
-
-
-	https://adrinolinks.com/8tpy9CWO
- 
-
-
-	 The Wedding Unplanner (2020) BluRay – 720p – x264 – Original Audios (DD+5.1 – 192Kbps) [Tamil + Telugu + Hindi + Spa] – 1.3GB – ESub
- 
-
-
-	https://adrinolinks.com/8wv8L
- 
-
-
-	 The Wedding Unplanner (2020) BluRay – x264 – Original Audios [Tamil + Telugu + Hindi] – 450MB – ESub
- 
-
-
-	https://adrinolinks.com/Tk95U0]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Head of Joaquin Murrieta (2023) HDRip S01 Complete – 480p + 720p + 1080p [Hin + Eng] 17.4GB, 3.2GB, 1.2GB – ESub (Direct Download)]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171815-the-head-of-joaquin-murrieta-2023-hdrip-s01-complete-%E2%80%93-480p-720p-1080p-hin-eng-174gb-32gb-12gb-%E2%80%93-esub-direct-download/&amp;do=findComment&amp;comment=342923</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171815-the-head-of-joaquin-murrieta-2023-hdrip-s01-complete-%E2%80%93-480p-720p-1080p-hin-eng-174gb-32gb-12gb-%E2%80%93-esub-direct-download/&amp;do=findComment&amp;comment=342923"/>
-        <updated>2023-02-18T16:16:35.000Z</updated>
-        <summary type="html"><![CDATA[The Head of Joaquin Murrieta (2023) 1080p HDRip S01 Complete WebSeries – [Hindi & English] – x264 – 17.4GB – ESub
- 
-
-
-	https://adrinolinks.com/hXcrgo
- 
-
-
-	 The Head of Joaquin Murrieta (2023) 720p HDRip S01 Complete WebSeries – [Hindi & English] – x264 – 3.2GB – ESub
- 
-
-
-	https://adrinolinks.com/0Ckxs
- 
-
-
-	 The Head of Joaquin Murrieta (2023) 480p HDRip S01 Complete WebSeries – [Hindi & English] – x264 – 1.2GB – ESub
- 
-
-
-	https://adrinolinks.com/4a5lRUep]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heroic Losers (2019) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Spa) - 2.6GB & 1.2GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub (Direct Download)]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171814-heroic-losers-2019-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-spa-26gb-12gb-x264-tam-tel-hin-450mb-esub-direct-download/&amp;do=findComment&amp;comment=342922</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171814-heroic-losers-2019-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-spa-26gb-12gb-x264-tam-tel-hin-450mb-esub-direct-download/&amp;do=findComment&amp;comment=342922"/>
-        <updated>2023-02-18T16:11:12.000Z</updated>
-        <summary type="html"><![CDATA[Heroic Losers (2019) BluRay – 1080p – x264 – Original Audios [Tamil + Telugu + Hindi + Spa] – 2.6GB – ESub
- 
-
-
-	https://adrinolinks.com/J4a1qSp
- 
-
-
-	 Heroic Losers (2019) BluRay – 720p – x264 – Original Audios [Tamil + Telugu + Hindi + Spa] – 1.2GB – ESub
- 
-
-
-	https://adrinolinks.com/qA4knTy
- 
-
-
-	 Heroic Losers (2019) BR-Rip – x264 – Original Audios [Tamil + Telugu + Hindi] – 450MB – ESub
- 
-
-
-	https://adrinolinks.com/rqASmqw5]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Race Gurram (2014) Telugu SUNNXT WEB-DL – [1080p, 720p, 576p, 480p] – AVC – [DD+5.1 – 192kbps & AAC2.0] – Esubs]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171813-race-gurram-2014-telugu-sunnxt-web-dl-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avc-%E2%80%93-dd51-%E2%80%93-192kbps-aac20-%E2%80%93-esubs/&amp;do=findComment&amp;comment=342921</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171813-race-gurram-2014-telugu-sunnxt-web-dl-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avc-%E2%80%93-dd51-%E2%80%93-192kbps-aac20-%E2%80%93-esubs/&amp;do=findComment&amp;comment=342921"/>
-        <updated>2023-02-18T15:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Race Gurram (2014) Telugu SUNNXT WEB-DL - 1080p - AVC - [DD+5.1 - 192kbps & AAC2.0] - Esubs - 5.8GB.mkv https://mdisk.pro/l4dW2H
- 
-
-
-	Race Gurram (2014) Telugu SUNNXT WEBRip - 1080p - AVC - [DD+5.1 - 192kbps & AAC2.0] - Esubs - 2.5GB.mkv https://mdisk.pro/xw2IJS
- 
-
-
-	Race Gurram (2014) Telugu SUNNXT WEBRip - 1080p - HEVC - [DD+5.1 - 192kbps & AAC2.0] - Esubs - 2.2GB.mkv https://mdisk.pro/fB4Zr7w
- 
-
-
-	Race Gurram (2014) Telugu SUNNXT WEBRip - 480p - AVC - MP3 - Esubs - 400MB.mkv https://mdisk.pro/n5dURk
- 
-
-
-	Race Gurram (2014) Telugu SUNNXT WEBRip - 576p - AVC - MP3 - Esubs - 700MB.mkv https://mdisk.pro/HOfax
- 
-
-
-	Race Gurram (2014) Telugu SUNNXT WEBRip - 720p - AVC - [DD+5.1 - 192kbps & AAC2.0] - Esubs - 1.4GB.mkv https://mdisk.pro/b1zyvZ]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanchana (2011) Telugu SUNNXT WEB-DL – [1080p, 720p, 576p, 480p] – AVC – [DD+5.1 – 192kbps & AAC2.0]]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171812-kanchana-2011-telugu-sunnxt-web-dl-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avc-%E2%80%93-dd51-%E2%80%93-192kbps-aac20/&amp;do=findComment&amp;comment=342920</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171812-kanchana-2011-telugu-sunnxt-web-dl-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avc-%E2%80%93-dd51-%E2%80%93-192kbps-aac20/&amp;do=findComment&amp;comment=342920"/>
-        <updated>2023-02-18T14:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Kanchana (2011) Telugu SUNNXT WEB-DL - 1080p - AVC - [DD+5.1 - 192kbps & AAC2.0] - 5.9GB.mkv https://mdisk.pro/cuaVxZhA
- 
-
-
-	Kanchana (2011) Telugu SUNNXT WEBRip - 1080p - AVC - [DD+5.1 - 192kbps & AAC2.0] - 2.5GB.mkv https://mdisk.pro/Z4Jtk
- 
-
-
-	Kanchana (2011) Telugu SUNNXT WEBRip - 1080p - HEVC - [DD+5.1 - 192kbps & AAC2.0] - 2.2GB.mkv https://mdisk.pro/l0Fuf
- 
-
-
-	Kanchana (2011) Telugu SUNNXT WEBRip - 480p - AVC - MP3 - 400MB.mkv https://mdisk.pro/VcSi2
- 
-
-
-	Kanchana (2011) Telugu SUNNXT WEBRip - 576p - AVC - MP3 - 700MB.mkv https://mdisk.pro/oJrvVa6e
- 
-
-
-	Kanchana (2011) Telugu SUNNXT WEBRip - 720p - AVC - [DD+5.1 - 192kbps & AAC2.0] - 1.4GB.mkv https://mdisk.pro/SRSl]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Govindudu Andarivadele (2014) Telugu SUNNXT WEB-DL – [1080p, 720p, 576p, 480p] – AVC – [DD+5.1 – 192kbps & AAC2.0]]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171811-govindudu-andarivadele-2014-telugu-sunnxt-web-dl-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avc-%E2%80%93-dd51-%E2%80%93-192kbps-aac20/&amp;do=findComment&amp;comment=342919</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171811-govindudu-andarivadele-2014-telugu-sunnxt-web-dl-%E2%80%93-1080p-720p-576p-480p-%E2%80%93-avc-%E2%80%93-dd51-%E2%80%93-192kbps-aac20/&amp;do=findComment&amp;comment=342919"/>
-        <updated>2023-02-18T14:53:50.000Z</updated>
-        <summary type="html"><![CDATA[Govindudu Andarivadele (2014) Telugu SUNNXT WEB-DL - 1080p - AVC - [DD+5.1 - 192kbps & AAC2.0] - 5.1GB.mkv https://mdisk.pro/0eaw4
- 
-
-
-	Govindudu Andarivadele (2014) Telugu SUNNXT WEBRip - 1080p - AVC - [DD+5.1 - 192kbps & AAC2.0] - 2.5GB.mkv https://mdisk.pro/VjhekqUy
- 
-
-
-	Govindudu Andarivadele (2014) Telugu SUNNXT WEBRip - 1080p - HEVC - [DD+5.1 - 192kbps & AAC2.0] - 2.2GB.mkv https://mdisk.pro/NoMVZBRN
- 
-
-
-	Govindudu Andarivadele (2014) Telugu SUNNXT WEBRip - 480p - AVC - MP3 - 400MB.mkv https://mdisk.pro/QoV2P
- 
-
-
-	Govindudu Andarivadele (2014) Telugu SUNNXT WEBRip - 576p - AVC - MP3 - 700MB.mkv https://mdisk.pro/Vyyx9
- 
-
-
-	Govindudu Andarivadele (2014) Telugu SUNNXT WEBRip - 720p - AVC - [DD+5.1 - 192kbps & AAC2.0] - 1.3GB.mkv https://mdisk.pro/1OTiBh]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christy (2023) Malayalam Proper HQ PreDVD - [1080p & 720p - x264 - 2.5GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171786-christy-2023-malayalam-proper-hq-predvd-1080p-720p-x264-25gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342918</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171786-christy-2023-malayalam-proper-hq-predvd-1080p-720p-x264-25gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342918"/>
-        <updated>2023-02-18T14:49:38.000Z</updated>
-        <summary type="html"><![CDATA[Christy (2023) Malayalam Proper HQ PreDVD - 1080p - x264 - HQ Clean Audio - MP3 - 2.4GB :www.1TamilMV.wtf - Christy (2023) Malayalam Proper HQ PreDVD - 1080p - x264 - HQ Clean Aud - 2.4GB.mkv.torrentChristy (2023) Malayalam Proper HQ PreDVD - 720p - x264 - HQ Clean Audio - MP3 - 1.3GB :www.1Tamil...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heroic Losers (2019) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Spa) - 2.6GB & 1.2GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171792-heroic-losers-2019-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-spa-26gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342917</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171792-heroic-losers-2019-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-spa-26gb-12gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=342917"/>
-        <updated>2023-02-18T14:48:47.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Heroic Losers (2019) BluRay - 1080p - x264 - Original Audios [Tamil + Telugu + Hindi + Spa] - 2.6GB - ESub :www.1TamilMV.wtf - Heroic Losers (2019) BluRay - 1080p - Org Auds [Tam + Tel + Hin + Spa].mkv.torrentHeroic Losers (2019) BluRay - 720p - x264 - Original Aud...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vinaro Bhagyamu Vishnu Katha (2023) Telugu Proper HQ PreDVD - [1080p & 720p - x264 - 2.8GB - 1.6GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171793-vinaro-bhagyamu-vishnu-katha-2023-telugu-proper-hq-predvd-1080p-720p-x264-28gb-16gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342916</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171793-vinaro-bhagyamu-vishnu-katha-2023-telugu-proper-hq-predvd-1080p-720p-x264-28gb-16gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342916"/>
-        <updated>2023-02-18T14:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Vinaro Bhagyamu Vishnu Katha (2023) Telugu HQ PreDVD - 1080p - x264 - HQ Clean Audio - MP3 - 2.6GB :www.1TamilMV.wtf - Vinaro Bhagyamu Vishnu Katha (2023) Telugu HQ PreDVD - 1080p - x264 - HQ Clean Aud - 2.5GB.mkv.torrentVinaro Bhagyamu Vishnu Katha (2023) Telugu HQ PreDVD - 720p - x264 - HQ Clea...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enkilum Chandrike (2023) Malayalam Proper HQ PreDVD - [1080p & 720p - x264 - 2.5GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.wtf/index.php?/forums/topic/171787-enkilum-chandrike-2023-malayalam-proper-hq-predvd-1080p-720p-x264-25gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342915</id>
-        <link href="https://www.1tamilmv.wtf/index.php?/forums/topic/171787-enkilum-chandrike-2023-malayalam-proper-hq-predvd-1080p-720p-x264-25gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=342915"/>
-        <updated>2023-02-18T14:47:32.000Z</updated>
-        <summary type="html"><![CDATA[Enkilum Chandrike (2023) Malayalam Proper HQ PreDVD - 1080p - x264 - HQ Clean Audio - MP3 - 2.4GB :www.1TamilMV.wtf - Enkilum Chandrike (2023) Malayalam Proper HQ PreDVD - 1080p - x264 - HQ Clean Aud - 2.4GB.mkv.torrentEnkilum Chandrike (2023) Malayalam Proper HQ PreDVD - 720p - x264 - HQ Clean A...]]></summary>
         <author>
             <name>All Activity</name>
         </author>
