@@ -2,10 +2,534 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-10T01:56:57.420Z</updated>
+    <updated>2023-07-11T01:47:14.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python Env Vars – How to Get an Environment Variable in Python]]></title>
+        <id>https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/python-env-vars-how-to-get-an-environment-variable-in-python/"/>
+        <updated>2023-07-10T21:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Environment variables play a crucial role in Python programming. They provide a way to store and access configuration values, system-specific information, and sensitive data.  In this article, we will explore various methods to retrieve environment variables in Python and discuss best practices for handling and managing them effectively. What]]></summary>
+        <author>
+            <name>Shittu Olumide</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use @Input() to Read Angular Route Parameters]]></title>
+        <id>https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/</id>
+        <link href="https://www.freecodecamp.org/news/use-input-for-angular-route-parameters/"/>
+        <updated>2023-07-10T21:18:44.000Z</updated>
+        <summary type="html"><![CDATA[One of the new features in Angular v16 is automatic route parameter mapping using the @Input() decorator. What does that mean? Well, you may have code that reads route parameters using the Activated Route service, like this:   private route = inject(ActivatedRoute);   ngOnInit(): void {]]></summary>
+        <author>
+            <name>Deborah Kurata</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the JavaScript Fullscreen API]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-javascript-fullscreen-api/"/>
+        <updated>2023-07-10T21:02:06.000Z</updated>
+        <summary type="html"><![CDATA[The Fullscreen API is a browser web API that allows you to enable fullscreen mode for HTML elements. It saves you the stress of using CSS and JavaScript to implement fullscreen functionality. The use cases of fullscreen API are numerous because of the increased complexity of today's websites. In this]]></summary>
+        <author>
+            <name>Gideon Akinsanmi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Janaki Jaane (2023) Malayalam TRUE WEB-DL - [4K ,1080p & 720p - AVC / HEVC - (DD+5.1 ATMOS - 768Kbps) - 12GB - 2.6GB - 1.5GB & 900MB] - [x264 - 800MB - 450MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174299-janaki-jaane-2023-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-atmos-768kbps-12gb-26gb-15gb-900mb-x264-800mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=350064</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174299-janaki-jaane-2023-malayalam-true-web-dl-4k-1080p-720p-avc-hevc-dd51-atmos-768kbps-12gb-26gb-15gb-900mb-x264-800mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=350064"/>
+        <updated>2023-07-10T18:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Janaki Jaane (2023) TRUE WEB-DL - 4K SDR - 2160p - HEVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Malayalam (ATMOS) + Hindi] - 12.4GB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) TRUE WEB-DL - 4K SDR - 2160p - HEVC - (DD+5.1 - 192Kbps) [Tam + Tel + Mal + Hin] - 12.4GB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Malayalam (ATMOS) + Hindi] - 3.9GB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps) [Tam + Mal (ATMOS) + Tel + Hin] - 3.9GB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) Malayalam HQ HDRip - 1080p - x264 - (DD+5.1 ATMOS - 768Kbps & AAC 2.0) - 2.8GB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) Malayalam HQ HDRip - 1080p - x264 - (DD+5.1 ATMOS - 768Kbps & AAC) - 2.8GB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) Malayalam HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.3GB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) Malayalam HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC) - 1.3GB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) Malayalam HQ HDRip - 720p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC 2.0) - 950MB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) Malayalam HQ HDRip - 720p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC) - 950MB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) Malayalam HQ HDRip - 700MB - x264 - AAC - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) Malayalam HQ HDRip - 700MB - x264 - AAC - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) Malayalam HQ HDRip - 400MB - x264 - AAC - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) Malayalam HQ HDRip - 400MB - x264 - AAC - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Janaki Jaane (2023) TRUE WEB-DL - [4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) [Tamil + Telugu + Malayalam + Hindi] - 12GB - 2.6GB - 1.5GB & 900MB] - [x264 - 800MB - 450MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174298-janaki-jaane-2023-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-tamil-telugu-malayalam-hindi-12gb-26gb-15gb-900mb-x264-800mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=350063</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174298-janaki-jaane-2023-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-tamil-telugu-malayalam-hindi-12gb-26gb-15gb-900mb-x264-800mb-450mb-250mb-esub/&amp;do=findComment&amp;comment=350063"/>
+        <updated>2023-07-10T17:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download  
+	
+	 
+	Janaki Jaane (2023) TRUE WEB-DL - 4K SDR - 2160p - HEVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Malayalam (ATMOS) + Hindi] - 12.4GB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) TRUE WEB-DL - 4K SDR - 2160p - HEVC - (DD+5.1 - 192Kbps) [Tam + Tel + Mal + Hin] - 12.4GB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Malayalam (ATMOS) + Hindi] - 3.9GB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) WEB-DL - 1080p - AVC - (DD+5.1 - 192Kbps) [Tam + Mal (ATMOS) + Tel + Hin] - 3.9GB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) TRUE WEB-DL - 1080p - HEVC - UNTOUCHED - (DD+5.1 - 192Kbps) [Tamil + Telugu + Malayalam (ATMOS) + Hindi] - 2.6GB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) WEB-DL - 1080p - HEVC - (DD+5.1 - 192Kbps) [Tam + Mal (ATMOS) + Tel + Hin] - 2.6GB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi] - 1.6GB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps) [Tam + Tel + Hin] - 1.6GB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) HQ HDRip - 720p - HEVC - x265 - (AAC 2.0) [Tamil + Telugu + Malayalam + Hindi] - 1GB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) HQ HDRip - 720p - HEVC - (AAC 2.0) [Tam + Mal + Tel + Hin] - 1GB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) HQ HDRip - x264 - (AAC 2.0) [Tamil + Malayalam + Telugu + Hindi] - 750MB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) HQ HDRip - x264 - (AAC 2.0) [Tam + Mal + Tel + Hin] - 750MB - ESub.mkv.torrent 
+	 
+	 
+	Janaki Jaane (2023) HQ HDRip - x264 - (AAC 2.0) [Tamil + Malayalam + Telugu + Hindi] - 450MB - ESub : 
+	www.1TamilMV.kids - Janaki Jaane (2023) HQ HDRip - x264 - (AAC 2.0) [Tam + Mal + Tel + Hin] - 450MB - ESub.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the TypeScript satisfies Operator]]></title>
+        <id>https://www.freecodecamp.org/news/typescript-satisfies-operator/</id>
+        <link href="https://www.freecodecamp.org/news/typescript-satisfies-operator/"/>
+        <updated>2023-07-10T17:12:59.000Z</updated>
+        <summary type="html"><![CDATA[In TypeScript, the satisfies operator is a very useful tool. It was introduced in TypeScript v4.9 [https://github.com/microsoft/TypeScript/issues/50457] as an effective way to ensure type safety. The satisfies operator tells you whether a given type satisfies a particular condition – and it provides this information before running your code. Also, when]]></summary>
+        <author>
+            <name>Satyam Tripathi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission: Impossible 7 - Dead Reckoning Part One (2023) English HDCAM-Rip - [1080p & 720p - x264 - 2.1GB & 900MB | x264 - 400MB] - HQ Clean Audio]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174297-mission-impossible-7-dead-reckoning-part-one-2023-english-hdcam-rip-1080p-720p-x264-21gb-900mb-x264-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=350062</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174297-mission-impossible-7-dead-reckoning-part-one-2023-english-hdcam-rip-1080p-720p-x264-21gb-900mb-x264-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=350062"/>
+        <updated>2023-07-10T17:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Nice share]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission: Impossible 7 - Dead Reckoning Part One (2023) English HDCAM-Rip - [1080p & 720p - x264 - 2.1GB & 900MB | x264 - 400MB] - HQ Clean Audio]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174297-mission-impossible-7-dead-reckoning-part-one-2023-english-hdcam-rip-1080p-720p-x264-21gb-900mb-x264-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=350061</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174297-mission-impossible-7-dead-reckoning-part-one-2023-english-hdcam-rip-1080p-720p-x264-21gb-900mb-x264-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=350061"/>
+        <updated>2023-07-10T16:41:55.000Z</updated>
+        <summary type="html"><![CDATA[Good job 👍]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission: Impossible 7 - Dead Reckoning Part One (2023) English HDCAM-Rip - [1080p & 720p - x264 - 2.1GB & 900MB | x264 - 400MB] - HQ Clean Audio]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174297-mission-impossible-7-dead-reckoning-part-one-2023-english-hdcam-rip-1080p-720p-x264-21gb-900mb-x264-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=350060</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174297-mission-impossible-7-dead-reckoning-part-one-2023-english-hdcam-rip-1080p-720p-x264-21gb-900mb-x264-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=350060"/>
+        <updated>2023-07-10T15:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Mission: Impossible 7 - Dead Reckoning Part One (2023) English HDCAM-Rip - 1080p - x264 - HQ Clean Audio - AAC - 2.5GB : 
+	www.1TamilMV.kids - Mission Impossible 7 (2023) English HDCAM-Rip - 1080p - x264 - HQ Clean Aud - 2.5GB.mkv.torrent 
+	 
+	 
+	Mission: Impossible 7 - Dead Reckoning Part One (2023) English HDCAM-Rip - 720p - x264 - HQ Clean Audio - AAC - 1.2GB : 
+	www.1TamilMV.kids - Mission Impossible 7 (2023) English HDCAM-Rip - 720p - x264 - HQ Clean Aud - 1.2GB.mkv.torrent 
+	 
+	 
+	Mission: Impossible 7 - Dead Reckoning Part One (2023) English HDCAM-Rip - x264 - HQ Clean Audio - AAC - 400MB : 
+	www.1TamilMV.kids - Mission Impossible 7 (2023) English HDCAM-Rip - 400MB - x264 - HQ Clean Aud.mkv.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) BluRay - 1080p & 720p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - 1.3GB & 450MB - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350056</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350056"/>
+        <updated>2023-07-10T14:08:11.000Z</updated>
+        <summary type="html"><![CDATA[😍]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) BluRay - 1080p & 720p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - 1.3GB & 450MB - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350055</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350055"/>
+        <updated>2023-07-10T13:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Dhamaka tamil dubbed movie link plz]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible Ghost Protocol (2011) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 10GB & 2GB | x264 - (Telugu + Tamil + Hindi + English) - 1GB] - ESub [Google Drive]]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174296-mission-impossible-ghost-protocol-2011-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-10gb-2gb-x264-telugu-tamil-hindi-english-1gb-esub-google-drive/&amp;do=findComment&amp;comment=350054</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174296-mission-impossible-ghost-protocol-2011-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-10gb-2gb-x264-telugu-tamil-hindi-english-1gb-esub-google-drive/&amp;do=findComment&amp;comment=350054"/>
+        <updated>2023-07-10T10:53:07.000Z</updated>
+        <summary type="html"><![CDATA[Mission Impossible Ghost Protocol (2011) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 10GB & 2GB | x264 - (Telugu + Tamil + Hindi + English) - 1GB] - ESub [Google Drive]
+ 
+
+
+	
+ 
+
+
+	
+ 
+
+
+	GDRIVE LINKS
+ 
+
+
+	@TroopOriginals - Mission Impossible Ghost Protocol (2011) 1080p TRUE WEB-DL x264 [Tel + Tam + Hin + Eng] (DD+ 5.1 - 640Kbps) ESub.mkv [9.96 GB]
+ 
+
+
+	https://link.tnshort.net/13V7f
+ 
+
+
+	@TroopOriginals - Mission Impossible : Ghost Protocol (2011) 1080p BluRay x265 10bit [Telugu (Org AMZN DD+ 5.1 - 640Kbps)] ESubs.mkv [2.45 GB]
+ 
+
+
+	https://link.tnshort.net/W0SDkq
+ 
+
+
+	@TroopOriginals - Mission Impossible : Ghost Protocol (2011) 720p TRUE WEB-DL x264 [Tel + Tam + Hin + Eng] (DD+ 5.1 - 192Kbps) ESub.mkv [2.19 GB]
+ 
+
+
+	https://link.tnshort.net/Z1gk
+ 
+
+
+	@TroopOriginals - Mission Impossible : Ghost Protocol (2011) 720p TRUE WEB-DL x265 [Tel + Tam + Hin + Eng] (DD+ 5.1 - 192Kbps) ESub.mkv [1.42 GB]
+ 
+
+
+	https://link.tnshort.net/4AdA
+ 
+
+
+	@TroopOriginals - Mission Impossible Ghost Protocol (2011) 540p TRUE WEB-DL x264 [Tel + Tam + Hin + Eng] (AAC 2.0 - 128Kbps) ESub.mkv [1.18 GB]
+ 
+
+
+	https://link.tnshort.net/krJEsI
+ 
+
+
+	@TroopOriginals - Mission Impossible Ghost Protocol (2011) 540p TRUE WEB-DL x265 [Tel + Tam + Hin + Eng] (AAC 2.0 - 128Kbps) ESub l.mkv [915.85 MB]
+ 
+
+
+	https://link.tnshort.net/VmwxmT01
+ 
+
+
+	@TroopOriginals - Mission Impossible Ghost Protocol (2011) 576p TRUE WEB-DL x265 [Telugu (AAC 2.0)] ESubs.mkv [564.69 MB]
+ 
+
+
+	https://link.tnshort.net/66VP871k]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 Tamil Movies - SS/TK/AMZN/SUN NXT/JC - WEB DL - H264/H265 - DDP5.1/DD2.0 - Esub - [2160p, 1080p & 720p - 375GB] [GDRIVE]]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/169110-50-tamil-movies-sstkamznsun-nxtjc-web-dl-h264h265-ddp51dd20-esub-2160p-1080p-720p-375gb-gdrive/&amp;do=findComment&amp;comment=350053</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/169110-50-tamil-movies-sstkamznsun-nxtjc-web-dl-h264h265-ddp51dd20-esub-2160p-1080p-720p-375gb-gdrive/&amp;do=findComment&amp;comment=350053"/>
+        <updated>2023-07-10T09:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Kutti Puli MOVIE LINK NOT WORKING PLS UPDATE]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jawan |Official Prevue [Tamil + Telugu + Hindi] |Shah Rukh Khan |Atlee |Nayanthara |Vijay Sethupathi |Anirudh]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174292-jawan-official-prevue-tamil-telugu-hindi-shah-rukh-khan-atlee-nayanthara-vijay-sethupathi-anirudh/&amp;do=findComment&amp;comment=350052</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174292-jawan-official-prevue-tamil-telugu-hindi-shah-rukh-khan-atlee-nayanthara-vijay-sethupathi-anirudh/&amp;do=findComment&amp;comment=350052"/>
+        <updated>2023-07-10T09:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Tamil : Hindi : Telugu :]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HANCOCK (2008) 1080p  Open Matte WEBDL Multi Original Audios (DD5.1 ~ 224Kbps) - [Telugu + Tamil + Hindi + English ] - AC3 - x264  - ESubs.mkv - [3.83 GB]]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174295-hancock-2008-1080p-open-matte-webdl-multi-original-audios-dd51-~-224kbps-telugu-tamil-hindi-english-ac3-x264-esubsmkv-383-gb/&amp;do=findComment&amp;comment=350051</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174295-hancock-2008-1080p-open-matte-webdl-multi-original-audios-dd51-~-224kbps-telugu-tamil-hindi-english-ac3-x264-esubsmkv-383-gb/&amp;do=findComment&amp;comment=350051"/>
+        <updated>2023-07-10T09:30:40.000Z</updated>
+        <summary type="html"><![CDATA[WE ARE NOW AVAILABLE ON TELEGRAM JOIN OUR GROUP HANCOCK (2008) 1080p Open Matte WEBDL Multi Original Audios (DD5.1 ~ 224Kbps) - [Telugu + Tamil + Hindi + English ] - AC3 - x264 - ESubs.mkv - [3.83 GB] METADATA HANCOCK (2008) 1080p Open Matte WEBDL Multi Original Audios (DD5.1 ~ 224Kbps) - [Telugu...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) BluRay - 1080p & 720p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - 1.3GB & 450MB - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350050</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350050"/>
+        <updated>2023-07-10T09:29:19.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jawan |Official Prevue [Tamil + Telugu + Hindi] |Shah Rukh Khan |Atlee |Nayanthara |Vijay Sethupathi |Anirudh]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174292-jawan-official-prevue-tamil-telugu-hindi-shah-rukh-khan-atlee-nayanthara-vijay-sethupathi-anirudh/&amp;do=findComment&amp;comment=350049</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174292-jawan-official-prevue-tamil-telugu-hindi-shah-rukh-khan-atlee-nayanthara-vijay-sethupathi-anirudh/&amp;do=findComment&amp;comment=350049"/>
+        <updated>2023-07-10T09:10:01.000Z</updated>
+        <summary type="html"><![CDATA[Tamil : Hindi : Telugu :]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HANCOCK (2008) 1080p  Open Matte WEBDL Multi Original Audios (DD5.1 ~ 224Kbps) - [Telugu + Tamil + Hindi + English ] - AC3 - x264  - ESubs.mkv - [3.83 GB]]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174295-hancock-2008-1080p-open-matte-webdl-multi-original-audios-dd51-~-224kbps-telugu-tamil-hindi-english-ac3-x264-esubsmkv-383-gb/&amp;do=findComment&amp;comment=350048</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174295-hancock-2008-1080p-open-matte-webdl-multi-original-audios-dd51-~-224kbps-telugu-tamil-hindi-english-ac3-x264-esubsmkv-383-gb/&amp;do=findComment&amp;comment=350048"/>
+        <updated>2023-07-10T09:02:09.000Z</updated>
+        <summary type="html"><![CDATA[WE ARE NOW AVAILABLE ON TELEGRAM JOIN OUR GROUP
+ 
+
+
+	
+ 
+
+
+	 
+ 
+
+
+	 
+ 
+
+
+	
+ 
+
+
+	 
+ 
+
+
+	
+ 
+
+
+	HANCOCK (2008) 1080p Open Matte WEBDL Multi Original Audios (DD5.1 ~ 224Kbps) - [Telugu + Tamil + Hindi + English ] - AC3 - x264 - ESubs.mkv - [3.83 GB]
+ 
+
+
+	METADATA
+ 
+
+
+	HANCOCK (2008) 1080p Open Matte WEBDL Multi Original Audios (DD5.1 ~ 224Kbps) - [Telugu + Tamil + Hindi + English ] - AC3 - x264 - ESubs.mkv - [3.83 GB]]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) BluRay - 1080p & 720p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - 1.3GB & 450MB - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350047</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350047"/>
+        <updated>2023-07-10T08:52:33.000Z</updated>
+        <summary type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) Blu-Ray - 1080p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - ESub : www.1TamilMV.kids - Mission Impossible (1996 - 2018) Blu-Ray - 1080p - x264 - (DD+5.1 - 640Kbps) - [Tam + Tel + Hin + Eng].torrent Mission Impossible Hexalogy (199...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) BluRay - 1080p & 720p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - 1.3GB & 450MB - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350046</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350046"/>
+        <updated>2023-07-10T08:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) Blu-Ray - 1080p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - ESub : www.1TamilMV.kids - Mission Impossible (1996 - 2018) Blu-Ray - 1080p - x264 - (DD+5.1 - 640Kbps) - [Tam + Tel + Hin + Eng].torrent Mission Impossible Hexalogy (199...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible 2 (2000) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 3.6GB & 1.7GB | x264 - (Telugu) - 600MB] - ESub [Google Drive]]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174291-mission-impossible-2-2000-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-36gb-17gb-x264-telugu-600mb-esub-google-drive/&amp;do=findComment&amp;comment=350045</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174291-mission-impossible-2-2000-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-36gb-17gb-x264-telugu-600mb-esub-google-drive/&amp;do=findComment&amp;comment=350045"/>
+        <updated>2023-07-10T07:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Amazon webdl 1080p higher quality like 10gb files upload bro.tnx]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jawan |Official Prevue [Tamil + Telugu + Hindi] |Shah Rukh Khan |Atlee |Nayanthara |Vijay Sethupathi |Anirudh]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174292-jawan-official-prevue-tamil-telugu-hindi-shah-rukh-khan-atlee-nayanthara-vijay-sethupathi-anirudh/&amp;do=findComment&amp;comment=350044</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174292-jawan-official-prevue-tamil-telugu-hindi-shah-rukh-khan-atlee-nayanthara-vijay-sethupathi-anirudh/&amp;do=findComment&amp;comment=350044"/>
+        <updated>2023-07-10T07:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Tamil : Hindi : Telugu :]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) BluRay - 1080p & 720p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - 1.3GB & 450MB - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350043</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350043"/>
+        <updated>2023-07-10T07:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) Blu-Ray - 1080p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - ESub : www.1TamilMV.kids - Mission Impossible (1996 - 2018) Blu-Ray - 1080p - x264 - (DD+5.1 - 640Kbps) - [Tam + Tel + Hin + Eng].torrent Mission Impossible Hexalogy (199...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) BluRay - 1080p & 720p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - 1.3GB & 450MB - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350042</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350042"/>
+        <updated>2023-07-10T07:11:18.000Z</updated>
+        <summary type="html"><![CDATA[Thanks]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible 3 (2006) (BluRay + Original Audios) - [1080p & 720p - x265 - (Tamil + Telugu + Hindi + Eng) - 9GB & 3GB | x264 - (Telugu + Tamil + Hindi + English) - 1GB] - ESub [Google Drive]]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174294-mission-impossible-3-2006-bluray-original-audios-1080p-720p-x265-tamil-telugu-hindi-eng-9gb-3gb-x264-telugu-tamil-hindi-english-1gb-esub-google-drive/&amp;do=findComment&amp;comment=350041</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174294-mission-impossible-3-2006-bluray-original-audios-1080p-720p-x265-tamil-telugu-hindi-eng-9gb-3gb-x264-telugu-tamil-hindi-english-1gb-esub-google-drive/&amp;do=findComment&amp;comment=350041"/>
+        <updated>2023-07-10T07:04:37.000Z</updated>
+        <summary type="html"><![CDATA[Mission Impossible 3 (2006) (BluRay + Original Audios) - [1080p & 720p - x265 - (Tamil + Telugu + Hindi + Eng) - 9GB & 3GB | x264 - (Telugu + Tamil + Hindi + English) - 1GB] - ESub [Google Drive]
+ 
+
+
+	
+ 
+
+
+	
+ 
+
+
+	GDRIVE LINKS
+ 
+
+
+	@TroopOriginals - Mission: Impossible III (2006) 1080p AMZN WEB-DL x265 [Tel + Tam + Eng] (DD+ 5.1 - 640Kbps) ESub.mkv [9.12 GB]
+ 
+
+
+	https://link.tnshort.net/m7OvI7
+ 
+
+
+	@TroopOriginals - Mission Impossible III (2006) 1080p BluRay x265 10bit [Telugu (DD+5.1 - 640Kbps)] ESub.mkv [2.32 GB]
+ 
+
+
+	https://link.tnshort.net/2wVNsP8u
+ 
+
+
+	@TroopOriginals - Mission: Impossible III (2006) 720p AMZN WEB-DL x264 [Tel + Tam + Hin + Eng] (DD+ 2.0 - 224Kbps) ESub.mkv [3.11 GB]
+ 
+
+
+	https://link.tnshort.net/8D5evA
+ 
+
+
+	@TroopOriginals - Mission: Impossible III (2006) 720p AMZN WEB-DL x265 [Tel + Tam + Hin + Eng] (DD+ 2.0 - 224Kbps) ESub.mkv [1.92 GB]
+ 
+
+
+	https://link.tnshort.net/V6K4
+ 
+
+
+	@TroopOriginals - Mission: Impossible III (2006) 540p AMZN WEB-DL x265 [Tel + Tam + Hin + Eng] (AAC 2.0 - 128Kbps) ESub.mkv [1.03 GB]
+ 
+
+
+	https://link.tnshort.net/qn9Zzg
+ 
+
+
+	@TroopOriginals - Mission Impossible III (2006) 576p TRUE WEB-DL x265 [Telugu (AAC 2.0)] ESubs.mkv [412.63 MB]
+ 
+
+
+	https://link.tnshort.net/EUJckImI]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible 2 (2000) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 3.6GB & 1.7GB | x264 - (Telugu) - 600MB] - ESub [Google Drive]]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174291-mission-impossible-2-2000-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-36gb-17gb-x264-telugu-600mb-esub-google-drive/&amp;do=findComment&amp;comment=350040</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174291-mission-impossible-2-2000-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-36gb-17gb-x264-telugu-600mb-esub-google-drive/&amp;do=findComment&amp;comment=350040"/>
+        <updated>2023-07-10T06:40:41.000Z</updated>
+        <summary type="html"><![CDATA[Yaya...forgot🤧 will upload]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) BluRay - 1080p & 720p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - 1.3GB & 450MB - ESub]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350039</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174293-mission-impossible-hexalogy-1996-2018-bluray-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-13gb-450mb-esub/&amp;do=findComment&amp;comment=350039"/>
+        <updated>2023-07-10T05:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Mission Impossible Hexalogy (1996 - 2018) Blu-Ray - 1080p - x264 - (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng] - 3.5GB - ESub : 
+	www.1TamilMV.kids - Mission Impossible (1996 - 2018) Blu-Ray - 1080p - x264 - (DD+5.1 - 640Kbps) - [Tam + Tel + Hin + Eng].torrent 
+	 
+	 
+	Mission Impossible Hexalogy (1996 - 2018) Blu-Ray - 720p - x264 - (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Eng] - 1.3GB - ESub : 
+	www.1TamilMV.kids - Mission Impossible (1996 - 2018) Blu-Ray - 720p - x264 - (DD+5.1 - 192Kbps) - [Tam + Tel + Hin + Eng].torrent 
+	 
+	 
+	Mission Impossible Hexalogy (1996 - 2018) BR-Rip - x264 - [Tamil + Telugu + Hindi] - 450MB - ESub : 
+	www.1TamilMV.kids - Mission Impossible (1996 - 2018) BR-Rip - x264 - [Tam + Tel + Hin] - 450MB - ESub.torrent]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mission Impossible 2 (2000) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 3.6GB & 1.7GB | x264 - (Telugu) - 600MB] - ESub [Google Drive]]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174291-mission-impossible-2-2000-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-36gb-17gb-x264-telugu-600mb-esub-google-drive/&amp;do=findComment&amp;comment=350038</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174291-mission-impossible-2-2000-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-36gb-17gb-x264-telugu-600mb-esub-google-drive/&amp;do=findComment&amp;comment=350038"/>
+        <updated>2023-07-10T05:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Bro Kong skull Island post podaliye??]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loki (2021) Complete S01 Merged DSNP WEB-DL - [1080p - 720p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - (DD+5.1 - 640Kbps) - 7.8GB - 2.3GB & 1GB] - MSub [Google Drive]]]></title>
+        <id>https://www.1tamilmv.kids/index.php?/forums/topic/174281-loki-2021-complete-s01-merged-dsnp-web-dl-1080p-720p-avc-tam-tel-hin-mal-kan-eng-dd51-640kbps-78gb-23gb-1gb-msub-google-drive/&amp;do=findComment&amp;comment=350037</id>
+        <link href="https://www.1tamilmv.kids/index.php?/forums/topic/174281-loki-2021-complete-s01-merged-dsnp-web-dl-1080p-720p-avc-tam-tel-hin-mal-kan-eng-dd51-640kbps-78gb-23gb-1gb-msub-google-drive/&amp;do=findComment&amp;comment=350037"/>
+        <updated>2023-07-10T05:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Loki (2021) Complete S01 Merged DSNP WEB-DL - [1080p - 720p - AVC - [Tam + Tel + Hin + Mal + Kan + Eng] - (DD+5.1 - 640Kbps) - 7.8GB - 2.3GB & 1GB] - MSub [Google Drive] GDRIVE LINKS @TroopOriginals - Loki Complete S01 1080p DSNP WEB-DL [Hindi + Tamil + Telugu + English]DDP5.1 x264 Msubs.mkv ...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3:33 (2021) AHA WEB.DL DDP5.1 Esubs - 2160p | 1080p - 2.7 GB | 1.8 GB]]></title>
         <id>https://www.1tamilmv.kids/index.php?/forums/topic/174287-333-2021-aha-webdl-ddp51-esubs-2160p-1080p-27-gb-18-gb/&amp;do=findComment&amp;comment=350024</id>
@@ -12244,175 +12768,6 @@
         <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173812-adai-mazhai-kaalam-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=348539"/>
         <updated>2023-06-11T14:08:22.000Z</updated>
         <summary type="html"><![CDATA[No seeds available!!]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60Malayalam Movies - AMZN / SNXT / SS / DSNP / JC / NF WEB DL - H264 / H265 - DD5.1 / DD2.0 - [2160p & 1080p & 720p - 400GB] [Gdrive]]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/142921-60malayalam-movies-amzn-snxt-ss-dsnp-jc-nf-web-dl-h264-h265-dd51-dd20-2160p-1080p-720p-400gb-gdrive/&amp;do=findComment&amp;comment=348538</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/142921-60malayalam-movies-amzn-snxt-ss-dsnp-jc-nf-web-dl-h264-h265-dd51-dd20-2160p-1080p-720p-400gb-gdrive/&amp;do=findComment&amp;comment=348538"/>
-        <updated>2023-06-11T13:34:51.000Z</updated>
-        <summary type="html"><![CDATA[Bro can you reupload these please]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poovellam Kettuppar (1999) Tamil - 720p - HDTV - AVC - UNTOUCHED - 3GB]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/155873-poovellam-kettuppar-1999-tamil-720p-hdtv-avc-untouched-3gb/&amp;do=findComment&amp;comment=348537</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/155873-poovellam-kettuppar-1999-tamil-720p-hdtv-avc-untouched-3gb/&amp;do=findComment&amp;comment=348537"/>
-        <updated>2023-06-11T12:44:40.000Z</updated>
-        <summary type="html"><![CDATA[Link work agala bro🙂]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📌 |4K| - ENTHIRAN (2010) [TAM + TEL] (MUSIC VIDEO ALBUM) - HQ 2160P - HDR+ DoVi - SNXT - WEBDL - HEVC - ATMOS 5.1 @ 448 Kbps + BDSync - ESubs - 4.5GB - FirstonNET.]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173818-%F0%9F%93%8C-4k-enthiran-2010-tam-tel-music-video-album-hq-2160p-hdr-dovi-snxt-webdl-hevc-atmos-51-448-kbps-bdsync-esubs-45gb-firstonnet/&amp;do=findComment&amp;comment=348536</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173818-%F0%9F%93%8C-4k-enthiran-2010-tam-tel-music-video-album-hq-2160p-hdr-dovi-snxt-webdl-hevc-atmos-51-448-kbps-bdsync-esubs-45gb-firstonnet/&amp;do=findComment&amp;comment=348536"/>
-        <updated>2023-06-11T11:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Bro pls upload full Enthiran full movie]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthiran (2010) Tamil Remastered SUNNXT WEB-DL – [Dolby Vision, HDR10+, 4K-2160p, 1080p, 720p, 360p, 300p] – HEVC/AVC – [DD+5.1-ATmos (448kbps)+AAC2.0] – Esub]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173833-enthiran-2010-tamil-remastered-sunnxt-web-dl-%E2%80%93-dolby-vision-hdr10-4k-2160p-1080p-720p-360p-300p-%E2%80%93-hevcavc-%E2%80%93-dd51-atmos-448kbpsaac20-%E2%80%93-esub/&amp;do=findComment&amp;comment=348535</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173833-enthiran-2010-tamil-remastered-sunnxt-web-dl-%E2%80%93-dolby-vision-hdr10-4k-2160p-1080p-720p-360p-300p-%E2%80%93-hevcavc-%E2%80%93-dd51-atmos-448kbpsaac20-%E2%80%93-esub/&amp;do=findComment&amp;comment=348535"/>
-        <updated>2023-06-11T10:40:53.000Z</updated>
-        <summary type="html"><![CDATA[🔥🔥]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enthiran (2010) Tamil Remastered SUNNXT WEB-DL – [Dolby Vision, HDR10+, 4K-2160p, 1080p, 720p, 360p, 300p] – HEVC/AVC – [DD+5.1-ATmos (448kbps)+AAC2.0] – Esub]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173833-enthiran-2010-tamil-remastered-sunnxt-web-dl-%E2%80%93-dolby-vision-hdr10-4k-2160p-1080p-720p-360p-300p-%E2%80%93-hevcavc-%E2%80%93-dd51-atmos-448kbpsaac20-%E2%80%93-esub/&amp;do=findComment&amp;comment=348534</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173833-enthiran-2010-tamil-remastered-sunnxt-web-dl-%E2%80%93-dolby-vision-hdr10-4k-2160p-1080p-720p-360p-300p-%E2%80%93-hevcavc-%E2%80%93-dd51-atmos-448kbpsaac20-%E2%80%93-esub/&amp;do=findComment&amp;comment=348534"/>
-        <updated>2023-06-11T09:27:09.000Z</updated>
-        <summary type="html"><![CDATA[👍]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naiyandi (2013) Tamil 1080p TRUE-HD AVC x264 - UNTOUCHED - AAC 2.0 - DDP5.1(192kbps) - 7.9GB].mkv]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/156369-naiyandi-2013-tamil-1080p-true-hd-avc-x264-untouched-aac-20-ddp51192kbps-79gbmkv/&amp;do=findComment&amp;comment=348533</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/156369-naiyandi-2013-tamil-1080p-true-hd-avc-x264-untouched-aac-20-ddp51192kbps-79gbmkv/&amp;do=findComment&amp;comment=348533"/>
-        <updated>2023-06-11T09:26:56.000Z</updated>
-        <summary type="html"><![CDATA[Bro Aaru Movie good quality la Upload panunga bro site la irukath lam wost quality🙂]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spider-Man: Across the Spider-Verse (2023) Tamil HD - [1080p & 720p - x264 - 2.3GB & 1.3GB | x264 - 700MB & 400MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173706-spider-man-across-the-spider-verse-2023-tamil-hd-1080p-720p-x264-23gb-13gb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=348532</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173706-spider-man-across-the-spider-verse-2023-tamil-hd-1080p-720p-x264-23gb-13gb-x264-700mb-400mb-hq-clean-audio/&amp;do=findComment&amp;comment=348532"/>
-        <updated>2023-06-11T09:22:53.000Z</updated>
-        <summary type="html"><![CDATA[🕷️🕸️]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloody Daddy (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC - AAC - 6.6GB - 2.2GB & 1GB] - [x264 - 700MB & 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173830-bloody-daddy-2023-tamil-true-web-dl-1080p-720p-avc-aac-66gb-22gb-1gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=348531</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173830-bloody-daddy-2023-tamil-true-web-dl-1080p-720p-avc-aac-66gb-22gb-1gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=348531"/>
-        <updated>2023-06-11T09:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Good one ⚡]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adai Mazhai Kaalam (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173812-adai-mazhai-kaalam-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=348530</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173812-adai-mazhai-kaalam-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=348530"/>
-        <updated>2023-06-11T09:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Nice 👍]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimanam (2023) Tamil Proper HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173798-vimanam-2023-tamil-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=348529</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173798-vimanam-2023-tamil-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=348529"/>
-        <updated>2023-06-11T09:18:36.000Z</updated>
-        <summary type="html"><![CDATA[Vimanam (2023) Tamil Proper HQ PreDVD - 1080p - x264 - HQ Clean Audio - MP3 - 2.3GB :www.1TamilMV.cafe - Vimanam (2023) Tamil Proper HQ PreDVD - 1080p - x264 - HQ Clean Aud - 2.3GB.mkv.torrentVimanam (2023) Tamil Proper HQ PreDVD - 720p - x264 - HQ Clean Audio - MP3 - 1.2GB :www.1TamilMV.cafe - V...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Head Bush (2023) TRUE WEB-DL - [1080p & 720p - AVC / HEVC - [Tamil + Kannada] - 2.5GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173837-head-bush-2023-true-web-dl-1080p-720p-avc-hevc-tamil-kannada-25gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=348528</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173837-head-bush-2023-true-web-dl-1080p-720p-avc-hevc-tamil-kannada-25gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=348528"/>
-        <updated>2023-06-11T08:55:26.000Z</updated>
-        <summary type="html"><![CDATA[Head Bush (2023) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - [Tamil + Kannada] - 2.6GB - AAC - ESub :www.1TamilMV.cafe - Head Bush (2023) TRUE WEB-DL - 1080p - AVC - [Tam + Kan] - 2.4GB - AAC - ESub.mkv.torrentHead Bush (2023) HQ HDRip - 720p - x264 - [Tamil + Kannada] - 1.4GB - AAC - ESub :www.1Tami...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adai Mazhai Kaalam (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173812-adai-mazhai-kaalam-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=348527</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173812-adai-mazhai-kaalam-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=348527"/>
-        <updated>2023-06-11T08:54:57.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Adai Mazhai Kaalam (2023) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 2.9GB - ESub :www.1TamilMV.cafe - Adai Mazhai Kaalam (2023) Tamil WEB-DL - 1080p - AVC - (DD+5.1 - 640Kbps & AAC) - 2.9GB - ESub.mkv.torrentAdai Mazhai Ka...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloody Daddy (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC - AAC - 6.6GB - 2.2GB & 1GB] - [x264 - 700MB & 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173830-bloody-daddy-2023-tamil-true-web-dl-1080p-720p-avc-aac-66gb-22gb-1gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=348526</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173830-bloody-daddy-2023-tamil-true-web-dl-1080p-720p-avc-aac-66gb-22gb-1gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=348526"/>
-        <updated>2023-06-11T08:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Bloody Daddy (2023) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (AAC 2.0) - 6GB - ESub :www.1TamilMV.cafe - Bloody Daddy (2023) Tamil TRUE WEB-DL - 1080p HQ - AVC - (AAC 2.0) - 6.2GB - ESub.mkv.torrentBloody Daddy (2023) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (AAC 2.0) - 2.5GB - ESub :ww...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kavan (2017) | Tamil | WEB DL | 1080p x264 | AAC | 3.29 GB]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/153314-kavan-2017-tamil-web-dl-1080p-x264-aac-329-gb/&amp;do=findComment&amp;comment=348525</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/153314-kavan-2017-tamil-web-dl-1080p-x264-aac-329-gb/&amp;do=findComment&amp;comment=348525"/>
-        <updated>2023-06-11T07:20:24.000Z</updated>
-        <summary type="html"><![CDATA[Bro link not working pls update]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adai Mazhai Kaalam (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173812-adai-mazhai-kaalam-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=348524</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173812-adai-mazhai-kaalam-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=348524"/>
-        <updated>2023-06-11T07:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Adai Mazhai Kaalam (2023) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 2.9GB - ESub :www.1TamilMV.cafe - Adai Mazhai Kaalam (2023) Tamil WEB-DL - 1080p - AVC - (DD+5.1 - 640Kbps & AAC) - 2.9GB - ESub.mkv.torrentAdai Mazhai Ka...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[60FPS] Fast X (2023) 1080p 10bit AMZN WEBRip DDP5.1 Atmos ESub H.265 - 10.1 GB]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173846-60fps-fast-x-2023-1080p-10bit-amzn-webrip-ddp51-atmos-esub-h265-101-gb/&amp;do=findComment&amp;comment=348516</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173846-60fps-fast-x-2023-1080p-10bit-amzn-webrip-ddp51-atmos-esub-h265-101-gb/&amp;do=findComment&amp;comment=348516"/>
-        <updated>2023-06-11T01:26:06.000Z</updated>
-        <summary type="html"><![CDATA[[60FPS].Fast.X.2023.1080p.10bit.AMZN.WEBRip.DDP5.1.Atmos.ESub.H.265.Homelander.mkv [10.05 GB] https://shrinke.me/GAkJda1s]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimanam (2023) Tamil Full Movie Watch Now in HD For Free]]></title>
-        <id>https://www.1tamilmv.cafe/index.php?/forums/topic/173845-vimanam-2023-tamil-full-movie-watch-now-in-hd-for-free/&amp;do=findComment&amp;comment=348515</id>
-        <link href="https://www.1tamilmv.cafe/index.php?/forums/topic/173845-vimanam-2023-tamil-full-movie-watch-now-in-hd-for-free/&amp;do=findComment&amp;comment=348515"/>
-        <updated>2023-06-10T14:56:00.000Z</updated>
         <author>
             <name>All Activity</name>
         </author>
