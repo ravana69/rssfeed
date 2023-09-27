@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-26T01:14:58.682Z</updated>
+    <updated>2023-09-27T01:15:07.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to use HTML Elements – Headings, Paragraphs, and Text Formatting Elements Example]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-html-elements/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-html-elements/"/>
+        <updated>2023-09-26T18:02:38.000Z</updated>
+        <summary type="html"><![CDATA[HTML, which stands for HyperText Markup Language, is the standard markup language used to create webpages. HTML provides a structured way to organize content on a webpage, allowing web developers to present text and media in a clear and meaningful way.  In this article, we'll explore three fundamental HTML]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuxt 3 Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/nuxt-3-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/nuxt-3-course-for-beginners/"/>
+        <updated>2023-09-26T15:37:16.000Z</updated>
+        <summary type="html"><![CDATA[Nuxt.js has been making waves in the web development world, especially among Vue.js enthusiasts. With its unique capabilities for server-side rendering, static site generation, and single-page applications, Nuxt offers a robust set of features for developers looking to build modern web apps. We just posted a full course on Nuxt]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started With Neon Branching]]></title>
+        <id>https://smashingmagazine.com/2023/09/getting-started-with-neon-branching/</id>
+        <link href="https://smashingmagazine.com/2023/09/getting-started-with-neon-branching/"/>
+        <updated>2023-09-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Branches are a really nice (and safe) way to configure or reconfigure your database without fear of screwing up the production database. Let’s take a closer look at how branching works with [Neon](https://neon.tech/), and the good news is, you probably already know how it works!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Podcast Episode 65 With Alex Older: How Do You Run A Grassroots Conference?]]></title>
+        <id>https://smashingmagazine.com/2023/09/smashing-podcast-episode-65/</id>
+        <link href="https://smashingmagazine.com/2023/09/smashing-podcast-episode-65/"/>
+        <updated>2023-09-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re talking about running grassroots conferences and meet-ups. What does it take to organize a small industry event for your community? Drew McLellan talks to WDC’s Alex Older to find out.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Godavari (2006) Telugu - DVD9 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 7.1GB - ESub - KAD DVD]]></title>
         <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175460-godavari-2006-telugu-dvd9-untouched-480p-448kbps-dolby-digital%C2%AE-51-71gb-esub-kad-dvd/&amp;do=findComment&amp;comment=353740</id>
@@ -11743,16 +11783,6 @@ https://pixeldrain.com/u/m3K7NChg]]></summary>
         <summary type="html"><![CDATA[Drive Not Connected]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earn a Free C# Certification from Microsoft and freeCodeCamp]]></title>
-        <id>https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/</id>
-        <link href="https://www.freecodecamp.org/news/free-microsoft-c-sharp-certification/"/>
-        <updated>2023-08-28T12:53:25.000Z</updated>
-        <summary type="html"><![CDATA[I'm excited to announce that Microsoft and freeCodeCamp have teamed up to bring you a new free professional certification: the Foundational C# Certification. This professional certification includes 35 hours of training from Microsoft and an online certification exam by freeCodeCamp. By the end of this process, you'll have earned your]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
