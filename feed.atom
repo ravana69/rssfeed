@@ -2,10 +2,402 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-16T01:17:06.536Z</updated>
+    <updated>2023-10-17T01:15:34.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Fully Animated Sidebar in React.js using Framer Motion]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-fully-animated-sidebar/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-fully-animated-sidebar/"/>
+        <updated>2023-10-16T23:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Adding smooth and professional animations to your user interfaces can be a bit tricky. In this tutorial, I'll show you how to use Framer Motion in your React apps to create beautiful animations. This guide is perfect if you're new to Framer Motion or just want to make your animations]]></summary>
+        <author>
+            <name>Yazdun Fadali</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannnada] - (DD+5.1 - 640Kbps) - 4GB - 1.9GB & 850MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175794-mansion-24-2023-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-dd51-640kbps-4gb-19gb-850mb-esub/&amp;do=findComment&amp;comment=354717</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175794-mansion-24-2023-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-dd51-640kbps-4gb-19gb-850mb-esub/&amp;do=findComment&amp;comment=354717"/>
+        <updated>2023-10-16T23:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - [Tamil + Telugu + Hindi + Malayalam + Kannada] - (DD+5.1 - 192Kbps) - 5.2GB - ESub : www.1TamilMV.phd - Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - 1080p - AVC - [Tam + Tel + Hin + Mal + Kan].torrent MAGNET Mansion 24 (20...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannnada] - (DD+5.1 - 640Kbps) - 4GB - 1.9GB & 850MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175794-mansion-24-2023-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-dd51-640kbps-4gb-19gb-850mb-esub/&amp;do=findComment&amp;comment=354716</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175794-mansion-24-2023-s01-ep-01-06-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-dd51-640kbps-4gb-19gb-850mb-esub/&amp;do=findComment&amp;comment=354716"/>
+        <updated>2023-10-16T23:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - [Tamil + Telugu + Hindi + Malayalam + Kannada] - (DD+5.1 - 192Kbps) - 5.2GB - ESub : 
+	www.1TamilMV.phd - Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - 1080p - AVC - [Tam + Tel + Hin + Mal + Kan].torrent 
+	MAGNET 
+	 
+	Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - 720p - AVC - UNTOUCHED - [Tamil + Telugu + Hindi + Malayalam + Kannada] - (AAC 2.0) - 1.9GB - ESub : 
+	www.1TamilMV.phd - Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - 720p - AVC - [Tam + Tel + Hin + Mal + Kan].torrent 
+	MAGNET 
+	 
+	Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - 480p - AVC - UNTOUCHED - [Tamil + Telugu] - (AAC 2.0) - 800MB - ESub : 
+	www.1TamilMV.phd - Mansion 24 (2023) S01 EP (01-06) TRUE WEB-DL - 480p - AVC - [Tamil + Telugu].torrent 
+	MAGNET]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Tabnabbing and How to Prevent it]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-tabnabbing/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-tabnabbing/"/>
+        <updated>2023-10-16T22:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes when you're building a website, you may need a link to open in a new tab. What you might not realize, though, is that doing so could leave your users vulnerable to malicious attacks via a practice called "tabnabbing". And while nothing is foolproof, there is a way to]]></summary>
+        <author>
+            <name>Juanita Washington</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Biography of SUPER STAR Rajinikanth Ever]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175793-the-best-biography-of-super-star-rajinikanth-ever/&amp;do=findComment&amp;comment=354715</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175793-the-best-biography-of-super-star-rajinikanth-ever/&amp;do=findComment&amp;comment=354715"/>
+        <updated>2023-10-16T22:43:01.000Z</updated>
+        <summary type="html"><![CDATA[The first video is full of shit and based on fake news. The Second video about is the best!!! The needed for current generations.]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Overfitting in Machine Learning?]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-overfitting-machine-learning/"/>
+        <updated>2023-10-16T20:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever performed some task without really thinking about the process involved? For example, making coffee, tying your shoes, or walking through your neighborhood.  In these types of activities, you've done these things so many times that you've mastered the process. You can be thinking about something unrelated,]]></summary>
+        <author>
+            <name>MENE-EJEGI OGBEMI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nun II (2023) (UHD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 6.7GB - 2.8GB & 1.4GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354714</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354714"/>
+        <updated>2023-10-16T18:04:30.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jodi (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - [Tamil (Original Audio) + Telugu] - 2.6GB - 1.4GB & 800MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175787-jodi-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-original-audio-telugu-26gb-14gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=354713</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175787-jodi-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-original-audio-telugu-26gb-14gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=354713"/>
+        <updated>2023-10-16T18:02:56.000Z</updated>
+        <summary type="html"><![CDATA[Jodi (2023) HQ HDRip - 1080p - x264 - Original Audio - [Tamil + Telugu] - AAC - 2.6GB - ESub : www.1TamilMV.phd - Jodi (2023) HQ HDRip - 1080p - x264 - [Tam + Tel] - AAC - 2.6GB - ESub.mkv.torrent MAGNET Jodi (2023) HQ HDRip - 720p - x264 - Original Audio - [Tamil + Telugu] - AAC - 1.4GB - ESub :...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Keerthanai (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - [Tamil (Original Audio) + Kannada] - 2.6GB - 1.4GB & 800MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175782-critical-keerthanai-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-original-audio-kannada-26gb-14gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=354712</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175782-critical-keerthanai-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-original-audio-kannada-26gb-14gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=354712"/>
+        <updated>2023-10-16T18:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Critical Keerthanai (2023) HQ HDRip - 1080p - x264 - Original Audio - [Tamil + Kannada] - AAC - 2.6GB - ESub : www.1TamilMV.phd - Critical Keerthanai (2023) HQ HDRip - 1080p - x264 - [Tam + Kan] - AAC - 2.6GB - ESub.mkv.torrent MAGNET Critical Keerthanai (2023) HQ HDRip - 720p - x264 - Original A...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thotti Jaya (2005) Tamil TRUE WEB-DL - [1080p & 720p - AVC - 2.6GB & 1.4GB] - [x264 - 700MB & 400MB]]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175783-thotti-jaya-2005-tamil-true-web-dl-1080p-720p-avc-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=354711</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175783-thotti-jaya-2005-tamil-true-web-dl-1080p-720p-avc-26gb-14gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=354711"/>
+        <updated>2023-10-16T18:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Thotti Jaya (2005) Tamil TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - AAC - 2.6GB : www.1TamilMV.phd - Thotti Jaya (2005) Tamil TRUE WEB-DL - 1080p HQ - AVC - AAC - 2.6GB.mkv.torrent MAGNET Thotti Jaya (2005) Tamil HQ HDRip - 720p - x264 - AAC - 1.4GB : www.1TamilMV.phd - Thotti Jaya (2005) Tamil H...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Keerthanai (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - [Tamil (Original Audio) + Kannada] - 2.6GB - 1.4GB & 800MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175782-critical-keerthanai-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-original-audio-kannada-26gb-14gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=354710</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175782-critical-keerthanai-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-original-audio-kannada-26gb-14gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=354710"/>
+        <updated>2023-10-16T17:53:23.000Z</updated>
+        <summary type="html"><![CDATA[Super share bro 😁👌]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dhak Dhak (2023) Hindi HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175735-dhak-dhak-2023-hindi-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=354709</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175735-dhak-dhak-2023-hindi-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=354709"/>
+        <updated>2023-10-16T16:51:40.000Z</updated>
+        <summary type="html"><![CDATA[nice]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krish Trish & Baltiboy : Bharat Hain Hum (2023) S01 EP (01-08) TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannnada] - 4GB - 1.7GB & 500MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175772-krish-trish-baltiboy-bharat-hain-hum-2023-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-4gb-17gb-500mb-esub/&amp;do=findComment&amp;comment=354708</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175772-krish-trish-baltiboy-bharat-hain-hum-2023-s01-ep-01-08-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-4gb-17gb-500mb-esub/&amp;do=findComment&amp;comment=354708"/>
+        <updated>2023-10-16T16:51:18.000Z</updated>
+        <summary type="html"><![CDATA[super]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kasargold (2023) TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) [Tamil + Telugu + Kannada] - 7GB - 2.9GB & 1.6GB] - [x264 - 800MB & 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175718-kasargold-2023-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-tamil-telugu-kannada-7gb-29gb-16gb-x264-800mb-450mb-esub/&amp;do=findComment&amp;comment=354707</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175718-kasargold-2023-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-tamil-telugu-kannada-7gb-29gb-16gb-x264-800mb-450mb-esub/&amp;do=findComment&amp;comment=354707"/>
+        <updated>2023-10-16T16:50:57.000Z</updated>
+        <summary type="html"><![CDATA[super]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talk to Me (2023) BluRay - 1080p - Org  Auds [Tam DD5.1 640Kbps Upmixed + (Tel + Hin + Eng AAC2.0) ].ESub - 2.4GB]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175780-talk-to-me-2023-bluray-1080p-org-auds-tam-dd51-640kbps-upmixed-tel-hin-eng-aac20-esub-24gb/&amp;do=findComment&amp;comment=354706</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175780-talk-to-me-2023-bluray-1080p-org-auds-tam-dd51-640kbps-upmixed-tel-hin-eng-aac20-esub-24gb/&amp;do=findComment&amp;comment=354706"/>
+        <updated>2023-10-16T16:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Do telugu also]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Biography of SUPER STAR Rajinikanth Ever]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175793-the-best-biography-of-super-star-rajinikanth-ever/&amp;do=findComment&amp;comment=354705</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175793-the-best-biography-of-super-star-rajinikanth-ever/&amp;do=findComment&amp;comment=354705"/>
+        <updated>2023-10-16T16:43:46.000Z</updated>
+        <summary type="html"><![CDATA[#AWARENESS 
+	What's the REAL Education?
+ 
+
+
+	
+		
+	
+
+
+
+	 
+	Join our Telegram channel for more Sensible Discussions and Cine Updates]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jodi (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - [Tamil (Original Audio) + Telugu] - 2.6GB - 1.4GB & 800MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175787-jodi-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-original-audio-telugu-26gb-14gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=354704</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175787-jodi-2023-tamil-true-web-dl-1080p-720p-avc-hevc-tamil-original-audio-telugu-26gb-14gb-800mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=354704"/>
+        <updated>2023-10-16T16:41:12.000Z</updated>
+        <summary type="html"><![CDATA[nice]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nun II (2023) (UHD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 6.7GB - 2.8GB & 1.4GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354703</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354703"/>
+        <updated>2023-10-16T16:39:26.000Z</updated>
+        <summary type="html"><![CDATA[nice]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nun II (2023) TRUE WEB-DL - 4K & 1080p - HEVC / AVC - UNTOUCHED - [Tamil + Telugu + Hindi + English] - DD+5.1(640kbps) - 17GB & 6GB - ESub [GDrive]]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175792-the-nun-ii-2023-true-web-dl-4k-1080p-hevc-avc-untouched-tamil-telugu-hindi-english-dd51640kbps-17gb-6gb-esub-gdrive/&amp;do=findComment&amp;comment=354702</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175792-the-nun-ii-2023-true-web-dl-4k-1080p-hevc-avc-untouched-tamil-telugu-hindi-english-dd51640kbps-17gb-6gb-esub-gdrive/&amp;do=findComment&amp;comment=354702"/>
+        <updated>2023-10-16T16:27:14.000Z</updated>
+        <summary type="html"><![CDATA[The Nun II (2023) TRUE WEB-DL - 4K [2160p] 10bit HDR - HEVC - UNTOUCHED - [Tamil + Telugu + Hindi + English] - DD+5.1(640kbps) - 17.1GB - ESub.mkv 
+	 
+	The Nun II (2023) TRUE WEB-DL - 1080p - AVC - UNTOUCHED - [Tamil + Telugu+ Hindi + English] - DD+5.1(640kbps) - 5.9GB - ESub.mkv 
+	 
+	Join our Telegram channel for more Quality Uploads]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vettaiyaadu Vilaiyaadu (2006) TRUE WEB-DL - 1080p & 720p - AVC / HEVC - UNTOUCHED - [Tamil + Telugu] - [DD+5.1(640Kbps) + DD+2.0(224Kbps)] - 13.2GB - 8.5GB - 5.5GB - 2.7GB - 1.8GB - 1.4GB & 950MB - x264 - 750MB - 450MB & 300MB - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/174733-vettaiyaadu-vilaiyaadu-2006-true-web-dl-1080p-720p-avc-hevc-untouched-tamil-telugu-dd51640kbps-dd20224kbps-132gb-85gb-55gb-27gb-18gb-14gb-950mb-x264-750mb-450mb-300mb-esub/&amp;do=findComment&amp;comment=354701</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/174733-vettaiyaadu-vilaiyaadu-2006-true-web-dl-1080p-720p-avc-hevc-untouched-tamil-telugu-dd51640kbps-dd20224kbps-132gb-85gb-55gb-27gb-18gb-14gb-950mb-x264-750mb-450mb-300mb-esub/&amp;do=findComment&amp;comment=354701"/>
+        <updated>2023-10-16T16:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Aadukalam (2011) [ 1080p, 720p, 480p - Tamil - HD WEB DL ]
+
+
+
+	
+
+
+
+	 
+ 
+
+
+	Aadukalam (2010) Tamil JC WEB-DL 1080p H264 AAC2.0 - 8.7GB
+ 
+
+
+	Aadukalam (2010) Tamil JC WEB-DL 720p H264 AAC2.0 - 1.4GB 
+ 
+
+
+	Aadukalam (2011) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 192Kbps) - 4.6GB] 
+ 
+
+
+	Aadukalam [2011] Tamil 720p HDRip - 694 MB 
+ 
+
+
+	 Aadukalam 2011 Tamil SNXT WEB DL 1080p H264 DDP5.1 - 5.6GB]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Interview of Loki na so far without any Cringey Questions]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175791-the-best-interview-of-loki-na-so-far-without-any-cringey-questions/&amp;do=findComment&amp;comment=354700</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175791-the-best-interview-of-loki-na-so-far-without-any-cringey-questions/&amp;do=findComment&amp;comment=354700"/>
+        <updated>2023-10-16T15:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Part-1:
+ 
+
+
+	
+		
+	
+
+
+
+	Part-2:
+ 
+
+
+	
+		
+	
+
+
+
+	 
+	Join our Telegram channel for more Exclusive Cine Updates]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGG BOSS (Tamil) S07 EP16 DAY 15 TRUE WEB-DL - [1080p, 720p & 480p - AVC - UNTOUCHED - 1GB - 529MB & 212MB | 16-10-2023]]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175790-bigg-boss-tamil-s07-ep16-day-15-true-web-dl-1080p-720p-480p-avc-untouched-1gb-529mb-212mb-16-10-2023/&amp;do=findComment&amp;comment=354699</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175790-bigg-boss-tamil-s07-ep16-day-15-true-web-dl-1080p-720p-480p-avc-untouched-1gb-529mb-212mb-16-10-2023/&amp;do=findComment&amp;comment=354699"/>
+        <updated>2023-10-16T15:43:15.000Z</updated>
+        <summary type="html"><![CDATA[BIGG BOSS (Tamil) S07 EP16 DAY 15 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB :
+	www.1TamilMV.phd - BIGG BOSS (Tamil) S07 EP16 DAY 15 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB.mkv.torrent
+	MAGNET
+	
+	BIGG BOSS (Tamil) S07 EP16 DAY 15 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 529MB :
+	www.1TamilMV.phd - BIGG BOSS (Tamil) S07 EP16 DAY 15 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 529MB.mkv.torrent
+	MAGNET
+	
+	BIGG BOSS (Tamil) S07 EP16 DAY 15 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 212MB :
+	www.1TamilMV.phd - BIGG BOSS (Tamil) S07 EP16 DAY 15 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 212MB.mkv.torrent
+	MAGNET]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGG BOSS (Telugu) S07 2.0 EP44 DAY 43 TRUE WEB-DL - [1080p, 720p & 480p - AVC - UNTOUCHED - 1GB - 523MB & 232MB | 16-10-2023]]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175789-bigg-boss-telugu-s07-20-ep44-day-43-true-web-dl-1080p-720p-480p-avc-untouched-1gb-523mb-232mb-16-10-2023/&amp;do=findComment&amp;comment=354698</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175789-bigg-boss-telugu-s07-20-ep44-day-43-true-web-dl-1080p-720p-480p-avc-untouched-1gb-523mb-232mb-16-10-2023/&amp;do=findComment&amp;comment=354698"/>
+        <updated>2023-10-16T15:38:41.000Z</updated>
+        <summary type="html"><![CDATA[BIGG BOSS (Telugu) S07 2.0 EP44 DAY 43 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB :
+	www.1TamilMV.phd - BIGG BOSS (Telugu) S07 2.0 EP44 DAY 43 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB.mkv.torrent
+	MAGNET
+	
+	BIGG BOSS (Telugu) S07 2.0 EP44 DAY 43 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 523MB :
+	www.1TamilMV.phd - BIGG BOSS (Telugu) S07 2.0 EP44 DAY 43 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 523MB.mkv.torrent
+	MAGNET
+	
+	BIGG BOSS (Telugu) S07 2.0 EP44 DAY 43 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 232MB :
+	www.1TamilMV.phd - BIGG BOSS (Telugu) S07 2.0 EP44 DAY 43 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 232MB.mkv.torrent
+	MAGNET]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godot Game Development for Unity Developers]]></title>
+        <id>https://www.freecodecamp.org/news/godot-game-development-for-unity-developers/</id>
+        <link href="https://www.freecodecamp.org/news/godot-game-development-for-unity-developers/"/>
+        <updated>2023-10-16T15:36:42.000Z</updated>
+        <summary type="html"><![CDATA[In the wake of the recent controversy surrounding Unity's pricing changes, many game developers have found themselves at a crossroads. The new pricing model proposed by Unity not only shook the indie developer community but led to a significant number of developers contemplating a switch to alternative game engines. If]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nun II (2023) (UHD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 6.7GB - 2.8GB & 1.4GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354697</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354697"/>
+        <updated>2023-10-16T15:36:17.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nun II (2023) (UHD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 6.7GB - 2.8GB & 1.4GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354696</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354696"/>
+        <updated>2023-10-16T15:13:52.000Z</updated>
+        <summary type="html"><![CDATA[🔥🙂]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nun II (2023) (UHD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 6.7GB - 2.8GB & 1.4GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354695</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354695"/>
+        <updated>2023-10-16T14:52:49.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nun II (2023) (UHD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 6.7GB - 2.8GB & 1.4GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354694</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354694"/>
+        <updated>2023-10-16T14:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download The Nun II (2023) WEB-DL - 4K SDR - 2160p - HEVC - Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng (ATMOS)] - 6.7GB - ESub : www.1TamilMV.phd - The Nun II (2023) WEB-DL - 4K SDR - HEVC - (DD+5.1 - 640Kbps) [Tam + Tel + Hin + Eng].mkv.torrent MAGNET...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Nun II (2023) (UHD + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) (Tamil + Telugu + Hindi + Eng) - 6.7GB - 2.8GB & 1.4GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354693</id>
+        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/175788-the-nun-ii-2023-uhd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-67gb-28gb-14gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=354693"/>
+        <updated>2023-10-16T14:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Please Seed Back After Download The Nun II (2023) WEB-DL - 4K SDR - 2160p - HEVC - Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + Eng (ATMOS)] - 6.7GB - ESub : www.1TamilMV.phd - The Nun II (2023) WEB-DL - 4K SDR - HEVC - (DD+5.1 - 640Kbps) [Tam + Tel + Hin + Eng].mkv.torrent MAGNET...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gatsby Headaches: Working With Media (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/</id>
+        <link href="https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/"/>
+        <updated>2023-10-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In the final part of this two-part series on solving headaches when working with media files in Gatsby projects, Juan Rodriguez demonstrates strategies and techniques for handling various types of documents, including Markdown files, PDFs, and 3D models.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vettaiyaadu Vilaiyaadu (2006) TRUE WEB-DL - 1080p & 720p - AVC / HEVC - UNTOUCHED - [Tamil + Telugu] - [DD+5.1(640Kbps) + DD+2.0(224Kbps)] - 13.2GB - 8.5GB - 5.5GB - 2.7GB - 1.8GB - 1.4GB & 950MB - x264 - 750MB - 450MB & 300MB - ESub]]></title>
         <id>https://www.1tamilmv.phd/index.php?/forums/topic/174733-vettaiyaadu-vilaiyaadu-2006-true-web-dl-1080p-720p-avc-hevc-untouched-tamil-telugu-dd51640kbps-dd20224kbps-132gb-85gb-55gb-27gb-18gb-14gb-950mb-x264-750mb-450mb-300mb-esub/&amp;do=findComment&amp;comment=354668</id>
@@ -11223,433 +11615,6 @@ https://pixeldrain.com/u/Cm9iFZ1H]]></summary>
         <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175303-exclusive-cine-updates-leo-mark-antony/&amp;do=findComment&amp;comment=353372"/>
         <updated>2023-09-17T13:29:54.000Z</updated>
         <summary type="html"><![CDATA[Just like we previously updated, we are seeing Ice(white) now. Let's wait for 2nd Single visuals]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuvvu Naaku Nachav (2001) Telugu - DVD9 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 6.9GB - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175365-nuvvu-naaku-nachav-2001-telugu-dvd9-untouched-480p-448kbps-dolby-digital%C2%AE-51-69gb-esub/&amp;do=findComment&amp;comment=353371</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175365-nuvvu-naaku-nachav-2001-telugu-dvd9-untouched-480p-448kbps-dolby-digital%C2%AE-51-69gb-esub/&amp;do=findComment&amp;comment=353371"/>
-        <updated>2023-09-17T13:06:34.000Z</updated>
-        <summary type="html"><![CDATA[Thanks bro]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasargold (2023) Malayalam Proper HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175335-kasargold-2023-malayalam-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=353370</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175335-kasargold-2023-malayalam-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=353370"/>
-        <updated>2023-09-17T13:03:01.000Z</updated>
-        <summary type="html"><![CDATA[Kasargold (2023) Malayalam HQ PreDVD - 1080p - x264 - HQ Clean Audio - MP3 - 2.4GB : www.1TamilMV.nexus - Kasargold (2023) Malayalam HQ PreDVD - 1080p - x264 - HQ Clean Aud - 2.4GB.mkv.torrent MAGNET Kasargold (2023) Malayalam HQ PreDVD - 720p - x264 - HQ Clean Audio - MP3 - 1.4GB : www.1TamilMV....]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfect Addiction (2023) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 2.2GB & 1GB | x264 - (Tamil + Telugu + Hindi) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175345-perfect-addiction-2023-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-22gb-1gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353369</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175345-perfect-addiction-2023-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-22gb-1gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353369"/>
-        <updated>2023-09-17T13:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Perfect Addiction (2023) BluRay - 1080p - x264 - Original Audios - [Tamil + Telugu + Hindi + Eng] - (AAC 2.0) - 2.2GB - ESub : www.1TamilMV.nexus - Perfect Addiction (2023) BluRay - 1080p - x264 - [Tam + Tel + Hin + Eng] - AAC - 2.2GB - ESub.mkv.torrent MAGNET Perfect Addiction (2023) BluRay - 72...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Antony (2023) Telugu HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175334-mark-antony-2023-telugu-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=353368</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175334-mark-antony-2023-telugu-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=353368"/>
-        <updated>2023-09-17T13:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Mark Antony (2023) Telugu HQ PreDVD - 1080p - x264 - HQ Clean Audio - MP3 - 2.8GB : www.1TamilMV.nexus - Mark Antony (2023) Telugu HQ PreDVD - 1080p - x264 - HQ Clean Aud - 2.8GB.mkv.torrent MAGNET Mark Antony (2023) Telugu HQ PreDVD - 720p - x264 - HQ Clean Audio - MP3 - 1.5GB : www.1TamilMV.nex...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aneethi (2023) Tamil TRUE WEB-DL - [4K,1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 7GB - 2.6GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175312-aneethi-2023-tamil-true-web-dl-4k1080p-720p-avc-hevc-dd51-640kbps-7gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=353367</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175312-aneethi-2023-tamil-true-web-dl-4k1080p-720p-avc-hevc-dd51-640kbps-7gb-26gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=353367"/>
-        <updated>2023-09-17T13:02:17.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bhola Shankar (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6GB - 3GB & 1.4GB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175323-bhola-shankar-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-6gb-3gb-14gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=353366</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175323-bhola-shankar-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-6gb-3gb-14gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=353366"/>
-        <updated>2023-09-17T13:01:39.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuvvu Naaku Nachav (2001) Telugu - DVD9 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 6.9GB - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175365-nuvvu-naaku-nachav-2001-telugu-dvd9-untouched-480p-448kbps-dolby-digital%C2%AE-51-69gb-esub/&amp;do=findComment&amp;comment=353365</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175365-nuvvu-naaku-nachav-2001-telugu-dvd9-untouched-480p-448kbps-dolby-digital%C2%AE-51-69gb-esub/&amp;do=findComment&amp;comment=353365"/>
-        <updated>2023-09-17T12:54:00.000Z</updated>
-        <summary type="html"><![CDATA[NOTE : NO  Audio
- 
-
-
-	Please Seed Back After Download 
-	
-	
-	Nuvvu Naaku Nachav (2001) Telugu - DVD9 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 6.9GB - ESub : 
-	www.1TamilMV.nexus - Nuvvu Naaku Nachav (2001) Telugu - DVD9 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 6.9GB - ESub.mkv.torrent
-	
- 
-
-https://pixeldrain.com/u/PMF8v7sd]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Antony (2023) Tamil Proper HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175333-mark-antony-2023-tamil-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=353364</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175333-mark-antony-2023-tamil-proper-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=353364"/>
-        <updated>2023-09-17T11:32:34.000Z</updated>
-        <summary type="html"><![CDATA[Good upload!]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NARASIMHA (1999) Telugu - DVD5 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 4GB]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175363-narasimha-1999-telugu-dvd5-untouched-480p-448kbps-dolby-digital%C2%AE-51-4gb/&amp;do=findComment&amp;comment=353363</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175363-narasimha-1999-telugu-dvd5-untouched-480p-448kbps-dolby-digital%C2%AE-51-4gb/&amp;do=findComment&amp;comment=353363"/>
-        <updated>2023-09-17T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Chala thanks bro request consider chesindanduku]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chhota Bheem Adventure of Persia (2023) (HD + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 1.6GB & 850MB | x264 - (Tam + Tel + Hin) - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175364-chhota-bheem-adventure-of-persia-2023-hd-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-16gb-850mb-x264-tam-tel-hin-400mb-esub/&amp;do=findComment&amp;comment=353362</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175364-chhota-bheem-adventure-of-persia-2023-hd-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-16gb-850mb-x264-tam-tel-hin-400mb-esub/&amp;do=findComment&amp;comment=353362"/>
-        <updated>2023-09-17T09:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Chhota Bheem Adventure of Persia (2023) HQ HDRip - 1080p - x264 - Original Audios (DD+2.0 - 128Kbps) [Tamil + Telugu + Hindi + Eng] - 1.6GB - ESub : www.1TamilMV.nexus - Chhota Bheem Adventure of Persia (2023) HQ HDRip - 1080p - Org Auds [Tam + Tel + Hin + Eng].mkv...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NARASIMHA (1999) Telugu - DVD5 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 4GB]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175363-narasimha-1999-telugu-dvd5-untouched-480p-448kbps-dolby-digital%C2%AE-51-4gb/&amp;do=findComment&amp;comment=353361</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175363-narasimha-1999-telugu-dvd5-untouched-480p-448kbps-dolby-digital%C2%AE-51-4gb/&amp;do=findComment&amp;comment=353361"/>
-        <updated>2023-09-17T09:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download NARASIMHA (1999) Telugu - DVD5 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 4GB : www.1TamilMV.nexus - NARASIMHA (1999) Telugu - DVD5 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 4GB.mkv.torrent https://pixeldrain.com/u/KYaBtfYL]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chhota Bheem Adventure of Persia (2023) (HD + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 1.6GB & 850MB | x264 - (Tam + Tel + Hin) - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175364-chhota-bheem-adventure-of-persia-2023-hd-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-16gb-850mb-x264-tam-tel-hin-400mb-esub/&amp;do=findComment&amp;comment=353360</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175364-chhota-bheem-adventure-of-persia-2023-hd-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-16gb-850mb-x264-tam-tel-hin-400mb-esub/&amp;do=findComment&amp;comment=353360"/>
-        <updated>2023-09-17T09:07:12.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Chhota Bheem Adventure of Persia (2023) HQ HDRip - 1080p - x264 - Original Audios (DD+2.0 - 128Kbps) [Tamil + Telugu + Hindi + Eng] - 1.6GB - ESub : www.1TamilMV.nexus - Chhota Bheem Adventure of Persia (2023) HQ HDRip - 1080p - Org Auds [Tam + Tel + Hin + Eng].mkv...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory (2022) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 2.5GB & 1.3GB | x264 - (Tamil + Telugu + Hindi) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175354-memory-2022-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-25gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353359</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175354-memory-2022-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-25gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353359"/>
-        <updated>2023-09-17T08:54:55.000Z</updated>
-        <summary type="html"><![CDATA[Pls upload "Keedam & Raja Vikramarka" tamil dubbed movie jiii]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chhota Bheem Adventure of Persia (2023) (HD + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 1.6GB & 850MB | x264 - (Tam + Tel + Hin) - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175364-chhota-bheem-adventure-of-persia-2023-hd-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-16gb-850mb-x264-tam-tel-hin-400mb-esub/&amp;do=findComment&amp;comment=353358</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175364-chhota-bheem-adventure-of-persia-2023-hd-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-16gb-850mb-x264-tam-tel-hin-400mb-esub/&amp;do=findComment&amp;comment=353358"/>
-        <updated>2023-09-17T08:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download  
-	
-	
-	Chhota Bheem Adventure of Persia (2023) HQ HDRip - 1080p - x264 - Original Audios (DD+2.0 - 128Kbps) [Tamil + Telugu + Hindi + Eng] - 1.6GB - ESub : 
-	www.1TamilMV.nexus - Chhota Bheem Adventure of Persia (2023) HQ HDRip - 1080p - Org Auds [Tam + Tel + Hin + Eng].mkv.torrent 
-	MAGNET 
-	 
-	Chhota Bheem Adventure of Persia (2023) HQ HDRip - 720p - x264 - Original Audios (DD+2.0 - 128Kbps) [Tamil + Telugu + Hindi + Eng] - 800MB - ESub : 
-	www.1TamilMV.nexus - Chhota Bheem Adventure of Persia (2023) HQ HDRip - 720p - Org Auds [Tam + Tel + Hin + Eng].mkv.torrent 
-	MAGNET 
-	 
-	Chhota Bheem Adventure of Persia (2023) HQ HDRip - x264 - Original Audios (AAC 2.0) [Tamil + Telugu + Hindi + Eng] - 400MB - ESub  : 
-	www.1TamilMV.nexus - Chhota Bheem Adventure of Persia (2023) HQ HDRip - x264 - Org Auds [Tam + Tel + Hin + Eng] - 400MB - ESub.mkv.torrent 
-	MAGNET]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family Dhamaka (2023) S01 EP01 Telugu TRUE WEB-DL - [1080p - 720p - AVC - (AAC 2.0) - 1.5GB - 750MB & 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175360-family-dhamaka-2023-s01-ep01-telugu-true-web-dl-1080p-720p-avc-aac-20-15gb-750mb-400mb-esub/&amp;do=findComment&amp;comment=353357</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175360-family-dhamaka-2023-s01-ep01-telugu-true-web-dl-1080p-720p-avc-aac-20-15gb-750mb-400mb-esub/&amp;do=findComment&amp;comment=353357"/>
-        <updated>2023-09-17T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Family Dhamaka (2023) S01 EP01 Telugu TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1.5GB - ESub : www.1TamilMV.nexus - Family Dhamaka (2023) S01 EP01 Telugu WEB-DL - 1080p - AVC - AAC - 1.5GB - ESub.mkv.torrent MAGNET Family Dhamaka (2023) S01 EP01 Telugu TRUE WEB-DL - 720p - AVC - UNTOUCHED - A...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NARASIMHA (1999) Telugu - DVD5 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 4GB]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175363-narasimha-1999-telugu-dvd5-untouched-480p-448kbps-dolby-digital%C2%AE-51-4gb/&amp;do=findComment&amp;comment=353356</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175363-narasimha-1999-telugu-dvd5-untouched-480p-448kbps-dolby-digital%C2%AE-51-4gb/&amp;do=findComment&amp;comment=353356"/>
-        <updated>2023-09-17T07:49:05.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download 
-	
-	
-	NARASIMHA (1999) Telugu - DVD5 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 4GB : 
-	www.1TamilMV.nexus - NARASIMHA (1999) Telugu - DVD5 - UNTOUCHED - 480p - 448Kbps (Dolby Digital® 5.1) - 4GB.mkv.torrent
-	
- 
-
-https://pixeldrain.com/u/KYaBtfYL]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Antony (2023) [UNCUT] [NO ADS] Tamil - Proper HQ PreDVD - 1080p - AVC - AAC2.0(320kbps)[HQ CLEAN UPMIXED] - 4GB [HYBRID VERSION] [GDrive]]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175355-mark-antony-2023-uncut-no-ads-tamil-proper-hq-predvd-1080p-avc-aac20320kbpshq-clean-upmixed-4gb-hybrid-version-gdrive/&amp;do=findComment&amp;comment=353348</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175355-mark-antony-2023-uncut-no-ads-tamil-proper-hq-predvd-1080p-avc-aac20320kbpshq-clean-upmixed-4gb-hybrid-version-gdrive/&amp;do=findComment&amp;comment=353348"/>
-        <updated>2023-09-17T00:32:25.000Z</updated>
-        <summary type="html"><![CDATA[Bro..pls help with torrent.]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Antony Video Songs (2023) Tamil - Proper HQ PreDVD  - 1080p , 720p & 480p - AVC - Original Audio - AAC2.0(320kbps) - 140MB - 70MB & 35MB [GDrive]]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175358-mark-antony-video-songs-2023-tamil-proper-hq-predvd-1080p-720p-480p-avc-original-audio-aac20320kbps-140mb-70mb-35mb-gdrive/&amp;do=findComment&amp;comment=353347</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175358-mark-antony-video-songs-2023-tamil-proper-hq-predvd-1080p-720p-480p-avc-original-audio-aac20320kbps-140mb-70mb-35mb-gdrive/&amp;do=findComment&amp;comment=353347"/>
-        <updated>2023-09-17T00:21:54.000Z</updated>
-        <summary type="html"><![CDATA[Adhirudha Song [From Mark Antony] (2023) Tamil - Proper HQ PreDVD - 1080p - AVC - Original Audio - AAC2.0(320kbps) - 140MB.mkv 
-	 
-	Adhirudha Song [From Mark Antony] (2023) Tamil - Proper HQ PreDVD - 720p - AVC - Original Audio - AAC2.0(320kbps) - 70MB.mkv 
-	 
-	Adhirudha Song [From Mark Antony] (2023) Tamil - Proper HQ PreDVD - 480p - AVC - Original Audio - AAC2.0(320kbps) - 35MB.mkv 
-	 
-	I Love You Di Song [From Mark Antony] (2023) Tamil - Proper HQ PreDVD - 1080p - AVC - Original Audio - AAC2.0(320kbps) - 140MB.mkv 
-	 
-	I Love You Di Song [From Mark Antony] (2023) Tamil - Proper HQ PreDVD - 720p - AVC - Original Audio - AAC2.0(320kbps) - 70MB.mkv 
-	 
-	I Love You Di Song [From Mark Antony] (2023) Tamil - Proper HQ PreDVD - 480p - AVC - Original Audio - AAC2.0(320kbps) - 35MB.mkv 
-	 
-	Join our Telegram channel for more Quality Uploads]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory (2022) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 2.5GB & 1.3GB | x264 - (Tamil + Telugu + Hindi) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175354-memory-2022-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-25gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353346</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175354-memory-2022-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-25gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353346"/>
-        <updated>2023-09-16T19:02:57.000Z</updated>
-        <summary type="html"><![CDATA[Memory (2022) BluRay - 1080p - x264 - Original Audios - [Tamil + Telugu + Hindi + Eng] - (AAC 2.0) - 2.5GB - ESub : www.1TamilMV.nexus - Memory (2022) BluRay - 1080p - x264 - [Tam + Tel + Hin + Eng] - AAC - 2.5GB - ESub.mkv.torrent MAGNET Memory (2022) BluRay - 720p - x264 - Original Audios - [Ta...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📌 |4K| - JAILER (2023) (Tam + Tel + Mal + Kan + Hin) (MUSIC VIDEO ALBUM) - HQ 2160P - UNTOUCHED WEBDL - AVC - ATMOS 5.1 - ESubs - 4GB]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175357-%F0%9F%93%8C-4k-jailer-2023-tam-tel-mal-kan-hin-music-video-album-hq-2160p-untouched-webdl-avc-atmos-51-esubs-4gb/&amp;do=findComment&amp;comment=353345</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175357-%F0%9F%93%8C-4k-jailer-2023-tam-tel-mal-kan-hin-music-video-album-hq-2160p-untouched-webdl-avc-atmos-51-esubs-4gb/&amp;do=findComment&amp;comment=353345"/>
-        <updated>2023-09-16T18:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Avatar (Telegram Songs) - https://t.me/+4l-2RHqyCpZjMmJl
-				 
-
-				
-					
-				 
-
-				
-					JAILER (2023) (Tam + Tel + Mal + Kan + Hin) (MUSIC VIDEO ALBUM) - HQ 2160P - UNTOUCHED WEBDL - AVC - ATMOS 5.1 - ESubs - 4GB]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory (2022) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 2.5GB & 1.3GB | x264 - (Tamil + Telugu + Hindi) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175354-memory-2022-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-25gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353344</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175354-memory-2022-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-25gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353344"/>
-        <updated>2023-09-16T18:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Memory (2022) BluRay - 1080p - x264 - Original Audios - [Tamil + Telugu + Hindi + Eng] - (AAC 2.0) - 2.5GB - ESub : www.1TamilMV.nexus - Memory (2022) BluRay - 1080p - x264 - [Tam + Tel + Hin + Eng] - AAC - 2.5GB - ESub.mkv.torrent MAGNET Memory (2022) BluRay - 720p - x264 - Original Audios - [Ta...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGG BOSS (Telugu) S07 EP14 DAY 13 HDTV - [1080p, 720p & 480p - AVC - UNTOUCHED - 1.6GB - 808MB & 348MB | 16-09-2023]]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175356-bigg-boss-telugu-s07-ep14-day-13-hdtv-1080p-720p-480p-avc-untouched-16gb-808mb-348mb-16-09-2023/&amp;do=findComment&amp;comment=353343</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175356-bigg-boss-telugu-s07-ep14-day-13-hdtv-1080p-720p-480p-avc-untouched-16gb-808mb-348mb-16-09-2023/&amp;do=findComment&amp;comment=353343"/>
-        <updated>2023-09-16T17:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download 
-	
-	
-	BIGG BOSS (Telugu) S07 EP14 DAY 13 HDTV - 1080p - AVC - UNTOUCHED - AAC - 1.6GB :
-	www.1TamilMV.nexus - BIGG BOSS (Telugu) S07 EP14 DAY 13 HDTV - 1080p - AVC - UNTOUCHED - AAC - 1.6GB.mkv.torrent
- 
-
-
-	MAGNET
-
-
-
-	 
-	BIGG BOSS (Telugu) S07 EP14 DAY 13 HDTV - 720p - AVC - UNTOUCHED - AAC - 808MB :
-	www.1TamilMV.nexus - BIGG BOSS (Telugu) S07 EP14 DAY 13 HDTV - 720p - AVC - UNTOUCHED - AAC - 808MB.mkv.torrent
- 
-
-
-	MAGNET
-
-
-
-	
-	BIGG BOSS (Telugu) S07 EP14 DAY 13 HDTV - 480p - AVC - UNTOUCHED - AAC - 348MB :
-	www.1TamilMV.nexus - BIGG BOSS (Telugu) S07 EP14 DAY 13 HDTV - 480p - AVC - UNTOUCHED - AAC - 348MB.mkv.torrent
- 
-
-
-	MAGNET]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mark Antony (2023) [UNCUT] [NO ADS] Tamil - Proper HQ PreDVD - 1080p - AVC - AAC2.0(320kbps)[HQ CLEAN UPMIXED] - 4GB [HYBRID VERSION] [GDrive]]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175355-mark-antony-2023-uncut-no-ads-tamil-proper-hq-predvd-1080p-avc-aac20320kbpshq-clean-upmixed-4gb-hybrid-version-gdrive/&amp;do=findComment&amp;comment=353342</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175355-mark-antony-2023-uncut-no-ads-tamil-proper-hq-predvd-1080p-avc-aac20320kbpshq-clean-upmixed-4gb-hybrid-version-gdrive/&amp;do=findComment&amp;comment=353342"/>
-        <updated>2023-09-16T17:02:39.000Z</updated>
-        <summary type="html"><![CDATA[HYBRID VERSION = UNCUT Movie + CLEAN HQ UPMIXED Audio + NO ADS 
-	Run Time: 02hr:26mn:39sec [Without ADS] 
-	 
-	 
-	Mark Antony (2023) [UNCUT] [NO ADS] Tamil - Proper HQ PreDVD - 1080p - AVC - AAC2.0(320kbps)[HQ CLEAN UPMIXED] - 4GB.mkv 
-	 
-	Join our Telegram channel for more Quality Uploads
- 
-
-
-	 
-		 2072610530_HappyVinayagarchathurthi.mp4]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desamuduru (2007) Telugu - DVD9 - UNTOUCHED - 480p - (DTS - 754Kbps & DD+5.1 - 448Kbps) - 6.6GB - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175353-desamuduru-2007-telugu-dvd9-untouched-480p-dts-754kbps-dd51-448kbps-66gb-esub/&amp;do=findComment&amp;comment=353341</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175353-desamuduru-2007-telugu-dvd9-untouched-480p-dts-754kbps-dd51-448kbps-66gb-esub/&amp;do=findComment&amp;comment=353341"/>
-        <updated>2023-09-16T16:20:13.000Z</updated>
-        <summary type="html"><![CDATA[Thanks bro for sharing]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory (2022) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 2.5GB & 1.3GB | x264 - (Tamil + Telugu + Hindi) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175354-memory-2022-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-25gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353340</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175354-memory-2022-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-25gb-13gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=353340"/>
-        <updated>2023-09-16T15:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Memory (2022) BluRay - 1080p - x264 - Original Audios - [Tamil + Telugu + Hindi + Eng] - (AAC 2.0) - 2.5GB - ESub : 
-	www.1TamilMV.nexus - Memory (2022) BluRay - 1080p - x264 - [Tam + Tel + Hin + Eng] - AAC - 2.5GB - ESub.mkv.torrent 
-	MAGNET 
-	 
-	Memory (2022) BluRay - 720p - x264 - Original Audios - [Tamil + Telugu + Hindi + Eng] - (AAC 2.0) - 1.3GB - ESub : 
-	www.1TamilMV.nexus - Memory (2022) BluRay - 720p - x264 - [Tam + Tel + Hin + Eng] - AAC - 1.3GB - ESub.mkv.torrent 
-	MAGNET 
-	 
-	Memory (2022) BR-Rip - x264 - Original Audios - [Tamil + Telugu + Hindi] - (AAC 2.0)  - 450MB - ESub : 
-	www.1TamilMV.nexus - Memory (2022) BR-Rip - x264 - [Tam + Tel + Hin] - AAC - 450MB - ESub.mkv.torrent 
-	MAGNET]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desamuduru (2007) Telugu - DVD9 - UNTOUCHED - 480p - (DTS - 754Kbps & DD+5.1 - 448Kbps) - 6.6GB - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175353-desamuduru-2007-telugu-dvd9-untouched-480p-dts-754kbps-dd51-448kbps-66gb-esub/&amp;do=findComment&amp;comment=353339</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175353-desamuduru-2007-telugu-dvd9-untouched-480p-dts-754kbps-dd51-448kbps-66gb-esub/&amp;do=findComment&amp;comment=353339"/>
-        <updated>2023-09-16T14:44:46.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download Desamuduru (2007) Telugu - DVD9 - UNTOUCHED - 480p - (DTS - 754Kbps & DD+5.1 - 448Kbps) - 6.6GB - ESub : www.1TamilMV.nexus - Desamuduru (2007) Telugu - DVD9 - UNTOUCHED - 480p - (DTS - 754Kbps & DD+5.1 - 448Kbps) - 6.6GB - ESub.mkv.torrent MAGNET https://p...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desamuduru (2007) Telugu - DVD9 - UNTOUCHED - 480p - (DTS - 754Kbps & DD+5.1 - 448Kbps) - 6.6GB - ESub]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175353-desamuduru-2007-telugu-dvd9-untouched-480p-dts-754kbps-dd51-448kbps-66gb-esub/&amp;do=findComment&amp;comment=353338</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175353-desamuduru-2007-telugu-dvd9-untouched-480p-dts-754kbps-dd51-448kbps-66gb-esub/&amp;do=findComment&amp;comment=353338"/>
-        <updated>2023-09-16T14:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download 
-	
-	
-	Desamuduru (2007) Telugu - DVD9 - UNTOUCHED - 480p - (DTS - 754Kbps & DD+5.1 - 448Kbps) - 6.6GB - ESub :
-	www.1TamilMV.nexus - Desamuduru (2007) Telugu - DVD9 - UNTOUCHED - 480p - (DTS - 754Kbps & DD+5.1 - 448Kbps) - 6.6GB - ESub.mkv.torrent
- 
-
-
-	MAGNET
-
-
-
-	
- 
-
-https://pixeldrain.com/u/cBbBdVwC]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meg 2_ The Trench (2023) AMZN WEBRip - 4K 2160p HDR10 - HEVC - Multi Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + English]  - ESub.mkv - 14.08]]></title>
-        <id>https://www.1tamilmv.nexus/index.php?/forums/topic/175352-meg-2_-the-trench-2023-amzn-webrip-4k-2160p-hdr10-hevc-multi-original-audios-dd51-640kbps-tamil-telugu-hindi-english-esubmkv-1408/&amp;do=findComment&amp;comment=353337</id>
-        <link href="https://www.1tamilmv.nexus/index.php?/forums/topic/175352-meg-2_-the-trench-2023-amzn-webrip-4k-2160p-hdr10-hevc-multi-original-audios-dd51-640kbps-tamil-telugu-hindi-english-esubmkv-1408/&amp;do=findComment&amp;comment=353337"/>
-        <updated>2023-09-16T13:30:27.000Z</updated>
-        <summary type="html"><![CDATA[WE ARE NOW AVAILABLE ON TELEGRAM  JOIN OUR GROUP
- 
-
-
-	
- 
-
-
-	 
- 
-
-
-	
- 
-
-
-	 
- 
-
-
-	
- 
-
-
-	Meg 2_ The Trench (2023) AMZN WEBRip - 4K 2160p HDR10 - HEVC - Multi Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + English] - ESub.mkv - 14.08 :
- 
-
-
-	METADATA
- 
-
-
-	Meg 2_ The Trench (2023) AMZN WEBRip - 4K 2160p HDR10 - HEVC - Multi Original Audios (DD+5.1 - 640Kbps) [Tamil + Telugu + Hindi + English] - ESub.mkv]]></summary>
         <author>
             <name>All Activity</name>
         </author>
