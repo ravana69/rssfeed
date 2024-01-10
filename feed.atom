@@ -2,10 +2,516 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-09T01:20:09.504Z</updated>
+    <updated>2024-01-10T01:20:34.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Do Zsh Configuration Files Work?]]></title>
+        <id>https://www.freecodecamp.org/news/how-do-zsh-configuration-files-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-do-zsh-configuration-files-work/"/>
+        <updated>2024-01-09T20:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Beginners often get confused when configuring Zsh shell on a Mac. Zsh shell offers four configuration files with no discernible differences. Particularly, ~/.zshrc and ~/.zprofile appear to be identical, leaving us wondering which one to use.  In this article, you'll learn the difference and a simple guideline for your]]></summary>
+        <author>
+            <name>Daniel Kehoe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saachi (2023) Telugu TRUE WEB-DL - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.6GB & 1.4GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177229-saachi-2023-telugu-true-web-dl-1080p-720p-avc-dd20-224kbps-26gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=359112</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177229-saachi-2023-telugu-true-web-dl-1080p-720p-avc-dd20-224kbps-26gb-14gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=359112"/>
+        <updated>2024-01-09T19:19:12.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here 
+	
+	 
+	Saachi (2023) Telugu TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+2.0 - 224Kbps & AAC 2.0) - 2.6GB - ESub : 
+	www.1TamilMV.im - Saachi (2023) Telugu TRUE WEB-DL - 1080p - AVC - (DD+2.0 - 224Kbps & AAC) - 2.5GB - ESub.mkv.torrent 
+	MAGNET 
+	 
+	Saachi (2023) Telugu HQ HDRip - 720p - x264 - (DD+2.0 - 224Kbps & AAC 2.0) - 1.2GB - ESub : 
+	www.1TamilMV.im - Saachi (2023) Telugu HQ HDRip - 720p - x264 - (DD+2.0 - 224Kbps & AAC) - 1.2GB - ESub.mkv.torrent 
+	MAGNET 
+	 
+	Saachi (2023) Telugu HQ HDRip - x264 - AAC - 700MB - ESub : 
+	www.1TamilMV.im - Saachi (2023) Telugu HQ HDRip - x264 - AAC - 700MB - ESub.mkv.torrent 
+	MAGNET 
+	 
+	Saachi (2023) Telugu HQ HDRip - x264 - AAC - 400MB - ESub : 
+	www.1TamilMV.im - Saachi (2023) Telugu HQ HDRip - x264 - AAC - 400MB - ESub.mkv.torrent 
+	MAGNET]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Work with RESTful APIs in React]]></title>
+        <id>https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/</id>
+        <link href="https://www.freecodecamp.org/news/how-work-with-restful-apis-in-react-simplified-steps-and-practical-examples/"/>
+        <updated>2024-01-09T19:09:25.000Z</updated>
+        <summary type="html"><![CDATA[RESTful APIs are a crucial component in modern web development. They allow communication between different applications over the internet.  REST (which stands for Representational State Transfer) APIs operate on a stateless client-server architecture, providing a standardized way to create, read, update, and delete resources. Integrating RESTful APIs with React]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The React Roadmap for 2024 – How to Learn React]]></title>
+        <id>https://www.freecodecamp.org/news/the-react-roadmap-learn-react/</id>
+        <link href="https://www.freecodecamp.org/news/the-react-roadmap-learn-react/"/>
+        <updated>2024-01-09T18:57:12.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, I'll break down a complete roadmap that will cover all the concepts, libraries, and tools to help you become a React developer in 2024. My goal is to show you the happy path in React, navigating you away from pitfalls so you can spend your time on]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a GitHub Template Repository for Scaffolding with React, Vite, and TailwindCSS]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-github-template-repository-with-react-vite-and-tailwindcss/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-github-template-repository-with-react-vite-and-tailwindcss/"/>
+        <updated>2024-01-09T18:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Developers love productivity. When it comes to coding, we want to do things fast and we look out for opportunities to re-use things as much as possible. Say, you are getting started with a ReactJS project and want to use TailwindCSS  for the same. The first time, it would]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jenni (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 2.8GB - 1GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177225-jenni-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-28gb-1gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=359111</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177225-jenni-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-28gb-1gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=359111"/>
+        <updated>2024-01-09T17:45:48.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Jenni (2023) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+2.0 - 224Kbps & AAC 2.0) - 2.8GB - ESub : www.1TamilMV.im - Jenni (2023) Tamil TRUE WEB-DL - 1080p - AVC - (DD+2.0 - 224Kbps & AAC) - 2.8GB - ESub.mkv.torrent MAGNET Jenni (2023)...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#90's Middle Class Biopic (2024) S01 EP(01-06) Telugu TRUE WEB-DL - [1080p - 720p & 480p - AVC - AAC - 4.5GB - 2.4GB & 1.2GB]]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177164-90s-middle-class-biopic-2024-s01-ep01-06-telugu-true-web-dl-1080p-720p-480p-avc-aac-45gb-24gb-12gb/&amp;do=findComment&amp;comment=359110</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177164-90s-middle-class-biopic-2024-s01-ep01-06-telugu-true-web-dl-1080p-720p-480p-avc-aac-45gb-24gb-12gb/&amp;do=findComment&amp;comment=359110"/>
+        <updated>2024-01-09T17:21:01.000Z</updated>
+        <summary type="html"><![CDATA[THANX DUDE!!!
+ 
+
+
+	PLEASE SHARE ALL EPISODES!!!]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veedokkade (2009) Telugu - DVD9 - UNTOUCHED - 480p - (DD+5.1 - 448Kbps) - 7.2GB - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177220-veedokkade-2009-telugu-dvd9-untouched-480p-dd51-448kbps-72gb-esub/&amp;do=findComment&amp;comment=359109</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177220-veedokkade-2009-telugu-dvd9-untouched-480p-dd51-448kbps-72gb-esub/&amp;do=findComment&amp;comment=359109"/>
+        <updated>2024-01-09T17:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Please Upload Vajrotsavam Event , Sankranthi & Deviputrudu DVDs.]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha Wolf (2018) (HD + Original Audios) - [1080p & 720p - x264 - (AAC 2.0 - 192Kbps) (Tamil + Hindi + Eng) - 1.6GB & 850MB | x264 - (Tam + Hin) - 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177224-alpha-wolf-2018-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-hindi-eng-16gb-850mb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=359108</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177224-alpha-wolf-2018-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-hindi-eng-16gb-850mb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=359108"/>
+        <updated>2024-01-09T16:43:33.000Z</updated>
+        <summary type="html"><![CDATA[koi mil gaya Tamil Dupped uplode panuinga bro...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veedokkade (2009) Telugu - DVD9 - UNTOUCHED - 480p - (DD+5.1 - 448Kbps) - 7.2GB - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177220-veedokkade-2009-telugu-dvd9-untouched-480p-dd51-448kbps-72gb-esub/&amp;do=findComment&amp;comment=359107</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177220-veedokkade-2009-telugu-dvd9-untouched-480p-dd51-448kbps-72gb-esub/&amp;do=findComment&amp;comment=359107"/>
+        <updated>2024-01-09T15:54:55.000Z</updated>
+        <summary type="html"><![CDATA[DTS audio please]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIGG BOSS (Tamil) S07 EP101 DAY 100 TRUE WEB-DL - [1080p, 720p & 480p - AVC - UNTOUCHED - 1GB - 533MB & 212MB | 09-01-2024]]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177228-bigg-boss-tamil-s07-ep101-day-100-true-web-dl-1080p-720p-480p-avc-untouched-1gb-533mb-212mb-09-01-2024/&amp;do=findComment&amp;comment=359106</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177228-bigg-boss-tamil-s07-ep101-day-100-true-web-dl-1080p-720p-480p-avc-untouched-1gb-533mb-212mb-09-01-2024/&amp;do=findComment&amp;comment=359106"/>
+        <updated>2024-01-09T15:51:32.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here
+	
+	
+	BIGG BOSS (Tamil) S07 EP101 DAY 100 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB :
+	www.1TamilMV.im - BIGG BOSS (Tamil) S07 EP101 DAY 100 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1GB.mkv.torrent
+	MAGNET
+	
+	BIGG BOSS (Tamil) S07 EP101 DAY 100 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC -  533MB :
+	www.1TamilMV.im - BIGG BOSS (Tamil) S07 EP101 DAY 100 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 533MB.mkv.torrent
+	MAGNET
+	
+	BIGG BOSS (Tamil) S07 EP101 DAY 100 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 212MB :
+	www.1TamilMV.im - BIGG BOSS (Tamil) S07 EP101 DAY 100 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 212MB.mkv.torrent
+	MAGNET]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use New CSS Features to Build a Progress Indicator]]></title>
+        <id>https://www.freecodecamp.org/news/use-new-css-features-to-build-a-progress-indicator/</id>
+        <link href="https://www.freecodecamp.org/news/use-new-css-features-to-build-a-progress-indicator/"/>
+        <updated>2024-01-09T15:39:50.000Z</updated>
+        <summary type="html"><![CDATA[For the last 7 months, I’ve had my head down building Component Odyssey [https://component-odyssey.com/]. It’s been a richly fulfilling project and I’m eager for people to take the course and learn heaps about building component libraries using web components. I’ve seen some incredible demos over the past year, and wanted]]></summary>
+        <author>
+            <name>Andrico Karoulla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Data Analysis with Comprehensive 19-Hour Bootcamp]]></title>
+        <id>https://www.freecodecamp.org/news/learn-data-analysis-with-comprehensive-19-hour-bootcamp/</id>
+        <link href="https://www.freecodecamp.org/news/learn-data-analysis-with-comprehensive-19-hour-bootcamp/"/>
+        <updated>2024-01-09T15:39:48.000Z</updated>
+        <summary type="html"><![CDATA[The world of data analysis is vast and continually evolving, and staying ahead in this field requires a solid foundation in its core technologies and methodologies. We just published a 19-hour data analysis bootcamp on the freeCodeCamp.org YouTube channel. This bootcamp, developed by Alex Freberg, provides an immersive learning experience]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use pnpm – Installation and Common Commands]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-pnpm/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-pnpm/"/>
+        <updated>2024-01-09T15:31:52.000Z</updated>
+        <summary type="html"><![CDATA[pnpm is like npm, but it's way faster and more efficient. After all, the starting p stands for performant. According to its creator, Zoltan Kochan, pnpm "allows you to save gigabytes of disk space." Many popular projects including Next.js, Vite, Svelte, and even freeCodeCamp use pnpm. So now is a]]></summary>
+        <author>
+            <name>Ashutosh Biswas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make React Apps SEO-Friendly – A Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-make-seo-friendly-react-apps/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-seo-friendly-react-apps/"/>
+        <updated>2024-01-09T15:25:55.000Z</updated>
+        <summary type="html"><![CDATA[When developing your web applications, you should always consider search engine optimization (SEO) techniques. Many things come into play when you're making sure your web application operates as intended and has an online presence. Search engines such as Google, Bing, and Yahoo serve as the primary medium for users seeking]]></summary>
+        <author>
+            <name>Okosa Leonard Onyekachukwu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MAIN YAHAN TU WAHAN PART 1+2 2024 ULLU S01 HINDI WEB SERIES HDRIP]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/161669-main-yahan-tu-wahan-part-12-2024-ullu-s01-hindi-web-series-hdrip/&amp;do=findComment&amp;comment=359105</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/161669-main-yahan-tu-wahan-part-12-2024-ullu-s01-hindi-web-series-hdrip/&amp;do=findComment&amp;comment=359105"/>
+        <updated>2024-01-09T14:31:29.000Z</updated>
+        <summary type="html"><![CDATA[💋. MAIN YAHAN TU WAHAN PART 1 2023 ULLU S01 HINDI WEB SERIES 720P HDRIP 1.1GB.MP4
+	
+	
+		💋. MAIN YAHAN TU WAHAN PART 1 2023 ULLU S01 HINDI WEB SERIES 480P HDRIP 500MB.MP4
+	
+
+
+
+	 
+ 
+
+
+	
+		https://bit.ly/3RPkWtr
+	
+	
+		https://bit.ly/48qNAs2]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAPOLEON 2023 HINDI ORG DUAL AUDIO 1080P 720P 480P HDRIP ESUB]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/152756-napoleon-2023-hindi-org-dual-audio-1080p-720p-480p-hdrip-esub/&amp;do=findComment&amp;comment=359104</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/152756-napoleon-2023-hindi-org-dual-audio-1080p-720p-480p-hdrip-esub/&amp;do=findComment&amp;comment=359104"/>
+        <updated>2024-01-09T14:27:29.000Z</updated>
+        <summary type="html"><![CDATA[🔰. THE MATRIX REVOLUTIONS (2003) REMASTERED BLURAY - 1080P - [TAMIL + HINDI + ENG].MKV
+	
+	
+		🔰. THE MATRIX REVOLUTIONS (2003) REMASTERED BLURAY - 720P - [TAMIL + HINDI + ENG].MKV
+	
+	
+		🔰. THE MATRIX REVOLUTIONS (2003) REMASTERED BR-RIP - X264 - [TAM + HIN] - 450MB - ESUB.MKV
+	
+
+
+
+	 
+ 
+
+
+	
+		https://bit.ly/32nxemI
+	
+	
+		https://bit.ly/3qcjB29
+	
+	
+		https://bit.ly/3sDJJW]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAPOLEON 2023 HINDI ORG DUAL AUDIO 1080P 720P 480P HDRIP ESUB]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/152756-napoleon-2023-hindi-org-dual-audio-1080p-720p-480p-hdrip-esub/&amp;do=findComment&amp;comment=359103</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/152756-napoleon-2023-hindi-org-dual-audio-1080p-720p-480p-hdrip-esub/&amp;do=findComment&amp;comment=359103"/>
+        <updated>2024-01-09T14:26:44.000Z</updated>
+        <summary type="html"><![CDATA[💋. ROADKILL 2024 ENGLISH 1080P AMZN HDRIP ESUB 1.4GB.MKV
+	
+	
+		💋. ROADKILL 2024 ENGLISH 720P AMZN HDRIP ESUB 800MB.MKV
+	
+	
+		💋. ROADKILL 2024 ENGLISH 480P AMZN HDRIP ESUB 350MB.MKV
+	
+
+
+
+	 
+ 
+
+
+	
+		https://bit.ly/48hPmM1
+	
+	
+		https://bit.ly/47s9E4e
+	
+	
+		https://bit.ly/3H9MqVM]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Sea Mutant Snake (2022) (HD + Original Audios) - [1080p & 720p - x264 - (AAC 2.0 - 192Kbps) (Tamil + Telugu + Malayalam + Eng + Chi) - 1.5GB & 900MB | x264 - (Tam + Tel + Mal) - 350MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/148128-deep-sea-mutant-snake-2022-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-malayalam-eng-chi-15gb-900mb-x264-tam-tel-mal-350mb-esub/&amp;do=findComment&amp;comment=359102</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/148128-deep-sea-mutant-snake-2022-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-malayalam-eng-chi-15gb-900mb-x264-tam-tel-mal-350mb-esub/&amp;do=findComment&amp;comment=359102"/>
+        <updated>2024-01-09T14:22:31.000Z</updated>
+        <summary type="html"><![CDATA[. I KNOW WHAT YOU DID LAST SUMMER (2021) S01 EP (01-04) - 1080P - HEVC - (DD+5.1 - 192KBPS) [TAM + TEL + HIN + ENG] - ESUB
+	
+	
+		. I KNOW WHAT YOU DID LAST SUMMER (2021) S01 EP (01-04) - 720P - HEVC - (DD+5.1 - 192KBPS) [TAM + TEL + HIN + ENG] - ESUB
+	
+	
+		. I KNOW WHAT YOU DID LAST SUMMER (2021) S01 EP (01-04) - HQ HDRIP - [TAM + TEL + HIN + ENG] - ESUB]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ANIMAL 2023 HINDI 1080P | 720P | 480P HDTS]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/153032-animal-2023-hindi-1080p-720p-480p-hdts/&amp;do=findComment&amp;comment=359101</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/153032-animal-2023-hindi-1080p-720p-480p-hdts/&amp;do=findComment&amp;comment=359101"/>
+        <updated>2024-01-09T14:10:53.000Z</updated>
+        <summary type="html"><![CDATA[. ENDANGERED SPECIES (2021) BLURAY - 1080P - ORG AUDS [TAM + TEL + HIN + KAN + ENG].MKV
+	
+	
+		. ENDANGERED SPECIES (2021) BLURAY - 720P - ORG AUDS [TAM + TEL + HIN + KAN + ENG].MKV
+	
+	
+		. ENDANGERED SPECIES (2021) BR-RIP - X264 - ORG AUDS [TAM + TEL + HIN + KAN] - 500MB - ESUB.MKV
+	
+
+
+
+	 
+ 
+
+
+	
+		https://bit.ly/3eptp3q
+	
+	
+		https://bit.ly/32uPquS
+	
+	
+		https://bit.ly/3JjO0Ek]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHOKED PART 1+2 2024 ULLU S01 HINDI WEB SERIES 1080P 720P 480P HDRIP]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/154895-choked-part-12-2024-ullu-s01-hindi-web-series-1080p-720p-480p-hdrip/&amp;do=findComment&amp;comment=359100</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/154895-choked-part-12-2024-ullu-s01-hindi-web-series-1080p-720p-480p-hdrip/&amp;do=findComment&amp;comment=359100"/>
+        <updated>2024-01-09T14:08:05.000Z</updated>
+        <summary type="html"><![CDATA[🔰. AGP (2022) TAMIL PROPER HQ PREDVD - 1080P - X264 - HQ CLEAN AUD - 2.1GB.MKV 
+	🔰. AGP (2022) TAMIL PROPER HQ PREDVD - 720P - X264 - HQ CLEAN AUD - 1.2GB.MKV 
+	🔰. AGP (2022) TAMIL PROPER HQ PREDVD - 700MB - X264 - HQ CLEAN AUD.MKV 
+	🔰. AGP (2022) TAMIL PROPER HQ PREDVD - 400MB - X264 - HQ CLEAN AUD.MKV 
+	🔰. AGP (2022) TAMIL PROPER HQ PREDVD - 250MB - X264 - HQ CLEAN AUD.MKV
+ 
+
+
+	https://bit.ly/3tRefNm 
+	https://bit.ly/3GS4HoM 
+	https://bit.ly/3AqfbJS 
+	https://bit.ly/342uH2p 
+	https://bit.ly/32lXgqS]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naa Saami Ranga Trailer | Nagarjuna Akkineni | Allari Naresh | Vijay B | MM Keeravaani | SS Screens]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177227-naa-saami-ranga-trailer-nagarjuna-akkineni-allari-naresh-vijay-b-mm-keeravaani-ss-screens/&amp;do=findComment&amp;comment=359099</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177227-naa-saami-ranga-trailer-nagarjuna-akkineni-allari-naresh-vijay-b-mm-keeravaani-ss-screens/&amp;do=findComment&amp;comment=359099"/>
+        <updated>2024-01-09T13:04:32.000Z</updated>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Sea Mutant Snake (2022) (HD + Original Audios) - [1080p & 720p - x264 - (AAC 2.0 - 192Kbps) (Tamil + Telugu + Malayalam + Eng + Chi) - 1.5GB & 900MB | x264 - (Tam + Tel + Mal) - 350MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177184-deep-sea-mutant-snake-2022-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-malayalam-eng-chi-15gb-900mb-x264-tam-tel-mal-350mb-esub/&amp;do=findComment&amp;comment=359098</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177184-deep-sea-mutant-snake-2022-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-malayalam-eng-chi-15gb-900mb-x264-tam-tel-mal-350mb-esub/&amp;do=findComment&amp;comment=359098"/>
+        <updated>2024-01-09T12:53:49.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Please Seed Back After Download Deep Sea Mutant Snake (2022) HQ HDRip - 1080p - x264 - Original Audios (AAC 2.0 - 192Kbps) [Tamil + Telugu + Malayalam + English + Chinese] - 1.5GB - ESub : www.1TamilMV.im - Deep Sea Mutant Snake (2022) HQ HDRip - 10...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oldboy (2003) (BluRay + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) - (Tamil + Telugu + Hindi + Eng) - 3.5GB & 1.4GB | x264 - (Tamil + Telugu + Hindi) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/176931-oldboy-2003-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-14gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=359097</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/176931-oldboy-2003-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-35gb-14gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=359097"/>
+        <updated>2024-01-09T12:51:26.000Z</updated>
+        <summary type="html"><![CDATA[OldBoy (2003) BluRay - 1080p - x264 - Original Audios - [Tamil + Telugu + Hindi + Kor] - (DD+5.1 - 640Kbps) - 3.5GB - ESub : www.1TamilMV.im - OldBoy (2003) BluRay - 1080p - x264 - [Tam + Tel + Hin + Kor] - (DD+5.1 - 640Kbps) - 3.5GB - ESub.mkv.torrent MAGNET OldBoy (2003) BluRay - 720p - x264 - ...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knuckledust (2020) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Hindi + Eng) - 2.2GB & 1GB | x264 - (Tamil+ Hindi) - 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177223-knuckledust-2020-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-22gb-1gb-x264-tamil-hindi-400mb-esub/&amp;do=findComment&amp;comment=359096</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177223-knuckledust-2020-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-22gb-1gb-x264-tamil-hindi-400mb-esub/&amp;do=findComment&amp;comment=359096"/>
+        <updated>2024-01-09T12:49:02.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Knuckledust (2020) BluRay - 1080p - x264 - Original Audios - [Tamil + Hindi + Eng] - (AAC 2.0) - 2.2GB - ESub : www.1TamilMV.im - Knuckledust (2020) BluRay - 1080p - x264 - [Tam + Hin + Eng] - AAC - 2.2GB - ESub.mkv.torrent MAGNET Knuckledust (2020)...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14 Blades (2010) (BluRay + Original Audios) - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) - (Tamil + Telugu + Hindi + Chi) - 2.4GB & 1.4GB | x264 - (Tamil + Telugu + Hindi) - 450MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/67661-14-blades-2010-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-chi-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=359095</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/67661-14-blades-2010-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-chi-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=359095"/>
+        <updated>2024-01-09T12:45:58.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here 14 Blades (2010) BluRay - 1080p - x264 - Original Audios - [Tamil + Telugu + Hindi + chi] - (DD+5.1 - 640Kbps) - 3.5GB - ESub : www.1TamilMV.im - 14 Blades (2010) BluRay - 1080p - x264 - [Tam + Tel + Hin + Chi] - (DD+5.1 - 640Kbps) - 3.5GB - ESub.mk...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movies Collection All Languages [4K, 1080p, 720p, 576p, 480p] - [9-1-2024]]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177226-movies-collection-all-languages-4k-1080p-720p-576p-480p-9-1-2024/&amp;do=findComment&amp;comment=359094</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177226-movies-collection-all-languages-4k-1080p-720p-576p-480p-9-1-2024/&amp;do=findComment&amp;comment=359094"/>
+        <updated>2024-01-09T12:45:50.000Z</updated>
+        <summary type="html"><![CDATA[[GDFlix] Download Links :
+ 
+
+
+	
+ 
+
+
+	2 Fast 2 Furious (2003) JC WEB-DL - 4K-2160p - AVC - [Tel+Tam+Hin.AAC+5.1_384kbps] - Esub-Halwa-10GB.mkv [10.4 GB]  
+	https://moneycase.link/QteCGN6
+ 
+
+
+	2 Fast 2 Furious (2003) JC WEBRip - 1080p - AVC - [Tel+Tam+Hin.AAC+5.1 384kbps] - Esub-Halwa-2.7GB.mkv [2.71 GB]  
+	https://moneycase.link/acY2
+ 
+
+
+	2 Fast 2 Furious (2003) JC WEBRip - 1080p - AVC - [Tel+Tam+Hin.AAC+5.1 384kbps] - Esub-Halwa-5GB.mkv [5.02 GB]  
+	https://moneycase.link/uh0Vw
+ 
+
+
+	2 Fast 2 Furious (2003) JC WEBRip - 1080p - AVC - [Tel+Tam+Hin.AAC+5.1 384kbps] - Esub-Halwa3.75GB.mkv [3.72 GB]  
+	https://moneycase.link/1sm3T49P
+ 
+
+
+	2 Fast 2 Furious (2003) JC WEBRip - 480p - AVC - [Tel+Tam+Hin+Eng.MP3] - Esub-Halwa-400MB.mkv [399.06 MB]  
+	https://moneycase.link/YkgR5hF
+ 
+
+
+	2 Fast 2 Furio…]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jenni (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 2.8GB - 1GB] - [x264 - 700MB & 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177225-jenni-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-28gb-1gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=359093</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177225-jenni-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd20-224kbps-28gb-1gb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=359093"/>
+        <updated>2024-01-09T12:44:34.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Jenni (2023) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+2.0 - 224Kbps & AAC 2.0) - 2.8GB - ESub : www.1TamilMV.im - Jenni (2023) Tamil TRUE WEB-DL - 1080p - AVC - (DD+2.0 - 224Kbps & AAC) - 2.8GB - ESub.mkv.torrent MAGNET Jenni (2023)...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veedokkade (2009) Telugu - DVD9 - UNTOUCHED - 480p - (DD+5.1 - 448Kbps) - 7.2GB - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177220-veedokkade-2009-telugu-dvd9-untouched-480p-dd51-448kbps-72gb-esub/&amp;do=findComment&amp;comment=359092</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177220-veedokkade-2009-telugu-dvd9-untouched-480p-dd51-448kbps-72gb-esub/&amp;do=findComment&amp;comment=359092"/>
+        <updated>2024-01-09T12:43:49.000Z</updated>
+        <summary type="html"><![CDATA[Bro.. please share Ghatikudu dvd9]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha Wolf (2018) (HD + Original Audios) - [1080p & 720p - x264 - (AAC 2.0 - 192Kbps) (Tamil + Hindi + Eng) - 1.6GB & 850MB | x264 - (Tam + Hin) - 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177224-alpha-wolf-2018-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-hindi-eng-16gb-850mb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=359091</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177224-alpha-wolf-2018-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-hindi-eng-16gb-850mb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=359091"/>
+        <updated>2024-01-09T12:35:07.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Please Seed Back After Download Alpha Wolf (2018) HQ HDRip - 1080p - x264 - Original Audios (AAC 2.0 - 192Kbps) [Tamil + Hindi + Eng] - 1.6GB - ESub : www.1TamilMV.im - Alpha Wolf (2018) HQ HDRip - 1080p - Org Auds [Tamil + Hindi + Eng].mkv.torrent ...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Venghai (2011) Tamil TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DDP.5.1) - 8.5GB - UE]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177221-venghai-2011-tamil-true-web-dl-1080p-hq-avc-untouched-ddp51-85gb-ue/&amp;do=findComment&amp;comment=359090</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177221-venghai-2011-tamil-true-web-dl-1080p-hq-avc-untouched-ddp51-85gb-ue/&amp;do=findComment&amp;comment=359090"/>
+        <updated>2024-01-09T12:34:42.000Z</updated>
+        <summary type="html"><![CDATA[Thank you bro🥰😍]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knuckledust (2020) (BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Hindi + Eng) - 2.2GB & 1GB | x264 - (Tamil+ Hindi) - 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177223-knuckledust-2020-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-22gb-1gb-x264-tamil-hindi-400mb-esub/&amp;do=findComment&amp;comment=359089</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177223-knuckledust-2020-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-22gb-1gb-x264-tamil-hindi-400mb-esub/&amp;do=findComment&amp;comment=359089"/>
+        <updated>2024-01-09T10:43:22.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Knuckledust (2020) BluRay - 1080p - x264 - Original Audios - [Tamil + Hindi + Eng] - (AAC 2.0) - 2.2GB - ESub : www.1TamilMV.im - Knuckledust (2020) BluRay - 1080p - x264 - [Tam + Hin + Eng] - AAC - 2.2GB - ESub.mkv.torrent MAGNET Knuckledust (2020)...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpha Wolf (2018) (HD + Original Audios) - [1080p & 720p - x264 - (AAC 2.0 - 192Kbps) (Tamil + Hindi + Eng) - 1.6GB & 850MB | x264 - (Tam + Hin) - 400MB] - ESub]]></title>
+        <id>https://www.1tamilmv.im/index.php?/forums/topic/177224-alpha-wolf-2018-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-hindi-eng-16gb-850mb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=359088</id>
+        <link href="https://www.1tamilmv.im/index.php?/forums/topic/177224-alpha-wolf-2018-hd-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-hindi-eng-16gb-850mb-x264-tam-hin-400mb-esub/&amp;do=findComment&amp;comment=359088"/>
+        <updated>2024-01-09T10:41:36.000Z</updated>
+        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Please Seed Back After Download Alpha Wolf (2018) HQ HDRip - 1080p - x264 - Original Audios (AAC 2.0 - 192Kbps) [Tamil + Hindi + Eng] - 1.6GB - ESub : www.1TamilMV.im - Alpha Wolf (2018) HQ HDRip - 1080p - Org Auds [Tamil + Hindi + Eng].mkv.torrent ...]]></summary>
+        <author>
+            <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless Architecture Patterns and Best Practices]]></title>
+        <id>https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/</id>
+        <link href="https://www.freecodecamp.org/news/serverless-architecture-patterns-and-best-practices/"/>
+        <updated>2024-01-09T01:07:58.000Z</updated>
+        <summary type="html"><![CDATA[Serverless architecture has become a hot topic in the developer world, and for good reason.  It promises a paradigm shift – one where we leave behind the burdens of server management and focus solely on building and deploying code. No more provisioning VMs, patching software, or scaling infrastructure manually.]]></summary>
+        <author>
+            <name>Faith Oyama</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Game Of Thrones (2015) Complete S05 EP(01-10) Merged Bluray - [1080p - 720p - HEVC - [Telugu (Org JIO AAC 2.0 - 192Kbps)] - 7.5GB & 3.6GB - 1.8GB] - ESub [Google Drive]]]></title>
         <id>https://www.1tamilmv.im/index.php?/forums/topic/176239-game-of-thrones-2015-complete-s05-ep01-10-merged-bluray-1080p-720p-hevc-telugu-org-jio-aac-20-192kbps-75gb-36gb-18gb-esub-google-drive/&amp;do=findComment&amp;comment=359059</id>
@@ -90,6 +596,16 @@
         <summary type="html"><![CDATA[except season 1 ,no other seasons files found to download please reupload in telugu]]></summary>
         <author>
             <name>All Activity</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Collect.js Tutorial – How to Work with JavaScript Arrays and Objects]]></title>
+        <id>https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/</id>
+        <link href="https://www.freecodecamp.org/news/work-with-javascript-arrays-objects-with-collect-js/"/>
+        <updated>2024-01-08T22:38:20.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript arrays are one of the most important data structures in the language, since everything is already an object in JavaScript. They're useful in so many applications, and many other data structures build on top of JavaScript arrays and objects. While the language provides a lot of helpful array and]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
         </author>
     </entry>
     <entry>
@@ -13999,494 +14515,6 @@ https://uploadnow.io/s/905a5dfd-f9dc-4fb0-a6e2-df3d6116359a]]></summary>
 
 
 	www.1TamilMV.phd - Japan (2023) Tamil HQ HDRip - 720p - HEVC - AAC - 700MB - ESub.mkv]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jigarthanda Double X (2023) Tamil DTS-MA 5.1 (Fanmade) Direct Download)]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176701-jigarthanda-double-x-2023-tamil-dts-ma-51-fanmade-direct-download/&amp;do=findComment&amp;comment=357628</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176701-jigarthanda-double-x-2023-tamil-dts-ma-51-fanmade-direct-download/&amp;do=findComment&amp;comment=357628"/>
-        <updated>2023-12-11T12:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Bro reply pls]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[And Just Like That (2023) S02 EP(01-11) TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Kannada + Eng] - 5.5GB - 3.5GB & 1.3GB]]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176650-and-just-like-that-2023-s02-ep01-11-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-kannada-eng-55gb-35gb-13gb/&amp;do=findComment&amp;comment=357627</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176650-and-just-like-that-2023-s02-ep01-11-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-kannada-eng-55gb-35gb-13gb/&amp;do=findComment&amp;comment=357627"/>
-        <updated>2023-12-11T12:15:26.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here And Just Like That.. (2023) S02 EP (01-11) - 720p - HQ HDRip - [Tamil + Telugu + Hindi + Kannada + Eng] - (AAC 2.0) - 3.5GB : www.1TamilMV.phd - And Just Like That (2023) S02 EP (01-11) - 720p - HQ HDRip - [Tam + Tel + Hin + Kan + Eng].torrent MAGNE...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creepy Crawly [The One Hundred] (2023) (BluRay + Original Audios) - [1080p & 720p - x264 - (AAC 2.0 - 192Kbps) (Tamil + Telugu + Hindi + Thai) - 2.1GB & 1.1GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176710-creepy-crawly-the-one-hundred-2023-bluray-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-hindi-thai-21gb-11gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=357626</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176710-creepy-crawly-the-one-hundred-2023-bluray-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-hindi-thai-21gb-11gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=357626"/>
-        <updated>2023-12-11T12:14:15.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Please Seed Back After Download Creepy Crawly [The One Hundred] (2023) BluRay - 1080p - x264 - Original Audios (AAC 2.0 - 192Kbps) [Tamil + Telugu + Hindi + Thai] - 2.1GB - ESub : www.1TamilMV.phd - Creepy Crawly (2023) BluRay - 1080p - Org Auds [Ta...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falcon Rising (2014) (BluRay + Original Audios) - [1080p & 720p - x264- (Tamil + Hindi + Eng) - 2GB & 950MB | x264 - (Tamil + Hindi) - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176722-falcon-rising-2014-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-2gb-950mb-x264-tamil-hindi-400mb-esub/&amp;do=findComment&amp;comment=357625</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176722-falcon-rising-2014-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-2gb-950mb-x264-tamil-hindi-400mb-esub/&amp;do=findComment&amp;comment=357625"/>
-        <updated>2023-12-11T12:11:29.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Falcon Rising (2014) BluRay - 1080p - x264 - Original Audios - [Tamil + Hindi + Eng - AAC - 2GB - ESub : www.1TamilMV.phd - Falcon Rising (2014) BluRay - 1080p - x264 - [Tam + Hin + Eng] - AAC - 2GB - ESub.mkv.torrent MAGNET Falcon Rising (2014) Blu...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spark L.I.F.E (2023) Telugu TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.8GB - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176717-spark-life-2023-telugu-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-68gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357624</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176717-spark-life-2023-telugu-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-68gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357624"/>
-        <updated>2023-12-11T12:09:38.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Spark L.I.F.E (2023) Telugu HQ HDRip - 1080p - x264 - (DD+5.1 - 640Kbps & AAC 2.0) - 3GB - ESub : www.1TamilMV.phd - Spark L.I.F.E (2023) Telugu HQ HDRip - 1080p - x264 - (DD+5.1 - 640Kbps & AAC) - 3GB - ESub.mkv.torrent MAGNET Spark L.I.F.E...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.2GB - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176718-japan-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357623</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176718-japan-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357623"/>
-        <updated>2023-12-11T12:04:23.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.2GB - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176718-japan-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357622</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176718-japan-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357622"/>
-        <updated>2023-12-11T11:13:35.000Z</updated>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creepy Crawly [The One Hundred] (2023) (BluRay + Original Audios) - [1080p & 720p - x264 - (AAC 2.0 - 192Kbps) (Tamil + Telugu + Hindi + Thai) - 2.1GB & 1.1GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176710-creepy-crawly-the-one-hundred-2023-bluray-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-hindi-thai-21gb-11gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=357621</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176710-creepy-crawly-the-one-hundred-2023-bluray-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-hindi-thai-21gb-11gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=357621"/>
-        <updated>2023-12-11T11:13:09.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Please Seed Back After Download Creepy Crawly [The One Hundred] (2023) BluRay - 1080p - x264 - Original Audios (AAC 2.0 - 192Kbps) [Tamil + Telugu + Hindi + Thai] - 2.1GB - ESub : www.1TamilMV.phd - Creepy Crawly (2023) BluRay - 1080p - Org Auds [Ta...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MANMADHUDU (2002) TELUGU (Music VIdeo Album) - 1080P - WEB-HD - AVC - DTS® 5.1 @ 1536Kbps - 600MB  〰️ [avatar]]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/171033-manmadhudu-2002-telugu-music-video-album-1080p-web-hd-avc-dts%C2%AE-51-1536kbps-600mb-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=357620</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/171033-manmadhudu-2002-telugu-music-video-album-1080p-web-hd-avc-dts%C2%AE-51-1536kbps-600mb-%E3%80%B0%EF%B8%8F-avatar/&amp;do=findComment&amp;comment=357620"/>
-        <updated>2023-12-11T10:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Bro link not valid]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire Force S01 EP08 BR-Rip 10bit - [1080p - 720p - x265 HEVC - [Telugu + Tamil + Hindi + English + Japanese] - (AAC 2.0 - 128Kbps) - 200MB - 150MB] - ESub [Google Drive]]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176728-fire-force-s01-ep08-br-rip-10bit-1080p-720p-x265-hevc-telugu-tamil-hindi-english-japanese-aac-20-128kbps-200mb-150mb-esub-google-drive/&amp;do=findComment&amp;comment=357619</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176728-fire-force-s01-ep08-br-rip-10bit-1080p-720p-x265-hevc-telugu-tamil-hindi-english-japanese-aac-20-128kbps-200mb-150mb-esub-google-drive/&amp;do=findComment&amp;comment=357619"/>
-        <updated>2023-12-11T09:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Fire Force S01 EP08 BR-Rip 10bit - [1080p - 720p - x265 HEVC - [Telugu + Tamil + Hindi + English + Japanese] - (AAC 2.0 - 128Kbps) - 200MB - 150MB] - ESub [Google Drive]
- 
-
-
-	
- 
-
-
-	
- 
-
-
-	GDRIVE LINKS
- 
-
-
-	MULTI
- 
-
-
-	@TroopOriginals - Fire Force S01 E08 1080p BR-Rip 10Bit x265 [Telugu + Tam + Hin + Eng + Jap] (AAC 2.0 - 128Kbps) ESub.mkv [205.12 MB]
- 
-
-
-	https://manalinks.in/28556344164352021
- 
-
-
-	@TroopOriginals - Fire Force S01 E08 720p BR-Rip 10Bit x265 [Telugu + Tam + Hin + Eng + Jap] (AAC 2.0 - 128Kbps) ESub.mkv [174.8 MB]
- 
-
-
-	https://manalinks.in/28556344164352022
- 
-
-
-	TAMIL
- 
-
-
-	@TroopOriginals - Fire Force S01 E08 1080p BR-Rip 10Bit x265 [Tamil (AAC 2.0 - 128Kbps)] ESub.mkv [114.78 MB]
- 
-
-
-	https://manalinks.in/28556344164352023
- 
-
-
-	@TroopOriginals - Fire Force S01 E08 720p BR-Rip 10Bit x265 [Tamil (AAC 2.0 - 128Kbps)] ESub.mkv [84.45 MB]
- 
-
-
-	https://manalinks.in/28556344164352024
- 
-
-
-	TELUGU
- 
-
-
-	@TroopOriginals - Fire Force S01 E08 1080p BR-Rip 10Bit x265 [Telugu (AAC 2.0 - 128Kbps)] ESub.mkv [114.78 MB]
- 
-
-
-	https://manalinks.in/28556344164352025
- 
-
-
-	@TroopOriginals - Fire Force S01 E08 720p BR-Rip 10Bit x265 [Telugu (AAC 2.0 - 128Kbps)] ESub.mkv [84.45 MB]
- 
-
-
-	https://manalinks.in/28556344164352026]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan.2023.1080p.NF.WEB-DL.DD+5.1.Dolby Vison + HDR10.H.265.ESub - 2.3GB]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176727-japan20231080pnfweb-dldd51dolby-vison-hdr10h265esub-23gb/&amp;do=findComment&amp;comment=357618</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176727-japan20231080pnfweb-dldd51dolby-vison-hdr10h265esub-23gb/&amp;do=findComment&amp;comment=357618"/>
-        <updated>2023-12-11T08:42:49.000Z</updated>
-        <summary type="html"><![CDATA[Japan.2023.1080p.NF.WEB-DL.DD+5.1.Dolby Vison + HDR10.H.265.ESub - 2.3GB
- 
-
-
-	LINK
- 
-
-
-	*********************************************************]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire Force S01 EP07 BR-Rip 10bit - [1080p - 720p - x265 HEVC - [Telugu + Tamil + Hindi + English + Japanese] - (AAC 2.0 - 128Kbps) - 200MB - 150MB] - ESub [Google Drive]]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176726-fire-force-s01-ep07-br-rip-10bit-1080p-720p-x265-hevc-telugu-tamil-hindi-english-japanese-aac-20-128kbps-200mb-150mb-esub-google-drive/&amp;do=findComment&amp;comment=357617</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176726-fire-force-s01-ep07-br-rip-10bit-1080p-720p-x265-hevc-telugu-tamil-hindi-english-japanese-aac-20-128kbps-200mb-150mb-esub-google-drive/&amp;do=findComment&amp;comment=357617"/>
-        <updated>2023-12-11T08:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Fire Force S01 EP07 BR-Rip 10bit - [1080p - 720p - x265 HEVC - [Telugu + Tamil + Hindi + English + Japanese] - (AAC 2.0 - 128Kbps) - 200MB - 150MB] - ESub [Google Drive]
- 
-
-
-	
- 
-
-
-	
- 
-
-
-	GDRIVE LINKS
- 
-
-
-	MULTI
- 
-
-
-	@TroopOriginals - Fire Force S01 E07 1080p BR-Rip 10Bit x265 [Telugu + Tam + Hin + Eng + Jap] (AAC 2.0 - 128Kbps) ESub.mkv [226.49 MB]
- 
-
-
-	https://manalinks.in/28556344164352015
- 
-
-
-	@TroopOriginals - Fire Force S01 E07 720p BR-Rip 10Bit x265 [Telugu + Tam + Hin + Eng + Jap] (AAC 2.0 - 128Kbps) ESub.mkv [189.69 MB]
- 
-
-
-	https://manalinks.in/28556344164352016
- 
-
-
-	TAMIL
- 
-
-
-	@TroopOriginals - Fire Force S01 E07 1080p BR-Rip 10Bit x265 [Tamil (AAC 2.0 - 128Kbps)] ESub.mkv [134.13 MB]
- 
-
-
-	https://manalinks.in/28556344164352017
- 
-
-
-	@TroopOriginals - Fire Force S01 E07 720p BR-Rip 10Bit x265 [Tamil (AAC 2.0 - 128Kbps)] ESub.mkv [97.33 MB]
- 
-
-
-	https://manalinks.in/28556344164352018
- 
-
-
-	TELUGU
- 
-
-
-	@TroopOriginals - Fire Force S01 E07 1080p BR-Rip 10Bit x265 [Telugu (AAC 2.0 - 128Kbps)] ESub.mkv [134.13 MB]
- 
-
-
-	https://manalinks.in/28556344164352019
- 
-
-
-	@TroopOriginals - Fire Force S01 E07 720p BR-Rip 10Bit x265 [Telugu (AAC 2.0 - 128Kbps)] ESub.mkv [97.33 MB]
- 
-
-
-	https://manalinks.in/28556344164352020]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masterpiece (2015) Kannada - WEB-DL - DD5.1 - 1080p - AVC  - 5GB - 4.3GB - 3.5GB & 2.4GB - 720p - HDRip - x264 - AAC - 1.9GB - 1.5GB & 1.1GB  - 800MB & 500MB]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/112727-masterpiece-2015-kannada-web-dl-dd51-1080p-avc-5gb-43gb-35gb-24gb-720p-hdrip-x264-aac-19gb-15gb-11gb-800mb-500mb/&amp;do=findComment&amp;comment=357616</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/112727-masterpiece-2015-kannada-web-dl-dd51-1080p-avc-5gb-43gb-35gb-24gb-720p-hdrip-x264-aac-19gb-15gb-11gb-800mb-500mb/&amp;do=findComment&amp;comment=357616"/>
-        <updated>2023-12-11T07:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Bro link not working please update..]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spark L.I.F.E (2023) Telugu TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.8GB - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176717-spark-life-2023-telugu-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-68gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357615</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176717-spark-life-2023-telugu-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-68gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357615"/>
-        <updated>2023-12-11T07:19:21.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Spark L.I.F.E (2023) Telugu HQ HDRip - 1080p - x264 - (DD+5.1 - 640Kbps & AAC 2.0) - 3GB - ESub : www.1TamilMV.phd - Spark L.I.F.E (2023) Telugu HQ HDRip - 1080p - x264 - (DD+5.1 - 640Kbps & AAC) - 3GB - ESub.mkv.torrent MAGNET Spark L.I.F.E...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falcon Rising (2014) (BluRay + Original Audios) - [1080p & 720p - x264- (Tamil + Hindi + Eng) - 2GB & 950MB | x264 - (Tamil + Hindi) - 400MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176722-falcon-rising-2014-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-2gb-950mb-x264-tamil-hindi-400mb-esub/&amp;do=findComment&amp;comment=357614</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176722-falcon-rising-2014-bluray-original-audios-1080p-720p-x264-tamil-hindi-eng-2gb-950mb-x264-tamil-hindi-400mb-esub/&amp;do=findComment&amp;comment=357614"/>
-        <updated>2023-12-11T07:18:27.000Z</updated>
-        <summary type="html"><![CDATA[ACTION MOVIE.]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.2GB - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176718-japan-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357592</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176718-japan-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-62gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=357592"/>
-        <updated>2023-12-10T18:28:45.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here 
-	 
-	  Please Seed Back After Download  
-	
-	 
-	Japan (2023) Tamil TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 6.2GB - ESub : 
-	www.1TamilMV.phd - Japan (2023) Tamil TRUE WEB-DL - 1080p HQ - AVC - (DD+5.1 - 640Kbps & AAC) - 6.2GB - ESub.mkv.torrent 
-	MAGNET 
-	 
-	Japan (2023) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) - 2.9GB - ESub : 
-	www.1TamilMV.phd - Japan (2023) Tamil TRUE WEB-DL - 1080p - AVC - (DD+5.1 - 640Kbps & AAC) - 2.9GB - ESub.mkv.torrent 
-	MAGNET 
-	 
-	Japan (2023) Tamil HQ HDRip - 1080p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.7GB - ESub : 
-	www.1TamilMV.phd - Japan (2023) Tamil HQ HDRip - 1080p - HEVC - (DD5.1 - 192Kbps & AAC) - 1.7GB - ESub.mkv.torrent 
-	MAGNET 
-	 
-	Japan (2023) Tamil HQ HDRip - 720p - x264 - (DD+5.1 - 192Kbps & AAC 2.0) - 1.4GB - ESub : 
-	www.1TamilMV.phd - Japan (2023) Tamil HQ HDRip - 720p - x264 - (DD5.1 - 192Kbps & AAC) - 1.4GB - ESub.mkv.torrent 
-	MAGNET 
-	 
-	Japan (2023) Tamil HQ HDRip - 720p - HEVC - x265 - (DD+5.1 - 192Kbps & AAC 2.0) - 900MB - ESub : 
-	www.1TamilMV.phd - Japan (2023) Tamil HQ HDRip - 720p - HEVC - (DD5.1 - 192Kbps & AAC) - 900MB - ESub.mkv.torrent 
-	MAGNET 
-	 
-	Japan (2023) Tamil HQ HDRip - 700MB - x264 - AAC - ESub : 
-	www.1TamilMV.phd - Japan (2023) Tamil HQ HDRip - 700MB - x264 - AAC - ESub.mkv.torrent 
-	MAGNET 
-	 
-	Japan (2023) Tamil HQ HDRip - 400MB - x264 - AAC - ESub : 
-	www.1TamilMV.phd - Japan (2023) Tamil HQ HDRip - 400MB - x264 - AAC - ESub.mkv.torrent 
-	MAGNET 
-	 
-	Japan (2023) Tamil HQ HDRip - 250MB - x264 - AAC - ESub : 
-	www.1TamilMV.phd - Japan (2023) Tamil HQ HDRip - 250MB - x264 - AAC - ESub.mkv.torrent 
-	MAGNET]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bombay (1996) Telugu & Tamil - DVD9 - UNTOUCHED - 480p - (DD+5.1 - 448Kbps) - 6GB - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176714-bombay-1996-telugu-tamil-dvd9-untouched-480p-dd51-448kbps-6gb-esub/&amp;do=findComment&amp;comment=357590</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176714-bombay-1996-telugu-tamil-dvd9-untouched-480p-dd51-448kbps-6gb-esub/&amp;do=findComment&amp;comment=357590"/>
-        <updated>2023-12-10T17:42:57.000Z</updated>
-        <summary type="html"><![CDATA[Bro pls upload Naa Autograph Sweet Memories telugu movie]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGG BOSS (Tamil) S07 EP71 DAY 70 TRUE WEB-DL - [1080p, 720p & 480p - AVC - UNTOUCHED - 1.4GB - 717MB & 319MB | 10-12-2023]]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176716-bigg-boss-tamil-s07-ep71-day-70-true-web-dl-1080p-720p-480p-avc-untouched-14gb-717mb-319mb-10-12-2023/&amp;do=findComment&amp;comment=357589</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176716-bigg-boss-tamil-s07-ep71-day-70-true-web-dl-1080p-720p-480p-avc-untouched-14gb-717mb-319mb-10-12-2023/&amp;do=findComment&amp;comment=357589"/>
-        <updated>2023-12-10T17:42:05.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here
-	
-	
-	BIGG BOSS (Tamil) S07 EP71 DAY 70 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1.4GB :
-	www.1TamilMV.phd - BIGG BOSS (Tamil) S07 EP71 DAY 70 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1.4GB.mkv.torrent
-	MAGNET
-	
-	BIGG BOSS (Tamil) S07 EP71 DAY 70 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC -  717MB :
-	www.1TamilMV.phd - BIGG BOSS (Tamil) S07 EP71 DAY 70 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 717MB.mkv.torrent
-	MAGNET
-	
-	BIGG BOSS (Tamil) S07 EP71 DAY 70 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 319MB :
-	www.1TamilMV.phd - BIGG BOSS (Tamil) S07 EP71 DAY 70 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 319MB.mkv.torrent
-	MAGNET]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creepy Crawly [The One Hundred] (2023) (BluRay + Original Audios) - [1080p & 720p - x264 - (AAC 2.0 - 192Kbps) (Tamil + Telugu + Hindi + Thai) - 2.1GB & 1.1GB | x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176710-creepy-crawly-the-one-hundred-2023-bluray-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-hindi-thai-21gb-11gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=357588</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176710-creepy-crawly-the-one-hundred-2023-bluray-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-hindi-thai-21gb-11gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=357588"/>
-        <updated>2023-12-10T17:39:18.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Please Seed Back After Download Creepy Crawly [The One Hundred] (2023) BluRay - 1080p - x264 - Original Audios (AAC 2.0 - 192Kbps) [Tamil + Telugu + Hindi + Thai] - 2.1GB - ESub : www.1TamilMV.phd - Creepy Crawly (2023) BluRay - 1080p - Org Auds [Ta...]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIGG BOSS (Telugu) S07 EP99 DAY 98 TRUE WEB-DL - [1080p, 720p & 480p - AVC - UNTOUCHED - 1.4GB - 727MB & 321MB | 10-12-2023]]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176715-bigg-boss-telugu-s07-ep99-day-98-true-web-dl-1080p-720p-480p-avc-untouched-14gb-727mb-321mb-10-12-2023/&amp;do=findComment&amp;comment=357587</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176715-bigg-boss-telugu-s07-ep99-day-98-true-web-dl-1080p-720p-480p-avc-untouched-14gb-727mb-321mb-10-12-2023/&amp;do=findComment&amp;comment=357587"/>
-        <updated>2023-12-10T17:21:31.000Z</updated>
-        <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here
-	
-	
-	BIGG BOSS (Telugu) S07 EP99 DAY 98 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1.4GB :
-	www.1TamilMV.phd - BIGG BOSS (Telugu) S07 EP99 DAY 98 TRUE WEB-DL - 1080p - AVC - UNTOUCHED - AAC - 1.4GB.mkv.torrent
-	MAGNET
-	
-	BIGG BOSS (Telugu) S07 EP99 DAY 98 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 727MB :
-	www.1TamilMV.phd - BIGG BOSS (Telugu) S07 EP99 DAY 98 TRUE WEB-DL - 720p - AVC - UNTOUCHED - AAC - 727MB.mkv.torrent
-	MAGNET
-	
-	BIGG BOSS (Telugu) S07 EP99 DAY 98 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 321MB :
-	www.1TamilMV.phd - BIGG BOSS (Telugu) S07 EP99 DAY 98 TRUE WEB-DL - 480p - AVC - UNTOUCHED - AAC - 321MB.mkv.torrent
-	MAGNET]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thimiru Pudichavan (2018) Tamil TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DDP.5.1) - 8.8GB - ESub - GDFlix]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176675-thimiru-pudichavan-2018-tamil-true-web-dl-1080p-hq-avc-untouched-ddp51-88gb-esub-gdflix/&amp;do=findComment&amp;comment=357586</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176675-thimiru-pudichavan-2018-tamil-true-web-dl-1080p-hq-avc-untouched-ddp51-88gb-esub-gdflix/&amp;do=findComment&amp;comment=357586"/>
-        <updated>2023-12-10T17:03:34.000Z</updated>
-        <summary type="html"><![CDATA[Nice Share 🙏❤️ 
-	 
-	Request Hridayam (2022) 4K]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yaarum Kaanadha (From "Fight Club") (2023) Tamil [24&16Bit FLAC] iTunes HQ MP3 [320Kbps & 128Kbps] - Govind Vasantha Musical]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176683-yaarum-kaanadha-from-fight-club-2023-tamil-2416bit-flac-itunes-hq-mp3-320kbps-128kbps-govind-vasantha-musical/&amp;do=findComment&amp;comment=357585</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176683-yaarum-kaanadha-from-fight-club-2023-tamil-2416bit-flac-itunes-hq-mp3-320kbps-128kbps-govind-vasantha-musical/&amp;do=findComment&amp;comment=357585"/>
-        <updated>2023-12-10T17:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Please Upload 
- 
-
-
-	Apple Hi-Res Lossless (ALAC) - Untouched] [24-Bit/96k]
- 
-
-
-	formal wanted!!!]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yaarum Kaanadha (From "Fight Club") (2023) Tamil [24&16Bit FLAC] iTunes HQ MP3 [320Kbps & 128Kbps] - Govind Vasantha Musical]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176683-yaarum-kaanadha-from-fight-club-2023-tamil-2416bit-flac-itunes-hq-mp3-320kbps-128kbps-govind-vasantha-musical/&amp;do=findComment&amp;comment=357584</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176683-yaarum-kaanadha-from-fight-club-2023-tamil-2416bit-flac-itunes-hq-mp3-320kbps-128kbps-govind-vasantha-musical/&amp;do=findComment&amp;comment=357584"/>
-        <updated>2023-12-10T16:37:46.000Z</updated>
-        <summary type="html"><![CDATA[Tamil 90s Collection songs illaiya collection uploaded bro]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bombay (1996) Telugu & Tamil - DVD9 - UNTOUCHED - 480p - (DD+5.1 - 448Kbps) - 6GB - ESub]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/176714-bombay-1996-telugu-tamil-dvd9-untouched-480p-dd51-448kbps-6gb-esub/&amp;do=findComment&amp;comment=357583</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/176714-bombay-1996-telugu-tamil-dvd9-untouched-480p-dd51-448kbps-6gb-esub/&amp;do=findComment&amp;comment=357583"/>
-        <updated>2023-12-10T16:25:49.000Z</updated>
-        <summary type="html"><![CDATA[Please Seed Back After Download 
-	
-	
-	Bombay (1996) Telugu & Tamil - DVD9 - UNTOUCHED - 480p - (DD+5.1 - 448Kbps) - 6GB - ESub :
-	www.1TamilMV.phd - Bombay (1996) Telugu & Tamil - DVD9 - UNTOUCHED - 480p - (DD+5.1 - 448Kbps) - 6GB - ESub.mkv.torrent
-	
- 
-
-https://pixeldrain.com/u/AWffW9o4
-https://uploadnow.io/s/574f2c3c-b873-4313-8f48-6a7d60c4426c]]></summary>
-        <author>
-            <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F9 - The Fast Saga (2021) (BluRay + Original Audios) - [4K - 1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 3.5GB & 1.5GB | x264 - (Tam + Tel) - 450MB] - ESub [Google Drive]]]></title>
-        <id>https://www.1tamilmv.phd/index.php?/forums/topic/173373-f9-the-fast-saga-2021-bluray-original-audios-4k-1080p-720p-x264-tamil-telugu-hindi-eng-35gb-15gb-x264-tam-tel-450mb-esub-google-drive/&amp;do=findComment&amp;comment=357582</id>
-        <link href="https://www.1tamilmv.phd/index.php?/forums/topic/173373-f9-the-fast-saga-2021-bluray-original-audios-4k-1080p-720p-x264-tamil-telugu-hindi-eng-35gb-15gb-x264-tam-tel-450mb-esub-google-drive/&amp;do=findComment&amp;comment=357582"/>
-        <updated>2023-12-10T16:01:03.000Z</updated>
-        <summary type="html"><![CDATA[Hi bro 👋
- 
-
-
-	Can you please upload "game of thrones" seasons all in English audio bro.
- 
-
-
-	Please share bro]]></summary>
         <author>
             <name>All Activity</name>
         </author>
