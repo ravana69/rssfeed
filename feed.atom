@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-11T01:19:07.870Z</updated>
+    <updated>2024-02-12T01:14:26.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
@@ -12890,16 +12890,6 @@ https://gplinks.co/qI0yIE]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Immutability in JavaScript – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/</id>
-        <link href="https://www.freecodecamp.org/news/immutability-in-javascript-with-examples/"/>
-        <updated>2024-01-12T23:21:23.000Z</updated>
-        <summary type="html"><![CDATA[We often hear the terms: immutable and immutability. But what do they mean, and, as developers, why should we care? Immutable basically means something that cannot be changed. In programming, immutable is used to describe a value that cannot be changed after it's been set. But, most programs require creating,]]></summary>
-        <author>
-            <name>Deborah Kurata</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dancing Beauty Queen " Sai Pallavi " Birthday Special [6 Movies] Complete Collection (2017 - 2019) - Telugu - 1080p - WEB-HD Rip's - AVC - AAC - x264 - 18GB]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/127506-dancing-beauty-queen-sai-pallavi-birthday-special-6-movies-complete-collection-2017-2019-telugu-1080p-web-hd-rips-avc-aac-x264-18gb/&amp;do=findComment&amp;comment=359274</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/127506-dancing-beauty-queen-sai-pallavi-birthday-special-6-movies-complete-collection-2017-2019-telugu-1080p-web-hd-rips-avc-aac-x264-18gb/&amp;do=findComment&amp;comment=359274"/>
@@ -12950,66 +12940,6 @@ https://gplinks.co/qI0yIE]]></summary>
 	MAGNET]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Callbacks and Higher Order Functions in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/callbacks-higher-order-functions-in-javascript/"/>
-        <updated>2024-01-12T18:07:08.000Z</updated>
-        <summary type="html"><![CDATA[The way functions are treated and used in JavaScript is quite interesting. They are very flexible – we can assign a function as a value to a variable, return them as a value from another function, and pass them as an argument to another function. We can do all this]]></summary>
-        <author>
-            <name>Franklin Okolie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Markdown in VSCode – Syntax and Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-markdown-in-vscode/"/>
-        <updated>2024-01-12T17:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Markdown is a lightweight markup language for creating formatted text using a plain-text editor. It is widely used for creating README files, documentation, and other forms of text. Visual Studio Code (VSCode) is a popular source code editor that provides excellent support for Markdown, making it easy for developers, writers,]]></summary>
-        <author>
-            <name>Victoria Poromon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web Storage API – How to Store Data on the Browser]]></title>
-        <id>https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/</id>
-        <link href="https://www.freecodecamp.org/news/web-storage-api-how-to-store-data-on-the-browser/"/>
-        <updated>2024-01-12T17:43:34.000Z</updated>
-        <summary type="html"><![CDATA[The Web Storage API is a set of APIs exposed by the browser so that you can store data in the browser. The data stored in the Web Storage use the key/value pair format, and both data will be stored as strings. There are two types of storage introduced in]]></summary>
-        <author>
-            <name>Nathan Sebhastian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS DOM Manipulation Best Practices – with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/dom-manipulation-best-practices/</id>
-        <link href="https://www.freecodecamp.org/news/dom-manipulation-best-practices/"/>
-        <updated>2024-01-12T17:41:27.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, you can manipulate the content of a web page using the Document Object Model (DOM). But how do you write code that is readable, easy to maintain, and not prone to performance issues?  That's what we'll cover in this article. I'll discuss some important best practices so]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Prepare for Data Analyst Job Interviews]]></title>
-        <id>https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/</id>
-        <link href="https://www.freecodecamp.org/news/prepare-for-data-analyst-job-interview/"/>
-        <updated>2024-01-12T17:31:48.000Z</updated>
-        <summary type="html"><![CDATA[In today’s digital world, every business and organization collects and uses data to build better products, target the right customers, improve efficiency, and even forecast future demand.  They say that data is the new oil – and now is the perfect time to enter the data analytics job market.]]></summary>
-        <author>
-            <name>Jess Wilk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NGINX for Backend Developers]]></title>
-        <id>https://www.freecodecamp.org/news/nginx/</id>
-        <link href="https://www.freecodecamp.org/news/nginx/"/>
-        <updated>2024-01-12T16:46:05.000Z</updated>
-        <summary type="html"><![CDATA[NGINX is a versatile and powerful open-source software used for web serving, reverse proxying, caching, load balancing, media streaming, and more. It's important to understand for backend developers. We just published a course on the freeCodeCamp.org YouTube channel that will teach you what you need to know about NGINX. Laith]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
