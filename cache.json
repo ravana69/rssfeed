@@ -7654,6 +7654,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/practical-guide-design-children/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "How to design for children aged 3–12, with insights into user behavior, considerations for parents, and practical UX guidelines.",
+          "link": "https://smashingmagazine.com/2024/02/practical-guide-design-children/",
+          "publishedOn": "2024-02-13T12:00:00.000Z",
+          "wordCount": 3576,
+          "title": "A Practical Guide To Designing For Children",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/practical-guide-design-children/practical-guide-design-children.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/practical-guide-design-children/practical-guide-design-children.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/draw-radar-charts-web/",
           "author": "hello@smashingmagazine.com (Preethi Sam)",
           "description": "A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.",
@@ -7825,6 +7840,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-custom-video-player-using-javascript-and-tailwind-css/",
+          "author": "Franklin Okolie",
+          "description": "HTML5 comes equipped with a native video player. It's shipped with a simple user interface, functionality, and some basic controls in the browser. And while the functionality of the default video player via the browser works perfectly, the user interface isn't so beautiful and fancy, and it's just not generally",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-video-player-using-javascript-and-tailwind-css/",
+          "publishedOn": "2024-02-13T15:14:21.000Z",
+          "wordCount": 6684,
+          "title": "How to Build a Custom HTML5 Video Player Using TailwindCSS and JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/how-to-build-a-custom-video-player-using-tailwindcss-and-javascript.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/greater-than-and-less-than-operators-in-js/",
+          "author": "Jessica Wilkins",
+          "description": "In your JavaScript programs, you'll often need to compare two values to see if one is greater than or less than the other. This is where the greater than and less than operators come in handy. In this article, we'll look at how to use these operators in greater detail",
+          "link": "https://www.freecodecamp.org/news/greater-than-and-less-than-operators-in-js/",
+          "publishedOn": "2024-02-13T11:02:26.000Z",
+          "wordCount": 1762,
+          "title": "How to Use the Greater Than and Less Than Operators in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-pixabay-417173--3-.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/deboucing-in-react-autocomplete-example/",
           "author": "Kunal Nalawade",
