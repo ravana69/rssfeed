@@ -2,10 +2,210 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ravana69.github.io/rssfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-17T01:13:26.955Z</updated>
+    <updated>2024-03-10T01:18:09.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://ravana69.github.io/rssfeed/index.html"/>
     <link rel="self" href="https://ravana69.github.io/rssfeed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Custom API Gateway with Node.js]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/"/>
+        <updated>2024-03-08T23:16:38.000Z</updated>
+        <summary type="html"><![CDATA[In the era of microservices [https://www.brightsidecodes.com/blog/understanding-microservices-and-api-gateway] , where applications are divided into smaller, independently deployable services, managing and securing the communication between these services becomes crucial. This is where an API gateway comes into play.  An API gateway serves as a central entry point for all client requests. It]]></summary>
+        <author>
+            <name>Iroro Chadere</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client-Side Form Handling with JavaScript – Explained with Example Code]]></title>
+        <id>https://www.freecodecamp.org/news/form-validation-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/form-validation-in-javascript/"/>
+        <updated>2024-03-08T21:10:35.000Z</updated>
+        <summary type="html"><![CDATA[HTML forms are essential components of most websites and web apps. They enable interaction between users and those websites, and are a key concept for web developers to understand.  This comprehensive guide covers various aspects of HTML forms, from how to create and structure forms to JavaScript interaction and]]></summary>
+        <author>
+            <name>Samyak Jain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Success At Scale: Last Chance For Pre-Sale Price]]></title>
+        <id>https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/</id>
+        <link href="https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/"/>
+        <updated>2024-03-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our next book, “Success at Scale” is finally at the printer, which means we’ll be shipping books soon. It’s also your last chance to get the book at the presale price. Get your copy and save now!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Microsoft to Amazon to CTO – Quincy Interviews Meme Queen Cassidoo (Cassidy Williams)]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/"/>
+        <updated>2024-03-08T15:45:47.000Z</updated>
+        <summary type="html"><![CDATA[In this week's episode of The freeCodeCamp Podcast, I interview developer-turned-CTO Cassidy Williams, also known as Cassidoo on Twitter and TikTok. She's worked in tech for over a decade as a developer at several tech companies, including Amazon, Microsoft, and Netlify. She has gradually progressed to senior developer and now]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Hooks – How to Use the useState & useEffect Hooks in Your Project]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-the-usestate-and-useeffect-hooks-in-your-project/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-usestate-and-useeffect-hooks-in-your-project/"/>
+        <updated>2024-03-08T15:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Hooks allow function components to have access to state and other React features, such as lifecycle methods. These Hook features were introduced to React version 16.8. One of the interesting things about the Hook features is that they let you use React without classes. This, in turn, helps simplify your]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Implement Relationship Based Access Control (ReBAC)]]></title>
+        <id>https://www.freecodecamp.org/news/implement-relationship-based-access-control/</id>
+        <link href="https://www.freecodecamp.org/news/implement-relationship-based-access-control/"/>
+        <updated>2024-03-08T14:08:21.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital age, managing who can access what resources is more critical than ever. That's where ReBAC comes in. It's a fresh take on authorization, focusing on the relationships between different entities rather than just assigning static roles or attributes. Traditional access control methods, like Role-Based Access Control (RBAC),]]></summary>
+        <author>
+            <name>Imran</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG Toggle Button Tutorial – How to Handle Dark Mode with CSS and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-handle-dark-mode-with-css-and-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-dark-mode-with-css-and-javascript/"/>
+        <updated>2024-03-08T13:46:26.000Z</updated>
+        <summary type="html"><![CDATA[How can you detect dark mode in CSS and JavaScript? How can you manually override it with a toggle button? And how can you create a sun and moon icon with SVG? In this tutorial, you will learn how to detect dark mode in CSS and JavaScript, and you will]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern CSS Tooltips And Speech Bubbles (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/</id>
+        <link href="https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/"/>
+        <updated>2024-03-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a CRUD API – NodeJS and Express Project for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/create-crud-api-project/</id>
+        <link href="https://www.freecodecamp.org/news/create-crud-api-project/"/>
+        <updated>2024-03-08T11:04:53.000Z</updated>
+        <summary type="html"><![CDATA[An API is a technology that powers communication between software applications on the internet. API stands for Application Programming Interface, and it is basically a set of rules and protocols that define how different software can interact with each other.  Imagine having two different programs: program A and program]]></summary>
+        <author>
+            <name>Victor Yakubu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a 3D Art Gallery with Three.js]]></title>
+        <id>https://www.freecodecamp.org/news/build-3d-art-gallery-with-threejs/</id>
+        <link href="https://www.freecodecamp.org/news/build-3d-art-gallery-with-threejs/"/>
+        <updated>2024-03-07T16:21:11.000Z</updated>
+        <summary type="html"><![CDATA[3D web experiences can provide engaging and interactive user interfaces. And one of the best JavaScript libraries to create these experiences is Three.js. We just posed a comprehensive Three.js course on the freeCodeCamp.org YouTube channel. This course is designed to guide you through the process of building an interactive 3D]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up React Testing Library With Next.js – A Step-by-Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/"/>
+        <updated>2024-03-07T15:58:47.000Z</updated>
+        <summary type="html"><![CDATA[In this guide, you will learn how to set up React Testing Library in Next.js. We'll also talk about why you should always test your React applications. I'll discuss the features and benefits of using the React Testing Library to test your React applications and how to configure it with]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create an Inventory List with React useReducer, Axios, and JSON Server]]></title>
+        <id>https://www.freecodecamp.org/news/create-an-inventory-list-with-react-usereducer-axios-and-json-server/</id>
+        <link href="https://www.freecodecamp.org/news/create-an-inventory-list-with-react-usereducer-axios-and-json-server/"/>
+        <updated>2024-03-07T15:33:49.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to web development, it's hard to ignore React.js. It has been one of the leading user interface libraries for a decade, and it supports a lot of popular frameworks like Next.js in the background. If you are a React developer, you likely appreciate its component-based architecture, uni-directional]]></summary>
+        <author>
+            <name>TAPAS ADHIKARY</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End Of My Gatsby Journey]]></title>
+        <id>https://smashingmagazine.com/2024/03/end-of-gatsby-journey/</id>
+        <link href="https://smashingmagazine.com/2024/03/end-of-gatsby-journey/"/>
+        <updated>2024-03-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern CSS Tooltips And Speech Bubbles (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/</id>
+        <link href="https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/"/>
+        <updated>2024-03-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tooltips are a very common pattern used in CSS for years. There are a lot of ways to approach tooltips in CSS, though some evoke headaches with all the magic numbers they require. In this article, Temani Afif presents modern techniques to create tooltips with the smallest amount of markup and the greatest amount of flexibility.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Temani Afif)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waiting For Spring (March 2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/</id>
+        <link href="https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/"/>
+        <updated>2024-02-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reporting Core Web Vitals With The Performance API]]></title>
+        <id>https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/</id>
+        <link href="https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/"/>
+        <updated>2024-02-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Performance API is a set of standards for measuring and evaluating performance metrics with JavaScript. This article demonstrates how to use the Performance API to generate performance metrics directly in the DOM to create your own reporting.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Web Designer’s Accessibility Advocacy Toolkit]]></title>
+        <id>https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/</id>
+        <link href="https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/"/>
+        <updated>2024-02-26T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Digital designer Yichan Wang has put together this collection of strategies and selling points to help you encourage and advocate for accessibility in your place of work, including useful scripts you can use as starting points.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yichan Wang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering]]></title>
+        <id>https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/</id>
+        <link href="https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/"/>
+        <updated>2024-02-22T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederik Dohr)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Practical Guide To Designing For Colorblind People]]></title>
+        <id>https://smashingmagazine.com/2024/02/designing-for-colorblindness/</id>
+        <link href="https://smashingmagazine.com/2024/02/designing-for-colorblindness/"/>
+        <updated>2024-02-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Color accessibility is more than just ticking boxes. Even with good contrast, some color palettes can make interfaces challenging for users. Here are some practical guidelines to ensure more inclusive design for colorblind people. An upcoming part of Smart Interface Design Patterns.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Accessibility Barriers For Assistive Technology Users]]></title>
+        <id>https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/</id>
+        <link href="https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/"/>
+        <updated>2024-02-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Accessibility goes beyond making products user-friendly. It can significantly impact the quality of life for people with disabilities. Kate Kalcevich shares lessons she learned from assistive technology users — challenges and barriers they encounter on mobile devices.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Kate Kalcevich)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podcast: How the Insane Pressure of Classical Music Prepared Jessica Wilkins for Tech]]></title>
         <id>https://www.freecodecamp.org/news/podcast-jessica-wilkins-classical-music-learning-to-code/</id>
@@ -424,26 +624,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create Animations in React 18]]></title>
-        <id>https://www.freecodecamp.org/news/create-animations-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/create-animations-in-react/"/>
-        <updated>2024-02-08T23:51:27.000Z</updated>
-        <summary type="html"><![CDATA[We are surrounded by gorgeous web applications. Sometimes I catch myself admiring visual effects on some website and wondering how they were made.  Well today I'll show you how you can create awesome CSS animations in React 18. As always, we'll work on the real world example but we'll]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Spread and Rest Operators – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/"/>
-        <updated>2024-02-08T23:27:05.000Z</updated>
-        <summary type="html"><![CDATA[In modern JavaScript, the spread and rest operators are indispensable tools for simplifying array manipulation and function parameters. These operators provide elegant solutions for tasks like array expansion and function arguments handling.  Let's dive deeper into understanding how they work so you can leverage their power. You can get]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Miriam Maa (2023) Tamil TRUE WEB-DL - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 4.8GB - 2.5GB & 1.3GB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177780-miriam-maa-2023-tamil-true-web-dl-4k-1080p-720p-avc-dd51-192kbps-48gb-25gb-13gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=360691</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177780-miriam-maa-2023-tamil-true-web-dl-4k-1080p-720p-avc-dd51-192kbps-48gb-25gb-13gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=360691"/>
@@ -593,16 +773,6 @@
         <summary type="html"><![CDATA[Super]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Download a Kaggle Dataset Directly to a Google Colab Notebook]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/"/>
-        <updated>2024-02-08T19:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Kaggle [https://www.kaggle.com/]is a popular data science-based competition platform that has a large online community of data scientists and machine learning engineers. The platform contains a ton of datasets and notebooks that you can use to learn and practice your data science and machine learning skills. They even have competitions you]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
     <entry>
@@ -816,86 +986,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Learn Golang – A Beginner's Guide to the Basics]]></title>
-        <id>https://www.freecodecamp.org/news/golang-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/golang-for-beginners/"/>
-        <updated>2024-02-08T17:12:33.000Z</updated>
-        <summary type="html"><![CDATA[The Go programming language, also known as Golang, was developed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It was open-sourced in 2009.  Go is expressive, concise, clean, and efficient. The language is statically typed with syntax similar to the C programming language.  Go]]></summary>
-        <author>
-            <name>Adeola Ajiboso</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn ASP.NET Core by Building an Auction Application]]></title>
-        <id>https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/</id>
-        <link href="https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/"/>
-        <updated>2024-02-08T16:22:49.000Z</updated>
-        <summary type="html"><![CDATA[ASP.NET course can be used to create robust, scalable, and dynamic applications. We just posted a course on the freeCodeCamp.org YouTube channel that is an opportunity for learners to dive deep into the world of fullstack development using ASP.NET Core. Alen Omeri designed the course to guide you through the]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frequently Heard In My Beginning Front-End Web Development Class]]></title>
-        <id>https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/</id>
-        <link href="https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/"/>
-        <updated>2024-02-08T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Draw with JavaScript on an HTML Canvas Element – Beginner's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/drawing-on-a-canvas-element-with-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/drawing-on-a-canvas-element-with-javascript/"/>
-        <updated>2024-02-08T00:08:11.000Z</updated>
-        <summary type="html"><![CDATA[There are many ways to code graphics for the web. You can create art with CSS [https://codepen.io/search/pens?q=css+art]. You can code an SVG [/news/svg-tutorial-learn-to-code-images/] image as part of an HTML file. Or you can generate graphics from JavaScript using the Canvas API. In this article, we'll explore how to use JavaScript]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Back-End Development – Handbook for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/python-back-end-development-the-beginners-guide/</id>
-        <link href="https://www.freecodecamp.org/news/python-back-end-development-the-beginners-guide/"/>
-        <updated>2024-02-08T00:04:17.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready to dive into the world of Python back-end development? Whether you’re a beginner looking to learn the basics or an experienced developer wanting to upgrade your skills, this handbook is your ultimate guide. Imagine being able to build full-featured web applications, handle large-scale data analysis, and create]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Motion Sensitivity? How to Design Accessible Web Animations]]></title>
-        <id>https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/</id>
-        <link href="https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/"/>
-        <updated>2024-02-07T21:51:54.000Z</updated>
-        <summary type="html"><![CDATA[As web developers, we love a good animation, right? But let's be honest, sometimes we get caught up in the wow factor and forget that our websites exist for real people with diverse needs.  One hidden hurdle for some users is motion sensitivity. It might not be something we]]></summary>
-        <author>
-            <name>Elizabeth  Meshioye</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with the Console Object in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/"/>
-        <updated>2024-02-07T21:29:48.000Z</updated>
-        <summary type="html"><![CDATA[When you run into errors inside your code, it's important to know how to debug and find the source of the problem. The console object is a powerful tool that can help you with this. In this article, we will explore the console object and the variety of methods that]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Destructuring Works in JavaScript – Explained with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/destructuring-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/destructuring-in-javascript/"/>
-        <updated>2024-02-07T19:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Destructuring is a powerful JavaScript feature introduced in ES6 (ECMAScript 2015). It makes it easier to extract values from arrays or properties from objects and assign them to variables in a readable way.  Let's delve into how destructuring works and explore various use cases with examples. You can get]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rebels of Thupakula Gudem (2023) Telugu TRUE WEB-DL - [1080p & 720p - AVC - (AAC 2.0) - 2.9GB & 1.3GB] - [x264 - 700MB & 400MB]]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177742-rebels-of-thupakula-gudem-2023-telugu-true-web-dl-1080p-720p-avc-aac-20-29gb-13gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=360604</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177742-rebels-of-thupakula-gudem-2023-telugu-true-web-dl-1080p-720p-avc-aac-20-29gb-13gb-x264-700mb-400mb/&amp;do=findComment&amp;comment=360604"/>
@@ -922,16 +1012,6 @@
 	MAGNET]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Work with useMemo in React – with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/"/>
-        <updated>2024-02-07T18:13:41.000Z</updated>
-        <summary type="html"><![CDATA[useMemo is a valuable tool in the React framework, designed to optimize performance by memoizing expensive computations.  With useMemo, React can store the result of a function call and reuse it when the dependencies of that function haven't changed, rather than recalculating the value on every render.  useMemo]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
@@ -965,16 +1045,6 @@
 	please upload other movies in this same series like this same quality.]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Career Change to Code Guide]]></title>
-        <id>https://www.freecodecamp.org/news/career-change-to-code-guide/</id>
-        <link href="https://www.freecodecamp.org/news/career-change-to-code-guide/"/>
-        <updated>2024-02-07T17:47:57.000Z</updated>
-        <summary type="html"><![CDATA[There are many people who want to change careers to become a software developer but don't know what the optimal path is. There are many challenges and uncertainties that accompany such a significant change. We just posted a course on the freeCodeCamp.org YouTube channel that is a guide for those]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -1086,16 +1156,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the JavaScript insertAdjacentHTML() method for Efficient DOM Manipulation]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-insertadjacenthtml-method-efficient-dom-manipulation/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-insertadjacenthtml-method-efficient-dom-manipulation/"/>
-        <updated>2024-02-07T16:28:17.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, developers need to be able to dynamically update a page without replacing the entire content. A traditional method like innerHTML can cause performance issues, because these methods tend to replace the entire content of an element. The insertAdjacentHTML() method leads to better performance because you use it to]]></summary>
-        <author>
-            <name>Kamaldeen Lawal</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Marvels (2023) TRUE HDRip - Original Audios (DD+5.1 - 192Kbps) [Tamil + Telugu + Hindi + Eng] - ESub - [4K, 1080p & 720p - 5.1GB - 2.4GB - 1.4GB][Google Drive]]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/123133-the-marvels-2023-true-hdrip-original-audios-dd51-192kbps-tamil-telugu-hindi-eng-esub-4k-1080p-720p-51gb-24gb-14gbgoogle-drive/&amp;do=findComment&amp;comment=360595</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/123133-the-marvels-2023-true-hdrip-original-audios-dd51-192kbps-tamil-telugu-hindi-eng-esub-4k-1080p-720p-51gb-24gb-14gbgoogle-drive/&amp;do=findComment&amp;comment=360595"/>
@@ -1178,16 +1238,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web Development Is Getting Too Complex, And It May Be Our Fault]]></title>
-        <id>https://smashingmagazine.com/2024/02/web-development-getting-too-complex/</id>
-        <link href="https://smashingmagazine.com/2024/02/web-development-getting-too-complex/"/>
-        <updated>2024-02-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An overwhelming number of frameworks and tooling available today gives the impression that web development has gotten perhaps too complex. Juan Diego Rodríguez explores if web development really is that complex and, most importantly, how we can prevent it from getting even more difficult than we already perceive it to be.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ISHQ (2012) Telugu - DVD9 - UNTOUCHED - 480p - (DD+5.1 - 448Kbps) - 6.9GB - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177736-ishq-2012-telugu-dvd9-untouched-480p-dd51-448kbps-69gb-esub/&amp;do=findComment&amp;comment=360589</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177736-ishq-2012-telugu-dvd9-untouched-480p-dd51-448kbps-69gb-esub/&amp;do=findComment&amp;comment=360589"/>
@@ -1205,16 +1255,6 @@
         <summary type="html"><![CDATA[NEW LINK ADDED]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Master Boot Record Disk Partitioning Works in Linux]]></title>
-        <id>https://www.freecodecamp.org/news/how-mbr-works-in-linux/</id>
-        <link href="https://www.freecodecamp.org/news/how-mbr-works-in-linux/"/>
-        <updated>2024-02-07T10:29:26.000Z</updated>
-        <summary type="html"><![CDATA[Efficient storage management is a crucial aspect of maintaining a well-organized computing environment.  In this detailed guide, we'll explore the features of Master Boot Record (MBR) disk partitioning using the parted command on Linux.  Additionally, we'll cover the process of adding a new hard disk in VMware, as]]></summary>
-        <author>
-            <name>Kedar Makode</name>
         </author>
     </entry>
     <entry>
@@ -1386,46 +1426,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java Project – How to Build a Simple Parking Lot Management System]]></title>
-        <id>https://www.freecodecamp.org/news/java-project-parking-lot-management-system/</id>
-        <link href="https://www.freecodecamp.org/news/java-project-parking-lot-management-system/"/>
-        <updated>2024-02-07T00:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone! It's good to be back with another tutorial – this time on Java, one of the most popular programming languages out there today.  Java is used by developers and enterprises to build powerful applications that serve many different purposes. The object-oriented nature of Java makes writing clean,]]></summary>
-        <author>
-            <name>Kunal Nalawade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Personal Branding for Developers – A Step by Step Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/personal-branding-for-devs-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/personal-branding-for-devs-handbook/"/>
-        <updated>2024-02-06T23:05:06.000Z</updated>
-        <summary type="html"><![CDATA[In this handbook, you'll learn how to build your personal brand as a developer to help you make your mark in the tech industry.  With a focus on practicality and professionalism, this guide is designed for developers at all levels, from industry veterans to those just starting their coding]]></summary>
-        <author>
-            <name>Vahe Aslanyan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Job Board Scraper with Python]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/"/>
-        <updated>2024-02-06T22:56:41.000Z</updated>
-        <summary type="html"><![CDATA[If you want to learn how to navigate the ever-evolving job market by scraping job posting sites like Indeed.com, then this guide is for you.  What is a Job Scraper? In the digital age, tools known as Job Board Scrapers (or just Job Scrapers) have become indispensable for people]]></summary>
-        <author>
-            <name>Jess Wilk</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the C# Programming Language – Full Book for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/learn-csharp-book/</id>
-        <link href="https://www.freecodecamp.org/news/learn-csharp-book/"/>
-        <updated>2024-02-06T22:35:57.000Z</updated>
-        <summary type="html"><![CDATA[C# version 1 was released in January 2002. It is a modern, general purpose programming language designed and developed from the ground up by the renowned Danish software engineer, Anders Heijleberg and his team at Microsoft.  I’ve heard Anders Heijlsberg say in an interview that with C# the goal]]></summary>
-        <author>
-            <name>Gavin Lon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[VARSHAM (2004) Telugu - DVD9 - UNTOUCHED - 480p - (DD+5.1 - 448Kbps) - 6.4GB - ESub - Supreme DVD]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177718-varsham-2004-telugu-dvd9-untouched-480p-dd51-448kbps-64gb-esub-supreme-dvd/&amp;do=findComment&amp;comment=360570</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177718-varsham-2004-telugu-dvd9-untouched-480p-dd51-448kbps-64gb-esub-supreme-dvd/&amp;do=findComment&amp;comment=360570"/>
@@ -1443,16 +1443,6 @@
         <summary type="html"><![CDATA[Please upload Hello (2017) Telugu movie.....akhil hero]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master React by Building 25 Projects]]></title>
-        <id>https://www.freecodecamp.org/news/master-react-by-building-25-projects/</id>
-        <link href="https://www.freecodecamp.org/news/master-react-by-building-25-projects/"/>
-        <updated>2024-02-06T17:00:58.000Z</updated>
-        <summary type="html"><![CDATA[React is one of the most popular frontend JavaScript frameworks.  We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build twenty-five different projects using React. Each project is designed to challenge and enhance your understanding of React's capabilities. Sangam Mukherjee developed this]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -1498,16 +1488,6 @@
 	MAGNET]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Spring Boot and Spring Data JPA]]></title>
-        <id>https://www.freecodecamp.org/news/learn-spring-boot-and-spring-data-jpa/</id>
-        <link href="https://www.freecodecamp.org/news/learn-spring-boot-and-spring-data-jpa/"/>
-        <updated>2024-02-06T16:05:20.000Z</updated>
-        <summary type="html"><![CDATA[By mastering Spring Boot and Spring Data JPA, you'll be equipped to build efficient, scalable, and secure applications with ease, making you a valuable asset in the job market and a more effective developer. We just published a comprehensive video course on the freeCodeCamp.org YouTube channel that teaches Spring Boot]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -1805,46 +1785,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Strict Mode in JavaScript? Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-strict-mode-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-strict-mode-in-javascript/"/>
-        <updated>2024-02-06T11:05:52.000Z</updated>
-        <summary type="html"><![CDATA[If you are a JavaScript developer, you may come across the string "use strict" at the top of your JavaScript code. This means that JavaScript's strict mode is in use. But what does this mean, and why does it matter? In this article, you'll learn what it means to write]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vim Key Bindings – Vim Keys List Reference]]></title>
-        <id>https://www.freecodecamp.org/news/vim-key-bindings-reference/</id>
-        <link href="https://www.freecodecamp.org/news/vim-key-bindings-reference/"/>
-        <updated>2024-02-06T09:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Understanding Vim key bindings is crucial for navigating and editing text efficiently in Vim or Vim-based text editors like Neovim.  In this article, we'll explore the most common Vim key bindings that will help you navigate your text editor seamlessly. Table of Content  * Vim Modes  *]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Designing For Older Adults]]></title>
-        <id>https://smashingmagazine.com/2024/02/guide-designing-older-adults/</id>
-        <link href="https://smashingmagazine.com/2024/02/guide-designing-older-adults/"/>
-        <updated>2024-02-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With one billion people aged 60 or older worldwide, inclusivity is more important than ever. Learn how to create digital experiences that empower independence and competence for older adults while enhancing usability for all. An upcoming part of Smart Interface Design Patterns.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Databases Guarantee Isolation – Pessimistic vs Optimistic Concurrency Control Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-databases-guarantee-isolation/</id>
-        <link href="https://www.freecodecamp.org/news/how-databases-guarantee-isolation/"/>
-        <updated>2024-02-05T22:41:18.000Z</updated>
-        <summary type="html"><![CDATA[ACID (Atomicity, Consistency, Isolation, and Durability) is a set of guarantees when working with a DBMS. Pessimistic and optimistic concurrency control explains how databases achieve the “I” in ACID. Isolation is a guarantee that concurrently running transactions should not interfere with each other. This is arguably the most important ACID]]></summary>
-        <author>
-            <name>Daniel Adetunji</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hercules (2014) (Extended BluRay + Original Audios) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 2GB & 1GB | x264 - (Tamil + Telugu + Hindi) - 450MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177711-hercules-2014-extended-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-2gb-1gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=360506</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177711-hercules-2014-extended-bluray-original-audios-1080p-720p-x264-tamil-telugu-hindi-eng-2gb-1gb-x264-tamil-telugu-hindi-450mb-esub/&amp;do=findComment&amp;comment=360506"/>
@@ -1872,36 +1812,6 @@
         <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Please Seed Back After Download Jai Vijayam (2023) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (AAC 2.0) - 2.5GB : www.1TamilMV.world - Jai Vijayam (2023) Tamil TRUE WEB-DL - 1080p - AVC - (AAC 2.0) - 2.5GB.mkv.torrent MAGNET Jai Vijayam (2023) Ta...]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[State Management in React – When and Where to use State]]></title>
-        <id>https://www.freecodecamp.org/news/react-state-management/</id>
-        <link href="https://www.freecodecamp.org/news/react-state-management/"/>
-        <updated>2024-02-05T21:06:27.000Z</updated>
-        <summary type="html"><![CDATA[State management is a crucial concept in React, which is one of the most popular JavaScript libraries in the world for building dynamic user interfaces.  Due to its importance in handling data, it is essential know how to manage state, when you need it, and where it can be]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Add Filtering, Sorting, Limiting, and Pagination to Your Nest.js App]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/"/>
-        <updated>2024-02-05T19:01:33.000Z</updated>
-        <summary type="html"><![CDATA[If you are reading this article, you are probably a developer who has used an API to call data for your application. You may have also used features such as filtering and pagination to limit the amount of data you want to receive.  These API features are important when]]></summary>
-        <author>
-            <name>Okure U. Edet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is box-sizing: border-box in CSS?]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-box-sizing-border-box-css/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-box-sizing-border-box-css/"/>
-        <updated>2024-02-05T18:26:43.000Z</updated>
-        <summary type="html"><![CDATA[In CSS, there is a property called box-sizing that allows you to determine how the width and the height for an element is calculated.  A lot of CSS resets [/news/how-i-style-my-websites-with-my-favorite-css-resets-7ace41dbc43d/] will change the default box model from content-box to border-box to make the layouts easier to work with. But]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
         </author>
     </entry>
     <entry>
@@ -1970,16 +1880,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Immutable JavaScript – How to Improve the Performance of Your JS Applications]]></title>
-        <id>https://www.freecodecamp.org/news/immutable-javascript-improve-application-performance/</id>
-        <link href="https://www.freecodecamp.org/news/immutable-javascript-improve-application-performance/"/>
-        <updated>2024-02-05T15:09:28.000Z</updated>
-        <summary type="html"><![CDATA[Javascript has become a very popular programming language thanks to its growing use in frontend and backend development.  And as devs build JavaScript applications for different companies and organizations, the size and complexity of these applications can pose interesting performance challenges. As developers, we seek to create applications that]]></summary>
-        <author>
-            <name>Clinton Joy</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[80 Tamil Movies - AMZN / SUN NXT / JC / NF / TK WEB DL - H264 / H265 - DD5.1 / DD2.0 - [2160p & 1080p & 720p - 600GB] - Esub [Google Drive]]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/136729-80-tamil-movies-amzn-sun-nxt-jc-nf-tk-web-dl-h264-h265-dd51-dd20-2160p-1080p-720p-600gb-esub-google-drive/&amp;do=findComment&amp;comment=360499</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/136729-80-tamil-movies-amzn-sun-nxt-jc-nf-tk-web-dl-h264-h265-dd51-dd20-2160p-1080p-720p-600gb-esub-google-drive/&amp;do=findComment&amp;comment=360499"/>
@@ -2038,16 +1938,6 @@
 	MAGNET]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install React – A Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/"/>
-        <updated>2024-02-05T12:43:22.000Z</updated>
-        <summary type="html"><![CDATA[React is an open-source JavaScript library that helps you build dynamic user interfaces (UIs). You can use it to build components that represent logically reusable parts of the UI. Because React is open source, anyone can access its source code, inspect it, modify it, and enhance it for their personal]]></summary>
-        <author>
-            <name>Okoro Emmanuel Nzube</name>
         </author>
     </entry>
     <entry>
@@ -3147,16 +3037,6 @@ https://gplinks.co/jwKN3hX1]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use OpenTelementry to Trace Node.js Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/"/>
-        <updated>2024-02-03T00:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Observability refers to our ability to "see" and understand what's happening inside a system by looking at its external signals (like logs, metrics, and traces). Observability involves collecting and analyzing data from sources within a system to monitor its performance and address problems effectively. Why is Observability Useful?  1.]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Saindhav (2024) Telugu TRUE WEB-DL - [4K ,1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 17GB - 2.7GB & 1.3GB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177672-saindhav-2024-telugu-true-web-dl-4k-1080p-720p-avc-dd51-640kbps-17gb-27gb-13gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=360379</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177672-saindhav-2024-telugu-true-web-dl-4k-1080p-720p-avc-dd51-640kbps-17gb-27gb-13gb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=360379"/>
@@ -3164,16 +3044,6 @@ https://gplinks.co/jwKN3hX1]]></summary>
         <summary type="html"><![CDATA[THANX DUDE!!!!!!!!!!!!!!!!]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Libraries to Use in Your Projects in 2024]]></title>
-        <id>https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/</id>
-        <link href="https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/"/>
-        <updated>2024-02-02T18:42:15.000Z</updated>
-        <summary type="html"><![CDATA[If you're building applications with React, you should learn how to use some helpful libraries that'll make it easier to add the features you need. For example, to add features like authentication or styling, you'll need to find a good third-party library to handle it. In this comprehensive guide, I'm]]></summary>
-        <author>
-            <name>Reed Barger</name>
         </author>
     </entry>
     <entry>
@@ -3437,46 +3307,6 @@ https://gplinks.co/kYATnlw]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Boot Process – What Happens when Booting RHEL]]></title>
-        <id>https://www.freecodecamp.org/news/linux-boot-process-in-rhel/</id>
-        <link href="https://www.freecodecamp.org/news/linux-boot-process-in-rhel/"/>
-        <updated>2024-02-02T17:49:18.000Z</updated>
-        <summary type="html"><![CDATA[The boot process is made up of a series of necessary actions that a computer goes through upon startup. These range from powering on to the complete loading of the operating system (OS) for optimal functionality.  It is vital to familiarize yourself with the boot process for various reasons.]]></summary>
-        <author>
-            <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Mobile Swiping Component in React]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-mobile-swiping-component-in-react/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-mobile-swiping-component-in-react/"/>
-        <updated>2024-02-02T17:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Everyone wants to be able to access the web from their mobile phones these days. So it's important to consider the accessibility of your web app on Android and iPhones.  The most difficult part is building the navigation – and swiping in particular can cause a lot of headaches.]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Oh My Zsh creator and Dev Shop CEO Robby Russell]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-oh-my-zsh-creator-and-ceo-robby-russell/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-oh-my-zsh-creator-and-ceo-robby-russell/"/>
-        <updated>2024-02-02T17:11:16.000Z</updated>
-        <summary type="html"><![CDATA[In this week's episode of the podcast, I interview Robby Russell. Robby created the open-source project Oh My ZSH.  Oh My Zsh is a framework for managing your Zsh configuration for your command line terminal. It's been extremely popular among developers for more than a decade. Robby is]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous Programming in JavaScript – Callbacks, Promises, & Async/Await Examples]]></title>
-        <id>https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/</id>
-        <link href="https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/"/>
-        <updated>2024-02-02T16:04:52.000Z</updated>
-        <summary type="html"><![CDATA[All programming languages have runtime engines that execute their code. In JavaScript, the runtime engine is single-threaded, which means that it runs code line by line or sequentially. The JavaScript runtime engine makes it a synchronous programming language where programs run sequentially. Programming languages that are not synchronous are called]]></summary>
-        <author>
-            <name>Musab Habeeb</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Saba Nayagan (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD5.1 - 384Kbps) - 5.5GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177662-saba-nayagan-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-55gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=360368</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177662-saba-nayagan-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-384kbps-55gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=360368"/>
@@ -3658,16 +3488,6 @@ https://gplinks.co/kYATnlw]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When Words Cannot Describe: Designing For AI Beyond Conversational Interfaces]]></title>
-        <id>https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/</id>
-        <link href="https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/"/>
-        <updated>2024-02-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Maximillian Piras)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ayalaan (2024) Tamil WEB-DL - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 3.8GB - 2.8GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - HC-ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177639-ayalaan-2024-tamil-web-dl-1080p-720p-avc-hevc-aac-20-38gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-hc-esub/&amp;do=findComment&amp;comment=360355</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177639-ayalaan-2024-tamil-web-dl-1080p-720p-avc-hevc-aac-20-38gb-28gb-14gb-850mb-x264-700mb-400mb-250mb-hc-esub/&amp;do=findComment&amp;comment=360355"/>
@@ -3839,16 +3659,6 @@ https://gplinks.co/kYATnlw]]></summary>
 	https://manalinks.in/28601507876176547]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Fast.ai – A Beginner-Friendly Gateway to Deep Learning]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-fast-ai-for-beginners/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-fast-ai-for-beginners/"/>
-        <updated>2024-02-02T00:10:29.000Z</updated>
-        <summary type="html"><![CDATA[Fast.ai is a user-friendly library that brings the power of deep learning to your fingertips, regardless of your skill level. Let’s learn how it works. Have you ever felt curious about deep learning but found the technical complexity overwhelming? Fast.ai [https://fast.ai/] is your answer. Fast.ai simplifies the journey into deep]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -4235,16 +4045,6 @@ https://gplinks.co/kYATnlw]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make Your Web Sites Accessible]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-make-your-web-sites-accessible/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-your-web-sites-accessible/"/>
-        <updated>2024-02-01T16:16:08.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring that web content is accessible to everyone, including people with disabilities, is not just a noble goal—it's a necessity. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about web accessibility. This course is designed to empower developers with the knowledge and skills]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ratha Sarithiram [Rakta Charitra] (2010) Tamil TRUE WEB-DL 480p UNTOUCHED AVC AAC - 1.1GB - [HC-Esub] - [Direct Link] - [Major]]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/131711-ratha-sarithiram-rakta-charitra-2010%C2%A0tamil-true-web-dl-480p-untouched-avc-aac-11gb-hc-esub-direct-link-major/&amp;do=findComment&amp;comment=360256</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/131711-ratha-sarithiram-rakta-charitra-2010%C2%A0tamil-true-web-dl-480p-untouched-avc-aac-11gb-hc-esub-direct-link-major/&amp;do=findComment&amp;comment=360256"/>
@@ -4252,56 +4052,6 @@ https://gplinks.co/kYATnlw]]></summary>
         <summary type="html"><![CDATA[https://www.1tamilmv.world/index.php?/forums/topic/177158-ratha-sarithiram-rakht-charitra-rakta-charitra-2010-tamil-true-web-dl-1080p-avc-untouched-aac20-15gb-esub-gdflix/&_rid=84083]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Array Length – How to Find the Length of an Array in JS]]></title>
-        <id>https://www.freecodecamp.org/news/javascript-array-length-tutorial/</id>
-        <link href="https://www.freecodecamp.org/news/javascript-array-length-tutorial/"/>
-        <updated>2024-02-01T15:56:36.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript arrays are fundamental data structures that allow you to store and manipulate collections of elements efficiently. While working with arrays, you'll often need to know their length. The length of an array tells us how many elements are present in the array. You can use this to check if]]></summary>
-        <author>
-            <name>Tantoluwa Heritage Alabi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Documentation Libraries to Help You Write Good Docs]]></title>
-        <id>https://www.freecodecamp.org/news/documentation-libraries-to-help-you-write-good-docs/</id>
-        <link href="https://www.freecodecamp.org/news/documentation-libraries-to-help-you-write-good-docs/"/>
-        <updated>2024-02-01T15:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Good project documentation is key to success for every company, startup, or individual project. Without documentation, it's much harder for new developers or others to use your project. In this article, I'll discuss some of my favourite libraries you can use for building your documentation site.  And don't worry]]></summary>
-        <author>
-            <name>Rajdeep Singh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Shadcn with Next.js 14]]></title>
-        <id>https://www.freecodecamp.org/news/shadcn-with-next-js-14/</id>
-        <link href="https://www.freecodecamp.org/news/shadcn-with-next-js-14/"/>
-        <updated>2024-02-01T15:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Shadcn is a collection of beautifully designed, accessible, and customizable React components that you can use to build modern web applications with Next.js. With Shadcn, you can quickly and easily create user interfaces that are both stylish and functional. If you are looking for a way to build modern, stylish,]]></summary>
-        <author>
-            <name>Sahil Mahapatra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Dynamic Segments with useParams in React Router]]></title>
-        <id>https://www.freecodecamp.org/news/use-dynamic-segments-in-react-router/</id>
-        <link href="https://www.freecodecamp.org/news/use-dynamic-segments-in-react-router/"/>
-        <updated>2024-01-31T22:34:08.000Z</updated>
-        <summary type="html"><![CDATA[On a traditional website, when a user clicks on a URL, the browser makes a full-page request from the server and directs the user to a new page. This is referred to as static routing. This is very useful if you just need to navigate the user to a new]]></summary>
-        <author>
-            <name>Alex Anie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pass the GitHub Foundations Certification]]></title>
-        <id>https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/</id>
-        <link href="https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/"/>
-        <updated>2024-01-31T21:54:55.000Z</updated>
-        <summary type="html"><![CDATA[The GitHub Foundations Certification was released just a few weeks ago. And you can now watch a 9-hour exam prep course on the freeCodeCamp.org YouTube channel! Andrew Brown from ExamPro created this course. He has created a bunch of popular exam prep courses for the freeCodeCamp.org YouTube channel. This certification]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -4349,16 +4099,6 @@ https://gplinks.co/kYATnlw]]></summary>
 	MAGNET]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nth-child() vs nth-of-type() Selectors in CSS – What’s the Difference?]]></title>
-        <id>https://www.freecodecamp.org/news/nth-child-vs-nth-of-type-selector-in-css/</id>
-        <link href="https://www.freecodecamp.org/news/nth-child-vs-nth-of-type-selector-in-css/"/>
-        <updated>2024-01-31T18:33:32.000Z</updated>
-        <summary type="html"><![CDATA[The :nth-child() and :nth-of-type() CSS selectors select items from a group of HTML elements. But they work in different ways. Here is the main distinction between them: nth-child() selects its items from any group of elements. nth-of-type() selects its items from a specified type of element. * :nth-child() selects items]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
         </author>
     </entry>
     <entry>
@@ -4508,16 +4248,6 @@ https://gplinks.co/8AtgW]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[29 Days Of Inspiration (February 2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/</id>
-        <link href="https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/"/>
-        <updated>2024-01-31T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With February just around the corner, how about a little inspiration boost? We might have one for you: desktop wallpapers created with love by the community for the community. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Miruthan (2016) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 3.5GB - 2.4GB - 1.4GB & 950MB] - [x264 - 700MB & 400MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177588-miruthan-2016-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-35gb-24gb-14gb-950mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=360213</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177588-miruthan-2016-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-35gb-24gb-14gb-950mb-x264-700mb-400mb-esub/&amp;do=findComment&amp;comment=360213"/>
@@ -4595,16 +4325,6 @@ https://gplinks.co/8AtgW]]></summary>
         <summary type="html"><![CDATA[Avatar 3: The Seed Bearer - First Official Trailer | 20th Century Studios | Disney+ | JamesCameron]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the <input> Element to Access a Mobile Device's Camera]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-input-element-to-access-camera-on-mobile/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-input-element-to-access-camera-on-mobile/"/>
-        <updated>2024-01-31T08:55:36.000Z</updated>
-        <summary type="html"><![CDATA[Take a Selfie Take a Photo]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
@@ -4720,16 +4440,6 @@ https://gplinks.co/8AtgW]]></summary>
 	Songs 320kbps uploaded bro]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use the Hugging Face Transformer Library]]></title>
-        <id>https://www.freecodecamp.org/news/hugging-face-transformer-library-overview/</id>
-        <link href="https://www.freecodecamp.org/news/hugging-face-transformer-library-overview/"/>
-        <updated>2024-01-31T00:36:42.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll talk about why I think the Hugging Face’s Transformer Library is a game-changer in NLP for developers and researchers alike. Have you ever wondered how modern AI achieves such remarkable feats, like understanding human language or generating text that sounds like it was written by a]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
         </author>
     </entry>
     <entry>
@@ -4926,36 +4636,6 @@ https://gplinks.co/8AtgW]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ace Your Deep Learning Job Interview]]></title>
-        <id>https://www.freecodecamp.org/news/ace-your-deep-learning-job-interview/</id>
-        <link href="https://www.freecodecamp.org/news/ace-your-deep-learning-job-interview/"/>
-        <updated>2024-01-30T20:19:59.000Z</updated>
-        <summary type="html"><![CDATA[Are you gearing up for a job interview in the deep learning field? Look no further!  We just published a video course on the freeCodeCamp.org YouTube channel that is specifically designed to prepare candidates for deep learning job interviews, covering 50 common interview questions with detailed explanations. Tatev Aslanyan]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build an Admin Dashboard with React]]></title>
-        <id>https://www.freecodecamp.org/news/build-admin-dashboard-react/</id>
-        <link href="https://www.freecodecamp.org/news/build-admin-dashboard-react/"/>
-        <updated>2024-01-30T19:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Have you looked at interactive dashboards on websites like Stripe and thought, “How can I build something like this myself?” In this full-stack React and Next.js project, you’ll learn how to build a stunning admin dashboard from front to back. Our final admin dashboard will allow you to display and]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Game Dev Tutorial – Build Gorillas with HTML Canvas + JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/gorillas-game-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/gorillas-game-in-javascript/"/>
-        <updated>2024-01-30T18:18:55.000Z</updated>
-        <summary type="html"><![CDATA[In this JavaScript game tutorial, you'll learn how to create a modern version of the 1991 classic game Gorillas using plain JavaScript and the HTML canvas element. In this game, two gorillas throw explosive bananas at each other, and the first one to hit the other one wins the game.]]></summary>
-        <author>
-            <name>Hunor Márton Borbély</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Beekeeper (2024) English TRUE WEB-DL - [1080p & 720p - x264 - (DD+5.1 - 640Kbps) - 2.5GB - 1.1GB & 400MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177596-the-beekeeper-2024-english-true-web-dl-1080p-720p-x264-dd51-640kbps-25gb-11gb-400mb-esub/&amp;do=findComment&amp;comment=360178</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177596-the-beekeeper-2024-english-true-web-dl-1080p-720p-x264-dd51-640kbps-25gb-11gb-400mb-esub/&amp;do=findComment&amp;comment=360178"/>
@@ -5054,16 +4734,6 @@ https://gplinks.co/8AtgW]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Deploy Your Django Project on an EC2 Machine using GitHub Actions]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/"/>
-        <updated>2024-01-30T15:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Deploying a Django application can be streamlined and automated using GitHub Actions. This article provides a comprehensive guide on how to set up a continuous deployment pipeline for a Django project hosted on an AWS EC2 instance. By leveraging GitHub Actions, developers can automate their deployment process, making it more]]></summary>
-        <author>
-            <name>Muhammad Haseeb</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7aum Arivu (2011) Tamil - TRUE WEB-DL - 1080p & 720p - AVC / HEVC - UNTOUCHED - DD+5.1(640kbps) - 9.4GB - 5.5GB - 2.7GB - 1.8GB - 1.4GB & 950MB - x264 - 700MB - 400MB & 250MB [GDrive]]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177247-7aum-arivu-2011-tamil-true-web-dl-1080p-720p-avc-hevc-untouched-dd51640kbps-94gb-55gb-27gb-18gb-14gb-950mb-x264-700mb-400mb-250mb-gdrive/&amp;do=findComment&amp;comment=360169</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177247-7aum-arivu-2011-tamil-true-web-dl-1080p-720p-avc-hevc-untouched-dd51640kbps-94gb-55gb-27gb-18gb-14gb-950mb-x264-700mb-400mb-250mb-gdrive/&amp;do=findComment&amp;comment=360169"/>
@@ -5099,16 +4769,6 @@ https://gplinks.co/8AtgW]]></summary>
 	Join our Telegram channel for more Quality Uploads]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Falsy Values in JavaScript? Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/"/>
-        <updated>2024-01-30T15:27:25.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, every value has a boolean equivalent. This means it can either be evaluated as true (truthy value) or false (falsy value) when used in a boolean context.  But what is a boolean context? It's a situation where a boolean value is expected. Examples include if statements, logical]]></summary>
-        <author>
-            <name>Benjamin Semah</name>
         </author>
     </entry>
     <entry>
@@ -5226,16 +4886,6 @@ https://gplinks.co/8AtgW]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use Pandas for Data Cleaning and Preprocessing]]></title>
-        <id>https://www.freecodecamp.org/news/data-cleaning-and-preprocessing-with-pandasbdvhj/</id>
-        <link href="https://www.freecodecamp.org/news/data-cleaning-and-preprocessing-with-pandasbdvhj/"/>
-        <updated>2024-01-30T14:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Steve Lohr of The New York Times said: "Data scientists, according to interviews and expert estimates, spend 50 percent to 80 percent of their time mired in the mundane labor of collecting and preparing unruly digital data, before it can be explored for useful nuggets."  This statement is 100%]]></summary>
-        <author>
-            <name>Oluwadamisi Samuel Praise</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Asal (2010) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.5GB - 2.4GB - 1.4GB & 950MB] - [x264 - 700MB & 400MB]]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177589-asal-2010-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-45gb-24gb-14gb-950mb-x264-700mb-400mb/&amp;do=findComment&amp;comment=360163</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177589-asal-2010-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-45gb-24gb-14gb-950mb-x264-700mb-400mb/&amp;do=findComment&amp;comment=360163"/>
@@ -5273,36 +4923,6 @@ https://gplinks.co/8AtgW]]></summary>
         <summary type="html"><![CDATA[Thx For 4K With Multi Language.]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200+ Universities Just Launched 1000+ Free Online Courses. Here’s the Full List.]]></title>
-        <id>https://www.freecodecamp.org/news/new-online-courses/</id>
-        <link href="https://www.freecodecamp.org/news/new-online-courses/"/>
-        <updated>2024-01-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you haven’t heard, universities around the world are offering their courses online for free (or at least, partially free). These online courses [https://www.classcentral.com/help/intro-to-online-learning] are collectively called MOOCs or Massive Open Online Courses. [https://www.classcentral.com/help/moocs] In the past ten years or so, over 1000 universities have created more than 20,000 such]]></summary>
-        <author>
-            <name>Dhawal Shah</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Dapper in Your .NET Projects]]></title>
-        <id>https://www.freecodecamp.org/news/use-dapper-in-your-dotnet-projects/</id>
-        <link href="https://www.freecodecamp.org/news/use-dapper-in-your-dotnet-projects/"/>
-        <updated>2024-01-30T00:26:50.000Z</updated>
-        <summary type="html"><![CDATA[When you're working with .NET, interacting with databases – particularly SQL databases – is inevitable. The common approaches involve ORM (Object Relational Mapping) tools like Entity Framework (EF Core) or Dapper. Dapper excels in speed and control for CRUD operations. This article explores Dapper's suitability for performance-critical .NET projects with simpler]]></summary>
-        <author>
-            <name>Grant Riordan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install NVIDIA CUDA Toolkit on Ubuntu]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-install-nvidia-cuda-toolkit-on-ubuntu/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-install-nvidia-cuda-toolkit-on-ubuntu/"/>
-        <updated>2024-01-29T21:25:58.000Z</updated>
-        <summary type="html"><![CDATA[The NVIDIA Compute Unified Device Architecture (CUDA) Toolkit is a software platform that allows developers to tap into the computing power of NVIDIA processing and GPU-accelerated applications. CUDA is also a programming model and an API that enables programmers to write code that can run on both the CPU and]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
         </author>
     </entry>
     <entry>
@@ -5383,36 +5003,6 @@ https://gplinks.co/8AtgW]]></summary>
         <summary type="html"><![CDATA[excellent share. thank you. please upload sunnxt copy without logo which released few years ago.]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner Web Dev Tutorial – Build a Weather App with Next.js & TypeScript]]></title>
-        <id>https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/</id>
-        <link href="https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/"/>
-        <updated>2024-01-29T18:35:10.000Z</updated>
-        <summary type="html"><![CDATA[We just published a great beginner's web dev tutorial on the freeCodeCamp.org YouTube channel. By the end of this tutorial, you'll have a solid understanding of several core technologies, including Next.js, Tailwind CSS, and TypeScript, all while creating a practical, real-world project. Core Technologies Used You will improve your skills]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter Tutorial – How to Migrate to V2 Embedding]]></title>
-        <id>https://www.freecodecamp.org/news/flutter-migrating-to-v2-embedding/</id>
-        <link href="https://www.freecodecamp.org/news/flutter-migrating-to-v2-embedding/"/>
-        <updated>2024-01-29T18:35:05.000Z</updated>
-        <summary type="html"><![CDATA[If you hopped on the Flutter bandwagon in it’s early days, most likely you have a project or two that were created prior to version 1.12 of Flutter. If that is the case, you may have seen this message whenever you run Pub get in one of your projects: >]]></summary>
-        <author>
-            <name>Tomer Ben Rachel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Homomorphic Encryption Works – Explained in Plain English]]></title>
-        <id>https://www.freecodecamp.org/news/homomorphic-encryption-in-plain-english/</id>
-        <link href="https://www.freecodecamp.org/news/homomorphic-encryption-in-plain-english/"/>
-        <updated>2024-01-29T18:33:48.000Z</updated>
-        <summary type="html"><![CDATA[As the fields of cryptography and cybersecurity advance, homomorphic encryption [/news/introduction-to-homomorphic-encryption/] stands out as a groundbreaking technology.  It has the potential to reshape everything in data privacy and security. What really is homomorphic encryption? Why is it getting so much attention? How can it increase data privacy? Essentially, with]]></summary>
-        <author>
-            <name>Tiago Monteiro</name>
         </author>
     </entry>
     <entry>
@@ -5568,16 +5158,6 @@ https://gplinks.co/8AtgW]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Feature Trap: Why Feature Centricity Is Harming Your Product]]></title>
-        <id>https://smashingmagazine.com/2024/01/feature-centricity-harming-product/</id>
-        <link href="https://smashingmagazine.com/2024/01/feature-centricity-harming-product/"/>
-        <updated>2024-01-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most product teams commonly adopt a feature-centric mindset, finding them convenient for brainstorming, drafting requirement documents, and integrating into backlogs and ticketing systems. In this article, Andy Budd shows how fixation with features might be holding you back and how making a few small tweaks to your process could make an entire world of difference.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Budd)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4554 (2022) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 2.4GB - 1.2GB & 800MB] - [x264 - 700MB - 400MB & 250MB]]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177578-4554-2022-tamil-true-web-dl-1080p-720p-avc-hevc-aac-20-24gb-12gb-800mb-x264-700mb-400mb-250mb/&amp;do=findComment&amp;comment=360097</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177578-4554-2022-tamil-true-web-dl-1080p-720p-avc-hevc-aac-20-24gb-12gb-800mb-x264-700mb-400mb-250mb/&amp;do=findComment&amp;comment=360097"/>
@@ -5612,36 +5192,6 @@ https://gplinks.co/8AtgW]]></summary>
 	MAGNET]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Sort an Array of Objects by Property Name in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-sort-array-of-objects-by-property-name-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-sort-array-of-objects-by-property-name-in-javascript/"/>
-        <updated>2024-01-29T14:45:35.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn about one of the most common operations you'll perform while working with JavaScript: sorting an array of objects by property name. Basic Array Concepts Let's review some basic JavaScript concepts before delving deeper into the subject so that you have the background info you need.]]></summary>
-        <author>
-            <name>Kaushal Joshi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Job Scheduling in RHEL – cron and at Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/job-scheduling-in-rhel/</id>
-        <link href="https://www.freecodecamp.org/news/job-scheduling-in-rhel/"/>
-        <updated>2024-01-29T14:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Efficiently executing tasks at designated times or in response to certain events is essential in RHEL's job scheduling process. With the help of various tools and utilities, you can easily coordinate and automate job scheduling, eliminating the need for manual intervention. Some common tools for job scheduling in RHEL include:]]></summary>
-        <author>
-            <name>Kedar Makode</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less Common HTML Tags You Should Know – With Example Code]]></title>
-        <id>https://www.freecodecamp.org/news/less-common-html-tags/</id>
-        <link href="https://www.freecodecamp.org/news/less-common-html-tags/"/>
-        <updated>2024-01-29T14:00:55.000Z</updated>
-        <summary type="html"><![CDATA[There are only so many HTML tags [https://css-tricks.com/average-web-page-data-analyzing-8-million-websites/]  that people typically use when building websites. But as there are over 100+ HTML elements, I wondered if there were any more beginner-friendly tags that I didn't know about – and that others might find useful, too. After doing some research,]]></summary>
-        <author>
-            <name>Murtuzaali Surti</name>
         </author>
     </entry>
     <entry>
@@ -5699,16 +5249,6 @@ https://gplinks.co/8AtgW]]></summary>
         <summary type="html"><![CDATA[Link not working..]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Authentication in Your Apps with Supabase Auth]]></title>
-        <id>https://www.freecodecamp.org/news/set-up-authentication-in-apps-with-supabase/</id>
-        <link href="https://www.freecodecamp.org/news/set-up-authentication-in-apps-with-supabase/"/>
-        <updated>2024-01-29T10:53:38.000Z</updated>
-        <summary type="html"><![CDATA[In this article, you'll learn the basic key concepts that'll help you grasp how authentication and authorization work.  You'll start by learning what authentication and authorization are, and then learn how to implement authentication in your applications using Supabase auth. Table of Contents  *  Prerequisites]]></summary>
-        <author>
-            <name>Fatuma Abdullahi</name>
         </author>
     </entry>
     <entry>
@@ -6543,16 +6083,6 @@ https://gplinks.co/XgQna]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Python Decorator Handbook]]></title>
-        <id>https://www.freecodecamp.org/news/the-python-decorator-handbook/</id>
-        <link href="https://www.freecodecamp.org/news/the-python-decorator-handbook/"/>
-        <updated>2024-01-26T17:17:03.000Z</updated>
-        <summary type="html"><![CDATA[Python decorators provide an easy yet powerful syntax for modifying and extending the behavior of functions in your code.  A decorator is essentially a function that takes another function, augments its functionality, and returns a new function – without permanently modifying the original function itself. This tutorial will walk]]></summary>
-        <author>
-            <name>Atharva Shah</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Ordinary Man (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177384-extra-ordinary-man-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359952</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177384-extra-ordinary-man-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359952"/>
@@ -6637,16 +6167,6 @@ https://gplinks.co/XgQna]]></summary>
         <summary type="html"><![CDATA[Thavasi (2001) Tamil TRUE WEB-DL - 1080p - AVC - UNTOUCHED - (AAC.2.0) - 5.9GB - UE]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Simple Guide To Retrieval Augmented Generation Language Models]]></title>
-        <id>https://smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/</id>
-        <link href="https://smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/"/>
-        <updated>2024-01-26T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Language models have shown impressive capabilities. But that doesn’t mean they’re without faults, as anyone who has witnessed a ChatGPT “hallucination” can attest. In this article, Joas Pambou diagnoses the symptoms that cause hallucinations and explains not only what RAG is but also different approaches for using it to solve language model limitations.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
     <entry>
@@ -6764,16 +6284,6 @@ https://gplinks.co/XgQna]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a React App in 2024]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-create-a-react-app-in-2024/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-react-app-in-2024/"/>
-        <updated>2024-01-26T13:44:45.000Z</updated>
-        <summary type="html"><![CDATA[In 2024, there are more ways than ever to get your React projects started. But which one should you choose? In this article, I'm going to break down all of the major ways you can use to create a React app and which one you should pick based off of]]></summary>
-        <author>
-            <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Animal (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 12GB - 7.9GB - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177505-animal-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-12gb-79gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359888</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177505-animal-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-12gb-79gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359888"/>
@@ -6794,26 +6304,6 @@ https://gplinks.co/XgQna]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a Simple Sentiment Analyzer Using Hugging Face Transformer]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-build-a-simple-sentiment-analyzer-using-hugging-face-transformer/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-simple-sentiment-analyzer-using-hugging-face-transformer/"/>
-        <updated>2024-01-26T00:32:04.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we will look at writing a sentiment analyzer using Hugging Face Transformer, a powerful tool in the world of NLP.  Imagine you’re running a business and you want to know what your customers think about your product. Or maybe you’re a movie director wanting to gauge]]></summary>
-        <author>
-            <name>Manish Shivanandhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use React.js with Laravel to Build a Draggable Tasklist App]]></title>
-        <id>https://www.freecodecamp.org/news/use-react-with-laravel/</id>
-        <link href="https://www.freecodecamp.org/news/use-react-with-laravel/"/>
-        <updated>2024-01-26T00:09:49.000Z</updated>
-        <summary type="html"><![CDATA[You may have seen tutorials that help you build a simple React.js app that use some third-party API or a Node.js server as a backend. You could also use Laravel for this purpose and integrate it with React. As a backend framework, Laravel actually offers a tool to help you]]></summary>
-        <author>
-            <name>San B</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Animal (2023) Tamil TRUE WEB-DL HQ - HEVC - AAC - [1080p - 1.6GB |720p - 800MB]]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177521-animal-2023-tamil-true-web-dl-hq-hevc-aac-1080p-16gb-720p-800mb/&amp;do=findComment&amp;comment=359886</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177521-animal-2023-tamil-true-web-dl-hq-hevc-aac-1080p-16gb-720p-800mb/&amp;do=findComment&amp;comment=359886"/>
@@ -6825,16 +6315,6 @@ https://gplinks.co/XgQna]]></summary>
 	www.1TamilMV.world - Animal (2023) Tamil HQ HDRip - 720p - HEVC - AAC - 800MB - ESub.mkv]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Optimize Your CSS Code for Faster Web Pages]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-optimize-your-css-code-for-faster-web-pages/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-optimize-your-css-code-for-faster-web-pages/"/>
-        <updated>2024-01-26T00:00:30.000Z</updated>
-        <summary type="html"><![CDATA[CSS is more than just a tool for styling. It also determines how web pages render in a browser. Well-optimized CSS means faster loading times and a smoother user experience. In today's digital landscape, the performance of a website is a key factor in its success. Writing efficient CSS code]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
         </author>
     </entry>
     <entry>
@@ -7005,16 +6485,6 @@ https://gplinks.co/XgQna]]></summary>
         <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Please Seed Back After Download Animal (2023) TRUE WEB-DL - 1080p HQ - AVC - UNTOUCHED - (DD+5.1 - 640Kbps & AAC 2.0) [Tamil + Telugu + Hindi + Malayalam + Kannada] - 12GB - ESub : www.1TamilMV.world - Animal (2023) TRUE WEB-DL - 1080p HQ - AVC ...]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podcast: Running the Biggest Programming Channel on YouTube with freeCodeCamp's Beau Carnes]]></title>
-        <id>https://www.freecodecamp.org/news/podcast-biggest-youtube-programming-channel-beau-carnes/</id>
-        <link href="https://www.freecodecamp.org/news/podcast-biggest-youtube-programming-channel-beau-carnes/"/>
-        <updated>2024-01-25T19:50:50.000Z</updated>
-        <summary type="html"><![CDATA[Beau Carnes has run the freeCodeCamp community YouTube channel for the past 5 years, taking it from 75,000 subscribers all the way up to 9 million. Beau started out working as a Special Education teacher at a Michigan high school. He taught himself how to code before working as a]]></summary>
-        <author>
-            <name>Quincy Larson</name>
         </author>
     </entry>
     <entry>
@@ -7244,46 +6714,6 @@ https://gplinks.co/XgQna]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is a Hash Map? Time Complexity and Two Sum Example]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-a-hash-map/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-a-hash-map/"/>
-        <updated>2024-01-25T17:02:13.000Z</updated>
-        <summary type="html"><![CDATA[A hash table or hash map, is a data structure that helps with mapping keys to values for highly efficient operations like the lookup, insertion and deletion operations. In this tutorial, you'll learn the following:  * Constant and linear time complexity.  * Why use a hash map?]]></summary>
-        <author>
-            <name>Sule-Balogun Olanrewaju Ganiu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Natural Language Processing Techniques for Topic Identification – Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/topic-identification-using-natural-language-processing/</id>
-        <link href="https://www.freecodecamp.org/news/topic-identification-using-natural-language-processing/"/>
-        <updated>2024-01-25T16:16:15.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of textual information available these days. It ranges from articles to social media posts and research papers. So our ability to distill meaningful insights is key. This helps us make informed decisions in a wide array of contexts.  For example, you can analyze a large volume]]></summary>
-        <author>
-            <name>Ibrahim Abayomi Ogunbiyi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn LangChain and Gen AI by Building 6 Projects]]></title>
-        <id>https://www.freecodecamp.org/news/learn-langchain-and-gen-ai-by-building-6-projects/</id>
-        <link href="https://www.freecodecamp.org/news/learn-langchain-and-gen-ai-by-building-6-projects/"/>
-        <updated>2024-01-25T16:09:27.000Z</updated>
-        <summary type="html"><![CDATA[Learning LangChain empowers you to seamlessly integrate advanced language models like GPT-4 into diverse applications, unlocking capabilities in natural language processing and AI-driven applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to build six end-to-end projects using LangChain and a variety]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Blurry Shimmer Effect]]></title>
-        <id>https://smashingmagazine.com/2024/01/css-blurry-shimmer-effect/</id>
-        <link href="https://smashingmagazine.com/2024/01/css-blurry-shimmer-effect/"/>
-        <updated>2024-01-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Taking inspiration from shadows, author Yair Even Or creates the same sort of thing, only with a blurring effect in place of the shadow. Read along for a step-by-step explanation of how it comes together using a combination of masks, gradients, and the good ol’ `backdrop-filter` property.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Yair Even Or)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Darling in the Franxx S01 E15 BR-Rip 10bit - [1080p - 720p - x265 HEVC - [Telugu + Tamil + Hindi + English + Japanese] - (AAC 2.0 - 128Kbps) - 400MB - 300MB] - ESub [Google Drive]]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177478-darling-in-the-franxx-s01-e15-br-rip-10bit-1080p-720p-x265-hevc-telugu-tamil-hindi-english-japanese-aac-20-128kbps-400mb-300mb-esub-google-drive/&amp;do=findComment&amp;comment=359803</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177478-darling-in-the-franxx-s01-e15-br-rip-10bit-1080p-720p-x265-hevc-telugu-tamil-hindi-english-japanese-aac-20-128kbps-400mb-300mb-esub-google-drive/&amp;do=findComment&amp;comment=359803"/>
@@ -7363,46 +6793,6 @@ https://gplinks.co/XgQna]]></summary>
 	https://manalinks.in/28601507876176350]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Units – When to Use rem, em, px, and More]]></title>
-        <id>https://www.freecodecamp.org/news/css-units-when-to-use-each-one/</id>
-        <link href="https://www.freecodecamp.org/news/css-units-when-to-use-each-one/"/>
-        <updated>2024-01-25T00:58:27.000Z</updated>
-        <summary type="html"><![CDATA[CSS units allow you to measure and specify different property values. You use them to modify CSS properties such as margins, padding, height, and width to make them compatible with devices of all screen sizes. CSS units have two basic types:  * Absolute units  * Relative units Absolute]]></summary>
-        <author>
-            <name>Esther Christopher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get the First Line of a Multiline String in JavaScript]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-the-first-line-of-a-multiline-string-in-javascript/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-the-first-line-of-a-multiline-string-in-javascript/"/>
-        <updated>2024-01-24T23:33:14.000Z</updated>
-        <summary type="html"><![CDATA[In JavaScript, getting the first element of an array or string is pretty easy. But when it comes to getting the first line of a multiline string, some approaches can hurt your app's performance in certain cases. In this article, we will look at the three best ways you can]]></summary>
-        <author>
-            <name>Furkan Emin Can</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Deploy Next.js Apps to Github Pages]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/"/>
-        <updated>2024-01-24T22:46:53.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I will walk you through the process of publishing a Next.js application on GitHub Pages.  What makes this guide particularly helpful is that I'll teach you how to integrate with GitHub Actions, too. This means your application will be automatically deployed every time you push code]]></summary>
-        <author>
-            <name>Matéush</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code Extensions to Boost Your Productivity in 2024]]></title>
-        <id>https://www.freecodecamp.org/news/best-vscode-extensions/</id>
-        <link href="https://www.freecodecamp.org/news/best-vscode-extensions/"/>
-        <updated>2024-01-24T22:42:52.000Z</updated>
-        <summary type="html"><![CDATA[According to the 2023 Stack Overflow Developer Survey [https://survey.stackoverflow.co/2023/#section-most-popular-technologies-integrated-development-environment] , Visual Studio Code (also known as VSCode) ranked as the most preferred integrated developer environment (IDE) tool.  Visual Studio Code has many great features out-of-the-box, and supports a large community of extensions to add enhanced functionality.  Stack Overflow]]></summary>
-        <author>
-            <name>Natalie Pina</name>
         </author>
     </entry>
     <entry>
@@ -7760,16 +7150,6 @@ https://gplinks.co/XgQna]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyGame Tutorial – How to Build a Bouncing Ball Game]]></title>
-        <id>https://www.freecodecamp.org/news/pygame-tutorial-build-a-bouncing-game/</id>
-        <link href="https://www.freecodecamp.org/news/pygame-tutorial-build-a-bouncing-game/"/>
-        <updated>2024-01-23T22:46:54.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn how to create a simple yet funny bouncing ball game using the PyGame library.  Whether you're a beginner seeking to grasp the fundamentals of game development or an enthusiast eager to explore PyGame's capabilities, this article is your guide to crafting a simple yet]]></summary>
-        <author>
-            <name>Juan P. Romano</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Siruthai (2011).Tamil.1080p + 720p.BD50Rip.x264.DD5.1 640Kbps.ESub - 6GB + 3GB (FIRST ON NET - ONLY ON TMV)]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177460-siruthai-2011tamil1080p-720pbd50ripx264dd51-640kbpsesub-6gb-3gb-first-on-net-only-on-tmv/&amp;do=findComment&amp;comment=359746</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177460-siruthai-2011tamil1080p-720pbd50ripx264dd51-640kbpsesub-6gb-3gb-first-on-net-only-on-tmv/&amp;do=findComment&amp;comment=359746"/>
@@ -7868,16 +7248,6 @@ https://gplinks.co/XgQna]]></summary>
 	************************************************************************************]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build AI Apps – A Frontend Developer's Guide]]></title>
-        <id>https://www.freecodecamp.org/news/frontend-ai-guide/</id>
-        <link href="https://www.freecodecamp.org/news/frontend-ai-guide/"/>
-        <updated>2024-01-23T22:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence: The New Frontier for Frontend Developers The demand for AI-powered applications is growing at a fast pace. As a front-end developer, you can take advantage of this trend and advance your career by integrating your skills in frontend development with AI technologies. This integration allows you to build]]></summary>
-        <author>
-            <name>Mahmud Adeleye</name>
         </author>
     </entry>
     <entry>
@@ -7986,16 +7356,6 @@ https://gplinks.co/XgQna]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Refactoring with Event-Driven Architecture on AWS]]></title>
-        <id>https://www.freecodecamp.org/news/deep-dive-into-event-driven-architecture-on-aws/</id>
-        <link href="https://www.freecodecamp.org/news/deep-dive-into-event-driven-architecture-on-aws/"/>
-        <updated>2024-01-23T15:03:06.000Z</updated>
-        <summary type="html"><![CDATA[Event-driven architecture is a software design pattern where components or services perform actions in response to events, often asynchronously. This post serves as a companion to our video course, "Deep Dive into Event-Driven Architecture on AWS." In the course, we delve into some of the core fundamentals of event-driven architecture]]></summary>
-        <author>
-            <name>Matt Morgan</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kotha Rangula Prapancham (2024) Telugu HQ PreDVD - [1080p & 720p - x264 - 2.6GB - 1.4GB & 900MB | x264 - 700MB - 400MB & 250MB] - HQ Clean Audio]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177458-kotha-rangula-prapancham-2024-telugu-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=359738</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177458-kotha-rangula-prapancham-2024-telugu-hq-predvd-1080p-720p-x264-26gb-14gb-900mb-x264-700mb-400mb-250mb-hq-clean-audio/&amp;do=findComment&amp;comment=359738"/>
@@ -8101,16 +7461,6 @@ https://gplinks.co/XgQna]]></summary>
         <summary type="html"><![CDATA[Thank you bro a lot.]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Dilemma In Graphic Design: Steering Towards Excellence In Typography And Beyond]]></title>
-        <id>https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/</id>
-        <link href="https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/"/>
-        <updated>2024-01-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI promises a major upheaval in typography, with designers finding themselves navigating both opportunities and challenges. How will it impact quality, design roles, and our use of type in the future? As we explore this new frontier, we realise that we are at a juncture as significant as Gutenberg’s press, set to redefine how we interact with text and visual communication.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Filip Paldia &amp; Jamie Clarke)</name>
         </author>
     </entry>
     <entry>
@@ -8498,36 +7848,6 @@ https://uploadnow.io/s/1bb166f3-af10-40aa-b17d-2fb6babc7d92]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Manage State in React Apps with APIs – Redux, Context API, and Recoil Examples]]></title>
-        <id>https://www.freecodecamp.org/news/manage-state-in-react-apps-with-apis/</id>
-        <link href="https://www.freecodecamp.org/news/manage-state-in-react-apps-with-apis/"/>
-        <updated>2024-01-23T00:18:52.000Z</updated>
-        <summary type="html"><![CDATA[State management is a crucial aspect of building robust and scalable React applications, especially when dealing with APIs.  As your application grows in complexity, efficiently managing the state becomes essential for a smooth user experience.  In the React ecosystem, there are several options for state management, each with]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a CRUD REST API with NestJS, Docker, Swagger, and Prisma]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/"/>
-        <updated>2024-01-23T00:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to this in-depth guide on crafting a RESTful API with NestJS, Docker, Swagger, and Prisma. My goal here is to teach you how to build robust and efficient backends, regardless of whether you're a seasoned developer or a beginner just dipping your toes into the world of coding. In]]></summary>
-        <author>
-            <name>Isaiah Clifford Opoku</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Command Line Tricks You Can Learn Faster than Drinking Your Morning Coffee]]></title>
-        <id>https://www.freecodecamp.org/news/command-line-tricks-you-can-learn-quickly/</id>
-        <link href="https://www.freecodecamp.org/news/command-line-tricks-you-can-learn-quickly/"/>
-        <updated>2024-01-22T23:15:48.000Z</updated>
-        <summary type="html"><![CDATA[In this short tutorial, I want to share with you a few tricks and tips to help you deal with some common situations when you're working in the Linux command line. We will cover the following:  * find  * xargs and nproc  * taskset  * numactl]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Curse of the Blind Dead (2020) (BluRay + Original Audios) - [1080p & 720p - x264 - (AAC 2.0 - 192Kbps) (Tamil + Telugu + Hindi + Eng) - 2GB & 1GB| x264 - (Tam + Tel + Hin) - 450MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177440-curse-of-the-blind-dead-2020-bluray-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-hindi-eng-2gb-1gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=359691</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177440-curse-of-the-blind-dead-2020-bluray-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-hindi-eng-2gb-1gb-x264-tam-tel-hin-450mb-esub/&amp;do=findComment&amp;comment=359691"/>
@@ -8563,16 +7883,6 @@ https://uploadnow.io/s/1bb166f3-af10-40aa-b17d-2fb6babc7d92]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Tools You Can Use in Visual Studio Code Besides GitHub Copilot]]></title>
-        <id>https://www.freecodecamp.org/news/ai-tools-to-use-in-vs-code/</id>
-        <link href="https://www.freecodecamp.org/news/ai-tools-to-use-in-vs-code/"/>
-        <updated>2024-01-22T19:56:13.000Z</updated>
-        <summary type="html"><![CDATA[AI tools have become quite popular recently. Developers use these tools to help generate ideas, create simple code examples, and so on.  In 2023, ChatGPT and other Large Language Models found their way into many of our toolkits. And we can use them to be more productive and save]]></summary>
-        <author>
-            <name>Ijeoma Igboagu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neru (2023) Tamil TRUE WEB-DL - [4K ,1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 15GB - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177437-neru-2023-tamil-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-15gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359689</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177437-neru-2023-tamil-true-web-dl-4k-1080p-720p-avc-hevc-dd51-192kbps-15gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359689"/>
@@ -8580,16 +7890,6 @@ https://uploadnow.io/s/1bb166f3-af10-40aa-b17d-2fb6babc7d92]]></summary>
         <summary type="html"><![CDATA[TamilMV Official Telegram Channel :- Click Here Neru (2023) TRUE WEB-DL - 4K SDR - 2160p HQ - HEVC - UNTOUCHED - [Tamil + Telugu + Hindi + Malayalam + Kannada] - (DD+5.1 ATMOS - 768Kbps) - 15.7GB - ESub : www.1TamilMV.world - Neru (2023) TRUE WEB-DL - 4K UHD - HEVC - (DD+5.1 ATMOS - 768Kbps) [Tam...]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create AI Assistants with OpenAI's Assistants API]]></title>
-        <id>https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/</id>
-        <link href="https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/"/>
-        <updated>2024-01-22T17:41:32.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI's Assistants API is a powerful tool that allows developers to build AI assistants within their apps efficiently. It simplifies managing conversation history and provides access to advanced features like Code Interpreter and Retrieval. The API also improves function-calling for third-party tools. We just published a course on the freeCodeCamp.org]]></summary>
-        <author>
-            <name>Beau Carnes</name>
         </author>
     </entry>
     <entry>
@@ -9727,16 +9027,6 @@ https://uploadnow.io/s/27c8f282-5489-4b59-ba01-c3f7f97b2fbb]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Data Analysis and Visualization with Python Using Astronomical Data]]></title>
-        <id>https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/</id>
-        <link href="https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/"/>
-        <updated>2024-01-19T19:48:58.000Z</updated>
-        <summary type="html"><![CDATA[Are you fascinated by both Python and the night sky? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python to analyze and visualize astronomical Data. This course was created by Spartificial, whose mission is to provide engineering education in the most]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Salaar: Cease Fire - Part 1 (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.9GB - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177403-salaar-cease-fire-part-1-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-69gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359555</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177403-salaar-cease-fire-part-1-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-640kbps-69gb-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359555"/>
@@ -9994,26 +9284,6 @@ https://uploadnow.io/s/27c8f282-5489-4b59-ba01-c3f7f97b2fbb]]></summary>
 	MAGNET]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Secure Your Web Server with Continuous Integration Using NGINX and CircleCI]]></title>
-        <id>https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/</id>
-        <link href="https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/"/>
-        <updated>2024-01-19T16:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Web servers are responsible for delivering web pages and various resources to clients through the internet. They can exist either as software or hardware components. But unfortunately, they often become targets for hackers and malicious individuals seeking to exploit any vulnerabilities to compromise data and disrupt functionality. As a result,]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Get Started with FPM]]></title>
-        <id>https://www.freecodecamp.org/news/getting-started-with-fpm/</id>
-        <link href="https://www.freecodecamp.org/news/getting-started-with-fpm/"/>
-        <updated>2024-01-19T16:42:55.000Z</updated>
-        <summary type="html"><![CDATA[FPM [https://fpm.readthedocs.io/en/latest/getting-started.html] is a powerful wrapper that allows you to create packages for multiple programs in multiple operating systems.  In this tutorial I will show you how you can replace some of the tedious packaging of third party applications. What You Need to Complete this Tutorial  * A]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
         </author>
     </entry>
     <entry>
@@ -10333,16 +9603,6 @@ https://uploadnow.io/s/27c8f282-5489-4b59-ba01-c3f7f97b2fbb]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use SonarLint to Write Cleaner Code]]></title>
-        <id>https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/</id>
-        <link href="https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/"/>
-        <updated>2024-01-18T23:58:39.000Z</updated>
-        <summary type="html"><![CDATA[When you're building a coding project, the better it is, the more fun it'll be to use. And the prouder you'll be of your hard work, right?  Also, writing quality and performant code helps your program or website work as expected – which should be every developer's goal. SonarLint]]></summary>
-        <author>
-            <name>Okosa Leonard Onyekachukwu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Extra Ordinary Man (2023) Tamil TRUE WEB-DL - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.9GB - 1.4GB & 850MB] - [x264 - 700MB - 400MB & 250MB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177384-extra-ordinary-man-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359508</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177384-extra-ordinary-man-2023-tamil-true-web-dl-1080p-720p-avc-hevc-dd51-192kbps-29gb-14gb-850mb-x264-700mb-400mb-250mb-esub/&amp;do=findComment&amp;comment=359508"/>
@@ -10586,16 +9846,6 @@ https://uploadnow.io/s/27c8f282-5489-4b59-ba01-c3f7f97b2fbb]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Get a Developer Job]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-get-a-developer-job/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-a-developer-job/"/>
-        <updated>2024-01-18T17:58:03.000Z</updated>
-        <summary type="html"><![CDATA[The demand for skilled software developers continues to grow. However, for many self-taught developers, the path to securing a job in this competitive field can seem daunting. We just published a course on the freeCodeCamp.org YouTube channel that is designed to guide aspiring software engineers through the job-hunting process. Lane]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Indian Police Force (2024) S01 EP (01-07) TRUE WEB-DL - [1080p - 720p - AVC - [Tamil + Telugu + Hindi + Malayalam + Kannnada + Eng] - (DD+5.1 - 192Kbps) - 5GB - 3.5GB & 1GB] - ESub]]></title>
         <id>https://www.1tamilmv.world/index.php?/forums/topic/177376-indian-police-force-2024-s01-ep-01-07-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-eng-dd51-192kbps-5gb-35gb-1gb-esub/&amp;do=findComment&amp;comment=359494</id>
         <link href="https://www.1tamilmv.world/index.php?/forums/topic/177376-indian-police-force-2024-s01-ep-01-07-true-web-dl-1080p-720p-avc-tamil-telugu-hindi-malayalam-kannnada-eng-dd51-192kbps-5gb-35gb-1gb-esub/&amp;do=findComment&amp;comment=359494"/>
@@ -10736,36 +9986,6 @@ https://uploadnow.io/s/27c8f282-5489-4b59-ba01-c3f7f97b2fbb]]></summary>
         <summary type="html"><![CDATA[TQ bro 🤩🍿]]></summary>
         <author>
             <name>All Activity</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Perform CRUD Operations with Django Models]]></title>
-        <id>https://www.freecodecamp.org/news/models-in-django/</id>
-        <link href="https://www.freecodecamp.org/news/models-in-django/"/>
-        <updated>2024-01-18T16:10:49.000Z</updated>
-        <summary type="html"><![CDATA[Django is a super useful tool for building web applications with Python. It follows the Model-View-Template (MVT) architecture, which is a popular design pattern for building web apps. In the MVT architecture, the Model refers to the internal representation of information stored, the View is responsible for processing user requests]]></summary>
-        <author>
-            <name>chepkirui dorothy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a High-Performance Tab Component in React]]></title>
-        <id>https://www.freecodecamp.org/news/build-a-high-performance-tab-component/</id>
-        <link href="https://www.freecodecamp.org/news/build-a-high-performance-tab-component/"/>
-        <updated>2024-01-18T16:01:46.000Z</updated>
-        <summary type="html"><![CDATA[Tabs are more than mere UI elements – they're the backbone of user navigation and content organization in many applications. In React, crafting a tabbed component that's both efficient and responsive is not just an improvement, it's a necessity. This article takes a deep dive into constructing a React tab]]></summary>
-        <author>
-            <name>Jaja Ibifubara David</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are Progressive Web Apps? PWA Guide for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/</id>
-        <link href="https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/"/>
-        <updated>2024-01-18T15:56:46.000Z</updated>
-        <summary type="html"><![CDATA[Progressive Web Apps (PWAs) are simply installable web applications – websites that you can install on your device, much like you would install an app from an app store.  They bring together the best parts of using a website (easy to access, no need to install anything) with the]]></summary>
-        <author>
-            <name>Ophy Boamah</name>
         </author>
     </entry>
     <entry>

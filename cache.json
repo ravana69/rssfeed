@@ -7654,6 +7654,156 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Our next book, “Success at Scale” is finally at the printer, which means we’ll be shipping books soon. It’s also your last chance to get the book at the presale price. Get your copy and save now!",
+          "link": "https://smashingmagazine.com/2024/03/success-at-scale-book-pre-release/",
+          "publishedOn": "2024-03-08T16:00:00.000Z",
+          "wordCount": 3496,
+          "title": "Success At Scale: Last Chance For Pre-Sale Price",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/success-at-scale-shipping-soon/sas-presale-ending-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/success-at-scale-shipping-soon/sas-presale-ending-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "In Part 1 of this series, Temani Afif explored different CSS techniques to create tooltip shapes. The main challenge was to rely on a single element and create optimized code that could easily be controlled using CSS variables to update the size, shape, and position of the tail. In this second part, you are going explore more shapes.",
+          "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part2/",
+          "publishedOn": "2024-03-08T12:00:00.000Z",
+          "wordCount": 5151,
+          "title": "Modern CSS Tooltips And Speech Bubbles (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "[“Gatsby headaches”](https://www.smashingmagazine.com/2023/06/gatsby-headaches-i18n-part-1/) are over. Juan Diego Rodríguez reflects on his decision to stop using Gatsby as his go-to framework. Through a detailed examination of its strengths and weaknesses, he provides valuable insights and alternative options for developers navigating their tooling choices.",
+          "link": "https://smashingmagazine.com/2024/03/end-of-gatsby-journey/",
+          "publishedOn": "2024-03-06T08:00:00.000Z",
+          "wordCount": 5966,
+          "title": "The End Of My Gatsby Journey",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/end-of-gatsby-journey/end-of-gatsby-journey.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "description": "Tooltips are a very common pattern used in CSS for years. There are a lot of ways to approach tooltips in CSS, though some evoke headaches with all the magic numbers they require. In this article, Temani Afif presents modern techniques to create tooltips with the smallest amount of markup and the greatest amount of flexibility.",
+          "link": "https://smashingmagazine.com/2024/03/modern-css-tooltips-speech-bubbles-part1/",
+          "publishedOn": "2024-03-01T12:00:00.000Z",
+          "wordCount": 6315,
+          "title": "Modern CSS Tooltips And Speech Bubbles (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/modern-css-tooltips-part1/modern-css-tooltips-speech-bubbles.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!",
+          "link": "https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/",
+          "publishedOn": "2024-02-29T10:00:00.000Z",
+          "wordCount": 4875,
+          "title": "Waiting For Spring (March 2024 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-march-2024/mar-24-breaking-superstitions-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "The Performance API is a set of standards for measuring and evaluating performance metrics with JavaScript. This article demonstrates how to use the Performance API to generate performance metrics directly in the DOM to create your own reporting.",
+          "link": "https://smashingmagazine.com/2024/02/reporting-core-web-vitals-performance-api/",
+          "publishedOn": "2024-02-27T12:00:00.000Z",
+          "wordCount": 5331,
+          "title": "Reporting Core Web Vitals With The Performance API",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/reporting-core-web-vitals-performance-api/reporting-core-web-vitals-performance-api.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/",
+          "author": "hello@smashingmagazine.com (Yichan Wang)",
+          "description": "Digital designer Yichan Wang has put together this collection of strategies and selling points to help you encourage and advocate for accessibility in your place of work, including useful scripts you can use as starting points.",
+          "link": "https://smashingmagazine.com/2024/02/web-designer-accessibility-advocacy-toolkit/",
+          "publishedOn": "2024-02-26T18:00:00.000Z",
+          "wordCount": 8420,
+          "title": "A Web Designer’s Accessibility Advocacy Toolkit",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/web-designer-accessibility-advocacy-toolkit/web-designer-accessibility-advocacy-toolkit.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/web-designer-accessibility-advocacy-toolkit/web-designer-accessibility-advocacy-toolkit.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
+          "author": "hello@smashingmagazine.com (Frederik Dohr)",
+          "description": "It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.",
+          "link": "https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
+          "publishedOn": "2024-02-22T18:00:00.000Z",
+          "wordCount": 4747,
+          "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/vanilla-javascript-libraries-quest-stateful-dom-rendering/vanilla-javascript-libraries-quest-stateful-dom-rendering.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/vanilla-javascript-libraries-quest-stateful-dom-rendering/vanilla-javascript-libraries-quest-stateful-dom-rendering.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/02/designing-for-colorblindness/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Color accessibility is more than just ticking boxes. Even with good contrast, some color palettes can make interfaces challenging for users. Here are some practical guidelines to ensure more inclusive design for colorblind people. An upcoming part of Smart Interface Design Patterns.",
+          "link": "https://smashingmagazine.com/2024/02/designing-for-colorblindness/",
+          "publishedOn": "2024-02-20T12:00:00.000Z",
+          "wordCount": 3562,
+          "title": "A Practical Guide To Designing For Colorblind People",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-for-colorblindness/designing-for-colorblindness.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-for-colorblindness/designing-for-colorblindness.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/",
+          "author": "hello@smashingmagazine.com (Kate Kalcevich)",
+          "description": "Accessibility goes beyond making products user-friendly. It can significantly impact the quality of life for people with disabilities. Kate Kalcevich shares lessons she learned from assistive technology users — challenges and barriers they encounter on mobile devices.",
+          "link": "https://smashingmagazine.com/2024/02/mobile-accessibility-barriers-assistive-technology-users/",
+          "publishedOn": "2024-02-19T10:00:00.000Z",
+          "wordCount": 4689,
+          "title": "Mobile Accessibility Barriers For Assistive Technology Users",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/mobile-accessibility-barriers-assistive-technology-users/mobile-accessibility-barriers-assistive-technology-users.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/mobile-accessibility-barriers-assistive-technology-users/mobile-accessibility-barriers-assistive-technology-users.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/accessibility-standards-empower-better-chart-visual-design/",
           "author": "hello@smashingmagazine.com (Kent Eisenhuth)",
           "description": "Accessibility for data visualization extends well beyond web standards, at least if you’re trying to create an experience that’s actually useful. This article focuses on techniques for creating useful and accessible visualizations that extend well beyond compliance.",
@@ -7697,141 +7847,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/draw-radar-charts-web/draw-radar-charts-web.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.",
-          "link": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
-          "publishedOn": "2024-02-08T13:00:00.000Z",
-          "wordCount": 4317,
-          "title": "Frequently Heard In My Beginning Front-End Web Development Class",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/frequently-heard-beginning-front-end-web-development-class/frequently-heard-beginning-front-end-web-development-class.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/frequently-heard-beginning-front-end-web-development-class/frequently-heard-beginning-front-end-web-development-class.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "description": "An overwhelming number of frameworks and tooling available today gives the impression that web development has gotten perhaps too complex. Juan Diego Rodríguez explores if web development really is that complex and, most importantly, how we can prevent it from getting even more difficult than we already perceive it to be.",
-          "link": "https://smashingmagazine.com/2024/02/web-development-getting-too-complex/",
-          "publishedOn": "2024-02-07T13:00:00.000Z",
-          "wordCount": 7287,
-          "title": "Web Development Is Getting Too Complex, And It May Be Our Fault",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/web-development-getting-too-complex/web-development-getting-too-complex.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/web-development-getting-too-complex/web-development-getting-too-complex.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/guide-designing-older-adults/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "With one billion people aged 60 or older worldwide, inclusivity is more important than ever. Learn how to create digital experiences that empower independence and competence for older adults while enhancing usability for all. An upcoming part of Smart Interface Design Patterns.",
-          "link": "https://smashingmagazine.com/2024/02/guide-designing-older-adults/",
-          "publishedOn": "2024-02-06T08:00:00.000Z",
-          "wordCount": 3554,
-          "title": "A Guide To Designing For Older Adults",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/guide-designing-older-adults/guide-designing-older-adults.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/guide-designing-older-adults/guide-designing-older-adults.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/",
-          "author": "hello@smashingmagazine.com (Maximillian Piras)",
-          "description": "As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.",
-          "link": "https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/",
-          "publishedOn": "2024-02-02T13:00:00.000Z",
-          "wordCount": 7590,
-          "title": "When Words Cannot Describe: Designing For AI Beyond Conversational Interfaces",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-ai-beyond-conversational-interfaces/designing-ai-beyond-conversational-interfaces.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-ai-beyond-conversational-interfaces/designing-ai-beyond-conversational-interfaces.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "With February just around the corner, how about a little inspiration boost? We might have one for you: desktop wallpapers created with love by the community for the community. Enjoy!",
-          "link": "https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/",
-          "publishedOn": "2024-01-31T12:30:00.000Z",
-          "wordCount": 4921,
-          "title": "29 Days Of Inspiration (February 2024 Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2024/feb-24-love-myself-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2024/feb-24-love-myself-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
-          "author": "hello@smashingmagazine.com (Andy Budd)",
-          "description": "Most product teams commonly adopt a feature-centric mindset, finding them convenient for brainstorming, drafting requirement documents, and integrating into backlogs and ticketing systems. In this article, Andy Budd shows how fixation with features might be holding you back and how making a few small tweaks to your process could make an entire world of difference.",
-          "link": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
-          "publishedOn": "2024-01-29T15:00:00.000Z",
-          "wordCount": 5383,
-          "title": "The Feature Trap: Why Feature Centricity Is Harming Your Product",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/feature-centricity-harming-product/feature-centricity-harming-product.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/feature-centricity-harming-product/feature-centricity-harming-product.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "Language models have shown impressive capabilities. But that doesn’t mean they’re without faults, as anyone who has witnessed a ChatGPT “hallucination” can attest. In this article, Joas Pambou diagnoses the symptoms that cause hallucinations and explains not only what RAG is but also different approaches for using it to solve language model limitations.",
-          "link": "https://smashingmagazine.com/2024/01/guide-retrieval-augmented-generation-language-models/",
-          "publishedOn": "2024-01-26T15:00:00.000Z",
-          "wordCount": 6698,
-          "title": "A Simple Guide To Retrieval Augmented Generation Language Models",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/guide-retrieval-augmented-generation-language-models/guide-retrieval-augmented-generation-language-models.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/guide-retrieval-augmented-generation-language-models/guide-retrieval-augmented-generation-language-models.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/css-blurry-shimmer-effect/",
-          "author": "hello@smashingmagazine.com (Yair Even Or)",
-          "description": "Taking inspiration from shadows, author Yair Even Or creates the same sort of thing, only with a blurring effect in place of the shadow. Read along for a step-by-step explanation of how it comes together using a combination of masks, gradients, and the good ol’ `backdrop-filter` property.",
-          "link": "https://smashingmagazine.com/2024/01/css-blurry-shimmer-effect/",
-          "publishedOn": "2024-01-25T15:00:00.000Z",
-          "wordCount": 4185,
-          "title": "CSS Blurry Shimmer Effect",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-blurry-shimmer-effect/css-blurry-shimmer-effect.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-blurry-shimmer-effect/css-blurry-shimmer-effect.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/",
-          "author": "hello@smashingmagazine.com (Filip Paldia & Jamie Clarke)",
-          "description": "AI promises a major upheaval in typography, with designers finding themselves navigating both opportunities and challenges. How will it impact quality, design roles, and our use of type in the future? As we explore this new frontier, we realise that we are at a juncture as significant as Gutenberg’s press, set to redefine how we interact with text and visual communication.",
-          "link": "https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/",
-          "publishedOn": "2024-01-23T13:00:00.000Z",
-          "wordCount": 4600,
-          "title": "The AI Dilemma In Graphic Design: Steering Towards Excellence In Typography And Beyond",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-dilemma-graphic-design-typography/ai-dilemma-graphic-design-typography.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-dilemma-graphic-design-typography/ai-dilemma-graphic-design-typography.jpg"
         }
       ]
     },
@@ -7840,6 +7855,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/",
+          "author": "Iroro Chadere",
+          "description": "In the era of microservices [https://www.brightsidecodes.com/blog/understanding-microservices-and-api-gateway] , where applications are divided into smaller, independently deployable services, managing and securing the communication between these services becomes crucial. This is where an API gateway comes into play.  An API gateway serves as a central entry point for all client requests. It",
+          "link": "https://www.freecodecamp.org/news/build-a-custom-api-gateway-with-node-js/",
+          "publishedOn": "2024-03-08T23:16:38.000Z",
+          "wordCount": 2539,
+          "title": "How to Build a Custom API Gateway with Node.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Building-custom-API-gateway.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/form-validation-in-javascript/",
+          "author": "Samyak Jain",
+          "description": "HTML forms are essential components of most websites and web apps. They enable interaction between users and those websites, and are a key concept for web developers to understand.  This comprehensive guide covers various aspects of HTML forms, from how to create and structure forms to JavaScript interaction and",
+          "link": "https://www.freecodecamp.org/news/form-validation-in-javascript/",
+          "publishedOn": "2024-03-08T21:10:35.000Z",
+          "wordCount": 5511,
+          "title": "Client-Side Form Handling with JavaScript – Explained with Example Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Gemini_Generated_Image--19-.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/",
+          "author": "Quincy Larson",
+          "description": "In this week's episode of The freeCodeCamp Podcast, I interview developer-turned-CTO Cassidy Williams, also known as Cassidoo on Twitter and TikTok. She's worked in tech for over a decade as a developer at several tech companies, including Amazon, Microsoft, and Netlify. She has gradually progressed to senior developer and now",
+          "link": "https://www.freecodecamp.org/news/podcast-cassidy-williams-cassidoo/",
+          "publishedOn": "2024-03-08T15:45:47.000Z",
+          "wordCount": 706,
+          "title": "From Microsoft to Amazon to CTO – Quincy Interviews Meme Queen Cassidoo (Cassidy Williams)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/cassidy-williams-freecodecamp.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-usestate-and-useeffect-hooks-in-your-project/",
+          "author": "Okoro Emmanuel Nzube",
+          "description": "Hooks allow function components to have access to state and other React features, such as lifecycle methods. These Hook features were introduced to React version 16.8. One of the interesting things about the Hook features is that they let you use React without classes. This, in turn, helps simplify your",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-usestate-and-useeffect-hooks-in-your-project/",
+          "publishedOn": "2024-03-08T15:37:42.000Z",
+          "wordCount": 2004,
+          "title": "React Hooks – How to Use the useState & useEffect Hooks in Your Project",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/React-JS-Hooks.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/implement-relationship-based-access-control/",
+          "author": "Imran",
+          "description": "In today's digital age, managing who can access what resources is more critical than ever. That's where ReBAC comes in. It's a fresh take on authorization, focusing on the relationships between different entities rather than just assigning static roles or attributes. Traditional access control methods, like Role-Based Access Control (RBAC),",
+          "link": "https://www.freecodecamp.org/news/implement-relationship-based-access-control/",
+          "publishedOn": "2024-03-08T14:08:21.000Z",
+          "wordCount": 3322,
+          "title": "How to Implement Relationship Based Access Control (ReBAC)",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/RELATIONSHIP-BASED-ACCESS-CONTROL.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-dark-mode-with-css-and-javascript/",
+          "author": "Hunor Márton Borbély",
+          "description": "How can you detect dark mode in CSS and JavaScript? How can you manually override it with a toggle button? And how can you create a sun and moon icon with SVG? In this tutorial, you will learn how to detect dark mode in CSS and JavaScript, and you will",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-dark-mode-with-css-and-javascript/",
+          "publishedOn": "2024-03-08T13:46:26.000Z",
+          "wordCount": 3328,
+          "title": "SVG Toggle Button Tutorial – How to Handle Dark Mode with CSS and JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-crud-api-project/",
+          "author": "Victor Yakubu",
+          "description": "An API is a technology that powers communication between software applications on the internet. API stands for Application Programming Interface, and it is basically a set of rules and protocols that define how different software can interact with each other.  Imagine having two different programs: program A and program",
+          "link": "https://www.freecodecamp.org/news/create-crud-api-project/",
+          "publishedOn": "2024-03-08T11:04:53.000Z",
+          "wordCount": 4815,
+          "title": "How to Create a CRUD API – NodeJS and Express Project for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Swimm-Images-4.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-3d-art-gallery-with-threejs/",
+          "author": "Beau Carnes",
+          "description": "3D web experiences can provide engaging and interactive user interfaces. And one of the best JavaScript libraries to create these experiences is Three.js. We just posed a comprehensive Three.js course on the freeCodeCamp.org YouTube channel. This course is designed to guide you through the process of building an interactive 3D",
+          "link": "https://www.freecodecamp.org/news/build-3d-art-gallery-with-threejs/",
+          "publishedOn": "2024-03-07T16:21:11.000Z",
+          "wordCount": 1433,
+          "title": "Build a 3D Art Gallery with Three.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/art2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/",
+          "author": "Matéush",
+          "description": "In this guide, you will learn how to set up React Testing Library in Next.js. We'll also talk about why you should always test your React applications. I'll discuss the features and benefits of using the React Testing Library to test your React applications and how to configure it with",
+          "link": "https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/",
+          "publishedOn": "2024-03-07T15:58:47.000Z",
+          "wordCount": 1904,
+          "title": "How to Set Up React Testing Library With Next.js – A Step-by-Step Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/Testing-next-RTL.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-an-inventory-list-with-react-usereducer-axios-and-json-server/",
+          "author": "TAPAS ADHIKARY",
+          "description": "When it comes to web development, it's hard to ignore React.js. It has been one of the leading user interface libraries for a decade, and it supports a lot of popular frameworks like Next.js in the background. If you are a React developer, you likely appreciate its component-based architecture, uni-directional",
+          "link": "https://www.freecodecamp.org/news/create-an-inventory-list-with-react-usereducer-axios-and-json-server/",
+          "publishedOn": "2024-03-07T15:33:49.000Z",
+          "wordCount": 3930,
+          "title": "How to Create an Inventory List with React useReducer, Axios, and JSON Server",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/03/inventory-list.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/podcast-jessica-wilkins-classical-music-learning-to-code/",
           "author": "Quincy Larson",
@@ -8129,896 +8244,6 @@
           "wordCount": 3318,
           "title": "How to Use Data Types in Python – Explained with Code Examples",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Python-Data-Types.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-animations-in-react/",
-          "author": "Matéush",
-          "description": "We are surrounded by gorgeous web applications. Sometimes I catch myself admiring visual effects on some website and wondering how they were made.  Well today I'll show you how you can create awesome CSS animations in React 18. As always, we'll work on the real world example but we'll",
-          "link": "https://www.freecodecamp.org/news/create-animations-in-react/",
-          "publishedOn": "2024-02-08T23:51:27.000Z",
-          "wordCount": 1968,
-          "title": "How to Create Animations in React 18",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Animations-splash--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/",
-          "author": "Sahil Mahapatra",
-          "description": "In modern JavaScript, the spread and rest operators are indispensable tools for simplifying array manipulation and function parameters. These operators provide elegant solutions for tasks like array expansion and function arguments handling.  Let's dive deeper into understanding how they work so you can leverage their power. You can get",
-          "link": "https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/",
-          "publishedOn": "2024-02-08T23:27:05.000Z",
-          "wordCount": 1513,
-          "title": "JavaScript Spread and Rest Operators – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/",
-          "author": "Md. Fahim Bin Amin",
-          "description": "Kaggle [https://www.kaggle.com/]is a popular data science-based competition platform that has a large online community of data scientists and machine learning engineers. The platform contains a ton of datasets and notebooks that you can use to learn and practice your data science and machine learning skills. They even have competitions you",
-          "link": "https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/",
-          "publishedOn": "2024-02-08T19:39:00.000Z",
-          "wordCount": 2186,
-          "title": "How to Download a Kaggle Dataset Directly to a Google Colab Notebook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Kaggle-to-Colab.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/golang-for-beginners/",
-          "author": "Adeola Ajiboso",
-          "description": "The Go programming language, also known as Golang, was developed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It was open-sourced in 2009.  Go is expressive, concise, clean, and efficient. The language is statically typed with syntax similar to the C programming language.  Go",
-          "link": "https://www.freecodecamp.org/news/golang-for-beginners/",
-          "publishedOn": "2024-02-08T17:12:33.000Z",
-          "wordCount": 4061,
-          "title": "How to Learn Golang – A Beginner's Guide to the Basics",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/",
-          "author": "Beau Carnes",
-          "description": "ASP.NET course can be used to create robust, scalable, and dynamic applications. We just posted a course on the freeCodeCamp.org YouTube channel that is an opportunity for learners to dive deep into the world of fullstack development using ASP.NET Core. Alen Omeri designed the course to guide you through the",
-          "link": "https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/",
-          "publishedOn": "2024-02-08T16:22:49.000Z",
-          "wordCount": 1153,
-          "title": "Learn ASP.NET Core by Building an Auction Application",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/aspnet.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/drawing-on-a-canvas-element-with-javascript/",
-          "author": "Hunor Márton Borbély",
-          "description": "There are many ways to code graphics for the web. You can create art with CSS [https://codepen.io/search/pens?q=css+art]. You can code an SVG [/news/svg-tutorial-learn-to-code-images/] image as part of an HTML file. Or you can generate graphics from JavaScript using the Canvas API. In this article, we'll explore how to use JavaScript",
-          "link": "https://www.freecodecamp.org/news/drawing-on-a-canvas-element-with-javascript/",
-          "publishedOn": "2024-02-08T00:08:11.000Z",
-          "wordCount": 1786,
-          "title": "How to Draw with JavaScript on an HTML Canvas Element – Beginner's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Gorillas-Keynote.001-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/python-back-end-development-the-beginners-guide/",
-          "author": "Vahe Aslanyan",
-          "description": "Are you ready to dive into the world of Python back-end development? Whether you’re a beginner looking to learn the basics or an experienced developer wanting to upgrade your skills, this handbook is your ultimate guide. Imagine being able to build full-featured web applications, handle large-scale data analysis, and create",
-          "link": "https://www.freecodecamp.org/news/python-back-end-development-the-beginners-guide/",
-          "publishedOn": "2024-02-08T00:04:17.000Z",
-          "wordCount": 15352,
-          "title": "Python Back-End Development – Handbook for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Python-Backend-Development-Cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/",
-          "author": "Elizabeth  Meshioye",
-          "description": "As web developers, we love a good animation, right? But let's be honest, sometimes we get caught up in the wow factor and forget that our websites exist for real people with diverse needs.  One hidden hurdle for some users is motion sensitivity. It might not be something we",
-          "link": "https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/",
-          "publishedOn": "2024-02-07T21:51:54.000Z",
-          "wordCount": 2456,
-          "title": "What is Motion Sensitivity? How to Design Accessible Web Animations",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-pixabay-315938-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/",
-          "author": "Jessica Wilkins",
-          "description": "When you run into errors inside your code, it's important to know how to debug and find the source of the problem. The console object is a powerful tool that can help you with this. In this article, we will explore the console object and the variety of methods that",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/",
-          "publishedOn": "2024-02-07T21:29:48.000Z",
-          "wordCount": 1317,
-          "title": "How to Work with the Console Object in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/computer-on-desk.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/destructuring-in-javascript/",
-          "author": "Sahil Mahapatra",
-          "description": "Destructuring is a powerful JavaScript feature introduced in ES6 (ECMAScript 2015). It makes it easier to extract values from arrays or properties from objects and assign them to variables in a readable way.  Let's delve into how destructuring works and explore various use cases with examples. You can get",
-          "link": "https://www.freecodecamp.org/news/destructuring-in-javascript/",
-          "publishedOn": "2024-02-07T19:31:01.000Z",
-          "wordCount": 1362,
-          "title": "How Destructuring Works in JavaScript – Explained with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-5--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/",
-          "author": "Joan Ayebola",
-          "description": "useMemo is a valuable tool in the React framework, designed to optimize performance by memoizing expensive computations.  With useMemo, React can store the result of a function call and reuse it when the dependencies of that function haven't changed, rather than recalculating the value on every render.  useMemo",
-          "link": "https://www.freecodecamp.org/news/how-to-work-with-usememo-in-react/",
-          "publishedOn": "2024-02-07T18:13:41.000Z",
-          "wordCount": 2876,
-          "title": "How to Work with useMemo in React – with Code Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--6-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/career-change-to-code-guide/",
-          "author": "Beau Carnes",
-          "description": "There are many people who want to change careers to become a software developer but don't know what the optimal path is. There are many challenges and uncertainties that accompany such a significant change. We just posted a course on the freeCodeCamp.org YouTube channel that is a guide for those",
-          "link": "https://www.freecodecamp.org/news/career-change-to-code-guide/",
-          "publishedOn": "2024-02-07T17:47:57.000Z",
-          "wordCount": 1050,
-          "title": "Career Change to Code Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/careerchange.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-insertadjacenthtml-method-efficient-dom-manipulation/",
-          "author": "Kamaldeen Lawal",
-          "description": "In JavaScript, developers need to be able to dynamically update a page without replacing the entire content. A traditional method like innerHTML can cause performance issues, because these methods tend to replace the entire content of an element. The insertAdjacentHTML() method leads to better performance because you use it to",
-          "link": "https://www.freecodecamp.org/news/javascript-insertadjacenthtml-method-efficient-dom-manipulation/",
-          "publishedOn": "2024-02-07T16:28:17.000Z",
-          "wordCount": 1589,
-          "title": "How to Use the JavaScript insertAdjacentHTML() method for Efficient DOM Manipulation",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/The-JavaScript-insertAdjacentHTML---Method.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-mbr-works-in-linux/",
-          "author": "Kedar Makode",
-          "description": "Efficient storage management is a crucial aspect of maintaining a well-organized computing environment.  In this detailed guide, we'll explore the features of Master Boot Record (MBR) disk partitioning using the parted command on Linux.  Additionally, we'll cover the process of adding a new hard disk in VMware, as",
-          "link": "https://www.freecodecamp.org/news/how-mbr-works-in-linux/",
-          "publishedOn": "2024-02-07T10:29:26.000Z",
-          "wordCount": 2691,
-          "title": "How Master Boot Record Disk Partitioning Works in Linux",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Frame-1000004568-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/java-project-parking-lot-management-system/",
-          "author": "Kunal Nalawade",
-          "description": "Hello everyone! It's good to be back with another tutorial – this time on Java, one of the most popular programming languages out there today.  Java is used by developers and enterprises to build powerful applications that serve many different purposes. The object-oriented nature of Java makes writing clean,",
-          "link": "https://www.freecodecamp.org/news/java-project-parking-lot-management-system/",
-          "publishedOn": "2024-02-07T00:25:39.000Z",
-          "wordCount": 2967,
-          "title": "Java Project – How to Build a Simple Parking Lot Management System",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/java-article-image.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/personal-branding-for-devs-handbook/",
-          "author": "Vahe Aslanyan",
-          "description": "In this handbook, you'll learn how to build your personal brand as a developer to help you make your mark in the tech industry.  With a focus on practicality and professionalism, this guide is designed for developers at all levels, from industry veterans to those just starting their coding",
-          "link": "https://www.freecodecamp.org/news/personal-branding-for-devs-handbook/",
-          "publishedOn": "2024-02-06T23:05:06.000Z",
-          "wordCount": 12991,
-          "title": "Personal Branding for Developers – A Step by Step Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Personal-Branding-for-Developers-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/",
-          "author": "Jess Wilk",
-          "description": "If you want to learn how to navigate the ever-evolving job market by scraping job posting sites like Indeed.com, then this guide is for you.  What is a Job Scraper? In the digital age, tools known as Job Board Scrapers (or just Job Scrapers) have become indispensable for people",
-          "link": "https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/",
-          "publishedOn": "2024-02-06T22:56:41.000Z",
-          "wordCount": 2538,
-          "title": "How to Build a Job Board Scraper with Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/image_2024-02-02_17-21-54.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-csharp-book/",
-          "author": "Gavin Lon",
-          "description": "C# version 1 was released in January 2002. It is a modern, general purpose programming language designed and developed from the ground up by the renowned Danish software engineer, Anders Heijleberg and his team at Microsoft.  I’ve heard Anders Heijlsberg say in an interview that with C# the goal",
-          "link": "https://www.freecodecamp.org/news/learn-csharp-book/",
-          "publishedOn": "2024-02-06T22:35:57.000Z",
-          "wordCount": 25748,
-          "title": "Learn the C# Programming Language – Full Book for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/The-C--Handbook---Version-4-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/master-react-by-building-25-projects/",
-          "author": "Beau Carnes",
-          "description": "React is one of the most popular frontend JavaScript frameworks.  We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build twenty-five different projects using React. Each project is designed to challenge and enhance your understanding of React's capabilities. Sangam Mukherjee developed this",
-          "link": "https://www.freecodecamp.org/news/master-react-by-building-25-projects/",
-          "publishedOn": "2024-02-06T17:00:58.000Z",
-          "wordCount": 1020,
-          "title": "Master React by Building 25 Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/react25a.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-spring-boot-and-spring-data-jpa/",
-          "author": "Beau Carnes",
-          "description": "By mastering Spring Boot and Spring Data JPA, you'll be equipped to build efficient, scalable, and secure applications with ease, making you a valuable asset in the job market and a more effective developer. We just published a comprehensive video course on the freeCodeCamp.org YouTube channel that teaches Spring Boot",
-          "link": "https://www.freecodecamp.org/news/learn-spring-boot-and-spring-data-jpa/",
-          "publishedOn": "2024-02-06T16:05:20.000Z",
-          "wordCount": 987,
-          "title": "Learn Spring Boot and Spring Data JPA",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/springboot.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-strict-mode-in-javascript/",
-          "author": "Benjamin Semah",
-          "description": "If you are a JavaScript developer, you may come across the string \"use strict\" at the top of your JavaScript code. This means that JavaScript's strict mode is in use. But what does this mean, and why does it matter? In this article, you'll learn what it means to write",
-          "link": "https://www.freecodecamp.org/news/how-to-use-strict-mode-in-javascript/",
-          "publishedOn": "2024-02-06T11:05:52.000Z",
-          "wordCount": 1825,
-          "title": "What is Strict Mode in JavaScript? Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Screenshot-2024-02-02-at-2.56.05-PM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/vim-key-bindings-reference/",
-          "author": "Sahil Mahapatra",
-          "description": "Understanding Vim key bindings is crucial for navigating and editing text efficiently in Vim or Vim-based text editors like Neovim.  In this article, we'll explore the most common Vim key bindings that will help you navigate your text editor seamlessly. Table of Content  * Vim Modes  *",
-          "link": "https://www.freecodecamp.org/news/vim-key-bindings-reference/",
-          "publishedOn": "2024-02-06T09:28:01.000Z",
-          "wordCount": 1429,
-          "title": "Vim Key Bindings – Vim Keys List Reference",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-4-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-databases-guarantee-isolation/",
-          "author": "Daniel Adetunji",
-          "description": "ACID (Atomicity, Consistency, Isolation, and Durability) is a set of guarantees when working with a DBMS. Pessimistic and optimistic concurrency control explains how databases achieve the “I” in ACID. Isolation is a guarantee that concurrently running transactions should not interfere with each other. This is arguably the most important ACID",
-          "link": "https://www.freecodecamp.org/news/how-databases-guarantee-isolation/",
-          "publishedOn": "2024-02-05T22:41:18.000Z",
-          "wordCount": 3266,
-          "title": "How Databases Guarantee Isolation – Pessimistic vs Optimistic Concurrency Control Explained",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/cover--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-state-management/",
-          "author": "Timothy Olanrewaju",
-          "description": "State management is a crucial concept in React, which is one of the most popular JavaScript libraries in the world for building dynamic user interfaces.  Due to its importance in handling data, it is essential know how to manage state, when you need it, and where it can be",
-          "link": "https://www.freecodecamp.org/news/react-state-management/",
-          "publishedOn": "2024-02-05T21:06:27.000Z",
-          "wordCount": 1898,
-          "title": "State Management in React – When and Where to use State",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/rahul-mishra-XXMA-8fBB-g-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/",
-          "author": "Okure U. Edet",
-          "description": "If you are reading this article, you are probably a developer who has used an API to call data for your application. You may have also used features such as filtering and pagination to limit the amount of data you want to receive.  These API features are important when",
-          "link": "https://www.freecodecamp.org/news/how-to-add-filtering-sorting-limiting-pagination-to-nestjs-app/",
-          "publishedOn": "2024-02-05T19:01:33.000Z",
-          "wordCount": 2415,
-          "title": "How to Add Filtering, Sorting, Limiting, and Pagination to Your Nest.js App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/nestjs-app-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-box-sizing-border-box-css/",
-          "author": "Jessica Wilkins",
-          "description": "In CSS, there is a property called box-sizing that allows you to determine how the width and the height for an element is calculated.  A lot of CSS resets [/news/how-i-style-my-websites-with-my-favorite-css-resets-7ace41dbc43d/] will change the default box model from content-box to border-box to make the layouts easier to work with. But",
-          "link": "https://www.freecodecamp.org/news/what-is-box-sizing-border-box-css/",
-          "publishedOn": "2024-02-05T18:26:43.000Z",
-          "wordCount": 1146,
-          "title": "What is box-sizing: border-box in CSS?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/curology-fPSELOXfeU4-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/immutable-javascript-improve-application-performance/",
-          "author": "Clinton Joy",
-          "description": "Javascript has become a very popular programming language thanks to its growing use in frontend and backend development.  And as devs build JavaScript applications for different companies and organizations, the size and complexity of these applications can pose interesting performance challenges. As developers, we seek to create applications that",
-          "link": "https://www.freecodecamp.org/news/immutable-javascript-improve-application-performance/",
-          "publishedOn": "2024-02-05T15:09:28.000Z",
-          "wordCount": 4190,
-          "title": "Immutable JavaScript – How to Improve the Performance of Your JS Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Screen-Shot-2024-02-01-at-11.16.23-AM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/",
-          "author": "Okoro Emmanuel Nzube",
-          "description": "React is an open-source JavaScript library that helps you build dynamic user interfaces (UIs). You can use it to build components that represent logically reusable parts of the UI. Because React is open source, anyone can access its source code, inspect it, modify it, and enhance it for their personal",
-          "link": "https://www.freecodecamp.org/news/how-to-install-react-a-step-by-step-guide/",
-          "publishedOn": "2024-02-05T12:43:22.000Z",
-          "wordCount": 1819,
-          "title": "How to Install React – A Step-by-Step Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/solid-navy-blue-concrete-textured-wall.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/",
-          "author": "Abraham Dahunsi",
-          "description": "Observability refers to our ability to \"see\" and understand what's happening inside a system by looking at its external signals (like logs, metrics, and traces). Observability involves collecting and analyzing data from sources within a system to monitor its performance and address problems effectively. Why is Observability Useful?  1.",
-          "link": "https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/",
-          "publishedOn": "2024-02-03T00:21:14.000Z",
-          "wordCount": 2500,
-          "title": "How to Use OpenTelementry to Trace Node.js Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/feature-image-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/",
-          "author": "Reed Barger",
-          "description": "If you're building applications with React, you should learn how to use some helpful libraries that'll make it easier to add the features you need. For example, to add features like authentication or styling, you'll need to find a good third-party library to handle it. In this comprehensive guide, I'm",
-          "link": "https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/",
-          "publishedOn": "2024-02-02T18:42:15.000Z",
-          "wordCount": 2788,
-          "title": "React Libraries to Use in Your Projects in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/react-libraries-2024.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/linux-boot-process-in-rhel/",
-          "author": "Kedar Makode",
-          "description": "The boot process is made up of a series of necessary actions that a computer goes through upon startup. These range from powering on to the complete loading of the operating system (OS) for optimal functionality.  It is vital to familiarize yourself with the boot process for various reasons.",
-          "link": "https://www.freecodecamp.org/news/linux-boot-process-in-rhel/",
-          "publishedOn": "2024-02-02T17:49:18.000Z",
-          "wordCount": 3796,
-          "title": "Linux Boot Process – What Happens when Booting RHEL",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Frame-1000004568.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-mobile-swiping-component-in-react/",
-          "author": "Matéush",
-          "description": "Everyone wants to be able to access the web from their mobile phones these days. So it's important to consider the accessibility of your web app on Android and iPhones.  The most difficult part is building the navigation – and swiping in particular can cause a lot of headaches.",
-          "link": "https://www.freecodecamp.org/news/how-to-build-mobile-swiping-component-in-react/",
-          "publishedOn": "2024-02-02T17:43:34.000Z",
-          "wordCount": 2613,
-          "title": "How to Build a Mobile Swiping Component in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/MobileSwiping-splash--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-oh-my-zsh-creator-and-ceo-robby-russell/",
-          "author": "Quincy Larson",
-          "description": "In this week's episode of the podcast, I interview Robby Russell. Robby created the open-source project Oh My ZSH.  Oh My Zsh is a framework for managing your Zsh configuration for your command line terminal. It's been extremely popular among developers for more than a decade. Robby is",
-          "link": "https://www.freecodecamp.org/news/podcast-oh-my-zsh-creator-and-ceo-robby-russell/",
-          "publishedOn": "2024-02-02T17:11:16.000Z",
-          "wordCount": 778,
-          "title": "Podcast: Oh My Zsh creator and Dev Shop CEO Robby Russell",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/robby-russell-freecodecamp-oh-my-zsh.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/",
-          "author": "Musab Habeeb",
-          "description": "All programming languages have runtime engines that execute their code. In JavaScript, the runtime engine is single-threaded, which means that it runs code line by line or sequentially. The JavaScript runtime engine makes it a synchronous programming language where programs run sequentially. Programming languages that are not synchronous are called",
-          "link": "https://www.freecodecamp.org/news/asynchronous-programming-in-javascript-examples/",
-          "publishedOn": "2024-02-02T16:04:52.000Z",
-          "wordCount": 1627,
-          "title": "Asynchronous Programming in JavaScript – Callbacks, Promises, & Async/Await Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Await-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-fast-ai-for-beginners/",
-          "author": "Manish Shivanandhan",
-          "description": "Fast.ai is a user-friendly library that brings the power of deep learning to your fingertips, regardless of your skill level. Let’s learn how it works. Have you ever felt curious about deep learning but found the technical complexity overwhelming? Fast.ai [https://fast.ai/] is your answer. Fast.ai simplifies the journey into deep",
-          "link": "https://www.freecodecamp.org/news/how-to-use-fast-ai-for-beginners/",
-          "publishedOn": "2024-02-02T00:10:29.000Z",
-          "wordCount": 2044,
-          "title": "How to Use Fast.ai – A Beginner-Friendly Gateway to Deep Learning",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Untitled-design.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-make-your-web-sites-accessible/",
-          "author": "Beau Carnes",
-          "description": "Ensuring that web content is accessible to everyone, including people with disabilities, is not just a noble goal—it's a necessity. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about web accessibility. This course is designed to empower developers with the knowledge and skills",
-          "link": "https://www.freecodecamp.org/news/how-to-make-your-web-sites-accessible/",
-          "publishedOn": "2024-02-01T16:16:08.000Z",
-          "wordCount": 1034,
-          "title": "How to Make Your Web Sites Accessible",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/a11y.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/javascript-array-length-tutorial/",
-          "author": "Tantoluwa Heritage Alabi",
-          "description": "JavaScript arrays are fundamental data structures that allow you to store and manipulate collections of elements efficiently. While working with arrays, you'll often need to know their length. The length of an array tells us how many elements are present in the array. You can use this to check if",
-          "link": "https://www.freecodecamp.org/news/javascript-array-length-tutorial/",
-          "publishedOn": "2024-02-01T15:56:36.000Z",
-          "wordCount": 1085,
-          "title": "JavaScript Array Length – How to Find the Length of an Array in JS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-venelin-dimitrov-3476312.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/documentation-libraries-to-help-you-write-good-docs/",
-          "author": "Rajdeep Singh",
-          "description": "Good project documentation is key to success for every company, startup, or individual project. Without documentation, it's much harder for new developers or others to use your project. In this article, I'll discuss some of my favourite libraries you can use for building your documentation site.  And don't worry",
-          "link": "https://www.freecodecamp.org/news/documentation-libraries-to-help-you-write-good-docs/",
-          "publishedOn": "2024-02-01T15:45:42.000Z",
-          "wordCount": 2813,
-          "title": "Documentation Libraries to Help You Write Good Docs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Documentation-Libraries-to-Help-You-Write-Good-Docs.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/shadcn-with-next-js-14/",
-          "author": "Sahil Mahapatra",
-          "description": "Shadcn is a collection of beautifully designed, accessible, and customizable React components that you can use to build modern web applications with Next.js. With Shadcn, you can quickly and easily create user interfaces that are both stylish and functional. If you are looking for a way to build modern, stylish,",
-          "link": "https://www.freecodecamp.org/news/shadcn-with-next-js-14/",
-          "publishedOn": "2024-02-01T15:21:36.000Z",
-          "wordCount": 2799,
-          "title": "How to Use Shadcn with Next.js 14",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-3-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-dynamic-segments-in-react-router/",
-          "author": "Alex Anie",
-          "description": "On a traditional website, when a user clicks on a URL, the browser makes a full-page request from the server and directs the user to a new page. This is referred to as static routing. This is very useful if you just need to navigate the user to a new",
-          "link": "https://www.freecodecamp.org/news/use-dynamic-segments-in-react-router/",
-          "publishedOn": "2024-01-31T22:34:08.000Z",
-          "wordCount": 4621,
-          "title": "How to Implement Dynamic Segments with useParams in React Router",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Dynamic-Segment-in-react-router-800x418.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/",
-          "author": "Beau Carnes",
-          "description": "The GitHub Foundations Certification was released just a few weeks ago. And you can now watch a 9-hour exam prep course on the freeCodeCamp.org YouTube channel! Andrew Brown from ExamPro created this course. He has created a bunch of popular exam prep courses for the freeCodeCamp.org YouTube channel. This certification",
-          "link": "https://www.freecodecamp.org/news/pass-the-github-foundations-certification-course/",
-          "publishedOn": "2024-01-31T21:54:55.000Z",
-          "wordCount": 1055,
-          "title": "Pass the GitHub Foundations Certification",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/githubfoundations.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/nth-child-vs-nth-of-type-selector-in-css/",
-          "author": "Oluwatobi Sofela",
-          "description": "The :nth-child() and :nth-of-type() CSS selectors select items from a group of HTML elements. But they work in different ways. Here is the main distinction between them: nth-child() selects its items from any group of elements. nth-of-type() selects its items from a specified type of element. * :nth-child() selects items",
-          "link": "https://www.freecodecamp.org/news/nth-child-vs-nth-of-type-selector-in-css/",
-          "publishedOn": "2024-01-31T18:33:32.000Z",
-          "wordCount": 2866,
-          "title": "nth-child() vs nth-of-type() Selectors in CSS – What’s the Difference?",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/nth-child-vs-nth-of-type-css-selector-freecodecamp-featured-codesweetly.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-input-element-to-access-camera-on-mobile/",
-          "author": "Joan Ayebola",
-          "description": "Take a Selfie Take a Photo",
-          "link": "https://www.freecodecamp.org/news/how-to-use-input-element-to-access-camera-on-mobile/",
-          "publishedOn": "2024-01-31T08:55:36.000Z",
-          "wordCount": 1630,
-          "title": "How to Use the <input> Element to Access a Mobile Device's Camera",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--5-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/hugging-face-transformer-library-overview/",
-          "author": "Manish Shivanandhan",
-          "description": "In this article, I'll talk about why I think the Hugging Face’s Transformer Library is a game-changer in NLP for developers and researchers alike. Have you ever wondered how modern AI achieves such remarkable feats, like understanding human language or generating text that sounds like it was written by a",
-          "link": "https://www.freecodecamp.org/news/hugging-face-transformer-library-overview/",
-          "publishedOn": "2024-01-31T00:36:42.000Z",
-          "wordCount": 2057,
-          "title": "How to Use the Hugging Face Transformer Library",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/hugging-face.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ace-your-deep-learning-job-interview/",
-          "author": "Beau Carnes",
-          "description": "Are you gearing up for a job interview in the deep learning field? Look no further!  We just published a video course on the freeCodeCamp.org YouTube channel that is specifically designed to prepare candidates for deep learning job interviews, covering 50 common interview questions with detailed explanations. Tatev Aslanyan",
-          "link": "https://www.freecodecamp.org/news/ace-your-deep-learning-job-interview/",
-          "publishedOn": "2024-01-30T20:19:59.000Z",
-          "wordCount": 959,
-          "title": "Ace Your Deep Learning Job Interview",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/deeplearning.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-admin-dashboard-react/",
-          "author": "Reed Barger",
-          "description": "Have you looked at interactive dashboards on websites like Stripe and thought, “How can I build something like this myself?” In this full-stack React and Next.js project, you’ll learn how to build a stunning admin dashboard from front to back. Our final admin dashboard will allow you to display and",
-          "link": "https://www.freecodecamp.org/news/build-admin-dashboard-react/",
-          "publishedOn": "2024-01-30T19:04:01.000Z",
-          "wordCount": 3446,
-          "title": "How to Build an Admin Dashboard with React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/admin-dashboard-2.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/gorillas-game-in-javascript/",
-          "author": "Hunor Márton Borbély",
-          "description": "In this JavaScript game tutorial, you'll learn how to create a modern version of the 1991 classic game Gorillas using plain JavaScript and the HTML canvas element. In this game, two gorillas throw explosive bananas at each other, and the first one to hit the other one wins the game.",
-          "link": "https://www.freecodecamp.org/news/gorillas-game-in-javascript/",
-          "publishedOn": "2024-01-30T18:18:55.000Z",
-          "wordCount": 12725,
-          "title": "JavaScript Game Dev Tutorial – Build Gorillas with HTML Canvas + JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Screenshot-2024-01-21-at-16.02.31-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/",
-          "author": "Muhammad Haseeb",
-          "description": "Deploying a Django application can be streamlined and automated using GitHub Actions. This article provides a comprehensive guide on how to set up a continuous deployment pipeline for a Django project hosted on an AWS EC2 instance. By leveraging GitHub Actions, developers can automate their deployment process, making it more",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-django-project-on-ec2/",
-          "publishedOn": "2024-01-30T15:40:16.000Z",
-          "wordCount": 1375,
-          "title": "How to Deploy Your Django Project on an EC2 Machine using GitHub Actions",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Deploying-Django-Project-on-EC2-Machine-using-GitHub-Actions.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/",
-          "author": "Benjamin Semah",
-          "description": "In JavaScript, every value has a boolean equivalent. This means it can either be evaluated as true (truthy value) or false (falsy value) when used in a boolean context.  But what is a boolean context? It's a situation where a boolean value is expected. Examples include if statements, logical",
-          "link": "https://www.freecodecamp.org/news/what-are-falsey-values-in-javascript/",
-          "publishedOn": "2024-01-30T15:27:25.000Z",
-          "wordCount": 2094,
-          "title": "What are Falsy Values in JavaScript? Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Screenshot-2024-01-29-at-12.22.42-AM.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/data-cleaning-and-preprocessing-with-pandasbdvhj/",
-          "author": "Oluwadamisi Samuel Praise",
-          "description": "Steve Lohr of The New York Times said: \"Data scientists, according to interviews and expert estimates, spend 50 percent to 80 percent of their time mired in the mundane labor of collecting and preparing unruly digital data, before it can be explored for useful nuggets.\"  This statement is 100%",
-          "link": "https://www.freecodecamp.org/news/data-cleaning-and-preprocessing-with-pandasbdvhj/",
-          "publishedOn": "2024-01-30T14:55:00.000Z",
-          "wordCount": 2319,
-          "title": "How to Use Pandas for Data Cleaning and Preprocessing",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Cream-Neutral-Minimalist-New-Business-Pitch-Deck-Presentation--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/new-online-courses/",
-          "author": "Dhawal Shah",
-          "description": "If you haven’t heard, universities around the world are offering their courses online for free (or at least, partially free). These online courses [https://www.classcentral.com/help/intro-to-online-learning] are collectively called MOOCs or Massive Open Online Courses. [https://www.classcentral.com/help/moocs] In the past ten years or so, over 1000 universities have created more than 20,000 such",
-          "link": "https://www.freecodecamp.org/news/new-online-courses/",
-          "publishedOn": "2024-01-30T09:00:00.000Z",
-          "wordCount": 10159,
-          "title": "200+ Universities Just Launched 1000+ Free Online Courses. Here’s the Full List.",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2021/08/banner-new-courses.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-dapper-in-your-dotnet-projects/",
-          "author": "Grant Riordan",
-          "description": "When you're working with .NET, interacting with databases – particularly SQL databases – is inevitable. The common approaches involve ORM (Object Relational Mapping) tools like Entity Framework (EF Core) or Dapper. Dapper excels in speed and control for CRUD operations. This article explores Dapper's suitability for performance-critical .NET projects with simpler",
-          "link": "https://www.freecodecamp.org/news/use-dapper-in-your-dotnet-projects/",
-          "publishedOn": "2024-01-30T00:26:50.000Z",
-          "wordCount": 5016,
-          "title": "How to Use Dapper in Your .NET Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/net_dapper.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-install-nvidia-cuda-toolkit-on-ubuntu/",
-          "author": "Abraham Dahunsi",
-          "description": "The NVIDIA Compute Unified Device Architecture (CUDA) Toolkit is a software platform that allows developers to tap into the computing power of NVIDIA processing and GPU-accelerated applications. CUDA is also a programming model and an API that enables programmers to write code that can run on both the CPU and",
-          "link": "https://www.freecodecamp.org/news/how-to-install-nvidia-cuda-toolkit-on-ubuntu/",
-          "publishedOn": "2024-01-29T21:25:58.000Z",
-          "wordCount": 1314,
-          "title": "How to Install NVIDIA CUDA Toolkit on Ubuntu",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Feature-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/",
-          "author": "Beau Carnes",
-          "description": "We just published a great beginner's web dev tutorial on the freeCodeCamp.org YouTube channel. By the end of this tutorial, you'll have a solid understanding of several core technologies, including Next.js, Tailwind CSS, and TypeScript, all while creating a practical, real-world project. Core Technologies Used You will improve your skills",
-          "link": "https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/",
-          "publishedOn": "2024-01-29T18:35:10.000Z",
-          "wordCount": 1295,
-          "title": "Beginner Web Dev Tutorial – Build a Weather App with Next.js & TypeScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/weatherapp1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/flutter-migrating-to-v2-embedding/",
-          "author": "Tomer Ben Rachel",
-          "description": "If you hopped on the Flutter bandwagon in it’s early days, most likely you have a project or two that were created prior to version 1.12 of Flutter. If that is the case, you may have seen this message whenever you run Pub get in one of your projects: >",
-          "link": "https://www.freecodecamp.org/news/flutter-migrating-to-v2-embedding/",
-          "publishedOn": "2024-01-29T18:35:05.000Z",
-          "wordCount": 1477,
-          "title": "Flutter Tutorial – How to Migrate to V2 Embedding",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/nick-fewings-J54DjpXYJuE-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/homomorphic-encryption-in-plain-english/",
-          "author": "Tiago Monteiro",
-          "description": "As the fields of cryptography and cybersecurity advance, homomorphic encryption [/news/introduction-to-homomorphic-encryption/] stands out as a groundbreaking technology.  It has the potential to reshape everything in data privacy and security. What really is homomorphic encryption? Why is it getting so much attention? How can it increase data privacy? Essentially, with",
-          "link": "https://www.freecodecamp.org/news/homomorphic-encryption-in-plain-english/",
-          "publishedOn": "2024-01-29T18:33:48.000Z",
-          "wordCount": 1753,
-          "title": "How Homomorphic Encryption Works – Explained in Plain English",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/1-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-sort-array-of-objects-by-property-name-in-javascript/",
-          "author": "Kaushal Joshi",
-          "description": "In this tutorial, you'll learn about one of the most common operations you'll perform while working with JavaScript: sorting an array of objects by property name. Basic Array Concepts Let's review some basic JavaScript concepts before delving deeper into the subject so that you have the background info you need.",
-          "link": "https://www.freecodecamp.org/news/how-to-sort-array-of-objects-by-property-name-in-javascript/",
-          "publishedOn": "2024-01-29T14:45:35.000Z",
-          "wordCount": 1906,
-          "title": "How to Sort an Array of Objects by Property Name in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/How-to-sort-an-array-of-objects-by-object-s-property-name-in-JavaScript.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/job-scheduling-in-rhel/",
-          "author": "Kedar Makode",
-          "description": "Efficiently executing tasks at designated times or in response to certain events is essential in RHEL's job scheduling process. With the help of various tools and utilities, you can easily coordinate and automate job scheduling, eliminating the need for manual intervention. Some common tools for job scheduling in RHEL include:",
-          "link": "https://www.freecodecamp.org/news/job-scheduling-in-rhel/",
-          "publishedOn": "2024-01-29T14:06:44.000Z",
-          "wordCount": 3605,
-          "title": "Job Scheduling in RHEL – cron and at Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Frame-1000004567.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/less-common-html-tags/",
-          "author": "Murtuzaali Surti",
-          "description": "There are only so many HTML tags [https://css-tricks.com/average-web-page-data-analyzing-8-million-websites/]  that people typically use when building websites. But as there are over 100+ HTML elements, I wondered if there were any more beginner-friendly tags that I didn't know about – and that others might find useful, too. After doing some research,",
-          "link": "https://www.freecodecamp.org/news/less-common-html-tags/",
-          "publishedOn": "2024-01-29T14:00:55.000Z",
-          "wordCount": 2141,
-          "title": "Less Common HTML Tags You Should Know – With Example Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Exotic-HTML-TAGS-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/set-up-authentication-in-apps-with-supabase/",
-          "author": "Fatuma Abdullahi",
-          "description": "In this article, you'll learn the basic key concepts that'll help you grasp how authentication and authorization work.  You'll start by learning what authentication and authorization are, and then learn how to implement authentication in your applications using Supabase auth. Table of Contents  *  Prerequisites",
-          "link": "https://www.freecodecamp.org/news/set-up-authentication-in-apps-with-supabase/",
-          "publishedOn": "2024-01-29T10:53:38.000Z",
-          "wordCount": 3020,
-          "title": "How to Set Up Authentication in Your Apps with Supabase Auth",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Group-3--9-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/the-python-decorator-handbook/",
-          "author": "Atharva Shah",
-          "description": "Python decorators provide an easy yet powerful syntax for modifying and extending the behavior of functions in your code.  A decorator is essentially a function that takes another function, augments its functionality, and returns a new function – without permanently modifying the original function itself. This tutorial will walk",
-          "link": "https://www.freecodecamp.org/news/the-python-decorator-handbook/",
-          "publishedOn": "2024-01-26T17:17:03.000Z",
-          "wordCount": 6442,
-          "title": "The Python Decorator Handbook",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/The-Python-Decorator-Handbook-Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-a-react-app-in-2024/",
-          "author": "Reed Barger",
-          "description": "In 2024, there are more ways than ever to get your React projects started. But which one should you choose? In this article, I'm going to break down all of the major ways you can use to create a React app and which one you should pick based off of",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-react-app-in-2024/",
-          "publishedOn": "2024-01-26T13:44:45.000Z",
-          "wordCount": 2016,
-          "title": "How to Create a React App in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/build-react-app-2024.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-simple-sentiment-analyzer-using-hugging-face-transformer/",
-          "author": "Manish Shivanandhan",
-          "description": "In this article, we will look at writing a sentiment analyzer using Hugging Face Transformer, a powerful tool in the world of NLP.  Imagine you’re running a business and you want to know what your customers think about your product. Or maybe you’re a movie director wanting to gauge",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-simple-sentiment-analyzer-using-hugging-face-transformer/",
-          "publishedOn": "2024-01-26T00:32:04.000Z",
-          "wordCount": 1546,
-          "title": "How to Build a Simple Sentiment Analyzer Using Hugging Face Transformer",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pngtree-facial-emotions-illustration-in-black-outline-on-white-background-vector-picture-image_10574137.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-react-with-laravel/",
-          "author": "San B",
-          "description": "You may have seen tutorials that help you build a simple React.js app that use some third-party API or a Node.js server as a backend. You could also use Laravel for this purpose and integrate it with React. As a backend framework, Laravel actually offers a tool to help you",
-          "link": "https://www.freecodecamp.org/news/use-react-with-laravel/",
-          "publishedOn": "2024-01-26T00:09:49.000Z",
-          "wordCount": 7443,
-          "title": "How to Use React.js with Laravel to Build a Draggable Tasklist App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/freecodecamp-boolfalse-laravel-react-vite-draggable-tasklist.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-optimize-your-css-code-for-faster-web-pages/",
-          "author": "Ophy Boamah",
-          "description": "CSS is more than just a tool for styling. It also determines how web pages render in a browser. Well-optimized CSS means faster loading times and a smoother user experience. In today's digital landscape, the performance of a website is a key factor in its success. Writing efficient CSS code",
-          "link": "https://www.freecodecamp.org/news/how-to-optimize-your-css-code-for-faster-web-pages/",
-          "publishedOn": "2024-01-26T00:00:30.000Z",
-          "wordCount": 1947,
-          "title": "How to Optimize Your CSS Code for Faster Web Pages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cssopt-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/podcast-biggest-youtube-programming-channel-beau-carnes/",
-          "author": "Quincy Larson",
-          "description": "Beau Carnes has run the freeCodeCamp community YouTube channel for the past 5 years, taking it from 75,000 subscribers all the way up to 9 million. Beau started out working as a Special Education teacher at a Michigan high school. He taught himself how to code before working as a",
-          "link": "https://www.freecodecamp.org/news/podcast-biggest-youtube-programming-channel-beau-carnes/",
-          "publishedOn": "2024-01-25T19:50:50.000Z",
-          "wordCount": 826,
-          "title": "Podcast: Running the Biggest Programming Channel on YouTube with freeCodeCamp's Beau Carnes",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/beau-carnes-youtube-freecodecamp-podcast.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-a-hash-map/",
-          "author": "Sule-Balogun Olanrewaju Ganiu",
-          "description": "A hash table or hash map, is a data structure that helps with mapping keys to values for highly efficient operations like the lookup, insertion and deletion operations. In this tutorial, you'll learn the following:  * Constant and linear time complexity.  * Why use a hash map?",
-          "link": "https://www.freecodecamp.org/news/what-is-a-hash-map/",
-          "publishedOn": "2024-01-25T17:02:13.000Z",
-          "wordCount": 2265,
-          "title": "What is a Hash Map? Time Complexity and Two Sum Example",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/joan-gamell-ZS67i1HLllo-unsplash.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/topic-identification-using-natural-language-processing/",
-          "author": "Ibrahim Abayomi Ogunbiyi",
-          "description": "There's a lot of textual information available these days. It ranges from articles to social media posts and research papers. So our ability to distill meaningful insights is key. This helps us make informed decisions in a wide array of contexts.  For example, you can analyze a large volume",
-          "link": "https://www.freecodecamp.org/news/topic-identification-using-natural-language-processing/",
-          "publishedOn": "2024-01-25T16:16:15.000Z",
-          "wordCount": 3047,
-          "title": "Natural Language Processing Techniques for Topic Identification – Explained with Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-wallace-chuck-3109168.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-langchain-and-gen-ai-by-building-6-projects/",
-          "author": "Beau Carnes",
-          "description": "Learning LangChain empowers you to seamlessly integrate advanced language models like GPT-4 into diverse applications, unlocking capabilities in natural language processing and AI-driven applications. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to build six end-to-end projects using LangChain and a variety",
-          "link": "https://www.freecodecamp.org/news/learn-langchain-and-gen-ai-by-building-6-projects/",
-          "publishedOn": "2024-01-25T16:09:27.000Z",
-          "wordCount": 1402,
-          "title": "Learn LangChain and Gen AI by Building 6 Projects",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/LANGCHAINPROJ.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/css-units-when-to-use-each-one/",
-          "author": "Esther Christopher",
-          "description": "CSS units allow you to measure and specify different property values. You use them to modify CSS properties such as margins, padding, height, and width to make them compatible with devices of all screen sizes. CSS units have two basic types:  * Absolute units  * Relative units Absolute",
-          "link": "https://www.freecodecamp.org/news/css-units-when-to-use-each-one/",
-          "publishedOn": "2024-01-25T00:58:27.000Z",
-          "wordCount": 2387,
-          "title": "CSS Units – When to Use rem, em, px, and More",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/pexels-adonyi-ga-bor-1409216.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-the-first-line-of-a-multiline-string-in-javascript/",
-          "author": "Furkan Emin Can",
-          "description": "In JavaScript, getting the first element of an array or string is pretty easy. But when it comes to getting the first line of a multiline string, some approaches can hurt your app's performance in certain cases. In this article, we will look at the three best ways you can",
-          "link": "https://www.freecodecamp.org/news/how-to-get-the-first-line-of-a-multiline-string-in-javascript/",
-          "publishedOn": "2024-01-24T23:33:14.000Z",
-          "wordCount": 1191,
-          "title": "How to Get the First Line of a Multiline String in JavaScript",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Cover.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/",
-          "author": "Matéush",
-          "description": "In this article, I will walk you through the process of publishing a Next.js application on GitHub Pages.  What makes this guide particularly helpful is that I'll teach you how to integrate with GitHub Actions, too. This means your application will be automatically deployed every time you push code",
-          "link": "https://www.freecodecamp.org/news/how-to-deploy-next-js-app-to-github-pages/",
-          "publishedOn": "2024-01-24T22:46:53.000Z",
-          "wordCount": 2313,
-          "title": "How to Deploy Next.js Apps to Github Pages",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Splash.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/best-vscode-extensions/",
-          "author": "Natalie Pina",
-          "description": "According to the 2023 Stack Overflow Developer Survey [https://survey.stackoverflow.co/2023/#section-most-popular-technologies-integrated-development-environment] , Visual Studio Code (also known as VSCode) ranked as the most preferred integrated developer environment (IDE) tool.  Visual Studio Code has many great features out-of-the-box, and supports a large community of extensions to add enhanced functionality.  Stack Overflow",
-          "link": "https://www.freecodecamp.org/news/best-vscode-extensions/",
-          "publishedOn": "2024-01-24T22:42:52.000Z",
-          "wordCount": 3149,
-          "title": "Visual Studio Code Extensions to Boost Your Productivity in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Group-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/pygame-tutorial-build-a-bouncing-game/",
-          "author": "Juan P. Romano",
-          "description": "In this tutorial, you'll learn how to create a simple yet funny bouncing ball game using the PyGame library.  Whether you're a beginner seeking to grasp the fundamentals of game development or an enthusiast eager to explore PyGame's capabilities, this article is your guide to crafting a simple yet",
-          "link": "https://www.freecodecamp.org/news/pygame-tutorial-build-a-bouncing-game/",
-          "publishedOn": "2024-01-23T22:46:54.000Z",
-          "wordCount": 3150,
-          "title": "PyGame Tutorial – How to Build a Bouncing Ball Game",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/bouncing_ball.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/frontend-ai-guide/",
-          "author": "Mahmud Adeleye",
-          "description": "Artificial Intelligence: The New Frontier for Frontend Developers The demand for AI-powered applications is growing at a fast pace. As a front-end developer, you can take advantage of this trend and advance your career by integrating your skills in frontend development with AI technologies. This integration allows you to build",
-          "link": "https://www.freecodecamp.org/news/frontend-ai-guide/",
-          "publishedOn": "2024-01-23T22:05:41.000Z",
-          "wordCount": 2389,
-          "title": "How to Build AI Apps – A Frontend Developer's Guide",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Mojito-Cocktail-Recipe-Blog-Banner--1-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/deep-dive-into-event-driven-architecture-on-aws/",
-          "author": "Matt Morgan",
-          "description": "Event-driven architecture is a software design pattern where components or services perform actions in response to events, often asynchronously. This post serves as a companion to our video course, \"Deep Dive into Event-Driven Architecture on AWS.\" In the course, we delve into some of the core fundamentals of event-driven architecture",
-          "link": "https://www.freecodecamp.org/news/deep-dive-into-event-driven-architecture-on-aws/",
-          "publishedOn": "2024-01-23T15:03:06.000Z",
-          "wordCount": 6234,
-          "title": "Refactoring with Event-Driven Architecture on AWS",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/12/eda-title-macguffin.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/manage-state-in-react-apps-with-apis/",
-          "author": "Joan Ayebola",
-          "description": "State management is a crucial aspect of building robust and scalable React applications, especially when dealing with APIs.  As your application grows in complexity, efficiently managing the state becomes essential for a smooth user experience.  In the React ecosystem, there are several options for state management, each with",
-          "link": "https://www.freecodecamp.org/news/manage-state-in-react-apps-with-apis/",
-          "publishedOn": "2024-01-23T00:18:52.000Z",
-          "wordCount": 5903,
-          "title": "How to Manage State in React Apps with APIs – Redux, Context API, and Recoil Examples",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Ivory-and-Blue-Lavender-Aesthetic-Photo-Collage-Presentation--2-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/",
-          "author": "Isaiah Clifford Opoku",
-          "description": "Welcome to this in-depth guide on crafting a RESTful API with NestJS, Docker, Swagger, and Prisma. My goal here is to teach you how to build robust and efficient backends, regardless of whether you're a seasoned developer or a beginner just dipping your toes into the world of coding. In",
-          "link": "https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/",
-          "publishedOn": "2024-01-23T00:17:33.000Z",
-          "wordCount": 7076,
-          "title": "How to Build a CRUD REST API with NestJS, Docker, Swagger, and Prisma",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Nestjs_Free_code.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/command-line-tricks-you-can-learn-quickly/",
-          "author": "Jose Vicente Nunez",
-          "description": "In this short tutorial, I want to share with you a few tricks and tips to help you deal with some common situations when you're working in the Linux command line. We will cover the following:  * find  * xargs and nproc  * taskset  * numactl",
-          "link": "https://www.freecodecamp.org/news/command-line-tricks-you-can-learn-quickly/",
-          "publishedOn": "2024-01-22T23:15:48.000Z",
-          "wordCount": 2047,
-          "title": "Command Line Tricks You Can Learn Faster than Drinking Your Morning Coffee",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mazinger-z.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/ai-tools-to-use-in-vs-code/",
-          "author": "Ijeoma Igboagu",
-          "description": "AI tools have become quite popular recently. Developers use these tools to help generate ideas, create simple code examples, and so on.  In 2023, ChatGPT and other Large Language Models found their way into many of our toolkits. And we can use them to be more productive and save",
-          "link": "https://www.freecodecamp.org/news/ai-tools-to-use-in-vs-code/",
-          "publishedOn": "2024-01-22T19:56:13.000Z",
-          "wordCount": 3168,
-          "title": "AI Tools You Can Use in Visual Studio Code Besides GitHub Copilot",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/ai-tool-cover-.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/",
-          "author": "Beau Carnes",
-          "description": "OpenAI's Assistants API is a powerful tool that allows developers to build AI assistants within their apps efficiently. It simplifies managing conversation history and provides access to advanced features like Code Interpreter and Retrieval. The API also improves function-calling for third-party tools. We just published a course on the freeCodeCamp.org",
-          "link": "https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/",
-          "publishedOn": "2024-01-22T17:41:32.000Z",
-          "wordCount": 934,
-          "title": "Create AI Assistants with OpenAI's Assistants API",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/assistants2.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/",
-          "author": "Beau Carnes",
-          "description": "Are you fascinated by both Python and the night sky? We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to use Python to analyze and visualize astronomical Data. This course was created by Spartificial, whose mission is to provide engineering education in the most",
-          "link": "https://www.freecodecamp.org/news/learn-data-analysis-and-visualization-with-python-using-astrongomical-data/",
-          "publishedOn": "2024-01-19T19:48:58.000Z",
-          "wordCount": 963,
-          "title": "Learn Data Analysis and Visualization with Python Using Astronomical Data",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/dataanalysis.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/",
-          "author": "Abraham Dahunsi",
-          "description": "Web servers are responsible for delivering web pages and various resources to clients through the internet. They can exist either as software or hardware components. But unfortunately, they often become targets for hackers and malicious individuals seeking to exploit any vulnerabilities to compromise data and disrupt functionality. As a result,",
-          "link": "https://www.freecodecamp.org/news/secure-web-server-with-continuous-integration-using-nginx-and-circleci/",
-          "publishedOn": "2024-01-19T16:46:59.000Z",
-          "wordCount": 5447,
-          "title": "How to Secure Your Web Server with Continuous Integration Using NGINX and CircleCI",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/feature-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/getting-started-with-fpm/",
-          "author": "Jose Vicente Nunez",
-          "description": "FPM [https://fpm.readthedocs.io/en/latest/getting-started.html] is a powerful wrapper that allows you to create packages for multiple programs in multiple operating systems.  In this tutorial I will show you how you can replace some of the tedious packaging of third party applications. What You Need to Complete this Tutorial  * A",
-          "link": "https://www.freecodecamp.org/news/getting-started-with-fpm/",
-          "publishedOn": "2024-01-19T16:42:55.000Z",
-          "wordCount": 2354,
-          "title": "How to Get Started with FPM",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/mask_made_of_disposed_ammo-1.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/",
-          "author": "Okosa Leonard Onyekachukwu",
-          "description": "When you're building a coding project, the better it is, the more fun it'll be to use. And the prouder you'll be of your hard work, right?  Also, writing quality and performant code helps your program or website work as expected – which should be every developer's goal. SonarLint",
-          "link": "https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/",
-          "publishedOn": "2024-01-18T23:58:39.000Z",
-          "wordCount": 2230,
-          "title": "How to Use SonarLint to Write Cleaner Code",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/slint.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-get-a-developer-job/",
-          "author": "Beau Carnes",
-          "description": "The demand for skilled software developers continues to grow. However, for many self-taught developers, the path to securing a job in this competitive field can seem daunting. We just published a course on the freeCodeCamp.org YouTube channel that is designed to guide aspiring software engineers through the job-hunting process. Lane",
-          "link": "https://www.freecodecamp.org/news/how-to-get-a-developer-job/",
-          "publishedOn": "2024-01-18T17:58:03.000Z",
-          "wordCount": 988,
-          "title": "How to Get a Developer Job",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/job.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/models-in-django/",
-          "author": "chepkirui dorothy",
-          "description": "Django is a super useful tool for building web applications with Python. It follows the Model-View-Template (MVT) architecture, which is a popular design pattern for building web apps. In the MVT architecture, the Model refers to the internal representation of information stored, the View is responsible for processing user requests",
-          "link": "https://www.freecodecamp.org/news/models-in-django/",
-          "publishedOn": "2024-01-18T16:10:49.000Z",
-          "wordCount": 2124,
-          "title": "How to Perform CRUD Operations with Django Models",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/coding-924920.jpg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-high-performance-tab-component/",
-          "author": "Jaja Ibifubara David",
-          "description": "Tabs are more than mere UI elements – they're the backbone of user navigation and content organization in many applications. In React, crafting a tabbed component that's both efficient and responsive is not just an improvement, it's a necessity. This article takes a deep dive into constructing a React tab",
-          "link": "https://www.freecodecamp.org/news/build-a-high-performance-tab-component/",
-          "publishedOn": "2024-01-18T16:01:46.000Z",
-          "wordCount": 3690,
-          "title": "How to Build a High-Performance Tab Component in React",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/cover-image.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/",
-          "author": "Ophy Boamah",
-          "description": "Progressive Web Apps (PWAs) are simply installable web applications – websites that you can install on your device, much like you would install an app from an app store.  They bring together the best parts of using a website (easy to access, no need to install anything) with the",
-          "link": "https://www.freecodecamp.org/news/what-are-progressive-web-apps-pwa-guide/",
-          "publishedOn": "2024-01-18T15:56:46.000Z",
-          "wordCount": 2279,
-          "title": "What are Progressive Web Apps? PWA Guide for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/Essentials.png"
         }
       ]
     }
